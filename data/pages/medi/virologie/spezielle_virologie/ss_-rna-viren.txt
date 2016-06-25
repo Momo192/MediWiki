@@ -171,3 +171,55 @@
       * Nur in Gelbfieberimpfstellen da der Impfstoff nicht stabil ist d.h. muss unmittelbar vor der Impfung aus einer Virusaufschwemmung hergestellt werden
     * Impfschutz: mindestens 10 Jahre
   * **Meldepflicht**: namentlich
+
+##Togaviridia
+  * Allgemeines:
+    * ss(+)RNA
+    * Kapsidtyp: Ikosaeder mit Hülle
+    * 40-70 nm
+  * Humanpathogene Arten
+    * Gattung **Alphavirus** 
+      * Viele Arten 
+      * v.a. Enzephalitis Krankheitsbild
+    * Gattung: **Rubivirus**
+      * Art: Rubellavirus
+e
+###Rötelnvirus
+
+  * *Einteilung:*
+    * Familie: Togaviridae
+    * Gattung: Rubivirus
+    * Art: German mesasles, Rötelvirus
+      * Weltweit nur 2 Stämme
+      * 10 Genotypen
+
+####Pathogenese
+  * befällt außschließlich den Menschen
+  * *Übertragung*
+    * Tröpfcheninfektion (aerogen) oder Schmierinfektion
+      * Besonderheit: frühe Ausscheidung durch Virusinfizierte (schon 6 Tage vor auftreten der Symptome)
+    * Diaplazentar
+  * *Pathogenese*
+    * Eintritt in den Respirationstrakt -> initiale Replikation in lymphoden Gewebe des Nasopharynx -> Ausbreitung in den regionalen LK
+    * Weitere Replikationsphase führt zur Lymphadenopathie
+    * Nach 8 Stunden: Virus erscheint in Blut und wird in den Nasopharyx und im Stuhl ausgeschieden
+    * Haut wird erreicht
+      * Entwicklung typisches Exanthem
+      * Ausscheidung im Urin
+      * Infektiosität bis 7 Tage nach Abklingen des Exanthems
+
+####Symptome
+  * in 50% der Fälle asymptomatisch -> geringer Manifestationsindex
+  * *Inkubationszeit*: 14-21 Tage
+  * *Klinik bei Manifestation*
+    * Geringe Beeinträchtigung des Allgemeinzustandes
+    * Milde Prodromalsymptome
+      * Temperaturerhöhung 
+      * Rhinkonjunktivitis
+      * Kopfschmerzen
+    * Nach 5-6d: nuchale und retroaurikuläre Lymphadenopathie
+    * Nach 15d: **Effloreszenzen**
+      * makulopapulöses hellrotes Exanthem, eher nicht konfluierend, fein- bis mittelfleckig
+      * Beginn am Kopf, oft hinter den Ohren -> Übergang auf Rumpf und Extremitäten
+      * Flüchtig, Rückbildung meist innerhalb von drei Tagen
+  * *Komplikationen*

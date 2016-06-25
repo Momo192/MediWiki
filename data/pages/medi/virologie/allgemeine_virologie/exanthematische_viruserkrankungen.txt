@@ -1,0 +1,31 @@
+#Exanthematische Viruserkrankungen
+##Einteilung
+  * *Vermehrung in Hautzellen*
+    * aktiv
+      * Herpes simplex
+      * Varizella zoster
+      * Pocken
+      * Papilloma-Viren
+      * Einige Vertreter der Coxsackie-A-Viren
+    * Keine aktive Vermehrung
+      * Ablagerung von AK-Virus-Komplexen in den Kapillargefäßen -> Auslösung von Immunabwehr und EZ-Reaktion -> Hautbefund
+      * Rötelnvirus
+      * Masern
+      * Humanes Herpes Virus 5
+      * Parvovirus B19
+  * *Hautbefund*
+    * Makulopullös
+      * Röteln
+      * Parvovirus B19
+      * HHV6
+    * Pustulär: Masern
+    * Papulös
+  * *Kinderkrankheiten*
+    * Masern
+    * Scharlach
+    * Röteln
+    * Ringelröteln
+    * Drei-Tage-Fieber (Herpesviren)
+
+##Erreger
+  * [[medi:virologie:spezielle_virologie:ss_-rna-viren#roetelnvirus]]
