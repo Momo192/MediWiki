@@ -91,3 +91,29 @@
     * initial in den Kuppfer-Zellen
     * zytolytische Infektion der Hypatozyten
 **Klinik**
+  * *Inkubationszeit*: 3-6 Tage
+  * *Klinische Stadien*: Drei Phasenw erden unterschieden. Meistens verläuft die Erkrnakung asymptomatisch oder sistiert nach dem Remissionsstadium
+    * 1. Initialstadium: 
+      * Tag 3-4
+      * Plötzliches Fieber mit Kopfschmerzen und Schüttelforst
+    * 2. Remissionsphase: Rückgang des Krankheitgefühls für 1-2 Tage
+    * 3. Toxische Phase: 
+      * erneutes Fieber, Blut-erbrechen
+      * Bauchschmerzen
+      * Organbeteiligung:
+        * Ikterus durch Zerstörung der Leberzellen
+        * Schädigung der Niere: Albumin-, Zylinder- und Makrohämaturie
+        * Schädigung des Herzens:
+          * Pulsanstieg bei sinkender Körpertemperatur = *Faget-Syndrom*
+        * ZNS ist nich betroffen
+  * *Prognose*: bei erreichen der toxischen Phase zu 50% letal durch Nieren- und Leberversagen, Schock oder Delirium
+**Diagnostik**: Blutuntersuchung
+  * direkter Erregernachweis mittels PCR
+  * Serologie: AK gegen Gelbfieber
+**Therapie**: symptomatisch  
+**Prävention**
+  * **Impfung**: aktive Immunisierung
+    * Durchführung: einmalige Impfung mit dem Lebendimpfstoff
+      * Nur in Gelbfieberimpfstellen da der Impfstoff nicht stabil ist d.h. muss unmittelbar vor der Impfung aus einer Virusaufschwemmung hergestellt werden
+    * Impfschutz: mindestens 10 Jahre
+  * **Meldepflicht**: namentlich

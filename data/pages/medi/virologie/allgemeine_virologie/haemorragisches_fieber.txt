@@ -1,5 +1,40 @@
-# Hämorrhagisches Fieber
-##Erreger
+# Virales Hämorrhagisches Fieber
+
+##Definition
+  * *Hämorrhagie*: Austritt von Blut aus den Gefäßen in das umliegende Gewebe
+  * *Hämorrhagisches Fieber*: heterogene Gruppe von viralen Erkrankungen die mit hohem Fieber und einer generalisierten Blutungsneigung einhergehen
+  * *Hämorrhagisches Syndrom*: das mit der Hämorrhagie einhergehende klinisches Bild
+    * Nierenbeiteligung: HF mit renalem Syndrom
+    * Lungenbeteiligung: HF mit pulmonalem Syndrom
+
+##Ätiologie
+###Erreger
   * [[Ebola-Virus]]
   * [[:medi:virologie:spezielle_virologie:ss_-rna-viren#Dengue-Virus]]
   * [[medi:virologie:spezielle_virologie:ss_-rna-viren#gelbfieber-virus]]
+
+###Infektionsweg
+Unterschiedliche Übertragungswege
+  * Wirtstiere (z.B. Lassa-Fieber) oder Insekten
+    * Übertragung erfolgt durch direkten Kontakt (Bisse, Stiche, Verzehr), einatmen von infiziertem Staub oder Kontakt mit infizierten Materialien
+  * einige Viren werden direkt von Mensch zu Mensch übertragen
+    * durch direkten Kontakt zu Blut und anderen Körperflüssigkeiten (Cave: medizinisches Personal)
+    * Tröpfcheninfektion möglich aber eher selten
+###Verlauf der Infektion
+  * Infektion primäre Zielzellen: meist Monozyten, Makrophagen, Endothelzellen
+  * Virämie: 
+    * Ausbreitung in den ganzen Körper
+    * Speziell in Endothelzellen
+  * Freisetzung von Cytokinen und Chemokinen -> Verstärkung des EZ-Prozesses
+
+##Klinik
+  * **Frühsymptome**:
+    * Grippeähnlich
+    * Fieber (kann Fehlen)
+    * Kopf- und Muskelschmerzen
+    * Halsschmerzen
+    * Abgeschlagenheit
+    * Diarrhö (ungünstiges Zeichen)
+  * **Charakteristische Symptome**
+    * Gesteigerte Gefäßpermeabilität -> Blutdruckabfall -> Schocksyndrom
+    * Gerinnungsstörung + Zytokinsturm -> disseminierte intravasale Koagulopathie (DIC)
