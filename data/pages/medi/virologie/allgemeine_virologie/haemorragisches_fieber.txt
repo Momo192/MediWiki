@@ -12,6 +12,7 @@
   * [[Ebola-Virus]]
   * [[:medi:virologie:spezielle_virologie:ss_-rna-viren#Dengue-Virus]]
   * [[medi:virologie:spezielle_virologie:ss_-rna-viren#gelbfieber-virus]]
+  * [[medi:virologie:spezielle_virologie:ss_-_-rna-viren#hanta-virus]]
 
 ###Infektionsweg
 Unterschiedliche Übertragungswege
@@ -20,6 +21,8 @@ Unterschiedliche Übertragungswege
   * einige Viren werden direkt von Mensch zu Mensch übertragen
     * durch direkten Kontakt zu Blut und anderen Körperflüssigkeiten (Cave: medizinisches Personal)
     * Tröpfcheninfektion möglich aber eher selten
+
+
 ###Verlauf der Infektion
   * Infektion primäre Zielzellen: meist Monozyten, Makrophagen, Endothelzellen
   * Virämie: 

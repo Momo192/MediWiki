@@ -1,0 +1,101 @@
+#ss(-)-RNA-Viren
+##Bunyaviridae
+**Allgemeines**:
+  * *Klassifikation*:
+    * ss(-)-RNA: 3 Segmente
+    * Kapsid: helika
+    * Hülle
+  * *Gattungen*
+    * Umfasst sehr viele Spezies, von denen nur wenige humanpathogen sind
+    * Humanpathogene:
+      * **Orthobunyavirus**:
+        * mehr als 150 Arten oder Subtypen, die in 19 Serogruppen zusammengefasst werden, 
+        * von Bedeutung in Europa:
+          * Tahyna-Virus
+          * Inkoo-Virus
+      * **Phlebovirus**
+        * 3 Serogruppen, mehr als 45 Arten, 
+        * von Bedeutung in Europa: Pappataci-Fieber
+      * **Nairovirus** 
+        * 34 Arten, die in 6 Serogruppen untergliedert sind, 
+        * von Bedeutung in Europa: Krim-Kongo-hämorrhagisches Fieber
+      * **Hantavirus** 
+        * Von Bedeutung in Europa:
+          * Hantaan-Virus
+          * Puumula-Virus
+
+###Hanta-Virus
+###Epidemiologie
+  * Weltweit verbreitet
+    * unterschiedliche Subtypen je nach Region
+  * jährlich 300 000 Erkrankte Weltweit
+    * selten diagnostiziert -> hohe Dunkelziffer
+  * *Reservoir*: Mäuse und Ratten
+  * *Übertragung*: Ausscheidung im Urin, Kot und Speichel
+    * Aerogen durch kontaminierte Stäube 
+      * Camping, Holzsammeln
+      * Renovierung
+      * Öffnen lange verschlossener Räume
+    * Bisse von infizierten Tieren oder indirekt durch Kontakt mit Hunden und Katzen
+    * Von Mensch zu Mensch nicht beschrieben
+
+
+###Einteilung
+  * 14 Virussubtypen
+    * jedes hat einen eigenen Nager als Reservoir
+    * der Nager begrenzt das Verbreitungsgebiet
+  * **Puumala**
+    * Mittel- und Nordeuropa
+    * Nephrotica epidemica
+  * **Dobrava**
+    * Mittel- und Nordeuropa 
+    * schweres hämorrhagisches Fieber mit renalem Syndrom
+  * **Seoul**
+    * weltweit
+    * mittelschweres hämorrhagisches Fieber
+    * Überträger: Ratten
+  * **Hantaan**
+    * Südeuropa, SO Asien
+    * HFRS
+  * **Sin Nombre**
+    * USA und Kanada
+    * Überträger: Hirschmaus
+    * *HPS*: Hantapulmonales Syndrom
+
+
+###Klinik
+  * *Formen*
+    * **Hämorrhagisches Fieber mit renalem Syndrom**
+      * Erreger:
+        * Dobrava: Europa
+         * Hantaan Südostasien
+        * Seoul: Weltweit
+      * Symptome
+        * Kopf-, Glieder. Abdominalschmerzen mit Diarrhö und Erbrechen
+        * am 3-4 Tag: hämorrhgische Diathese und Progressive Oligorie (Siehe: [[medi:virologie:allgemeine_virologie:haemorragisches_fieber#virales_haemorrhagisches_fieber]])
+        * Besserung nach weiteren 3 Tagen
+    * **Nephropathia epidemica**
+      * Erreger: Puumala -> Europa (häufig in Deutschland)
+      * Überträger: Rötelmaus
+      * Im Prinzip milde Form des HFRS
+    * **HPS**
+  * *Prognose*
+    * Komplette Remission innerhalb von Wochen bis Monaten
+    * Letalität ist abhängig vom Virustyp
+      * Puumala < 1%
+      * Sin Nombre > 50%
+
+
+###Diagnostik
+  * klinisch: nur Vermutung
+  * Serologie: erregerspezifische IgM, IgG
+  * Virusanzucht und PCR nur für kurze Zeit nach Krankheitsbeginn erfolgreich
+
+###Therapie und Prophylaxe
+  * Prophylaxe:
+    * *Meldepflichtig*
+    * keine Impfung
+    * Haus von Mäusen und Ratten frei halten, nicht anfassen, kontaminierte Flächen desinfizieren
+  * Therapie
+    * nur symptomatisch
+    * in schweren Fällen: Ribacarin
