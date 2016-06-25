@@ -1,0 +1,9 @@
+# Hals
+
+Steht was über Hals, nicht aber über [[Lungen]] oder [[Füße]].
+
+Ein Querverweis zu einem Unterpunkt kann z.B. so aussheen: [[Lungen#Bronchen]]
+
+Ein Bild:
+
+{{:medi:agdkvyn_700b_v1.jpg?300|}}

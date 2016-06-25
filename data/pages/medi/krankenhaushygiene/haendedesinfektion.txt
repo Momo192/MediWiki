@@ -1,0 +1,52 @@
+#Händedesinfektion
+##Allgemeines
+Kontaminierte Hände des medizinischen Personals sind der wichtigste **Übertragungsweg** von potentiellen pathogenen Erregern von Patient zu Patient. Der Patient selbst mit seinen Erregern ist die häufigste **Quelle** für potentiell pathogene Erreger, welche nosokomiale Infektionen verursachen können.
+
+**Standardhygiene**:
+  * *Definition*: Infektionspräventive Standardmaßnahmen sind solche die grundsätzlich bei jedem Patienten, unabhänigig von der Kenntniss des Infektionsstatus, zur Vermeidung einer Übertragung von Krankheitserregern zur Anwendung kommen
+  * *Maßnahmen*
+    * Händehygiene
+    * Barrieremaßnahmen
+    * Flächendesinfektion
+    * Aufbereitung von Medizinprodukten
+    * Abfallentsorgung
+    * Betten- und Wäschehygiene
+    * Umgang mit Geschirr
+    * Aufklärung 
+
+##Indikationen
+  * *Direkte Patientenumgebung*
+    * Vor Patientenkontakt
+    * Vor einer aseptischen Tätigkeit
+      * Vor legen von Kathetern
+      * vor jeder Konnektion / Diskonnektion eines invasiven Devices
+      * Vor der Zubereitung von parenteral, intramuskulär oder subkutan zu verabreichenden Medikamenten
+      * vor der Durchführung von Injektionen
+      * vor der Intubation
+      * vor der Absaugung
+      * Vor jedem kontakt mit nicht intakter Haut oder Schleimhaut
+    * Nach Kontakt mit potentiell infektiösem Material
+  * *Erweiterte Patientenumgebung*
+    * Nach Patientenkontakt
+    * Nach Kontakt mit der unmittelbaren Patientenumgebung
+
+##Durchführung
+Nach Standardeinreibemethode für die hygienische Händedesinfektion
+  * Desinfektion in die hohlen, trockenen Hände geben
+  * Dauer über **30 Sekunden**
+  * Bewegungen
+    * Handfläche auf Handfläche reiben
+    * Rechte Handfäche über linken Handrücken reiben, dann Seitenwechsel
+    * Handfläche auf Handfläche mit verschränkten, gespreizten Fingern reiben Faustartig ineinander verschränkte Finger mit seitlicher Bewegung gegeneinander reiben
+    * Daumen der einen Hand mit Innenfläche der anderen Hand umfassen und kreisend reiben, dann Seitenwechsel
+    * Fingerkuppen der einen Hand kreisend in der Innenfläche der anderen Hand reiben, dann Seitenwechsel
+
+##Compliance
+  * Indikationsabhängig v.a. nach Kontakt mit infektuösem Material
+  * Fachdisziplin abhängig bei Ärzten, Durchschnitt 57%
+  * Risikofaktoren für Nichtbeachtung:
+    * Hohe Arbeitsdichte
+    * Intesivstation
+    * Tragen von Handschuhen oder Kitteln
+    * Berufsgruppe
+    * männliches Geschlecht

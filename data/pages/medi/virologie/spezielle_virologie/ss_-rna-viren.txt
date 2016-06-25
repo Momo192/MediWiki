@@ -1,0 +1,93 @@
+# ss(+)-RNA-Viren
+## Flavivirus
+  * Gehört zu den **Arboviren** = arthropod born viruses, welche durch Insekten übertragen werden.
+  * Eigenschaften
+    * ss(+)RNA
+    * behüllt 
+    * sphärisch
+  * Arten
+    * FSME-Virus
+    * Gelbfieber-Virus
+    * Dengue-Virus
+
+###Dengue-Virus
+
+**Synonym**: Knochenbrecherfieber  
+**Erreger**: 4 Serotypen ohne Kreuzimmunität  
+**Pathogenese**:
+  * *Infektionsweg*: Vektorübertragung
+    * Vektor: Mücken der Gattung Aedes (Aedes aegepty, Aedes alpopictus)
+    * Reservoir: Mensch
+  * Lokale Vermehrung in Makrophagen und Transport in die LK
+    * Infektion v.a. der Monocyten -> Aktivierung der T-Lymphozyten -> massive Zytokinausschüttung
+    * Induktion der Leukozyten und lymphatisches Gewebe
+  * Hämatogene Streuung (Virämie)
+    * Virusaufnahme im Darm: extrinsische Inkubationszeit: 10 Tage
+    * Infektion der Speicheldrüsen, Replikation und Übertragung
+  * Insgesamt
+    * hohe Virämie
+    * Hohe T-Zell-Aktivierung 
+    * Hoher T-Zell-Zytokinspiegel ibs. vasoaktive Mediatoren 
+    * Insgesamt AK-vermittelte Steigerung der Infektion
+**Epidemiologie**:
+  * häufigste Viruserkrankung, an der sich Touristen in tropischen Regionen infizieren
+  * 100 Mio klinisch manifeste Fälle im Jahr
+  * Vorkommen: Tropen weltweit
+    * 40% der Weltbevölkerung lebt in Aedes-Endemiegebiet
+    * Europa: Dengue-Frei
+**Klinik**
+  * **Dengue-Fieber**
+    * *Inkubationszeit*: 2 Tage bis 2 Wochen
+    * Asymptomatischer Verlauf bei > 90%der betroffenen, bei 10% fieberhafte Erkrankung
+    * **Stadium 1** (Tag 1-2): 
+      * Influenzagrippe-ähnliche Symptome: schneller Fieberanstieg, Schüttelfrost
+      * Schwere Myalgien und Atrhalgien
+    * **Stadium 2** (Tag 3-5):
+      * erneuter Fieberanstieg
+      * Makulopapulöses, Masern-ähnliches Exanthem
+      * milde hämorrhagisches Symptome:
+        * Petechien
+        * GI-Blutungen
+        * Menorrhagien
+      * **Tournique-Test** = Rumble-Leedle-Test
+        * Zur Überprüfung der Kapillarfragilittät
+        * RR-Maschette am Oberarm 10 mmHg über diastolischen Wert aufpumpen -> 5 Minuten belassen -> positiver Test = Entwicklung von Petechien
+    * **Stadium III** (nach 1 Woche)
+      * Abklingen der Symptome
+      * 1-2%: **hämorrhagisches Dengue Fieber**
+        * Schnelle Verschlechterung, hohes Fieber, 
+        * Vergrößerte Leber
+        * Aszitis
+        * hämatologische Auffälligkeiten: Thrombozytopenie, Hämatokritzunahme > 20%
+        * Haut und Organblutungen
+        * **Dengue-Schocksyndrom**: 
+          * niedriger Blutdruck, Massenblutung ins Gehirn
+          * *Letalität*: 10-40%
+      * Schwere Symptome dominant bei Sekundärinfektion mit heterologen Serotyp:
+        * Infektion mit Dengue-Virus 1 -> Entwicklung hoch spezifischer AK gegen den Virus -> Überwindung der Infektion
+        * Infektion mit Dengue-Virus 2 -> Bindung AK mit geringer Affinität -> Komplex wird von Makrophagen gebunden -> Infektion der Makrophagen
+        * Durchgemachte Dengue-Virus-Infektion prädisponiert für DHF mit einem heterologen Serotyp
+**Therapie und Prophylaxe**:
+  * kein Impfstoff
+  * keine antiviralen Mittel
+  * nur symptomatische Behandlung: 
+    * Fiebersenkung
+    * Transfusionen
+    * Heparinbehandlung
+    * Schmerzmittel
+
+### Gelbfieber-Virus
+
+**Krankheit**: Gelbfieber 
+  * *Vektoren*: Mücken der Gattung Aedes und Haemagogus 
+    * Teilweise Infektion über erkrankte Affen
+  * *Wirt*: Mensch: Stadtgelbfieber (können auch das Virus übertragen)
+**Epidemiologie**: 
+  * Gelbfieberfürtel: tropisches Afrika und Teil von Mittel- und Südamerika
+  * Frei: Asien, Australien
+**Pathogenese**:
+  * Haut: Vermehrung in Makrophagen -> Regionale LK -> Ductus thoracicus -> Virämie
+  * Leber: 
+    * initial in den Kuppfer-Zellen
+    * zytolytische Infektion der Hypatozyten
+**Klinik**

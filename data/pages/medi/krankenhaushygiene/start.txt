@@ -1,0 +1,457 @@
+#Krankenhaushygiene
+
+##Nosokomiale Infektion
+###Definitionen
+**Nach RKI**
+  * Nosokomiale Infektion
+    * durch Mikroorganismen hervorgerufen
+    * im kausalen Zusammenhang mit Krankenhausaufenthalt
+    * Unabhängig von Krankheitsymptomen
+**Nach Infektionsschutzgesetz**
+  * **Krankheitserreger**: Vermehrungsfähiges Agens oder ein sonstiges biologisch transmissibles Agens, dass bei Menschen eine Infektion oder eine übertragbare Krankheit verursachen kann
+ **Nosokomiale Infektion**
+    * Infektion mit lokalen oder systemischen Infektionszeichen als Reaktion auf Erreger / Toxine
+    * Zeitlicher Zusammenhang mit Krankenhausaufenthalt oder ambulante medizinische Maßnahme
+    * Infektion bestand nicht vorher
+  * **Sentinel-Erhebung**: epidemiologische Methode zur stichprobenartigen Erfassung
+    * Der Verbreitung bestimmter übertragbarer Krankheiten
+    * der Immunität gegenüber bestehenden übertragbaren Krankheiten
+    * in ausgewählten Bevölkerungsgruppen    
+
+==== Epidemiologie ====
+  * Prävalenz
+    * 4%
+    * in großen KH höhere Prävalenz
+    * am höhsten auf Intensivstation
+    * 700 000-800 000 Patienten pro Jahr 
+      * hoher wirtschaftlicher Schaden 
+      * Todesfälle: 15 000 - 30 000
+  * Verteilung der Krankheiten
+    * HWI: 50%
+    * Untere Atemwegsinfektionen: 25%
+      * in Intensivbereich: 60%
+    * Post-OP-Wundingfektion: 20%
+    * Sepsis: 10%
+
+==== Formen nosokomialer Infektionen ====
+
+  * **Primäre Sepsis**
+    * *Mikrobiologisch bestätigte Sepsis*
+      * Bekanntes Pathogen aus Blutkultur isoliert + Pathogen hat keine Beziehung zu INektion anderer Körperstelle
+      * Oder: mind eines der Folgenden Symptome
+        * Fieber 38°C, 
+        * schüttelfrost, 
+        * Hypotonie
+      * ein der folgenden Mikroorganismen der normalen Hauflora aus mind. 2 separaten Blutentnahmen e entnommenen Blutkulturen isoliert und keine Beziehung zu ener Infektion an anderer körperstelle
+    * *Klinische Sepsis*: Nur noch bei Kindern <12 Monate
+
+
+  * **Pneumonie**
+    * *Gewöhnliche bakterielle Pneumonie/Pilzpneumnie*
+      * Mind. 1 der folgenden Zeichen lässt sich wiederholt bei Rö-Thorax nachweisen
+        * Neues oder progressives und persistierendes Infiltrat
+        * Verdichtung
+        * Kavernenbildung
+        * Pneumatozele bei indern unter einem Jahr 
+        * Bei Patienten ohne pulmonale oder kardiale Grundkrankheit reicht 1 Rö-Thorax
+
+
+      * Und mindestens eines der folgenden
+        * Leukozytose (>12.000/mm³) pder Leukopenie (<4000/m³)
+        * Fieber >38°C ohne andere Ursache
+        * Verwirrtheit ohne andere Ursache bei Pat. >79 Jahre
+      * Und mind. Eines der folgenden
+        * Neues Auftreten von eitrigem Sputum/Trachealsekret 
+        * Veränderung des Sputums/Trachealsekrets (Farbe, Konsistenz, Geruch)
+        * Vermehrte respiratosische Sekretion
+        * Vermehrtes absaugen
+        * Neuer oder zunehmender Husten, Dyspnoe oder Tachypnie
+        * Rasselgeräusche oder bronchiale Atemgeräusch
+
+  * **Atypische Pneumonie**: Definition Für gewöhnliche plus zusätzlich eines der folgenden 
+    * Kultureller Nachweis eines Virus oder von Chlamydien in den Atemwegen
+    * Nachweis von viralem AG oder AK in Atemwegssekreten
+    * 4-facher Titeranstieg (IgG) für einen Erreger in wiederholten Serumprobem
+    * Positiver PCR für CHlamydien oder Mycoplasma
+    * Positiver Mikro-Immunfluoreszenztest (Mikro-IF( für Chlamydien
+    * Kultureller Nachweils oder Mikro-IF Test für Legionellen spp. Aus Atemwegssekret oder Gewebe
+    * Nachweis von L- penumophilla SG I AG im Urin
+    * 4-facher Ansteig des L- pneumophla AK-Titesrs auf 1>128 in weiderholten Serumproben
+
+
+  * **Symptomatische HWI**
+    * D1a: Sympt. HWI bei Patienten mit transurethralem Dauerkatheter bei Probenentnahme
+
+    * D1b: Sympt. HWI bei Patienten mit kurz vor Probenentnahme entferntem transurethralem Duaerktheter
+    * D1c: Sympt. HWI bei Patienten ohne transurethralem Dauerkatheter
+    * D2: Asympt. Bakterurie mit sekundärer Sepsis
+
+==== Erreger nosokomialer Infektionen ====
+** Community Acquired (CA)- MRSA**
+  * seid 1998 auftreten, unabhängig von KH
+  * Infektionen unabhängig von Risikopopulationen
+  * Resistenzen gegen Penicilline, Cephalosporine, Carbapeneme
+  * Pathogenitätsfaktor: Panton-Valentine-Leukuzidin-Toxin
+    * multiple, rezidivierende tiefe Abszesse
+    * Pneumonien (nekrotisierend, letaler Verlauf)
+
+** MRSA = Methicillin-resistenter Staph-aureus**
+  * *Definition*: Oxacillin-resistente Staphylococcus aureus Stämme
+    * nicht virulenter als andere Stämme
+    * Wichtigster Reservoir: Nasen-Rachen-Raum
+    * Übertragung durch Hände -> Händedesinfektion
+  * *Epidemiologie*: unterschiedliche geographische Verteilung, korreliert mit AB-Verbrauch
+  * *Risikofaktoren*
+    * Bekannte MRSA-Anamnese
+    * Patienten aus Regionen / Einrichtungen mit bekannter hoher MRSA-Prävaenz
+    * Stationärer KH-Aufenthalt > 3 Tage in den letzten 12 Monate
+    * beruflicher direkter Kontakt zu Tieren in der landwirt. Tiermast
+    * Patienten mit Kontakt zu MRSA-Trägern
+    * Mindestens 2 oder mehr folgenden
+      * chronische Pflegebedürftigkeit 
+      * AB-Therapie in den letzten 6 Monaten
+      * Katheter
+      * Dialyse
+      * Hautulcus, Gangrän, chronische Wunden usw. 
+  * *Ursachen für Verbreitung*
+    * Selektionsvorteil durch AB-Therapie und -Prophylaxe
+    * Fehlerhafte und inkonsequente Umsetzung von Hygienemaßnahmen
+    * deutliche Zunahme von Risikopatienten
+    * Zunehmen intensive/invasive Maßnahmen, mit Implantation von synthetischen Materialien
+    * Mangelnde Info der Nachfolgeeinrichtung bei Verlegung von infizierten Patienten
+    * mangelndes Bewusstsein der Rolle der Alten- und Pflegeheime als Reservoir
+  * *Maßnahmen*
+    * Patient
+      * Unterbringung: Einzelzimmer oder Kohorten-Isolierung
+      * Verlassen des Zimmers nach Händedesinfektion mit Mundschutz
+    * Zeitdauer: Isolierung bis 3 Abstriche negativ 
+      * Prädilektionsstellen
+      * ehemalige Nachweisorte
+    * Abstand der Abstrichserien: 24h 
+  * Dekolonisation:
+    * Nasen-Rachen: Mupirocin nasal
+    * Wundbehandlung: PVP.Jod
+    * Haut: Octenidin
+  * Kontaktpatienten
+    * Isolierung
+      * Analog MRSA-Patienten
+      * Verlassen des Zimmers nach HD
+    * Zeitdauer: bis vorliegen negativer Abstrichserie
+  * Personal:
+    * Direkter Kontakt: Schutzkittel, Handschuhe und Mund-/Naseneigenschutz, hygienische Händedesinfektion
+    * Ohne direkten Patientenkontakt: hygienische Händedesinfektion
+    * Screening: nicht routinemäßig
+    * MRSA-positive Mitarbeiter: patientenferner Einsatz
+  * Umgebung: von MRSA-Patient
+    * Abdall fetrennt sammeln
+    * Geschirr mit Tablett ins Zimmer, normale Aufbereitung
+    * Wäsche getrennt sammeln, normale Aufbereitung
+
+**VRE = Vancomycin-resistente Enterokokokken**
+
+**MRGN = multiresistente Gramnegative Erreger**
+  * Einteilung phänotypisch nach der Resistenz gg einzelne AB-Klassen
+    * Isolierung abhängig von Anzahl der resistenten AB-Klassen
+    * Klassifizierung der gram-negativen Stäbchen
+      * Enterobacteriae
+        * 3 MRGN: Carbapeneme sensibel
+        * 4 MRGN: resistent gegen Penicillin, Cephalosporin, Carbapenem, Fluorchinolone
+      * Pseudomonas aeroginosa
+      * Acinobacter spp
+  * Maßnahmen zur Prävention
+    * 3 MRGN: Basishygiene, kein aktives Screening
+    * 4 MRGN: Isolierung, bei Risikopopulation aktives Screening und Isolierung bis zum Befund
+
+==== Verhütung Nosokomialer Infektionen ====
+RKI hat Komission für
+  * Krankenhaushygiene und Infektionsprävention: Empfehlungen zur Prävention, zur betrieblich-organisatorischen und balich-funktionellen Hygiene
+  * Antiinfektiva, Resistenzen und Therapie
+Maßnahmen sind:
+  * Meldepflicht bei gehäuftem Auftreten, 
+  * Infektionserfassung
+    * **KISS**: Krankenhaus-Infektions-Surveillance-System
+      * Methoden: 
+        * Standardisierung: Beatmungsassoziierte Infektionsraten = NI bei Patienten mit Beatmung / Beatmungstage
+        * Stratifizierung: separate Raten je nach Art der Intensivstation
+        * Kontinuierliche vs. rotierende Surveillance
+      * Probleme
+        * Vergleiche nur valide wenn
+          * alle dieselbe Surveillance-Intensität aufwenden
+          * unterschiede in der Patientenzusammensetzung berücksichtigt werden
+          * Beobachtungsperioden genügend lang sind
+        * Am besten nur hausinterner Vergleich über die Zeit
+      * Analyse
+        * Praktischer Weg: Teams von Ärzten, Schwestern und Hygienepersonal (Qualitätszirkel)
+        * Epidemiologischer Weg: Studien -> Identifikation von Risikofaktoren -> Interventionen
+      * Kosteneffektivität
+        * Senkung der Infektionsraten
+        * vs. Aufwand für die Surveillance
+  * Daten zu Art und Umgang des AB-Verbrauches
+    * Siehe: [[Resistenzen]]
+    * **SARI**: Surveillance von AB-Anwendung und der bakteriellen Resistenzen auf Intensivstation
+      * Erfassung:
+        * Anwendungsrate von AB, auftreten von Multiresistenten Pathogenen Bakterien
+        * AB-Empfindlichkeit ausgewählter Mikroorganismen
+        * AB-Anwendung
+Verhinderung der Entwicklung von antimikrobiellen Resistenzen
+  * Unterbrechung der Infektionskette. Siehe 
+  * Reserve AB nur wenn nötig
+  * Keine Behandlung bei strittiger Indikation
+  * keine Behandlung der Kolonisation
+  * Gezielte Therapie
+  * Entfernung von iv-Kathetern
+  * Impfungen
+
+**Praktische Maßnahmen zur Verhinderung nosokomialer Infektionen**
+  * [[Händedesinfektion]]
+  * [[Persönliche Schutzausrüstung (PSA)]]
+  * [[Isolierungsmaßnahmen]]
+
+##Desinfektion
+###Allgemeines
+**Definition**: Einen Gegenstand in einen Zustand versetzen, in dem er nicht mehr infizieren kann. Selektive Verminderung der Keimzahl mit dem Ziel, die Übertragung bestimmter Mikroorganismen zu verhindern.
+**Flächendesinfektion**
+  * unbelebte Flächen sind als Wuellen nosokomialer Infektionen nachrangig
+  * Unterscheidung in: *Patientennahe Flächen* (Flächen mit häufigem Kontakt zum Patienten) und *Patientenferne Flächen*
+  * Resistenzen
+    * AB-resistente Mikroorganismen unterscheiden sich hinsichtlich ihrer Wachstumsbedingungen, ihrer Tenazität und ihrem Verhalten gegenüber ordnungsgemäß durchgeführten  Desinfektionsverfahren im Umfeld nicht von anderen Mikroorganismen
+    * Vergleich Chemotherapie und Desinfektion
+      * *Desinfektion*: 
+        * unspezifischer Wirkmechanismus
+        * Hohe Anwendungskonzentration
+        * Resistenzsteigerung: Gering, natürliche Resistenz, Modifikation
+      * *Chemotherapie*:
+        * Spezifischer Wirkmechanismus
+        * Geringe Anwendungskonzentration
+        * hohe Resistenzsteigerung durch erworbene Resistenzen und Mutationen
+  * *Bereichseinteilung*
+    * Bereiche ohne Infektionsrisiko: Flächenreinigung
+    * Bereiche mit möglichem Infektionsrisiko: 
+      * Flächen mit häufigem Hautkontakt: Desindektion
+      * Rest: Reinigung
+    * Bereiche mit besonderem Infektionsrisiko: Desinfektion
+    * Bereiche mit Paitenten, die Ereger in oder an sich Tragen -> 3. Bereich
+
+###Substanzen
+  * **Alkohole**
+    * Präparate:
+      * n-Propanol 50-60%
+      * iso-Propanol 60-70%
+      * Ethanol 80%
+    * Wirkungsmechanismus: 
+      * Proteindenaturierung
+      * Lösung von Lipoiden
+    * Einsatzbereich: 
+      * Haut
+      * Hände
+      * keine größeren Flächen
+    * Begrenzungen
+      * nicht oder nur ungenügend wirksame gegen Sporen, unbehüllte VIren, 
+      * hoher Eiweißfehler
+      * gute Hautverträglichkeit
+  * **Aldehyde**
+    * Präparate
+      * Formaldehyd
+      * Glutaraldehyd
+      * Glyoxal
+    * Wirkungsmechanismus: Reaktion mit Proteinen und Nukleinsäuren
+    * Einsatzbereich
+      * Instrumente
+      * Flächen
+      * Raumluft
+    * Eigenschaften
+      * hoher Eiweißfehler
+      * Hautverträglichkeit: gering, Allergien
+  * **Phenole**
+    * Wirkmechanismus:
+      * Protoplasmagift
+      * Zellmembran, Enzymhemmung
+    * Einsatzbereich:
+      * Ausscheidungen
+      * Flächen
+      * Instrumente
+      * Wäsche
+    * Eigenschaften
+      * nicht oder nur ungenügend wirksam gegen Sporen und unbehüllte Viren
+      * Eiweißfehler: sehr gering
+      * Hautverträglichkeit: mäßig
+  * **Oxidantien**
+    * Substanzen
+      * Ozon
+      * H2o2
+      * Persäuren
+      * KMnO4
+    * Wirkmechanismus: unspezifische Oxidation an Enzymen und Nukleinsäuren
+    * Einsatzbereich: Instrumente, Flächen, thermolabile Materialien
+    * Eigenschaften
+      * Eiweißfehler: mäßig
+      * Hautverträglichkeit: mäßig
+  * **Halogene**
+    * Präparate
+      * Cl2
+      * CIo2
+      * Chloramin
+      * NaOCl
+    * Wirkmechanismen:
+      * Enzymhemmung
+      * Oxidantien
+    * Einsatzbereich: Wasser, Flächen, Wäsche, Ausscheidung
+    * Eigenschaften
+      * hoher Eiweißfehler
+      * gute Hautverträglichkeit
+  * Metalle und ihre Salze: Hg, Ag
+    * Mechanismen: SH-Gruppen von Enzymen
+  * **Quartäre Verbindungen**:
+    * QAV, Inverstreifen
+    * Wirkmechanismus: Zytoplasmamembran, Proteindenatorierung
+    * Einsatzbereich: Flächen
+    * Eigenschaften
+      * Nicht oder nur ungenügend wirksam gegen Sporen, unbehüllte Viren, gram-negative Bakterien
+      * Eiweißfehler: hoch
+      * Hautverträglichkeit: gut
+
+###Krankheitserreger
+**Meldepflichtige Nachweise von Erregern**
+  * Namentlich:
+    * Adenoviren
+    * Legionella spp.
+    * Richinela spiralis
+    * Vibrio cholera
+    * Yersinia pestis
+    * Erreger hämorrhafisches Fieber
+    * nicht genannte Erreger bei örtlicher und zeitlicher Häufung mit schwerwiegender Gefahr für die Allgemeinheit
+  * Nicht-namentlich
+    * Treponema pallidum
+    * HIV
+    * Echinococcus
+    * Plasmodium
+    * Toxoplasmagondii (nur konatal)
+
+**Legionellen**
+  * *Vorkommen*: Warmwasserbereich und raumlufttechnischen RLT Anlagen
+  * *Epi*
+    * 4% aller Pneumonien
+    * 21 000 im Jahr
+  * Klinsiches Bild
+    * **Legionärskrankkheit**
+      * Pneumonie
+      * Letalität 12-20%
+      * Inkubationszeit: 2-10 Tage
+      * Endokarditis,Septikämien, Wundinfektionen
+    * **Pontiacfieber**
+      * Krankheitsbild: hohes Fieber
+      * Inkubationszeit: 1-3 Tage
+      * Weitere Organe: -
+  * *Prädisposition*
+    * Immunsuppression
+    * Raucher, Alkoholiker, Männer, Alter
+  * *Therapie*: Fluorchinolone
+
+###Desinfektionsmittel-Einsatz im Trinkwasserbereich
+**Desinfektionsverfahren**
+  * **Natriumhypochlorit**/ Chlor / Chlordioxide
+    * Richtwerte für Chlorung:
+      * Trinkwasser: 0,1-0,3 ppm freies Chlor
+      * Badewasser: 0,3-0,6 ppm freies Chlor
+  * **UV-Strahlung**
+    * *Anwendung*
+      * Trinkwasser
+      * nur für glatte Oberflächen
+      * Keimzahlverminderung in der Raumluft
+      * Sterile Werkbänke
+    * *Nachteile*
+      * Geringe Eindringtiefe (Objektabstand)
+      * Ozonbildung
+      * Photoreaktivierung
+      * Reflexion
+  * Ozon
+  * Ultrafiltration
+**Grenzwerte für Wasser**
+  * Frei von Krankheitserregern -> Grenzwerte
+    * E. coli: nicht in 100 ml
+    * coliforfme Keime: nicht in 100 ml
+    * Enterokokken: nicht in 100 mL
+  * Grenzwerte: Kolonienzahl < 100/mL bei 20°C
+
+##Sterilisation
+*Definition*: Eliminierung (Beseitigung, Abtötung) aller Mikroorganismen und Inaktivierung von Viren und Prionen, die sich in oder an einem Produkt oder Gegenstand befindet
+###Verfahren
+**Physikalisch**
+  * **Hitze**: 
+    * Einflussfaktoren für die Hitzeabtötung von Mikroorganismen
+      * Art der vorhandenen Mikroorganismen
+      * Deren Funktionszustand
+      * Ausgangskeimzahl
+      * angestrebten Endzustand
+      * Umgebungsbedingungen
+      * Temperatur
+      * Behandelungszeit bei Letaltemperatur
+    * Kinetik: 
+      * abhängig von N0
+      * k.t = ln (N= / N)
+        * k= Reaktionskonstante
+        * t = Dauer der Temperatureinwirkung
+        * N: Anzahl überlebender Bakterien
+      * **D-Wert** = dezimale Reduktionszeit: Die Ausgangskeimzahl wird in dieser Zeit um eine Zehnerpotenz herabgesettzt -> Abtötungsquote von 90%
+    * Trockene Hitze:
+      * Abflammen
+      * Heisluftsteriisator -> Abtötung verschiedener Bakterien
+        * Richtwerte: 
+          * 180°: 30 Minuten
+          * 200°: 10 Minuten
+        * Überprüfung auf Wirksamkeit
+          * Native Erdsporen
+          * Bioindikator: Bacilais stearothermophilus
+          * Thermoelektrische Messung im Sterelisationsgut
+          * Watte Verfärbung organischer Substanzen
+          * Farbindikatoren
+      * Feuchte Hitze
+        * **Hitzeresistenzstufen** für feuchte Hitze:
+          *  gibt Auskunft darüber, welche Mikroorganismen unter welchen Temperaturbedingungen wie lange überleben können. Um eine einheitliche Betrachtungsweise zu gewährleisten, wurden die sogenannten Hitzeresistenzstufen eingeführt, da sich herausgestellt hat, dass einzelne Mikroorganismengruppen recht unterschiedliche Resistenz gegenüber Hitze zeigen.
+        * Strömender Dampf + bakterizide Chemikalien
+          * strömender Dampf. bei 760 mmHg = 1at -> 1°C
+          * Gespannter Dampf: Druck > 1 at> 100°C
+          * Wassertemperatur ist abhängig vom Druck
+        * **Tyndallisation**: fraktionniertes Erhitzen von 70-110° für 2-4mal
+          * dazwischen 16-24h Auskeimungszeit
+        * **Autoklavieren**
+          * Richtwerte: 121°c, 2ar: 30 Minuten
+          * Richtwert: 134°C 3at 10 Minuten
+          * nur die Zeit bei maximaler Temperatur ist die Abtötungszeit
+            * Anheizzeit
+            * Ausgleichszeit
+            * Abtötungszeit
+            * Abklingzeit
+    * **Ionisierende Strahlen**
+      * Elektronenstrahlen (ß-Strahlen)
+      * elektromagnetische Wellen (Röntgen, gamma-Strahlen)
+    * **Filtration**
+      * Verfahren
+        * Flächenfilter (Sieb)
+        * Tiefenfilter (Absorption)
+      * Luftbelastung: 
+        * unbelebte Partikel: 10⁵-10⁶ / m³
+        * Mikroorganismen: 100-500/ m³
+        * Reinheitsklassen: Nach DIN und VDI nach ANzahl der max Partikelzahl und Maximalen Anzahl der Mikroorganismen
+        * Einflussfaktoren: Porenweite, Durchflussrate, Ausgangskeimzahl
+      * Filtertypen:
+        * EU3/4: Feinstaubfilter: geringe Asnsprüche
+        * Hochwertige Feinstaubfilter
+          * EU5: Schulen, Kaufhäuser
+          * EU7: Krankenpflegeräume und Büros
+          * EU8-9: Arzneimittelherstellung
+  * **Chemische Sterilisation**
+    * **Mikrobizides Gas**
+      * *Ethylenoxidbegasung*
+        * Eigenschaften:
+          * löslich in Wasser, Aceton Methanol und Blut
+          * Toxizität:
+            * Krebserzeugend
+            * Tödlich 100 mg EO/l Atemluft
+            * Toleranzgrenze: 0,6-6 mg EO/L über 60 Minuten
+        * Verfahren
+          * Unterdruck: Kartuschengassterelisation
+          * Überdruck: Druckkammerverfahren
+          * Notwendigkeit der Desorption -> Ausgaszeit + Prüfung der Geräte durch bioindikator
+      * *Plasmasterilisation H2O2*
+        * 
