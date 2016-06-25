@@ -10,6 +10,60 @@
     * Gelbfieber-Virus
     * Dengue-Virus
 
+###FSME-Virus
+**Virus**:
+  * Erreger der Frühsommer-Meningoenzephalitis
+  * Hülle: Homodimere E-Protein -> Absorption
+  * ikosaedrisches Kapsid: C-Protein
+**Epidemiologie**:
+  * *Verbreitung*: Zentral- und Osteuropa, sowie Russland
+  * *Reservoir*: Kleinnager
+  * *Übertragung*: 
+    * infizierte Zecken 
+      * Ixodes ricinus = Holzbock: Subtyp I
+        * v.a. in Mittel und Osteuropa
+        * in Deutschland: Risikogebiete im Süden
+        * v.a. in Funi/Juli und September/Oktober
+      * Ixodes persulcatus = Taiga-Zecke: Subtyp 2-3
+        * v.a. in Russland
+    * infizierte Milch
+**Pathogenese**:
+  * Zeckenbiss: Inokulation in die Haut -> lokale Vermehrung -> regionale LK -> Ductus thoracicus
+  * Blutkreislauf
+    * 1. Virämie: Infektion von extraneuralen Organen
+    * 2. Virämie: Befall von Meningen und Gehirn
+      * über Infektion zerebraler Endothelzellen
+      * ZNS-Infektion: 
+        * menigeale und perivaskuläre EZ-Reaktion
+        * Neurale Degeneration
+        * Gliaknötchen
+        * Besonders empfindlich: Nervenzellen der Vorderhörner des RM
+**Klinik**:
+  * bei 70-90% der infizierten: asymptomatischer Veraluf
+  * *Biphasischer Verlauf*
+    * 1. Phase: 
+      * grippeähnliche Symptome 
+      * Dauer: 1 Woche
+    * Fieberfreies Intervall
+      * Ausheilung bei 2/3 der Patienten
+      * Dauer 1 Woche
+    * 2. Phase:
+      * 1/3 der Patienten
+      * erneuter Temparturanstieg mit Meningoenzephalitis
+        * bei Kindern: Ausheilung ohne Spätfolgen
+        * Erwachsene: Somnolenz, Psychosen bis Koma
+  * *Prognose*
+    * *Letalität*: 1,5% bei schweren Verläufen
+    * *Risiduen*: 
+      * 20% nach 2. Phase
+      * paralytische Erscheinungen v.a. in oberen Extremitäten v.a. be Erwachsenen
+**Therapie**: symptomatisch  
+**Impfung**:
+  * STIKO empfielt nur für Personenm die in den Risikogebieten leben, reisen oder beruflich gefährdet sind (Laborpersonal, Forstarbeiter usw.)
+  * AKtive Immunisierung mit inaktiven Erregern (Totimpfstoff)
+    * insgesamt 4. Impfdosen, Auffrischungsimpfung alle 3-5 Jahre
+
+
 ###Dengue-Virus
 
 **Synonym**: Knochenbrecherfieber  
