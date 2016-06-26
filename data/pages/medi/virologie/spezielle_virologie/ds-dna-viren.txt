@@ -1,0 +1,14 @@
+#ds-DNA-Viren
+##Herpes-Viren
+### humanes Herpes Virus 6
+  * *Allgemein Eigenschaften*
+    * Auslöser vom Exanthema subitum = Dreitage-Fieber
+    * Mensch als einziger Wird
+    * Übertragungsweg: Tröpfcheninfektion
+    * Inkubationszeit: 5-15 Tage
+  * **Exanthema subitum**
+    * *Symptome*
+      * initial plötzlicher Temperaturanstieg mit hohem Fieber über 3 Tage
+        * gehäuftes Auftreten von Fieberkrämpfen
+      * Anschließend abrupter Abfall der Temperatur mit Ausbildung eines sich rasch ausbreitenden, feinfleckigen, makulösenm stammbetonten Exanthems
+        * oft nur wenige Stunden bis max. 3 Tage zu sehen

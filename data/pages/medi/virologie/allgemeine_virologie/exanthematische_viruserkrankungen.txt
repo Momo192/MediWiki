@@ -31,3 +31,5 @@
   * [[medi:virologie:spezielle_virologie:ss_-rna-viren#roetelnvirus]]
   * [[medi:virologie:spezielle_virologie:ssdna-viran#humanes_parvovirus_b19]]
   * [[medi:virologie:spezielle_virologie:ss_-_-rna-viren#masernvirus]]
+  * [[medi:virologie:spezielle_virologie:ss_-rna-viren#cocksackie-viren-a]]
+  * [[medi:virologie:spezielle_virologie:ds-dna-viren#humanes_herpes_virus_6]]

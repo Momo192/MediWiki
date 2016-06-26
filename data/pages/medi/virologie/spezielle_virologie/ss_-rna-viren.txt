@@ -274,3 +274,118 @@ e
       * ggf. passive Immunisierung bis zur 18 SSW. innerholb von 72 Stunden nach Kontakt der Mutter mit Röteln
       * Empfehlung zur Interuptio: bei Nachweis mütterlicher Infektion bis 12 SSW
       * namentliche Meldepflicht
+
+##Picornavirus
+###Allgemeines
+  * ss(+)-RNA-Viren, ikosaedrisch, ohne Hülle
+  * 9 Gattungen mit unterschiedlichen Merkmalen
+    * Humanpathogen oder Tierpathogen
+    * Erkrankungsform
+    * Säurestabilität
+  * Einteilung
+    * Enteroviren
+    * HAV
+    * Rhinoviren
+  * *Verlauf der Genomreplikation*
+    * 1 einziges Lesearster -> Übersetzung in 1 großes Polyprotein
+    * Unmittelbar nach Bildung Spaltung durch autokatalytische Protease in strukturelle und nicht strukturelle Proteine
+      * Strukturelle Proteine: virale Kapsidproteine VP1-4 -> Untereinheiten bilden ein ikosaedrisches Pepsid
+      * Nicht-strukturelle Proteine
+        * 2A, 3C: proteolytische Spaltung des Polyproteins
+        * 3D: RNA-abhänigige RNA-Polymerase
+    * von genomischer NRA werden antigenomische RNA-Moleküle geschrieben -> Matrize für die Synthese von neuen Virusgenomen
+    * Freisetzung durch Zelllyse
+
+###Enteroviren
+  * *Einteilung*
+    * Coxsackie A und B-Virus
+    * Echo-Viren
+    * Polio-Viren
+    * weitere Enteroviren
+
+####Poliovirus
+#####Erreger
+  * Erreger der *Poliomyelitis anterior acuta* = Kinderlähmung
+  * Weltweit 3 Serotypen: I, II und 3 ohne Kreuzimmunität
+  * *Übertragung*: fäkal-oral
+    * Schmutz- und Schmierinfektion
+    * Trinkwasser, kontaminierte Lebensmittel
+#####Epidemiologie:
+
+####Cocksackie-Viren-A
+  * *Übertragung*: Tröpfchen- oder Schmierinfektion
+  * *Auslöser von*
+    * **Herpangina**
+      * *Epidemiologie*
+        * Kleinkinder
+        * Sommermonate
+      * *Symptome*
+        * *Allgemein*: plötzlich einsetzendes hohes Fieber mit Rachen-EZ und GI-Beschwerden
+        * *Lokalbefund*:herpetiformes Enanthem der Mundschleimhaut welches sich nach 10-14 Tagen zurück bildet
+          * Typischerweise: multiple kleine Blässchen mit rotem Hof im Breich des Weichen Gaumens, der Tonsillen und der Uvula
+    * **Hand-Mund-Fuß-Krankheit**
+      * Makulopapulöses Exanthem:
+        * Blässchen an Handinnenflächen, Fußsohlen und Mundschleimhaut
+      * Stomatitis: Enanthem mit schmerzhaften, erodierten und teils ulzerierenden, firbinbedeckten Blässchen (Aphten)
+      * Narbenlose Ausheilung innerhalb von 2 Wochen
+
+##Coronaviridae
+###Allgemeines
+  * *Aufbau*
+    * ss(+)-RNA
+    * Kapsid mit hülle
+    * Proof-Reading-System
+  * *Gattungen*
+    * Coronavirus
+      * α-Coronavirus
+      * β-Coronavirus: u.a.a SARS-CoV
+    * Torovirus: v.a. Tierpathogen
+  * *Pathogenese*
+    * Übertragung: Fäkal-oral und durch Aerosole
+    * Befall des Dlimmerepithels des Respirationstraktes -> Lähmung der Zilienbewegung
+
+
+###Klinik
+####Leichte Infektionen der oberen Atemwege und des GI-Traktes
+  * *Epidemiologie*
+    * v.a. bei Erwachsenen in den Wintermonaten
+    * 10-15% der Erkältungskrankheiten
+    * Inkubationszeit: 3d
+  * Klinik
+    * Rhinitis mit Fiber, Kopfschmerzen und Husten
+    * evtl. Fieber
+    * Selten: Pneumonie oder Pleuritiden
+
+
+####Schwere akute Atemwegsinfektion
+  * *Erreger*: β-Coronaviren SARS CoV
+    * vermutlich zoonotische Infektion
+      * Übertragung von Mensch zu Mensch auch beschrieben
+    * Reservoir: Wahrscheinlich Fledermäuse
+  * **SARS = Severe acute respiratory syndrom**
+    * *Inkubationszeit*: 2-10 Tage
+    * *Klinik*: 
+      * trockener Husten, Fieber, LK-Schwellung: schnell einsetzend und Influenza-ähnlich
+      * Myalgien und Atemnot
+      * nach 1 Woche
+        * Schwere Lungen-EZ
+        * Herzinfarkt
+        * Nierenversagen bis hin zum Multiorganversagen
+    * *Prognose*
+      * Letalität: 11%
+    * **Pandemie**: 2002-2003
+      * Eindämmung
+        * Isolierung, Quarantäne
+        * Einreiseverbot und Reisebschränkungen, Kontrolle an Flughäfen
+        * offene und aktuelle Informationspolitik
+        * Identifikation und Genomsequenzierung des Erregers -> Entwicklung eines schnellen diagnostischen Testsystems
+      * Weiterer Grund: Schnelle Anpassung des Virus an den Menschen -> Abnahm der Virulenz
+      * Folge: Gründung **ECDC** = European center for disease control
+
+####MERS = middle east respiratory syndrom
+  * *Erreger*: MERS-CoV
+  * *Klinik*
+    * akutes respiratorisches Syndrom mit tödlichem Ausgang
+    * Schwere Pneumonien
+    * Teils akutes Nierenversagen
+
