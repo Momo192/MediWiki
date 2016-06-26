@@ -1,0 +1,61 @@
+#Mittelohr
+##Trauma
+###Zentrale Trommelfellperforation
+####Ursachen
+
+  * Traumatisch bei guter Belüftung: perforierende Gegenstände
+  * Traumatisch begünstigt durch chron. Belüftungsstörung
+    * (Begünstigung auch indirekter Verletzungen z.B. durch Aufschlagen auf Wasser)
+
+####Klinik
+
+  * Zentrale Perforation
+  * Randstänsige Perforation(meist bei Einreißen bei Felsenbeinfraktur)
+  * Potenzielle Gehörknöchelchenkettenluxation und oder Innenohrtaubheit
+  * Initial blutige Otorrhoe möglich 
+
+
+####Diagnostik 
+
+ - Tympanogramm nicht möglich, da dafür ein intaktes Trommelfell benötigt wird 
+ - Impedanzaudiometrie →  Tympanometrie (Fragestellung nach Gehörknöchelchen Luxation)
+ - Messung des Mittelohrdrucks
+    - In äußeren Gehörgnag wird spezielle Messsonde engeführt, die den Gehörgang abdichtet
+    - Gemessen wird der am Trommelfel reflektierte Anteil de Schalls unter verschiedenen Drücken und ab welchem Druck Luft über die Tuba eustaschii entweicht (normal >250Pa)
+
+###Felsenbeinfraktur
+####Ursache
+Schädel-Hirn-Trauma →  bei 6-8% entsteht auch Felsenbeinfraktur
+
+####Einteilung: 
+
+  * **Längsfraktur** 85%
+    * *Lokalisation*: Entlang der Pyramidenkante
+    * *Schwerhörigkeit*: Gehörknöchelchenluxation -> Schlleitungsschwerhörigkeit
+      * Labyrinth und Cochlea intakt
+    **Klinik*
+      * Blutung aus dem Gehörgang
+      * Bei Durazerreißung: Otoliquorrhö (selten)
+        * Wenn der Bruch durch das Tectum tympani und die dura zieht
+        * keine sofortige Handlungsindikation da in sterilen Raum herin
+      * periphere Faszialisparese (ca. 20%)
+        * *Frühparese* durch Zerreißen des N. facialis ohne Heilung
+        * *Spätparese* nach einigen Tagen durch Hämatom im Fazialiskanal 
+          * gutartiger Leistungsblock
+          * mit 90% Spontanheilungsrate
+    * *Otoskopie*: Trommelfellriss 
+
+  * **Querfraktur** (11%)
+    * *Lokalisation* : Fraktur geht über Pyramidenkante
+    * *Schwerhörigkeit*
+      * Aussfall des Labyrinths
+        * Scahllempfindungsschaden
+        * Schwindel, Übelkeit und Spontannystagmus
+    * *Klinik*
+      * Facialisparese 88%
+      * Hämatotympanon 50% (Blut in der Paukenhöhle)
+      * Liquortympanon 35%
+      * *Selten*: Trommelfelldefekt, Gehörgangsdefekt (Stufe), Kettenluxation
+    * Otoskopie
+      * intaktes Trommelfell
+      * dunkelblau erscheinendes Trommelfell als Hinweis auf ein Hämatotympanum
