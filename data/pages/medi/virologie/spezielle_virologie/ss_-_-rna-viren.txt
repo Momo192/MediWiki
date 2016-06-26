@@ -25,7 +25,7 @@
           * Puumula-Virus
 
 ###Hanta-Virus
-###Epidemiologie
+####Epidemiologie
   * Weltweit verbreitet
     * unterschiedliche Subtypen je nach Region
   * jährlich 300 000 Erkrankte Weltweit
@@ -40,7 +40,7 @@
     * Von Mensch zu Mensch nicht beschrieben
 
 
-###Einteilung
+####Einteilung
   * 14 Virussubtypen
     * jedes hat einen eigenen Nager als Reservoir
     * der Nager begrenzt das Verbreitungsgebiet
@@ -63,7 +63,7 @@
     * *HPS*: Hantapulmonales Syndrom
 
 
-###Klinik
+####Klinik
   * *Formen*
     * **Hämorrhagisches Fieber mit renalem Syndrom**
       * Erreger:
@@ -86,12 +86,12 @@
       * Sin Nombre > 50%
 
 
-###Diagnostik
+####Diagnostik
   * klinisch: nur Vermutung
   * Serologie: erregerspezifische IgM, IgG
   * Virusanzucht und PCR nur für kurze Zeit nach Krankheitsbeginn erfolgreich
 
-###Therapie und Prophylaxe
+####Therapie und Prophylaxe
   * Prophylaxe:
     * *Meldepflichtig*
     * keine Impfung
@@ -123,3 +123,74 @@
 
 ###Masernvirus
 
+####Eigenschaften
+  * lineare ss(-)-RNA
+  * *Übertragung* 
+    * Mensch ist der einzige Wirt
+    * Tröpfcheninfektion
+    * Hohe Kontagiosität = Ansteckungskraft eines Erregers
+  * *Pathogenese*
+    * Eintritt in den Nasen-Rachen-Raum mit geringer initialer Replikation
+      * Ausbreitung in den Bronchialbaum
+      * Schädigung des Flimmerepithels begünstigt Superinfektion
+      * Lymphotroph: Infektion von Makrophagen -> Transport in LK
+    * Regionale LK: Replikationsphase mit Lymphopenie und Defiziten des IS -> Virämie
+    * Hämatogene Aussaht: Befall der Zielorgane Haut und Obere Atemwege
+    * Vermehrung in vielen Organen
+
+####Symptome und Klinik
+  * *Inkubationszeit*;
+    * 8-10 Tage bis Prodromie
+    * 12-15 Tage bis Auftreten des Exanthems
+    * Manifestationsindex:95-98%
+  * *Prodromalstadium* = **Katarrhalisches Vorstadium**
+    * Schnupfen, bellender Husten, Fieber 
+    * Konjunktivitis, Lichtscheu
+    * Nach ca. 3 Tage Enanthem in der Mundhöhle mit **Koplik-Flecken**
+      * "kalkartuge Spritzer" an der Wangenschleimhaut 
+      * beidseits gegenüber den Molaren
+      * Pathognomischer Befund
+  * **Exanthemstadium**
+    * hohes Fieber, schweres Krankheitsgefühl
+    * makulopapulöses, großfleckiges Exanthem
+      * häufig retroarikuärer Beginn
+  * Zweigipfliges Fieber: kurzzeitige Entfieberung beim Übergang vom Prodromalstadium in das Exanthemstadium
+
+####Komplikationen
+  * Organbeteiligung:
+    * Virale Riesenzellpneumonie
+    * **Masern-Enzepahlitis**;
+      * akute postinfektiöse Form: 
+        * durch Autoimmunreaktion gegen Neuralgewebe
+        * Letalität: 25%
+    * **Akute, regressive Form**: selten Komplikation bei Patienten mit eingeschränkter Immunkompetenz
+    * oft bleibende neurologische Schäden
+  * Bakterielle Superinfektion: 
+    * Otitis media
+    * Pneumonie
+  * **Subakute sklerosierende Panenzeophalitis (SSPE)**
+    * *Definition*: bei dieser slow-virus-infection handelt es sich um eine Spätkomplikation (Monate oder Jahre nach der Infektion, im Durchschnitt 7 Jahre) die sich in einer demyelinisierenden, generalisierten EZ des Gehirns manifestiert und immer letalt ändet
+    * *Epidemiologie*
+      * betrigfft nur Kinder und Jugendliche
+      * 1:10 000
+      * v.a. Jungen im Alter von 8-11 Jahre
+    * *Klinik*
+      * Demenz und Persönlichkeitsveränderungen
+      * Epilepsie und Myoklonien
+      * Dezerbrationssyndrom
+
+####Prognose
+  * Unkomplitzierter Verlauf:
+    * Entwicklungsländer: 25% durch sekundäre Bakterielle Infektionen
+    * Industrieländer: 0,3%
+  * Bei Immunsuppression: 30%
+
+####Prävention
+  * *Impfstoff*: attenuierter Lebendimpfstoff in Kombination mit Mumps, Röteln und Varizellen
+  * *Grundimmunisierung*: 2 Impunfgen im Kindesalter:
+    * 1. Impfung nach 11-14 Monate
+    * 2. impfung bis zur Einschulung
+  * *Postexposiiotnsprophylaxe*
+    * bis 3 Tage nach kontakt möglich
+    * Bei Immunkompetenten: einmal aktive Immunisierung
+    * Immundefiziente: passive Immunisierung mit IgG
