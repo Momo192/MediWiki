@@ -227,3 +227,50 @@ e
     * Späteinsetzende Enzephalitis (PRPE = Progressive Rubellapanenzephalitis)
 
 ####Röteln-Embryopathie
+  * **Risiko einer transplazentaren Übertragung bei Röteln-Infektion der Mutter**
+    * Bis 10. SSW: bis 50%
+    * zw. 10-17 SSW: 10-20%
+    * ab 18 SSW: geringes Risiko
+  * **Klinik**
+
+    * **Rötelnembryopathie**: Infektion im 1. Trimenon
+      * 1.-4 SSW: Abort
+      * **Gregg-Trias**:
+        * Innenohtaubheit
+        * Katarakt
+        * Fallot-Tetralogie
+      * Weitere Symptome
+        * Allgemein
+          * geringes Geburtsgewicht
+          * offene vordere Fontanele
+          * Wachstumsretardierung
+        * Weiterhin können betroffen sein:
+          * Innere Organe
+          * Zähne, Skelett-Muskulatur
+          * ZNS
+        * Erweitertes Rötelsyndrom:
+          * geistige Reardierung
+          * geringes Geburtsgewicht
+          * Minderwuchs
+          * Encephalitis
+          * Hepatosplenomegalie
+          * Pneumonie
+          * Thrombozytopenie
+        * Nach 12. SSW i.d.R. nur Ohr betroffen
+    * **Rötelninfetopathie**: Infektion nach dem 1. Trimenon
+      * Hepatitis, Splenomegalie
+      * Hämolytische Anämie, Thrombozytopenie
+      * Symptome bilden sich i.d.R. Zurück
+  * **Prävention**
+      * Immunität: Impfung oder durchgemachte Erkrankung
+        * Impfung: 
+          * 1. Immunisierung im 15. Lebensmonat, 2. mit 12 Jahren, unabhängig vom Geschlecht
+          * Aktiv mit Lebend- oder Totimpfstoff
+      * Standardmäßiger Hämagglutinin-Test 
+        * keine AK Nachweisbar bei 10% der Frauen
+        * Immunität bei IgG-Titer von > 1:32
+  * **Therapie**
+      * keine aktive Immunisierung wenn die Möglichkeit einer Schwangerschaft besteht
+      * ggf. passive Immunisierung bis zur 18 SSW. innerholb von 72 Stunden nach Kontakt der Mutter mit Röteln
+      * Empfehlung zur Interuptio: bei Nachweis mütterlicher Infektion bis 12 SSW
+      * namentliche Meldepflicht

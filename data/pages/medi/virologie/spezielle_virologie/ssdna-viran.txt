@@ -1,0 +1,33 @@
+#ssDNA-Viren
+##Parvoviridae
+###Allgemeines
+  * *Eigenschaften*
+    * lineare ssDNA (Plus- oder Minusstrang)
+    * Kapsidtyp: Ikosaeder, keine Hülle
+    * Virusgröße: 18-26 nm
+  * *Gattungen*: Erythrovirus mit dem Parvovirus B19
+
+###Humanes Parvovirus B19
+
+###Erreger
+  * *Erreger* von
+    * Ringelröteln = Erythema infectiosum
+    * Infektion während der Schangerschaft: Hydrops fetalis
+  * Kleinstes humanes DNA-Virus
+  * *Übertragung*:
+    * Tröpfcheninfektion
+    * diaplazentar
+    * iatrogen
+  * *Pathogenese*
+    * Infektion knochenmarksständiger erythopoetischer Vorläuferzellen
+    * direkte zytotoxische Wirkung -> lytisch -> zerstört Zielzelle -> kurzzeitige Anämien
+      * Absinken von Hb und Erys
+      * steigen der Retikulozyten
+
+###Epidemiologie
+  * Weltweit verbreitet
+  * i.d.R. erkranken Kidner zwischen dem 5. und 15. LJ
+  * die Durchseuchungsrate im Vorschulalter liegt bei 10%, im Erwachsenenalter bei 70%
+
+###Klinik
+**Erythema infectiosum**
