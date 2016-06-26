@@ -99,3 +99,27 @@
   * Therapie
     * nur symptomatisch
     * in schweren Fällen: Ribacarin
+
+##Paramoxyviridae
+###Einteilung
+  * **Klassifikation**
+    * ss(-)-RNA
+    * Kapsidtyp: helikal mit Hülle
+    * Virusgröße: 150-300 nm
+    * Pathogenese:
+      * G-Protein: Absorption des Virion an die Wirtszelle
+      * F-Protein: Fusionseigenschaften -> Ausbildung von Synzitien
+  * **(Sub)-Familien**
+    * *Pneumovirinae*:
+      * Pneumovirus
+        * **Respiratory-Syncytial Virus (RSV)** -> Bronchiolitis
+    * *Paramoxyviridae*
+      * Rubelavirus
+        * Mumpsvirus
+        * Parainfluenzavirus
+      * Morbilivirus
+        * Masernvirus
+      * Respirovirus: Parainfluenzavirus
+
+###Masernvirus
+

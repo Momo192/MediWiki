@@ -14,6 +14,7 @@
     * Ringelröteln = Erythema infectiosum
     * Infektion während der Schangerschaft: Hydrops fetalis
   * Kleinstes humanes DNA-Virus
+  * Einziges Erregerreservoir ist der Mensch
   * *Übertragung*:
     * Tröpfcheninfektion
     * diaplazentar
@@ -30,4 +31,34 @@
   * die Durchseuchungsrate im Vorschulalter liegt bei 10%, im Erwachsenenalter bei 70%
 
 ###Klinik
-**Erythema infectiosum**
+**Erythema infectiosum** = Ringelröteln
+  * *Inkubationszeit*: 4-14 Tage
+    * Infektiosität: besteht vor Ausbruch des Exanthems -> im Exanthemstadium nahezu keine Ansteckungsgefahr
+  * *Verlauf*
+    * Bei Kindern häufig asymptomatisch
+    * bei Erwachsenen i.d.R. schwerer Verlauf
+  * *Fakultative Symptome*
+    * Keine Prodromie
+    * Exanthem
+      * Zunächst schmetterlingförmiges Gesichtserithem unter Ausspaarung von Mund und Nase= *Ohrfeigenerythem*
+      * Ausbreitung auf Streckseiten der Extremitäten: ring- und girlandenförmiges Muster
+    * Folgenlose Ausheilung nach 7 Tagen
+  * *Therapie*: meist keien Therapie notwendig, ggf. symptomatisch
+
+**Hydrops fetalis**
+  * *Pathogenese*
+    * meist asymptomatische Infektion der Mutter in der Schwangerschaft -> schwerer Nachweis
+    * Befall erythropoetischer Zellen des Kindes -> Schwere Anämie -> evtl. Hydrops fetalis -> evtl. Abort
+    * bei komplikationslosem Verlauf keine Spätschäden bzw. Embryopathien zu Befürchten
+  * *Klinik*: Hydrops fetalis
+    * *Def*: bezeichnet eine generalisierte Flüssigkeitsansammlung beim ungeborenen Kind, die die serösen Häute und die Haut betroffen sein kann. 
+    * *Pathophysiologie*: Anämie -> Hypoxie -> Erhöhung der Zellpermeabilität
+    * Lebensbedrohlicher Zustand
+  * *Diagnostik*
+    * Mutter: Serologie oder Erregernachweis
+    * Fetus:
+      * Hämoglobin-Bestimmung über Nabelvene
+      * Fruchtwasser- oder Blutuntersuchung auf Parvovirus B19
+  * *Therapie*
+    * intrauterine Bluttransfusion
+    * Ig-Präaparate mit hohem Parvo-B19-AK-Titer -> Verhinderung Infektionsübertritt von Mutter auf Embryo während der SS
