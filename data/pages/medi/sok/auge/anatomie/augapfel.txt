@@ -1,0 +1,132 @@
+#Augapfel
+##Funktion
+  * **Sehen**: Wahrnehmung elektromagnetischer Strahlung zwischen 400-700 nm (besonders gute Durchlässigkeit in der Athmosphäre)
+  * **Seh-Apparat**
+    * *Optischer Apparat*: fängt das Licht ein und bündelt es
+    * *Sensorische Zellen*
+    * *Reizweiterleitung und Verarbeitung*: Empfindung als Helligkeit, Konstrast, Farbe, Form, Bewegung, Objekt
+
+
+##Aufbau des Augapfels
+
+###Innere Augenhaut = Tunica interna bulbi
+  * *Herkunft*: neuroektodermale Augenbecher
+  * *Einteilung*
+    * **Pars optica retinae**= Netzhaut
+      * *Anteile*
+        * **Stratum pigmentosum**
+          * zur Sklera hingelegen
+          * einschichtiges retinales Pigmentepithel
+        * **Stratum nervosum**: 
+      * *Funktion*: Sinneszellen welche Licht in elektrochemische Signale umwandeln
+      * *Dicke*: an verschiedenen Orten unterschiedlich dick
+        * Fovea centralis: Stelle des schärfsten Sehens: besonders dünn
+        * Eintritt des Sehnerves in die Lamina cribrosa: besonders dick
+    * **Pars caeca retinae**
+      * *Anteile*
+        * Pars iridicae retinae: vorderes und hinteres Epithel der Iris
+        * Pars ciliaris retinae: Epithel vom Ziliarkörper (zweischichtig, eine Schicht enthält Pigmente)
+      * *Funktion*: Nicht Lichtempfindlich, Epithelauskleidung
+      * *Übergang*: Ora serrata
+
+###Mittlere Augenhaut = Tunica vasculosa bulbi = Uvea
+  * *Herkunft*: Kopfmesenchym
+  * *Anteile*
+    * **Corpus ciliare** = Ziliarkörper: sezerniert das Kammerwasser + enthält Akkomodationsmuskeln
+    * **Iris**: Regenbogenhaut
+      * schirmt das Auge vor zu viel Lichteinfall ab, bedeckt die Linse
+      * im Zentrum liegt die Pupille
+    * **Choroidea (Aderhaut)**:
+      * Gefäßgeflecht zur Versorgung der Netzhaut
+      * zieht um  den gesamten Augapfel
+
+###Äußere Augenhaut = Tunica fibrosa bulbi
+  * *Def*: undehnbare Hülle des Bulbus
+  * *Herkunft*: Kopfmesenchym
+  * *Anteile*
+    * [[medi:sok:auge:anatomie:augapfel#kornea]] (Hornhaut): transparent 
+    * [[medi:sok:auge:anatomie:augapfel#sklera]]
+      * Übergang am Limbus cornea
+      * bildet hinteren Abschnitt
+    * [[medi:sok:auge:anatomie:augapfel#konjunktiva]] (Bindehaut): überzieht den vorderen Teil der Sklera
+
+
+####Sklera
+  * *Definition*: 
+    * ist als Augenweiß sichtbar, umhüllt den ganzen Bulbus
+    * besteht aus straffem BW
+    * undehnbare Hülle (10-21 mmHg)
+  * *Funktion*: Definition der Form des Auges -> Länge der optischen Achse
+    * Myopie: Bulbus zu Lang
+    * Hyperopie: Bulbus zu kurz
+  * Unterbrechung dort wo der Sehnervdruchtritt ist = **Lamina cribrosa**
+    * Übergang in die Dura mater des N. opticus
+
+####Konjunktiva
+  * *Synonym*: Bindehaut
+  * *Funktion*: 
+    * bedeckt die Sklera, durchsichtig
+    * geht in das Augenlied über
+  * *Histologie*:
+    * Epithel: mehrscheinchitg unverhorntes Epithel
+    * Stroma
+      * lockeres BW
+      * Abwehrzellen
+      * Blutgefäße
+    * **Limbus cornae**: 
+      * Übergang Cornea zu Sklera
+      * Stammzellen für Epithel und Endothel der Kornea
+
+####Kornea
+  * *Def*: 
+    * Teil des optischen Apparates, nicht Teil der Stützstruktur
+    * durchsichtig, stärker geölbt als die Sklera
+    * keine Blutgefäße
+  * *Funktion*: **+43 Dioptrien** von insgesamt 60 
+    * (die restlichen sind von der Augenlinse) 
+    * Hauptanteil der Brechkraft durch Luft-Wasser-Übergang
+  * *Histologie*
+    * *Tränenfilm*: Elektrolyte, Muzine und Lipide
+    * *Epithel*: 
+      * mehrschichtiges unverhorntes Plattenepithel (ca. 6 Schichten)
+      * Stammzellen sitzen am Limbus
+      * freie Nervenendigungen (z.B. Lidschlussreflex)
+    * *Stroma*: hochgeordnetes BW
+      * **Bowman-Membran**: 
+        * zellfrei aus Kollagen
+        * oberster Stroma-Bereich
+      * resliches Stroma
+        * Fibroblasten 
+        * ECM: Kollagen, Kristallin
+          * Kollagen hat definierte Abstände -> Transparenz abhängig vom Wassergehalt
+    * *Endothel*
+      * *Lage*: bedeckt die Hinterfläche
+      * *Funktion*: Diffusionsbarriere -> Wasserregulation
+      * Einschichte, flache, lückenlose Zelllage
+      * **Descemet-Membran** = Membrana limitans posterior
+        * dicke Basalmembran 
+        * Col VII
+
+####Klinik: LASIK
+  * *Definition*: Laser-in-situ Keratomileusis = Laser Abblation des Stromas
+  * *Ablauf*: 
+    * Abklappung Epithel
+    * Entfernung des darunter liegenden Stromas
+    * Epithel wird wieder darüber gelegt
+    * -> Verheilung mit einer anderen Brechkraft
+  * *Indikation*
+    * [[Myopie]]
+    * [[Hyperopie]]
+    * [[Astigmatismus]]
+
+
+###Lichtbrechende Strukturen im Bulbus
+####Linse
+  * *Funktion*
+    * Sammellinse:
+      * Brechkraft: 10-20 Dioptrien
+      * bikonkav
+    * **Akkomodation**
+
+####Corpus vitreum
+
