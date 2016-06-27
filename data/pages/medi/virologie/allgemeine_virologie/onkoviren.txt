@@ -1,0 +1,40 @@
+#Onkoviren
+ca. 15% aller Tumorerkrankungen Weltweit sind Folge einer Virusinfektion. In Entwicklungsländern ist es sogar jedes 4. Tumorleiden.  
+##Mechanismen der Tumorentstehung
+  * **Onkogene DNA-Viren**
+    * Mechanismus: Veränderung der DNA der Wirtszelle sodass Protoonkogene, Tumoresuppressorgene und die regulierende Gene der Apoptose nicht mehr richtig abgelesen werden könne -> Inaktivierung der eigenen Zellzyklusregulation
+      * Voraussetzung ist eine lange Lebenszeit der Wirtszelle und die Akkumulation von Mutationenen
+  * **Onkogene RNA-Viren**
+    * Mechanismus: besitzen virale Okogene, die für die Synthese transformationsaktiver Proteine kodieren
+      * virale Onkogene sind Verwandt mit zellulären Protoonkogene, die u.a. die Zellteilung und das Zellwachstum regulieren
+      * im Gegensatz zu diesen sind sie aber nicht bedarfsweise sondern permanent aktiv
+
+##Geschichte
+  * 1966: Nobelpreis für Rous-Sarkom-Virus
+  * 1975: Nobelpreis für die Entdeckung der reversen Transkriptase, Retroviren
+  * 1983: Entdeckung Retrovirus aus AIDS-Patienten
+  * 1989: Nobelpreis für virale onkogene haben zelluläres Gegenstück
+
+##Überblick
+###DNA-Viren
+  * **Hepadnnaviren**: Hepatitis-B-Virus: Hepatozelluläres Karzinom
+    * Kofaktoren: Alkohol, Aflatoxine, Rauchen, andere Viren
+  * **Herpesivren**
+    * **Ebstein-Barr-Virus**
+      * Burkitt-Lymphom (Kofaktor: Malaria)
+      * Nasopharynxkarzinom (Kofaktor: Nitrosamine)
+      * Lymphome (Kofaktor: Immunsuppression)
+    * **HHV 8**
+      * Kaposi-Sarkom
+  * **Papillomaviren**
+    * Cerviy-Penis-Karzinom (Kofaktoren: Rauchen, Immunsuppression)
+    * Tumoren des oberen Respirationstraktes (Kofaktoren: Rauchen, radioaktive Strahlung)
+    * Hauttumoren (Kofaktor: UV-Strahlung)
+  * **Polyomaviren**
+    * MCV -> Merkelltellkarzinom
+
+###RNA Viren
+  * **Flaviviren**
+    * *Hepatitis-C-Virus*: hepatozelluläres Karzinom
+  * **Retroviren**
+    * *HTLV 1* = humanes T-lymphotropes Virus: T-Zell-Lymphom

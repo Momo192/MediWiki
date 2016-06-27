@@ -1,0 +1,15 @@
+# Allgemeine Virologie
+##Translation und Replikation des viralen Genoms
+  * **DNA-Virus**: direkte Integration der viralen DNA in die DNA der Wirtszelle, anschließend Transkription uns Translation mit der Ausstattung der Wirtszelle
+  * **RNA-Virus**: 
+    * Je nach Polarität der viralen RNA:
+      * +-Strang: direkte Translation in Polypeptid
+      * - Strang: Umschreibung in eine mRNA durch eigene RNA-abhängige RNA-Polymerase
+    * **Retroviren**
+      * immer einsträngige RNA
+      * **Reverse Transkriptase**: transkribiert RNA in eine doppelsträngige sog. **provirale DNA**
+        * Reverse-Transrkiptase: DNA-Polymerase die sowohl RNA als auch DNA als Matrize verwenden kann
+        * enthalten virale Onkogene
+      * Wichtige Vertreter:
+        * Deltaretrovirus: Humanes-T-Zell-lymphotrophes VIrus
+        * Lentivirus: Humanes Immundefizienz-Virus

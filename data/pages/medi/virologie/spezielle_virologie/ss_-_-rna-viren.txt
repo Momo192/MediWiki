@@ -216,6 +216,50 @@
     * selten Schmierinfektion
   * *Inkubationszeit*: 
     * 12-26 Tage
+    * Fieber tritt für 3,5 Tage auf
+  * *Pathogenese*
+    * Eintritt über Nasen-Rachenraum
+    * *Primäre Infektion*: Vermehrung des Virus in Schleimhäuten und LK
+    * Virämie und *sekundäre Infektion* von Speicheldrüsen (v.a. Parotis)
+    * Weitere Ausbreitung möglich
+      * Tränen-, Schild- und Brustdrüsen
+      * Pankreas, Testis, Ovarien
+
+####Klinik
+  * 50% asymptomatisch oder nur Zeichen eines grippalen Infektes
+  * Klassische Manifestation: **Sialadenitis**
+    * v.a. Glandula parotis aber auch andere Drüsen: Gl. submandibularis, Gl. sublingualis
+    * Zuerst einseitige, im Verlauf beidseitige Schwellung der Gl. parotis
+      * ggf. Rötung um Ductus parotideus
+      * abstehende Ohren
+      * Kauschmerzen
+    * Fieber, Schlechter Allgemeinzustand
+  * *Komplikationen*
+    * **Pankreatitis** (2-5%)
+      * 40% der Komplikationen
+    * **Orchitis**
+      * 20-30% der Fälle bei Erkrankung in der Pubertät sonst seltener
+      * Gefahr der Hodenatrophie und der Unfruchtbarkeit
+    * **Seröse Meningitis**
+      * 5-10%
+      * blander Verlauf
+    * Innenohrtaubheit (einseitig, selten)
+
+####Diagnostik
+
+  * Klinisch
+  * Indirekt:
+    * Nachweis von IgM und IgG
+    * Direkt:
+      * in Sekreten mittels PCR
+      * Kultivierung
+
+####Therapie und Prophylaxe
+  * *Therapie*: symptomatisch
+  * *Impfung*:
+    * Grundimmunisierung durch 2 Impfungen, Lebendimpfstoff
+    * Postexpositionelle Impfung: bis max. 3 Tage nach Kontakt möglich
+  * Meldefplicht
 
 ##Rhabdoviridae
 ###Allgemeines
