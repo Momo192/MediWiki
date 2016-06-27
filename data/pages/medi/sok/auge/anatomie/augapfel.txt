@@ -126,7 +126,33 @@
     * Sammellinse:
       * Brechkraft: 10-20 Dioptrien
       * bikonkav
-    * **Akkomodation**
+    * [[Akkomodation]]: Brennweitenveränderung durch M. ciliaris -> Flexibel
+  * *Histologie*: epitheliales Organ
+    * Umgeben von einer Basalmembran = Kapsel
+    * **Linsenepithel**
+      * nur an der Vorderseite
+      * einschichtig
+        * vorne kubisch
+        * lateral: zylindrisch
+      * laterale Anteile: bleiben Teilungsfähig = *germinative Zone*
+    * **Linsenfasern**
+      * bis 12 mm lang, meist kernlose Zellen
+      * kaum Organellen, durchsichtig
+  * *Klinik*: Grauer Star bei Trübung
 
 ####Corpus vitreum
+  * *Definition*: Raum zwischen Inse und Netzhaut
+  * *Aufbau*
+    * 98% Wasser + 2% Hyaloron und Kollagen II
+    * Stabile **Glaskörpergrenzmembran**: lockere Anheftung an die Retina
+    * **Canalis hyaloideus** (= Cloquet-Kanal)
+      * Lage: zentral, in saggitaler Richtung
+      * embryonales Relikt
+  * *Funktion*:
+    * Lichtleitung
+    * formgebend, druckbeständig
+  * *Klinik*: **Mouches volantes**:
+    * i.d.R. harmlose Trübungen
+    * Kollagenablagerungen
+
 
