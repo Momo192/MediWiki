@@ -296,6 +296,15 @@ e
     * von genomischer NRA werden antigenomische RNA-Moleküle geschrieben -> Matrize für die Synthese von neuen Virusgenomen
     * Freisetzung durch Zelllyse
 
+###Rhinovirus
+
+  * mehr als 110 Subtypen
+  * Sehr hohe Inzidienz
+  * Übertragung durch Tröpfchen- und Schmierinfektionen
+  * Vermerhung beschränkt sich auf die lokale Eintrittspforte (Nasopharynxepithel)
+  * Erreger der **Rhinitis acuta**
+
+
 ###Enteroviren
   * *Einteilung*
     * Coxsackie A und B-Virus
@@ -307,10 +316,72 @@ e
 #####Erreger
   * Erreger der *Poliomyelitis anterior acuta* = Kinderlähmung
   * Weltweit 3 Serotypen: I, II und 3 ohne Kreuzimmunität
+  * Mensch als einziger Wirt
   * *Übertragung*: fäkal-oral
     * Schmutz- und Schmierinfektion
     * Trinkwasser, kontaminierte Lebensmittel
-#####Epidemiologie:
+    * seltener: Tröpfcheninfektion
+    * Ansteckungsfähigkeit besteht, solange das Virus ausgeschieden wird
+      * Im Rachensekret 36h bis 1 Woche
+      * im Stuhl: 3 Tage bis mehrere Wochen
+
+#####Epidemiologie
+
+  * ab dem 19Jhd Epidemien
+  * 150 000 Fälle weltweit 1992
+  * Europa Polio-Frei seid 2002
+  * 98% aller Fälle in Nigeria, 
+  * Geschichte:
+    * Roosevelt:
+      * 1921: Poliomyelitis
+      * Unterstützung der Forschung und Gründung einer Stiftung zur Hilfe von Polio-Kranken
+    * Jonas E. Salk (1955):  erfolgreiche Entwicklung eines Impfstoffes
+    * Cutter-Katastrophe: 
+      * 1955: 200 000 Kinder erhalten Impfung mit nicht vollständig inaktivierten Polio-Virus
+      * 40 000 Kinder krank, 200 bleiben gelähmt, 10 Sterben
+      * Danach: Förderung des gefährlicheren Lebendimpfstoff nach Sabin
+
+
+####Pathogenese
+
+  * *Inkubationszeit*:7-14d
+  * Tag 1. Ansteckung: Eindringen der Viren und Vermehrung im Dünndarm
+  * Tag 2: Eindringen und Vermehrung in LK (Peyersche Plaques)
+  * Tag 3: 1. Virenschub im Blut -> Vorkrankheit
+  * Tag 4: Vermehrung der Viren in Organen außerhalb des ZNS (in Monozyten: CD135-Rezeptor)
+  * Tag 5: 2. Virenschub im Blut
+  * Ab Tag 7: Eindringen, Vermehrung und Ausbreitung im ZNS
+    * Einsiedlung in die graue Substanz des RM
+  * Tag 11; Lähmungserscheinungen
+  * Zellschädigung: **Cytopathischer Effekt** = Auflösung des Zellverbandes und Zelltod
+
+
+####Klinik
+Die Infektion verläuft in > 90% der Fälle asymptomatisch.Weniger als 10% sind apparent und bei bis zu 1% kommt es zur paralytischen Manifestation. Formen manifester Krankheitsverläufe sind:  
+**Poliomyelitis ohne ZNS-Beteiligung: abortive Poliomyelitis** (10%)
+  * *Unspezifische Symptome*: 
+    * Magen-Darm beschwerden
+    * Gripp-ähnliche Symptome mit Myalgien, Kopfschmerzen, Halsschmerzen usw.
+  * Folgenlose Ausheilung oder Übergang in Poliomyelitis mit ZNS-Beteiligung
+**Poliomyelitis mit ZNS-Beteiligung**:  
+**Nicht-paralytische Poliomyelitis: meningitische Form** (2% der Erkrankten)
+  * Klinik:
+    * Beggin wenige Tage nach der abortiven Poliomyelitis
+    * keine Paresen
+    * Fieber, Nackensteifheit, Rückenschmerzen und Muskelschmerzen
+  * Labor: Asyeptische Meningitis mit lymphozytärer Pleozytose
+**Paralytische Poliomyelitis** (bis 1%): Paralytische Poliovirusinfektion mit schlaffer Parese durch Zerstörung der motorischen Vorderhorn-Zellen
+
+####Prävention
+**Impfung**:
+  * *Totimpfstoff IPV nach SALK*
+    * Grundimmunisierung bei Geburt insgesamt 4 Teilimpfungen
+    * Auffrischungsimpfungen notwendig nach 10 Jahren.
+      * weitere Auffrischungen bei erhöhtem Expositionsrisiko
+    * keine Gefahr einer Impf-Polio -> In Deutschland nur noch dieser Verfügbar
+  * *Lebendimpfstoff nach Sabin* = OPV 
+    * Risiko von Impf-Polio
+    * Keine Auffrischungsimpfung notwendig
 
 ####Cocksackie-Viren-A
   * *Übertragung*: Tröpfchen- oder Schmierinfektion
