@@ -111,4 +111,77 @@
 
 ###Klinik
 
+####HIV Stadium A
+  * **Akute HIV-Erkrankung** = Primärinfektion
+    * inapparent oder grippeähnliche Symptome
+    * ca. 6 Monate
+    * Virus im Blut nachweisbar
+  * **Latenzphase** = chronische Infektion
+    * asymptomatischer Verlauf mit progredienten Leistungsabfall
+    * Monate bis Jahre
+    * Serokonversion
+  * **Lymphadenopathie-Syndrom**
+    * generalisierte LK Schwellung über mehr als 3 Monate
 
+####HIV Stadium B: Nicht-AIDS-definierende Erkrankungen
+  * chronisch subfebrile Temperaturen
+  * Auffälligkeiten im Blutbild: Anämie, Neutropenie, HIV-assoziierte Thrombopenie
+  * Durchfälle
+  * Oorale Haarleukoplakie: nicht abstreifbare Beläge vor allem an den seitlichen Zungenrändern (Auslöser: Ebstein-Barr Virus), Herpes Zoster
+  * Gewichtsverlust, Müdigkeit, Nachtschweiß
+
+####HIV Stadium C: AIDS definierende Erkrankungen
+  * Infektionen mit opportunistischen Erregern
+    * Herpes Zoster
+    * Tbc
+    * Atypische Mykobakteriose
+    * CMV-Renitis
+    * Pneumonie: Pneumocystis-jiroveci-Pneumonie
+  * Lymphome, Kaposi-Sarkom
+  * HIV-Enzephalopathie: Vigilanz- und Kognitionsbeeinträchtigung (bis hin zur Demenz) 
+  * Candidose
+
+####CDC-Stadien
+  * Berücksichtigen klinischen Stadien einer HIV-Erkrankung mit der Anzahl der T-Helferzellen -> guter prognostischer Überblick
+    * Stadium 1: CD4 > 500/ul
+    * Stadium 2: 200-499
+    * Stadium 3: < 200
+  * Insegesamt immer A1-3
+
+###HIV-Test
+  * **Suchtest / Screening-Test** mittels ELISA (HIV-Suchtest)
+    * hohe Sensitivität und hohe Spezifizität
+    * diagnostische Läcke in den ersten 3 Wochen
+    * Ablauf:
+      * Virusprotein gebunden
+      * Zugabe von Patientenserum -> im Falle von AK: Bindung
+      * Sekundäre AK gegen den Fc-Teil der Patienten-IG (mit Merretich Peroxidase gekoppelt) -> Zugabe von Substrat -> Färbung
+  * **Bestätigungs-Test** mittels Western-Blot (HIV-AK-Nachweis)
+    * 2. Blutabnahme um Probenvertausch auszischließen
+  * Andere Möglichkeiten: 
+    * *AG-Capture ELISA*: gebundene virus-assoziierte AK
+      * wird erst nach 2-3 Wochen positiv
+      * Nachgeweisen wird das Kapsidprotein p24
+      * Wird nach 2-3 Monaten negativ, um in späteren Stadien wieder positiv zu werden
+    * *RT-PCR-HIV-Nukleinsäurenachweis*
+      * *Indikation*: 
+        * Frühphase
+        * Neugeborene
+        * unter antiviralöer Therapie
+      * **Mechanismus*
+        * Nachweis der proviralen DNA: PCR
+        * Nachweis der viralen RNA: RT-PCR
+          * durch exogen zugegebene Reverse Transkriptase wird die virale RNA in cDNA umgeschrieben und dann das Produkt einer PCR unterzogen
+      * VOrteil: 
+        * sehr impfindlich
+        * schließt das diagnostische Fenster in den ersten Wochen nach der Primärinfektion
+    * HIV-Isolierung: nicht Routinediagnostik
+
+###Therapie
+Als Kombinationstherapie: **HAART** = highly active antiretroviral therapy
+  * *Indikation*: 
+    * symptomatische HIV Infektion
+    * CD4 < 350 /uL
+    * > 10 000 Viruskopien im Blut
+  * *Durchführung*: 
+    * Kombination aus mindestens 3 antiviralen Substanzen -> Vermeiden von Resistenzen
