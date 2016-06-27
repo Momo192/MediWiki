@@ -382,6 +382,21 @@ Die Infektion verläuft in > 90% der Fälle asymptomatisch.Weniger als 10% sind 
   * *Lebendimpfstoff nach Sabin* = OPV 
     * Risiko von Impf-Polio
     * Keine Auffrischungsimpfung notwendig
+  * Schwellenwert für Herdenimmunität ist bei IPV wesentlich größer als bei OPV
+    * OPV-Geimpften können bei Infektion die Viren im Darm neutralisiert werden und werden nicht ausgeschieden. 
+    * Mit IPV geimpfte Personen können immer noch Überträger und Ausscheider der Viren sein, erkranken jedoch selbst nicht, sondern stecken nur Ungeimpfte an.
+
+**Meldepflicht**  
+**Eradikation**
+  * Möglich da
+    * Mensch ist der einzige Wirt
+    * kein animaler Vektor
+    * Impfstoff verfügbar
+    * wenige chronische Infektionen
+    * Kein längeres Überleben Weltweit
+  * Schwierig: 
+    * geringer Manifestationsinfex der Ekrankung (1:200)
+    * Andere Erkrankungen mit ähnlichen Symptomen
 
 ####Cocksackie-Viren-A
   * *Übertragung*: Tröpfchen- oder Schmierinfektion

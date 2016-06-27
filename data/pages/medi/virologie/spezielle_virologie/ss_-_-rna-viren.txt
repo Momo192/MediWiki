@@ -194,3 +194,132 @@
     * bis 3 Tage nach kontakt möglich
     * Bei Immunkompetenten: einmal aktive Immunisierung
     * Immundefiziente: passive Immunisierung mit IgG
+
+###Mumpsvirus
+####Erreger
+  * Erreger der **Parotitis epidemica**
+  * Mensch als einziger Reservoir
+  * Nur 1 Serotyp weltweit
+  * mehrere Genotypen (A-N) mit unterschiedlicher geographischer Verbreitung
+
+####Epidemiologie
+  * Weltweite Verbreitung
+  * endemisches Auftreten im Alter von 2-15 Jahre 
+    * v.a. in kalter Jahreszeit
+    * in 30% der Fälle inapparent (Cave: auch Infektiös)
+
+####Pathogenese
+  * *Übertragung*
+    * Tröpfcheninfektion
+      * Kontagiosität des Speichels hoch
+      * betroffene sind 7 Tage vor und bis 9 Tage nach Krankheitsbeginn (Parotisschwellung) ansteckend
+    * selten Schmierinfektion
+  * *Inkubationszeit*: 
+    * 12-26 Tage
+
+##Rhabdoviridae
+###Allgemeines
+  * Eigenschaften
+    * ss(-)-RNA
+    * helikales Kapsid mit Hülle
+    * **L-Protein**: RNA-abhängige-RNA-Polymerase
+  * Einteilung
+    * Gattung: *Lyssavirus*, Art-Rabiesvirus -> Tollwut
+    * Gattung: *Vesikulasevirus*, Art: VS-Virus -> vesikuläre Stomatitis
+
+###Rabies-Virus
+####Epidemiologie
+  * Jährlich etwa 60 000 Fälle
+    * v.a. in Asien kommt es noch regelmäßig zu Tollwut-Epidemien
+  * Deutschland gilt (als eines von wenigen Ländern weltweit) als frei von klassischer Tollwut
+    * Andere Länder sind: Großbritannien, Skandinavien, Frankreich, Belgien
+    * Fledermaustollwut 
+      * = europäisches Federmaus Lyssavirus Typ 1 und 2
+      * ist in Europa endemisch
+      * auf den Menschen übertragbar
+      * zunehmende Ausbreitung auch in Deutschland
+
+####Pathophysiologie
+**Übertragung**
+  * Von Tier zu Mensch
+    * Durch Bissverletzung, Belecken von Hautwunden durch ein Tollwütiges Tier, meistens Hunde
+    * Aerogene Infektion: Einatmen von Fledermauskothaltigem Staub
+    * Oral: Essen von rohem, kontaminierten Fleisch
+  * Von Mensch zu Mensch: Organtransplantation (sehr selten)
+    * Missdeutung der Symptome als Drogenmussbrauch
+
+**Einteilung**
+  * **Urbane Tollwut**: Biss durch Haustiere (meist streuende Hunde)
+  * **Sylvatische Wut**: Biss durch Wildtiere (Fückse, Wölfe, Dachse)
+
+**Verlauf der Infektion**
+  * Geringe Infektiösität
+  * Infektion, verharren für 3 Tage an der Eintrittspforte, Replikation in Haut und Muskelgewebe
+  * Wanderung zum ZNS:
+    * Nervenfasern durch Bindung an Acetylcholin und CD56-Rezeptoren
+    * retrograde, axonale Wanderung zum ZNS
+    * Vermehrung in sekundären Neuronen: graue Substanz des RM
+    * Wanderung ins Gehirn 3mm/h
+      * Art der Überwindung des synaptischen Spaltes unbekannt -> nur Nukleokapsie wandert weiter (es fehlt G-Protein der Hülle)
+      * Anterograde Wanderung in Augenbindehaut, Speicheldrüsen
+  * Symptome durch Störung der Neurotransmittersysteme
+
+
+####Symptome
+  * *Inkubationszeit*: 
+    * 1-12 Wochen, manchmal auch > 1 Jahr
+    * je näher die Eintrittspforte am Gehirn liegt, desto kürzer ist die Inkubationszeit
+    * Manifestationsrate: 15% (Faktoren: Biss-Stelle, Virulenz, Virusmenge)
+  * *Stadienbedingte Klinik*
+    * **Prodromalstadium**: 
+      * 2-4 Tage
+      * Erbrechen. Kopfschmerzen, Fieber
+    * **Sensorisches Stadium**
+      * schmerzende Bisswunde
+      * Depression, Angst
+    * **Exzitationsstadium** -> "Rasende Wut"
+      * tonisch-klonische Krämpfe, Schlundkrämpfe
+      * Hydrophobie (Abneigung gegen Wasser, bereits beim Anblick von Wasser kommt es zu Brechreiz)
+      * vermehrter Speichelfluss
+      * Wesensveränderung, Aggressivität
+      * Tod nach etwa 3 Tagen oder Übergang
+    * **Paralysestadium** -> "Stille Wut"
+      * Paresen, aufsteigende Lähmung bis zum Atem- und Herzstillstand nach 14d
+  * Bei Beginn der Krankheitsymptome ist der Verlauf IMMER tödlich -> Therapie bei Verdacht
+
+####Diagnostik
+  * Menschen: 
+    * Anamnese: verdächtiges Tier usw.
+    * Labor: PCR Nachweis aus Liquor, Speichel und Tränenflüssigkeit (erst nach Ausbruch der Krankheit möglich)
+    * Histologie: Nachweis von Negrischen-Einschlussörperchen in Hautbiopsie (Früher)
+  * Tier:
+    * monoklonale AK, PCR
+    * Verdächtiges Tier: Isolation und Überwachung des Krankheitbildes
+
+####Impfung
+  * **Präexpositionelle Immunprophylaxe**
+    * Indikation:
+      * berufliche Exposition
+      * Reiseimpfung
+    * Durchführung:
+      * drei aktive Impfung mit Totimpfstoff
+  * **Postexpositionelle Immunprophylaxe**
+    * Vorgehen bei Hundebiss:
+      * Bekannter Hund ohne Sympotme -> Tierarzt Vorstellung -> Gesunder Hund -> keine Maßnahmen
+      * Kann Rabies nicht ausgeschlossen werden -> Postexpositioneller Immunprophylaxe + Tier unter Beobachtung
+      * Cave: auch an Impfstoffköder denken -> Impfung von Füchsen durch Lebendimpfstoff
+    * Wunreinigung und Wundausscheidung -> Prophylaxe nach Grad der Exposition
+      * **Grad I**
+        * intakte Haut: berühren, Füttern von Tieren, Belecken von Hut
+        * keine Impfung
+      * **Grad II**
+        * nicht intakte Haut: oberflächliche Kratzer oder Hautabschürfungen
+        * Aktivimpfung: Impfung mit einem Totimpfstoff mit 5 Einzeldosen in sehr kurzen Abständen
+      * **Grad III**
+        * tiefe Verletzungen: Bissverletzungen, Kratzwunde, Kontamination von Schleimhäuten mit Speichel
+        * **Simultanimpfung**
+          * Totimpfung in 5 Dosen
+          * Simultan Verabreichung von Tollwutimmunglobuline
+    * Weiteres:
+      * Bei Bissverletzung immer auch an Tetanusprophylaxe denken
+      * einzige Impfung die auch nach der Infektion wirksam ist
