@@ -12,4 +12,4 @@
         * enthalten virale Onkogene
       * Wichtige Vertreter:
         * Deltaretrovirus: Humanes-T-Zell-lymphotrophes VIrus
-        * Lentivirus: Humanes Immundefizienz-Virus
+        * Lentivirus: [[medi:virologie:spezielle_virologie:retroviridae#hiv]]

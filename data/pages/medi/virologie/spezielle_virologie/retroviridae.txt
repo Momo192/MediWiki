@@ -1,1 +1,114 @@
 # Retroviridae
+##HIV
+###Einteilung
+  * Gattung: **Lentivirus**
+  * Art
+    * **HIV 1**
+      * Untergliedert sich in 3 Gruppen (30% Sequenzunterschiede)
+        * M = Major
+          * Subtyp B dominiert in Industrieländern
+          * Insgesamt 10 Subtypen (A-K)
+        * O: outlier
+        * N: new variant
+          * O und N in Afrika
+    * **HIV 2**
+      * Subtypen A-F
+      * harmoser, 50% Sequenzunterschied zu HIV-1
+      * in Westafrika verbreitet
+
+
+###Erreger
+  * Aufbau: 
+    * Kapsid aus Coreprotein p24gag
+    * darum Matrixrotein p17
+    * Darum Lipidschicht der Virushülle vom Wird mit Glykoproteinen -> Adhäsions- und Fusionsproteine
+  * Reverse Transkriptase
+    * aus 2 Proteineinheiten
+    * RNA- und DNA-abhängige Polymerase
+    * Probleme:
+      * kein Proof-Reading -> hohe Felerrate 
+  * *Regulatorproteine*
+    * vif: Infektiosität (virion infectivity factor)
+    * vpr: schwacher Transkriptiosnaktivator
+    * vpu: notwendig für effiziente Knospung
+    * tat: Transaktivatorprotein, steuert Virustranskription
+    * rev: Regulator-Virionproteine, förder Virus-RNA-Export aus dem Kern
+    * nef: wichtiger Regulatorfaktor, wichtig für die Virulenz
+  * *Virionprotein*
+    * LTR: long terminal repeats: transkriptionsfärdernd
+    * gag: gruppenspezifische Antigen-Protein = Virion-core-Proteine
+    * pol: Reverse Transkriptase
+    * env: typspezifische Glykoproteine der Hülle -> Adhäsionsproteine und Fusionsproteine
+
+###Epidemiologie
+  * *Geschichte*
+    * Urprüngliche Übertragung von Affe auf Mensch
+    * 1959: erste dokumentierte Infektion
+    * 80er: Beginn der Pandemie
+    * 1984: Nachweis von HIV-1
+  * *Weltweit*
+    * 42 Mio. infizierte Weltweit, davon 4,1 Mio Kinder
+    * Neuinfektionen pro Jahr: 2 Mio. 
+    * AIDS: 13 Mio Pro Jahr
+    * Tod: 2 Mio Pro Jahr
+    * Davon leben 37 Mio in Entwicklzungsländern, davon 27 Mio. in Afrika
+      * m:w = 1:1
+  * *Deutschland*
+    * 50 000 - 80 000 infizierte
+      * m:w = 4:1
+    * AIDS-Stadium: 8000
+
+###Infektionswege
+  * **Sexuell**: durchschnittliches Übertragungsrisiko: 0,1-1%
+    * Höheres Risiko bei Analverkehr als Vaginalverkehr
+    * Frauen haben ein höheres Risiko (Fläche + Virenanzahl) als Männer
+  * **Parenteral**
+    * gemeinesame Verwendung von Infektionsnadeln
+    * Bluttransfusionen
+    * Nadelstichverletzungenn
+  * **Vertikal**
+    * v.a. während des Geburtvorganges, 
+    * nach der Geburt durch stillen
+  * **Infektiösität**: 2 Gipfel
+    * in den ersten Monaten nach der Infektion
+    * im AIDS-Stadium
+
+###Pathogenese
+**Ablauf der Infektion**
+  * parenterales Eindringen in den Kreislauf
+  * Infektion von **Makrophagen**
+    * gp120 zum andocken an CD4 und CCR5 (Chemokin-Rezeptor, Selektion in den Yersinia pestis Pandemien (Tod > 25% europäischer Bevölkerung))
+    * gp41: Fusion des Virions mit der Zielzellmembran
+    * Transport der Viren in LK und Ansiedlung als antigenpräsenntierende Zellen
+    * langlebiges Virusreservoir
+  * Infektion von TH-Zellen
+    * CD4-Molekül wird als Korezeptor genutzt
+    * über lymphatische Bahn + Blutkreislauf -> primäre und sekundäre lymphatische Organe
+    * Infiltration des Gehirns über Monozyten
+
+**Pathophysiologie in der Zelle**
+  * Auflösung des Kapsids -> Aktivierung der reversen Transkriptase
+  * Synthese viraler dsDNA -> Übergang in Zellkern
+  * virale Integrase: Einbau in das Wirtsgenom
+  * virale Transkriptionsfaktoren
+    * Tat: brvorzugtes Ablesen der viralen DNA
+    * Ref-Protein: vermehrtes bringen der viralen mRNA in das Zytoplasma
+  * Freisetzung: 
+    * Sekretion (Makrophagen)
+    * Sprossung (T-Zellen)
+
+**Phasen**
+  * **Latenzphase**: aktive Virusvermehrung, nur wenige Viruspartikel im Blut
+  * **Lymphadenopathie**
+    * 10¹⁰ Viruspartikel pro Tag werden produziert -> Zerstörung von T-Lymphozyten
+    * Apoptose-Induktion durch IS
+    * IS kontrolliert noch die Virusvermehrung -> ständige Erneuerung der CD4-Zellen
+      * Problem: hohe Mutationsrate des Virus -> ständige Veränderung der Epitope -> IS kann keine CD4 Zellen mehr nachliefern
+  * **Lymphatrophie**: 
+    * zusammenbruch des IS durch Zerstörung des lymphatischen Gewebes 
+      * auch bedingt durch proinflammatorische Situation des Körpers
+    * Opportunistische Infektionen und Tumoren
+
+###Klinik
+
+
