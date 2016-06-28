@@ -27,8 +27,8 @@ ca. 15% aller Tumorerkrankungen Weltweit sind Folge einer Virusinfektion. In Ent
       * Lymphome (Kofaktor: Immunsuppression)
     * **HHV 8**
       * Kaposi-Sarkom
-  * **Papillomaviren**
-    * Cerviy-Penis-Karzinom (Kofaktoren: Rauchen, Immunsuppression)
+  * [[medi:virologie:spezielle_virologie:ds-dna-viren#papillomaviridae]]
+    * Cervix-Penis-Karzinom (Kofaktoren: Rauchen, Immunsuppression)
     * Tumoren des oberen Respirationstraktes (Kofaktoren: Rauchen, radioaktive Strahlung)
     * Hauttumoren (Kofaktor: UV-Strahlung)
   * **Polyomaviren**

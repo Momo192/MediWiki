@@ -27,7 +27,7 @@
     * 32: Haut des Anogenitalbereiches
 
 ####Einteilung und Pathogenese
-Induktion primär benigner TUmoren (Warzen, Kondylome) -> Einteilung
+Induktion primär benigner Tumoren (Warzen, Kondylome) -> Einteilung
   * **Low-Risk-Subtypen**: v.a. Typ 6 und 11
     * Eintritt durch Läsion -> Besiedelung von Zellen der Basalschicht
     * Virale Geneypression -> Replikation des Genomsin Form weniger Kopien die episomal vorliegen
@@ -45,3 +45,120 @@ Induktion primär benigner TUmoren (Warzen, Kondylome) -> Einteilung
     * Transformation der Zelle
       * weitere exogene Faktoren notwendig
       * Bei High-Risk Typen haben E6 und E7 eine deutlich höhere Affinität zu den zellulären Tumorsuppressorproteinen
+
+####Epidemiologie
+  * Art der Infektion
+    * Mukokutane Warzen: HPV 1-4 u.a.
+    * Epidermodysplasie assoziiert HPV 5,8,9
+    * Anogenitale Warzen: HPV 6, 11, 16, 18, 31, 33
+  * Hautwarzen
+    * 10% der Schulkinder
+    * 50% der Jugendlichen haben PV-spezifische AK
+    * *Übertragung* mit erregerhaltigem Warzenmaterial
+      * direkt 
+      * indirekt z.B. Schwimmstädten
+  * Anogenitale Warzen
+    * Männer 6%
+    * Frauen: 10%
+    * Alter: Häufigkeitsgipfel im 20.-25 LJ
+    * *Übertragung*: Sexualverkehr und Geburt
+
+####Gutartige Hauterkrankungen
+#####Verrucae vulgares
+  * *Synonym*
+    * Vulgäre Warzen
+    * Stachelwarzen
+  * *Erreger*: **HPV 2, 27**
+  * *Vorkommen*:
+    * häufigster Typ
+    * vorwiegend an den Dorsalseiten der Finger und Handrücken
+  *  *Klinik*
+    * hautfarbende, hyperkeratotische Knoten
+    * charakteristische papilläre raue Oberfläche
+
+
+#####Verrrucae planae
+  * *Synonym*: Flachwarzen
+  * *Erreger*: HPV 3 und 10
+  * *Vorkommen*:
+    * typisch: Gesicht und Handrücken
+    * am Ganzen Körper möglich
+  * *Klinik*
+    * flach, rund bis mehreckig
+    * weich
+    * Hautfarbend bis bräunlich
+    * Durchmesser: 1-5 mm
+
+#####Verrucae plantares
+  * *Erreger*: HPV 1,2,3,4
+  * *Vorkommen:*
+    * Fußsohle
+    * Druck verhindert expophytisches Wachstum
+
+#####Tiefgreifende Dornwarzen:
+  * *Synonym*: Hühneraugen
+  * *Klinik*:
+    * einzeln stehend
+    * tief endophytisch (nach innen) wachsend
+    * schmerzhaft
+
+#####Mosaikwarzen
+  * *Synonym*: oberflächliche Beetwarze
+  * *Klinik*: 
+    * nur oberflächeliche, oft beetartige Ausbreitung
+    * einzelne Warzen stecknadelkopfgroß
+    * schmerzlos
+
+####Hauterkrankungen mit Entartungsrisiko
+#####Epidermodysplasia verruciforme
+  * *Synonyme*
+    * EV
+    * spezifische Hautläsionen
+    * Lewandowsky-Lutz-Dysplasie
+  * *Definition*: autosomal rezessive Hauterkrankung mit Mutationen in den Genen Ever 1 und 2
+    * Defekt der zellvermittelten Immunität
+    * Ungewöhnlich hohe HPV-Empfänglichkeit
+  * *Erreger*: HPV 5, 7, 17, 20
+  * *Epidemiologie*
+    * extrem selten
+    * typisches Auftreten: 5-10 Jahre
+    * gegelgentlich sü#ter
+  * *Klink*
+    * Ausgedehnte Warzenbildung besonders an den Füßen und Händen
+    * maligne Entartung einzelner Effloreszenzen möglich
+    * Kein Schleimhautbefall
+
+####Gutartige Orolaryngeale Schleimhauterkrankungen
+#####Fokale epitheliale Hyperplasie (M. Heck)
+  * *Erreger*: HPV 13, 32
+  * *Epidemiologie*
+    * v.a. Indianer, Südarmerikaner, Asiaten
+    * v.a. Kinder und Jugendliche
+  * *Klinik*: warzige Papeln und Plaques an Mundschleimhaut und Lippen
+
+
+#####Konjunktivalpapillome, nasale Papillome
+  * *Erreger*: HPV 6,11
+
+####Orolaryngeale Schleimhauterkrankungen mit Entartungsrisiko
+#####Orale Papillome
+  * *Definition*; benigner Tumor der Schleimhautepithels
+  * *Erreger*: HPV 2,6, 11, 16
+  * **Orale Papillomatose** = multiples Auftreten
+
+#####Leukoplakie
+  * *Erreger*: HPV 2, 6, 11, 16
+  * *Auslöser*
+    * idiopathisch
+    * chronisch exogene Reizeinwirkung: Nikotin, Alkohol, mechanische Reize
+  * *Klinik*: 
+    * weiße, nicht abwischbare Effloreszenzen der Schleimhaut
+    * Keratinisierungsstörung mit zellulären und epithelialen Atypien
+    * fakultative Präkanzerose
+
+#####Larynxpapillom/Kehlkopfpapillom
+  * *Erreger*: HPV 6, 11
+  * *Epi*: häufig unter der Geburt erworben
+  * *Klinik*:
+    * blumenkohlartiger, blass-roter Tumor im Bereich des Kehlkopfes
+    * Heiserkeit und Behinderung der Atmung je nach Lokalisation
