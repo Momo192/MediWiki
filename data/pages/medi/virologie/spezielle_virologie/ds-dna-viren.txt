@@ -63,6 +63,7 @@ Induktion primär benigner Tumoren (Warzen, Kondylome) -> Einteilung
     * Alter: Häufigkeitsgipfel im 20.-25 LJ
     * *Übertragung*: Sexualverkehr und Geburt
 
+###Erkrankungen
 ####Gutartige Hauterkrankungen
 #####Verrucae vulgares
   * *Synonym*
@@ -162,3 +163,104 @@ Induktion primär benigner Tumoren (Warzen, Kondylome) -> Einteilung
   * *Klinik*:
     * blumenkohlartiger, blass-roter Tumor im Bereich des Kehlkopfes
     * Heiserkeit und Behinderung der Atmung je nach Lokalisation
+
+####Anogenitale Schleimhauterkrankungen mit Entartungsrisiko
+#####Condylomata acuminata (Feigwarzen)
+  * *Erreger:*: HPV 6, 11 (> 90%)
+  * *Inkubationszeit*: Wochen bis Jahre
+  * *Effloreszenz*: exophytische, beetförmig angeordnete Knötchen
+  * *Lokalisation*
+    * anogenitalbereich
+    * andere Häute und Schleimhäute
+  * *Prognose*: 30% heilen wieder spontan ab
+
+#####Condylomata gigantea (Buschke-Löwenstein)
+  * *Erreger*: v.a. HPV 6 und 11
+  * *Definition*: Stark exophytisch wachsendes Plattenepithelkarzinom mit lokaler Ausbreitung ohne Metastasierungstendenz
+
+
+#####Condylomata plana
+  * *Erreger*: HPV 16, 18 (31)
+  * *Definition*: Flache, weiß-bräunliche, nur lkeicht erhabene, gestreute Kondylome im Anogenitalbereich mit hohem ENtartungsrisiko
+  * *Assoziierte Neoplasien*: die Infektion mit HPV-Risk-Subtypen wird als wesentlicher Pathomechanismus für die Entstehung des Zervixkarzinoms verantwortlich gemacht
+    * [[Zervikale intraepuitheliale Neoplasien]] (CIN) und [[Zervixkarzinom]]
+    * [[Vulväre intraeptiheliale Neoplasien]] (VIN) und [[Vulvakarzinom]]
+    * [[Vaginale Intraepitheliale Neoplasie]] (VAIN) und Vaginalkarzinom
+    * Plattenpithelkarzinom im Mund, Rachen, Kehlkopf, am After und Penis
+
+###Diagnostik:
+  * Erregernachweis:
+    * Histologie: Nachweis von Koilozyten (Ballon-Zellen)
+    * PCR: Nachweis von HPV-DNA
+    * Fluoreszenz-in-Situ-Hybrisierung
+
+###Therapie
+  * *Operative Therapie*: 
+    * *Kryotherapie*: Kälteanwendung mit Co2, N2O oder N2 bei einzelnen kleinen Kondylomen
+    * *operativ*: Kürretage, Laser- oder Elektrokoagulation bei ausgedehntem Kondylombefall
+  * *Medikamentös*:
+    * lokal zytostatische Therapie:
+      * 5-Fluoruracil, Pdophyllotoxin
+      * Virostatika
+      * Immunstimmulation: 
+        * Imiquimod: provoziert lokal begrenzter EZ -> lokale AK-Produktion -> Interferon-Produktion -> Tumorhemmend
+        * Interferon
+  * *Hausmittel*
+
+###Prävention: HPV-Impfung
+  * *Impfstoff*: 
+    * rekombinanter Impfstoff -> Expression in Pflanzenzellen
+    * AG = L1-Protein = **Kapsidprotein VP1** -> formiert sich spontan zu VPL = **Virus like partikel** -> hohe Immunogenität -> Induktion virusneutralisierender AK
+  * *Indikation*:
+    * möglichst vor dem 1. Geschlechtsverkehr
+    * junge Frauen zwischn 9 bis 14 Jahren
+  * *Präparate*
+    * **Gardasil**: 
+      * Wirksam gegen: 
+        * HPV 18 + 18 -> 70% der Cervix-Karzinome
+        * HPV 6 + 11 ->  90% der Condylomata accuminata und Larynxpapillome
+      * 3 Impfungen: 0, 2, 6 Monate
+    * **Cervarix**
+      * Wirksam gegen HPV 16, 18
+      * Adjuvanz: verstärkte lokale EZ-Reaktion an der Einstichstelle
+
+##Polyomaviridae
+###Erreger
+  * *Nukelinsäure*: zirkuläre ds-DNA
+  * *Kapsid*: Ikosaede, ohne Hülle
+  * *Größe*; 44-55 nm
+  * *Viren*: BK-Virus, VC-Virus
+
+
+###JC-Virus
+  * *Erreger*: Lösen das Krankheitsbild der **progressiven multifokalen Leukoenzephalopathie (PML)** aus
+  * *Epidemiologie*: Durchseuchung: 5090%
+  * *Übertragung*: Schmierinfektion
+  * *Pathogenese*:
+    * *Primärinfektion*: hämatogene Streeung -> zirkuläre virale DNA persistiert episomal in der Zelle
+    * Überführung in *Produktive Replikationsphase*
+      * Bei schwerer Immunsuppression
+      * lymphoproliferative Erkrankungen
+  * *Klinik*:
+    * *Primärinfektion*: inapparent
+    * *Produktive Phase*
+      * vielfältige motorische, sensorische und kognitive Störungen habhängig von der Lokalisation der ZNS-Herde
+      * Fokal-neurologische Symptome: Hemiparesen, Sensibilitätsstörungen, Aphasie, Ataxie
+      * Wesensveränderungen
+  * *Prognose*: ohne Therapie Tod nach 6 Monaten
+  * *Diagnostik*: Liquor: JC-Virus-DNA in PCR
+
+###BK-Viren
+  * *Erreger* der **Polyomavirus-Nephropathie** unter Immunsuppression
+  * *Epidemiologie*; 
+    * Übertragung aerogen im Kindesalter
+    * Durchseuchung der Bevölkerung bis 100%
+    * Nach Primärinfektion lebenslange Persistenz in der Niere
+  * *Pathogenese*: siehe [[medi:virologie:spezielle_virologie:ds-dna-viren#jc-virus]]
+    * Übergang in Produktive Phase bei 5% der **Nierentransplantierten**
+  * *Klinik*
+    * *Primärinfektion*: gelegentlich respiratorische Probleme, Zystitis
+    * *Produktive Phase*;
+      * hämorrhagische Zystitis
+      * Stenose der Harnleiter
+  * *Therapie*: symptomatisch
