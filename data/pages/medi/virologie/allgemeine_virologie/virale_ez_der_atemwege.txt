@@ -1,0 +1,54 @@
+#Virale EZ der Atemwege
+##respiratorische Viren
+  * *Grippe* -> [[medi:virologie:spezielle_virologie:ss_-_-rna-viren#influenzaviren]]
+    * schneller Nachweis innerhalb von 30-60 Minuten möglich
+    * 3 Typen
+  * *Grippaler Infekt*
+    * Parainfluenzavirus
+      * Schnell-Nachweis innerhalb von 30-60 Minuten möglich
+      * Klinisch häufig: Pseudokrupp
+      * 3 Typen
+    * Respiratory syncitial Virus
+      * schnell Nachweis innerhalb von 30 bis 60 Minuten möglich
+    * Wu-Polyomavirus
+    * Ki-Polyomavirus
+  * *Banale Erkältung*
+    * Rhinoviren > 110 Typen
+    * Echo- und Coxsackie-Viren > 60 Typen
+    * Coronaviren
+      * 4 Typen
+    * Adenovirus
+      * 41 Typen
+      * Schnell-Nachweis innerhalb von 30-60 Minuten möglich
+
+##Klinische Unterscheidung von Grippe und Erkältung
+  * **Bahnale Erkältung**
+    * *Synonyme*
+      * Husten-Schnupfen-Heiserkeit
+      * Common cold diesease
+    * *Inkubationszeit*: 1-2 Tage
+    * *Erkrankungsbeginn*: langsame Verschlechterung
+    * *Symptome*
+      * *Kopfschmerzen*: dumpf bis Leicht
+      * *Schnupfen*: oft Niesen, laufende bzw. verstopfte Nase
+      * *Fieber*: meist gering
+      * *Husten*: geringer Hustenreiz
+      * *Halsschmerzen*: oft Halskratzen, Heiserkeit
+      * *Müdigkeit*: ABgeschlagenheit
+    * *Dauer*: i.d.R. /d
+  * **Grippe**
+    * *Synonym*: Influenza
+    * *Inkubationszeit*: 2-4d
+    * *Erkrankungsbeginn*: rasche, abrupte Verschlechterung
+    * *Symptome*:
+      * *Kopfschmerzen*: stark bis bohrend
+      * *Schnupfen*: teilweise auftretend
+      * *Fieber*: hoch, über 39°C
+      * *Gliederschmerzen*: stark
+      * *Husten*: trockener Husten, schmerzhaft, meist ohne Schleim
+      * *Halsschmerzen*: stark, mit Schluckverschwerden
+      * *Mpdigkeit*: schwer mit Appetitlosigkeit, Kreislaufbeschwerden
+    * *Erkrankungsdauer*:
+      * 7-14 d
+      * anfänglich ohne erkennbare Besserung
+    * Bei Kindern häufig: Übelkeit, Erbrechen, Durchfall

@@ -367,3 +367,116 @@
     * Weiteres:
       * Bei Bissverletzung immer auch an Tetanusprophylaxe denken
       * einzige Impfung die auch nach der Infektion wirksam ist
+
+##Orthomyxoviridae
+###Influenzaviren
+####Erreger Eigenschaften
+#####Aufbau
+  * *Genetik*
+    * ss(-)-RNA
+    * 8fach segmentiertes Genom
+  * *Hülle*
+    * **Hämagglutinin (H)**
+      * trimäres Protein
+      * Rezeptor zum andocken an Endothelien der Atemwege
+      * induziert neutralisierende AK
+    * **Neuraminidase**
+      * quartäres Protein
+      * Enzym zur Freisetzung der Viren -> Abtrennung von Zellmembran
+      * Ansatzpunkt der Virosstatika
+
+#####Taxonomie
+    * **Influenza A-Virus**
+      * H1N1
+        * Schweine-Influenza A Virus: H1swN1 ist eine Subtyüenvariante von H1N1. Derartige Varianten treten in jeder neuen Influenza-Saison auf. Sie werden weltweit verbreitet, es handelt sich aber nicht um eine Pandemie.
+      * H2N2
+      * H3N2
+    * **Influenza B-Virus**: seltner und mildere Klinik
+      * B/Victoria
+      * B/Yamagata
+    * **Influenza C-Virus**
+
+#####Variabilität
+  * **Antigendrift**
+    * *Def*: Geringfügige Veränderung der Antigenstruktur (Hämagglutinin und/oder Neuraminidase) durch Punktmutation durch Mutationsfreudigkeit des Influenzavirus
+    * Führt zur Entstehung einer neuen **Subtypvariante** 
+      * die Bezeichnung des Subtyps verändert sich dadurch nicht
+      * bedingt häufige saisonale Grippe-Wellen -> jährliche Gruppe-Impfung
+      * Neutralisierende AK -> anhaltenden Druck auf den Virus -> Virusvariante
+  * **Antigenshift**
+    * *Definition*: bei einer Ko-Infektion zweier Influenza-Subtypen in der Mischmaschine Schwein können durch Austausch ganzer Gen-Abschnitte (**Reassortment**) zwischen Viren neue Influenza-Subtypen entstehen (z.B. H3N1 -> H2N1)
+      * Schwein kann als einziges doppelt infiziert werden mit aviärem und humanem Influenza A Virus
+    * Dabei entsteht eine völlig neues Virus -> Pandemie kann ausgelöst werden
+    * Neue Benennung
+
+#####Geschichte 
+  * 1518: sudor anglicus: 1. beschriebene Grippe
+  * 1889: H2N2 -> R. Pfeiffer entdeckt die "Inluenza-Bazillen"
+  * 1918: H1N1 (**spanische Grippe**): Mutiertes Vogelvirus
+  * 1957: H2N2 (asiatische Grippe)
+  * 1968: H3N2 (Honkong-Grippe)
+
+####Epidemiologie
+  * *Verbreitung*: Weltweit
+    * einziges Virus mit pandemischen Charakter 
+    * Epidemien im Winter: trockene Luft -> Partikel halten sich länger in der Luft. Verlauf
+      * Beginn der Influenza-Saison im Oktober
+      * Gipfel der Erkrankung von Januar bis Mitte März
+        * In D: einige 100 000 bis Mio Erkrankungen / Saison
+        * in 50% wird ein Arzt aufgesucht
+        * 5. 000 bis 40 000 Todesfälle pro Saison
+        * Krankheitsdauer: 5-6 Tage
+      * Krankenhaus
+        * Kinder und Later
+      * Hohe Wirtschaftliche Kosten
+  * *Infektionsweg*:  **Tröpfchen- und Schmierinfektion**
+    * durch Niesen und Husten in die Luft
+    * Vorhalten der Hand -> können mehrere Stunden auf der Hand überleben -> Schmierinfektion auf unbelebte und belebte Objekte
+  * *Risikogruppen*
+    * Kinder < 1 Jahr
+    * Ältere Menschen > 65 Jahre
+      * Bei > 80 Jahre Sterblichkeit > 60%
+    * Grundleiden:
+      * COPD
+      * HKL
+      * Leber, Nierenerkrankungen
+      * Stoffwechselleiden
+#####Pandemie
+  * *Definition*: kann sich innerhalb von 6 Monaten über die ganze Welt verbreiten
+  * *Pandemie-Warnstufen*
+    * Stufe 1: keine neuen Subtypen beim Menschen, es können aber Viren unter Tieren kursieren, das Anschteckungsrisiko für den Menschen ist aber gering
+    * Stufe 2: Wie Stufe 1 allerdings besteht ein substantielles Risiko das Menschen erkranken
+    * Stufe 3: 
+      * Beginn Alarmphase
+      * Einzelne Menschen infizieren sich mit einem neuen Virus-Subtyp
+      * Übertragungen von Mensch zu Mensch gibt es keine
+    * Stufe 4: 
+      * vereinzelte Übertragung von Mensch zu Mensch
+      * die Infektionen sind örtlich begrenzt -> noch nicht gut an den Menschen angepasst
+    * Stufe 5: 
+      * Infektionen häufen sich
+      * Übertragung von Mensch zu Mensch bleiben örtlich begrenzt
+      * Virus passt sich immer besser an den Menscen an
+      * es besteht ein großes Pandemie-Risiko
+    * Stufe 6: Pandemiephase
+
+
+####Klinik
+#####Akute Infektion
+Siehe [[medi:virologie:allgemeine_virologie:virale_ez_der_atemwege#klinische_unterscheidung_von_grippe_und_erkaeltung]]
+#####Komplikationen
+  * Pneumonie
+    * Virusverursachte Pneumonie
+      * immer lebensbedrohlich
+      * Säuglinge und Alte Menschen
+    * **Sekundäre Pneumonie**
+      * häufigste Komplikation v.a. bei älteren oder immunkompromitierten Personen
+      * nach einer kurzen Phase der Besserung -> Rückfall mit Entwicklung einer sekundären (bakteriellen) Pneumonie
+      * Erreger
+        * [[Staphylococcus aureus]]
+        * [[Streptococcus pneumoniae]]
+        * [[Haemophilus influenzae]]
+  * Myokarditis
+  * Otitis Media
+  * Meningitis, Meningo-Enzephalitis
+  * Guillain-Barré-Syndrom
