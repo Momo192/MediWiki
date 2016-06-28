@@ -562,3 +562,59 @@ s
   * Mensch-zu-Mensch-Übertragung beschrieben
 s
 ###Ebola-Virus
+####Arten
+  * Arten:
+    * Zaire-Virus
+    * Sudan-Ebolavirus
+    * Côte-d'Ivoir-Ebolavirus
+    * Uganda-Ebolavirus
+    * Reston (asiatisches)-Ebolavirus
+  * Subtypen: 14
+
+####Herkunft:
+  * Zentralafrika
+    * Ausnahme: Reston aus Asien
+  * 1976: erster bekannter Ausbruch im Kongo
+
+
+####Übertragung
+  * *Reservoir*: 
+    * nicht zweifelsfrei bekannt
+    * Wahrscheinlich Fledermäuse (Flughunde)
+  * *Übertragung*:
+    * kontakt mit infiziertem Reservoirtier
+    * Kontakt mit toten oder kranken WIldtieren z.B. Affen
+    * Mensch-zu-Mensch-Übertragung: Körperkontakt, Ausscheidungen
+    * Tröpfcheninfektion (nicht Luft, Wasser, Essen)
+    * Umgang nur in S4-Sicherheitslaboren
+  * *Begünstigende Faktoren der Ausbreitung in Westafrika*
+    * Bestattungszeremonien
+      * Transport an den Geburtort z.B. in Taxis
+      * Berühren und Küssen der Verstorbenen
+    * Große Mobilität der Bevölkerung, kaum Grenzkontrollen
+    * Misstrauen gegenüber den eigenen Behörden und fremden Helfern
+
+
+####Klinik
+  * *Inkubationszeit*: 2-21 Tage
+  * *Frühsymptome*: 
+    * hohes Fieber
+    * massive Kopf- und Muskelschmerzen
+    * Schüttelfrost
+    * Halsschmerzen. Übelkeit, Erbrechen
+  * Blutungen in Uagenbindehaut und in Schleimhaut des Rachens
+  * schwere Hämorrhagien in Magen-Darm-Trakt, Lunge, Mundschleimhaut
+  * Verbrauchskoagulopathie
+  * Viren nachweisbar in allen Körperflüssigkeiten
+  * Tod nach 5-9 Tagen durch innere Blutungen und Schockzustand
+    * 40% Tod
+
+####Therapie
+  * rasch einsetzende Dehydriereung durch orale oder parenterale Wasser- und Elektrolytsubstitution verhindern
+  * Virusspezifische Therapie nicht verfügbar
+
+####Prävention
+  * Expositionsvermeidung
+  * aktiver Impfstoff in Erbrobung
+  * Passive Immunisierung
+
