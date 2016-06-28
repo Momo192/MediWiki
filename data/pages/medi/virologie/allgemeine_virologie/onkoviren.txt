@@ -1,5 +1,6 @@
 #Onkoviren
 ca. 15% aller Tumorerkrankungen Weltweit sind Folge einer Virusinfektion. In Entwicklungsländern ist es sogar jedes 4. Tumorleiden.  
+
 ##Mechanismen der Tumorentstehung
   * **Onkogene DNA-Viren**
     * Mechanismus: Veränderung der DNA der Wirtszelle sodass Protoonkogene, Tumoresuppressorgene und die regulierende Gene der Apoptose nicht mehr richtig abgelesen werden könne -> Inaktivierung der eigenen Zellzyklusregulation

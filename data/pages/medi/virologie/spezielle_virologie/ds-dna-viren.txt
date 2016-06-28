@@ -12,3 +12,36 @@
         * gehäuftes Auftreten von Fieberkrämpfen
       * Anschließend abrupter Abfall der Temperatur mit Ausbildung eines sich rasch ausbreitenden, feinfleckigen, makulösenm stammbetonten Exanthems
         * oft nur wenige Stunden bis max. 3 Tage zu sehen
+
+
+##Papillomaviridae
+###Allgemeine Eigenschaften
+####Aufbau
+  * sphärischer Aufbau, ohne Hülle
+    * Kapsid mit Kapsidproteinen L1 und L2 (L1 = Hauptkapsidprotein)
+  * ds-DNA
+    * LCR: Kontrollregion
+    * E1-E7: early genes (E6.-E7: onkogenes Potential)
+  * 150 Typen sind bekannt
+    * 125: Epithelzellen der Haut und Schleimhaut
+    * 32: Haut des Anogenitalbereiches
+
+####Einteilung und Pathogenese
+Induktion primär benigner TUmoren (Warzen, Kondylome) -> Einteilung
+  * **Low-Risk-Subtypen**: v.a. Typ 6 und 11
+    * Eintritt durch Läsion -> Besiedelung von Zellen der Basalschicht
+    * Virale Geneypression -> Replikation des Genomsin Form weniger Kopien die episomal vorliegen
+    * Bei Teilung der Basalzellen und Differenzierung -> Weitergabe von multiplen viralen Genokopien an die Nachkommenzellen
+      * Virus inhibiert antiproliferativ wirkende zelluläre Proteine (E6 und E7 interagieren mit p53, EB105) -> Warzenbildung
+    * Erst bei Differenzierung im Stratum corneum -> Voller Replikationszyklus
+    * Zelltod mit Lyse -> Freisetzung infektiöser Partikel
+  * **High-Risk-Subtypen**: z.B. HPV 16, 18
+    * Virale Proteine E6 und E7 interagieren mit TUmorsuppressorproteine
+      * Integration des viralen Genoms in das humane Genom 
+      * vs. bei low risk Typen: Genom liegt episomal vor
+    * Zerstörung des viralen Proteins (E2)
+      * notwendig für den vollen Replikationszyklus von HPV
+      * kontrolliert die Expression von E6 und E7 -> wird nicht mehr kontrolliert -> Überexpression -> Zunehmende Suppression der Tumorsuppressorproteine 
+    * Transformation der Zelle
+      * weitere exogene Faktoren notwendig
+      * Bei High-Risk Typen haben E6 und E7 eine deutlich höhere Affinität zu den zellulären Tumorsuppressorproteinen

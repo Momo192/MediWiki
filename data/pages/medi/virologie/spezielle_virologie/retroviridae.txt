@@ -168,7 +168,7 @@
         * Frühphase
         * Neugeborene
         * unter antiviralöer Therapie
-      * **Mechanismus*
+      * *Mechanismus*
         * Nachweis der proviralen DNA: PCR
         * Nachweis der viralen RNA: RT-PCR
           * durch exogen zugegebene Reverse Transkriptase wird die virale RNA in cDNA umgeschrieben und dann das Produkt einer PCR unterzogen
@@ -185,3 +185,35 @@ Als Kombinationstherapie: **HAART** = highly active antiretroviral therapy
     * > 10 000 Viruskopien im Blut
   * *Durchführung*: 
     * Kombination aus mindestens 3 antiviralen Substanzen -> Vermeiden von Resistenzen
+      * **Nukleosidische Reverse-Transkriptase Inhibitoren (NRTI)**
+        * z.B. Zidovudin, Lamivudin, ABacavir
+        * *Mechanismus*: fungieren als falsche DNA-Bausteine und unterbrechen die reverese Transkriptase
+      * **Nicht-nukleosidische Reverse-Transkriptase-Inhibitoren (NNRTI)**
+        * z.B. Nevirapin, Efavirenz
+        * *Mechanismus*: Binden nicht kompetitiv an die Reverse-Transkriptase und verringern deutlich ihre Aktivität
+      * **Protease-Inhibitoren** (PI)
+        * z.B. Indanivir, Ritonavir, Lopinavir
+        * *Mechanismus*: Protease ermöglicht normalerweise die proteolytische Freisetzung bestimmter Virusproteine -> Hemmung: es entstehen noch Viren, diese sind aber unreif und nicht infektös
+      * **Fusionsinhibitoren**: unterbrechen den Eintrittsvorgang des Virus in die Zelle
+  * *Problem: Resistenzen*
+    * fehlendes Proof-Reading + Selektionsdruck der Medikamente -> Mutationen
+    * Vermeidung: Replikationsaktivität des Virus muss inhibiert werden aber heute stehen nur Therapeutika zur Verfügung die replikationsaktive Viren Angreifen
+
+###Prävention
+####Allgemeines
+  * Kondome
+  * sterile Instrumente beim Drogenkonsum
+  * Für medizinisches Personal: Schutzmaßnahmen wie Hep B
+
+
+####Postexpositionsprophylaxe
+  * *Indikation*
+    * Verletzung mit HIV-kontaminierten Instrumenten
+    * Benetzung von Wunden oder Schleimhaut mit HIV-kontaminierten Flüssigkeiten
+    * Ungeschützter Geschlechtsverkehr mit HIV infizierten
+  * *Medikamentöse PEP* 
+    * über 30d
+    * Substanzen: ähnlich HAART
+
+####Meldepflicht
+nicht namentlich
