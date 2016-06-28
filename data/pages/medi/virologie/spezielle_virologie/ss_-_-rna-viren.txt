@@ -429,6 +429,8 @@
       * Krankenhaus
         * Kinder und Later
       * Hohe Wirtschaftliche Kosten
+  * *Reservoir*: 
+    * Wasservögel -> Übertragung auf Haustiere -> Übertragung auf Mensch
   * *Infektionsweg*:  **Tröpfchen- und Schmierinfektion**
     * durch Niesen und Husten in die Luft
     * Vorhalten der Hand -> können mehrere Stunden auf der Hand überleben -> Schmierinfektion auf unbelebte und belebte Objekte
@@ -441,6 +443,8 @@
       * HKL
       * Leber, Nierenerkrankungen
       * Stoffwechselleiden
+
+
 #####Pandemie
   * *Definition*: kann sich innerhalb von 6 Monaten über die ganze Welt verbreiten
   * *Pandemie-Warnstufen*
@@ -480,3 +484,81 @@ Siehe [[medi:virologie:allgemeine_virologie:virale_ez_der_atemwege#klinische_unt
   * Otitis Media
   * Meningitis, Meningo-Enzephalitis
   * Guillain-Barré-Syndrom
+
+####Diagnostik
+  * **Antigennachweis**
+    * *Schnelltest mittels Immunchormatographie*: 
+      * 15-30 Minuten
+      * Abstrich von Nasen- und/oder Rachenschleimhäuten
+      * hohe Spezifizität, geringe Sensitivität
+    * *Schnelltest mittels Immunfluoreszenz*
+      * 60-120 Minuten
+  * **Kurz-Anzucht** in Zellkultur
+    * 24-48h
+  * **Nukleinsäurenachweis mittels PCR**
+    * 3-5h
+
+####Therapie
+  * **Neuraminidase Hemmer**
+    * *Mechanismus*; verhindern dass sich die Viren von der Wirtszelle lösen können
+    * *Präparate*; Zanamivir, Oseltamivir
+    * *Vorgehen*
+      * Behandlung so schnell wie möglich, ideal nach 48h
+      * Labordiagnose durch Virusnachweis erforderlich
+        * bei alten Patienten mit atypischer Symptomatik
+        * Am Anfang und Ende einer Epidemie
+
+####Impfungen
+  * *Indikation*; 
+    * Personen > 60 Jahre
+    * Alle Schwangere ibs. für den Schutz des Säuglings innerhalb der ersten 6 Monate
+    * Risikogruppen: 
+      * chronische Krankheiten der Atmungsorgane
+      * Immundefizienz
+      * Bewohner von Alten- unf Pflegeheimen
+    * Impfung aufgrund eines erhöhten beruflichen Risikos (Übertragungsgefahr): medizinisches Personal
+  * *Durchführung*; Jährliche Impfung, optimallerweise im Herbst
+  * *Impfstoff*: STIKO empfielt die Impfung mit Totimpstoffen, wenn möglich mit dem Spaltimpstoff
+    * *Zusammensetzung*: von WHO festgelegte Antigene: für H1N1, H3N2 und für 1-2 Influenza B-Stämme 
+    * *Herstellung*
+      * Schaffen von Reassortanten = Saatviren
+      * 95% der Impfstoffe aus embryonierten Hühnereiern -> cave. Hühnereiweißallergien
+    * *Verfügbare Impfstoffe*
+      * Spaltimpfstoffe: inaktive antigene Partikel eines Erregers
+      * Bei Alten Menschen: Adjuvanz Zugabe
+      * Kinder: Nasenspray mit Lebendimpfstoff
+
+##Filoviren
+###Allgemeines
+####Einteilung
+  * *Aufbau*
+    * ss(-)-RNA
+      * helikal angeordnet
+      * von Protein-Komplex umschlossen
+    * helikales, filamentöses Kapsid mit Hülle
+      * 80x14 000 nm -> größtes bekanntes Virus
+    * Lytische Vermehrung
+  * *Humantpathogene Gattungen*
+    * Marburg-Virus -> Lake Victoria-Virus
+    * Ebola-Virus
+
+####Pathogenese des filoviralen hämorrhafischen Fiebers
+  * *Beeinträchtigung der Endothelzellfunktion*
+    * durch direkte virale Infektion -> Virusfreisetzung, "host shut off"
+    * durch Freisetzung entzündlicher varsoaktiver Mediatoren
+  * *Störungen der Leberfunktion*
+    * durch direkte virale Infektion -> Virusfreisetzun, "host shut off"
+    * eingeschränkte Synthese-Leistung von Gerinnungsfaktoren
+  * *Störung des Immunsystems*
+    * ausgeprägte Nekrose der parafollikulären Regionen in der Milz und LK
+    * Virus-Replikation in Monozyten und Makrophagen -> Freisetzung von TNFalpha
+    * Induktion der Apoptose auch in nicht infizierten Lymphozyten durch Virusbestandteile = **Bystander-Effekt**
+    * Verlust von CD8+ Zellen
+    * Hemmung der natürlichen Abwehr durch lösliche virale Hüllproteine
+s
+###Marburg-Virus
+  * 1967 mit Affen aus Uganda in Laboratorien nach Marburg und Belgrad eingeschleppt
+  * Letalität: 20%
+  * Mensch-zu-Mensch-Übertragung beschrieben
+s
+###Ebola-Virus

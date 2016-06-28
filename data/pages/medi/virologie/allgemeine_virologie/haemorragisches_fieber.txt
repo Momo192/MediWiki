@@ -9,7 +9,7 @@
 
 ##Ätiologie
 ###Erreger
-  * [[Ebola-Virus]]
+  * [[medi:virologie:spezielle_virologie:ss_-_-rna-viren#ebola-virus]]
   * [[:medi:virologie:spezielle_virologie:ss_-rna-viren#Dengue-Virus]]
   * [[medi:virologie:spezielle_virologie:ss_-rna-viren#gelbfieber-virus]]
   * [[medi:virologie:spezielle_virologie:ss_-_-rna-viren#hanta-virus]]
