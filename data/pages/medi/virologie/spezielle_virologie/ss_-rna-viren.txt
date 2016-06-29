@@ -330,7 +330,7 @@ e
   * ab dem 19Jhd Epidemien
   * 150 000 Fälle weltweit 1992
   * Europa Polio-Frei seid 2002
-  * 98% aller Fälle in Nigeria, 
+  * 98% aller Fälle in Nigeria, Pakistan und Indien
   * Geschichte:
     * Roosevelt:
       * 1921: Poliomyelitis
@@ -475,3 +475,23 @@ Die Infektion verläuft in > 90% der Fälle asymptomatisch.Weniger als 10% sind 
     * Schwere Pneumonien
     * Teils akutes Nierenversagen
 
+##Caliciviridae
+###Norovirus
+####Eigenschaften:
+  * kommt nur beim Menschen vor
+  * Übertragung fäkal-oral und durch Aerosole die beim Erbrechen entstehen
+  * Hohe Kontagiosität (10-100 Viruspartikel genügen)
+
+####Epidemiologie
+  * Ibs. in den kälteren Monaten
+  * Gemeinschaftseinrichtungen haben durch unmittelbare Nähe der Kontaktpersonen ein erhöhtes epidemisches Risiko (Altenheime, Krankenhäuser)
+  * Häufigkeit: 50% aller nicht bakteriellen GI-Erkrankungen des Erwachsenen
+
+####Klinik
+  * *Inkubationszeit*: wenige Stunden bis einige Tage
+  * *Symptome*: schwallartiges Erbrechen mit gleichzeitig wässriger Diarrhö
+    * i.d.R. Abklingen nach 1-3 Tagen
+
+####THerapie
+  * Symptomatische Therapie mit Wasser- und Elektrolytsubstitution
+    * *Cave*: Exsikkose nicht unterschätzen
