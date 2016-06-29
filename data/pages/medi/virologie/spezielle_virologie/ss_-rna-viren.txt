@@ -304,6 +304,11 @@ e
   * Vermerhung beschränkt sich auf die lokale Eintrittspforte (Nasopharynxepithel)
   * Erreger der **Rhinitis acuta**
 
+####Rhinitis acuta = common cold
+  * *Übertragungsweg*: Tröpfchenübertragung v.a. in den Wintermonaten
+  * *Erreger*: 
+    * meist Viral aber auch Bakterien als Sekundärinfektionen
+    * Kühle Nase in Winter -> verminderte Durchblutung -> Erhöhte Anfälligkeit für virale Infekte
 
 ###Enteroviren
   * *Einteilung*
