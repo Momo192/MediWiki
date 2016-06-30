@@ -13,6 +13,14 @@
   * 1948-55: Sanders: Vermehrung von Polioviren in Zellkultur
 e
 ##Translation und Replikation des viralen Genoms
+###DNA- und RNA-Virus
+Sonderformen:
+
+  * **Virosoide**: Satellitenviren, kleine RNA- oder DNA-Viren
+    * benötigen für ihre Vermehrung die Hilfe eines anderen Virus (z.B. HDV)
+  * **Viroide**: kleine ringförmige RNA-Moleküle bisher nur als Pflanzenpathogene nachgewiesen (z.B. Cadang-Cadang)
+
+Allgemeine Einteilung:
   * **DNA-Virus**: direkte Integration der viralen DNA in die DNA der Wirtszelle, anschließend Transkription uns Translation mit der Ausstattung der Wirtszelle
   * **RNA-Virus**: 
     * Je nach Polarität der viralen RNA:
@@ -26,6 +34,71 @@ e
       * Wichtige Vertreter:
         * Deltaretrovirus: Humanes-T-Zell-lymphotrophes VIrus
         * Lentivirus: [[medi:virologie:spezielle_virologie:retroviridae#hiv]]
+
+####Genetik
+  * **Rekombination**: Bildung neuer Genkombinationen aus genetisch verschiedenen Genomen
+  * **Reassortment**: Rekombination bei segmentierten Genom (z.B. Influenzaviren, Rotaviren)
+    * es kann ein vollständig neues Virus entstehen
+  * **Mutation**: Veränderung des genetischen Materials
+  * **Komplementierung**: Virus benötigt für deine Replikation die Hilfe eines anderen Virus
+    * z.B. Hepatitis D Virus benötigt das Oberflächenantigen (HBsAg) des Hepatitis B-Virus
+  * **Attenuierung**: mutationsbedingte Herabsetzung der Virulenz
+  * **Quasi-Spezies**: Population sehr nahe verwandter Viren in einem Orgnaismus (Zelle)
+    * Erklärung: die Genome der RNA-Virus-Nachkommen unterscheiden sich aufgrund fehlender Korrekturmechanismen (proof-reading) vom Elternvirus (Fehlerquote 10⁻³ bis 10⁻⁴)
+  * **Onkogene Viren**
+    * Onkogene, die im Virus kodiert sind (v-onc)
+    * zelluläre Onkogene (Protoonkogene), die vom Virus aktiviert werden (c-onc)
+
+####Pathogenese
+  * **zytozyde Infektion**: Virusinfektion mit resultierender Zellzerstörung 
+    * **CAP-Snatching**: z.B. durch Influenza a -> wird an die Indluenza mRNA angehängt -> Zelle verarmt an zellulärer mRNA -> keine Biosynthese
+    * **Zerstörung der CAP-Struktur**: Picorna-Virus
+  * **Nicht-zytozide Indektion**: Virusvermehrung und -freisetzung erfolgt ohne Schädigung der Wirtszelle z.B. Hepatitis B Virus
+    * sekundär kann die Immunabwehr infizierte Zellen zerstören
+      * CTC: Erkennung + Abräumung -> Organschäden
+      * AK binden an Zellen -> Komplement
+      * AK + ADCC: durch NK
+  * **virale Onkogenese**
+    * Tumorentwicklung in mehreren Schritten (z.B. Epstein-Barr-Virus)
+    * Hit-and-Run-Mechanismus (z.B. Papillomavirus)
+    * Indirekte Mechanismen, EZ-Reaktion (z.B. Hep B Virus)
+  * **Akute Infektion**
+    * Mit vollständiger Eliminierung des Virus
+      * kann auch inapparent sein
+      * z.B. Influenzavirus, Rötelnvirus
+    * latente Persistenz mit anhaltender Virusinfektion
+      * Virus ist immer nachweisbar
+      * zunächst ohne klinsiche Symtpomatik
+      * z.B. HIV; HBV, HCV
+    * latente Persistenz mit zwischenzeitlich nicht mehr nachweisbarem VIrus
+      * Reaktivierung mit oder ohne klinische Symptomatik
+      * z.B. Herpesviren
+  * **Persistierende Infektion**: das Virus ist auch nach der Zeit in der die sterile Immunität erworben wurde in 3 Zuständen vorhanden
+    * **Latente Indektion**: Virusgenom ist in der Zell vorhanden, Virusreplikation findet aber nicht statt
+    * **Chronische Infektion**
+      * Das Virus bleibt fortwährend nachweisbar
+      * Organismus zeigt kaum bis keine Symptome
+      * Später entsteht eine Immunkrankheit bzw. Tumorkrankheit
+    * **Slow infektion**: über Jahre unbemerkt verlaufende Infektion, die langsam fortschreitet und immer tödlich endet 
+      * z.B. SSPE durch Masernvirus
+
+###Virusvermehrung
+
+  * **Adsorption** (Anheften): Binden des Virus an die Zelloberfläche (Ligand-Rezeptor-Prinzip)
+  * **Penetration** (Aufnahme): Virus durchdringt die Zellmembran
+  * **Uncoating**: Freisetzung der viralen Nukleinsäure in der Zelle
+    * DNA-Virus: automatischer Transport in die Zellkern 
+      * Ausnahme: Pockenvirus
+    * RNA-Virus: Verbleib im Zytoplasma
+  * **Biosynthese**: Synthese viraler Proteine und Nukleinsäuren
+  * **Maturation** (Reifung, Morphogenese):
+    * Zusammenbau neuer Viruspartikel (Nukleokapsid)
+  * **Freisetzung**
+    * durch Lyse der Wirtszelle -> zytopathogener Effekt
+    * Exozytose: "budding" -> Entstehung von Hülle
+  * **Eklipse**: Zeitspanne vom Verschwinden des in der Zelle eingetretenen Virus bis zum Auftreten der ersten Virusnachkommen
+    * in diesem Zeitraum ist weder freies noch zellgebundenes Virus nachweisbar
+
 
 ##Epidemiologie
   * **Epidemie**: stark gehäuftes, örtlich und zeitlich begrenztes auftreten einer Erkrankung
