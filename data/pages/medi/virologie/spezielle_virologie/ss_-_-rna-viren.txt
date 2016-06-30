@@ -121,6 +121,36 @@
         * Masernvirus
       * Respirovirus: Parainfluenzavirus
 
+###Respiratory-Syncytial-Virus (RSV)
+####Eigenschaften
+  * befällt die zilientragenden Epithelien der Atemwege
+  * Mensch ist der einzige Wirt (betroffen sind v.a. Kinder)
+  * Hohe Kontagiosität
+    * sehr Umweltresistent
+    * wird durch Tröpfcheninfektion übertragen
+    * in Kinder- und Säuglingsstationen: Nosokomiale Infektionen
+  * Spezifischer Virulenzfaktor
+    * Sogennantes F-Protein führt zur Ausbildung von Synzytien (Fusion mit nicht infizierten Zellen)
+  * Können durch "Antibody dependent Enhancement" kompliziert werden
+
+####Bronchiolitis
+  * *Definition*: Bronchitis der Bronchiolen und kleinen Bronchien (untere Atemwege)
+  * *Epidemiologie*: 
+    * häufige Erkrankung im Kindes- und Säuglingsalter
+    * kann im höheren Alter wieder erworben werden
+  * *Klinik*:
+    * hohes Fieber
+    * Zeichen der Dyspnoe
+      * u.a. Tachypnoe, Nasenflügeln, Zyanose
+    * Verlängertes Exspirium, Husten
+  * *Prophylaxe*
+    * Für Säuglinge und Kleinkinder mit Risikofaktoren (Frühgeburt, Herz- oder Lungenerkrnakungen) gibt es einen monklonalen AK mit als passiven Impfstoff. Wirkung hält nur wenige Wochen an
+  * *Diagnsotik*: Nasen-Rachen-Abstrich mit Antigen-Schnelltest zur Erregerdiagnostik
+  * *Therapie*
+    * Stationär mit Monitorkontrolle aufgrund der Apnoegefahr
+    * Symptomatisch
+
+
 ###Masernvirus
 
 ####Eigenschaften
@@ -135,8 +165,10 @@
       * Schädigung des Flimmerepithels begünstigt Superinfektion
       * Lymphotroph: Infektion von Makrophagen -> Transport in LK
     * Regionale LK: Replikationsphase mit Lymphopenie und Defiziten des IS -> Virämie
+      * Ziel: dendritische Zellen -> Folge: Zell-Lyse -> Mangel an IL 12 -> **Anergie** des Immunsystems -> Auslösung von Sekundärinfektionen
     * Hämatogene Aussaht: Befall der Zielorgane Haut und Obere Atemwege
     * Vermehrung in vielen Organen
+
 
 ####Symptome und Klinik
   * *Inkubationszeit*;

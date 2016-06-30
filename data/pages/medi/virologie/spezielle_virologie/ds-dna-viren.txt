@@ -42,7 +42,143 @@
 ####Klinik 
 #####Erstinfektion
   * meist asymptomatisch
-  * 
+  * **Gingivomastitis herpatica = Stomatitis herpativa = Mundfäule**
+    * Primärinfektion im Kindesalter und bei immunsupprimierten
+    * *Symptome*: 
+      * Schwere Allgemeinsymtpmatik
+      * Fieber, LK-Schwellung
+      * Rötung und Erosionen in gesamter Mundschleimhaut
+    * *Therapie*: Aciclovir
+#####Reinfektion: Herpes labialis
+*Definition*: rezidivierende schmerzhafte Blässchen an Mund- und Lippenschleimhaut
+#####Komplikationen
+######Herpes-Simplex Enzephalitis
+    * *Epidemiologie*: 
+      * 10-20% der Enzephalitis-Fälle
+      * 50% der Todesfälle durch Enzephalitis
+    * *Erreger*
+      * *HSV 1*: akute nekrotisierende Enzephalitis
+      * *HSV 2*: 
+        * milderer Verlauf
+        * bei Neugeborenen in den ersten 2 Wochen: akute nekrotisierende Enzephalitis
+    * *Pathologie*: N.olfactorius -> ggl. gasseri -> Basalganglien
+    * *Akute nekrotisierende Enzephalitis*
+      * Prodromalstadium mit Kopfschmerzen und Fieber
+      * Fokale Symptomatik mit Krampfanfällen
+      * Koma
+    * *Enzephalitis des Neugeborenen*:
+      * akute lebensbedrohliche, hämorrhagisch-nekrotisierende EZ des Gehirns mit bevorzugtem Befall des limbischen Systems, frunto- und temporobasal
+
+######Ekzema herpaticum
+  * *Definition*: Befall der Haut auf dem Boden einer atopischen Dermatitis. 
+  * *Erreger*: HSV 1 und 2
+  * *Symptome*: Blässchen-Bildung auf der Haut
+
+######Erythema multiforme
+*Definition*: durch Verbrennungen oder Trauma geschädigte Haut ist sehr empfänglich für HSV1 und HSV 2 Infektionen
+
+######Augenbeteiligung
+  * *Keratitis dendritica*: Befall der Kornea
+  * *Keratitis disciformis*: Befall tieferer Hornhautschichten
+
+###HHV 3 = Varizella Zoster Virus
+alpha-Herpesvirus -> Therapie mit Aciclovir
+
+####Primärinfektion: Windpocken
+  * *Epidemiologie*
+    * auftreten im Kindesalter
+    * hohe Kontagiosität 
+    * bis 16 sind 90% erkrankt
+    * *Infektiosität*: 2 Tage vor auftreten des Exanthems bis 5 Tage danach
+  * *Infektionsweg*
+    * aerogen über Tröpfchen
+    * Kontakt mit infektösem Sekret
+  * *Symptomatik*:
+    * Inkubationszeit: 2 Wochen
+    * unspezifische Prodromi
+    * **Heuberische Sternenkarte**
+      * initial Papeln -> Vesikel mit klarer Flüssigkeitund gerötetem Grund -> Aufplatzen und Verkrustung
+      * Juckreiz
+      * schubweiser Verlauf
+      * vom Stamm ausgehend
+      * auch behaarte Kopfhaut befallen, Mundschleimhaut (Enanthem)
+  * *Therapie*: symptomatisch
+  * *Komplikationen*:
+    * Haut: 
+      * Narbenbildung
+      * bakterielle Superindektion der Krusten
+    * Lunge: Pneumonie bei Erwachsenen
+    * ZNS: selbstlimitierende Cerebellitis
+    * Schwangere: Konnatales Varizellensyndrom
+  * *Prophylaxe*: Impfung
+    * 3fach Lebendimpfung mit Masern, Mumps, Röteln
+    * 2x Impfen -> Lebenslanger Schutz
+    * als Grundimmunisierung oder Nachholimpfung
+
+####Herpes Zoster
+  * *Ätiologie*: Immunschwäche (Malignom, Stress, iatrogene Immunsuppression) -> Reaktivierung von VZV -> Ausbreitung entlang von sensorischen Nerven -> Blässchenbildung in einem Dermatom (alle Blässchen im gleichem Stadium)
+  * *Infektiosität*: 
+    * geringer als bei Varizellen
+    * Blässcheninhalt ist infektiös
+  * *Symptomatik*: 
+    * Im Dermatom: 
+      * Parästhesien
+      * Allodynie
+      * starke schmerzen
+    * Reduzierter Allgemeinzustand
+  * *Sonderform*
+    * **Zoster ophtalmicus** : Befall von V1
+    * **Zoster oticus**: Befall von N. facialis und vestibulochochelearis
+    * *Cave*: Gefahr von Visusverlust, Hörverlust und Faszialisparese
+  * *Therapie*: Aciclovir
+  * *Komplikationen*: Post-Zoster-Neuralgie (10-15 %) mit Allodynie = Schmerzen bei Berührung
+
+####Konnatales Varizellensyndrom
+  * *Epidemiologie*: selten da 95% der Bevölkerung Seropositiv
+  * im 1-2. Trimenon:
+    * Hautveränderungen
+    * einseitige hypoplastische, paralytische Atrophie einer Extremität
+    * Katarakt
+    * ZNS-Atrophie
+  * Perinatal: schwerwiegender Varizella-Verlauf beim Neugeborenen mit einer Letalität von 30%
+
+
+### HHV4 = CMV
+
+  * Cytomegalie-Virus
+  * ß-Herpesvirus
+  * Aciclovir wirkt nicht
+  * größtes Virus innerhalb der Herpesviridae
+
+####Epidemiologie
+  * Durchseuchung in D bis zum 30 Lj etwa 35%
+  * Anstieg pro Lebensjahr um 3%
+  * d.h. bis zum 50 LJ etwa 85%
+
+####Pathogenese
+  * Übertragung
+    * Speichel, Blut, Samenflüssigkeit, Vaginalsekret
+    * iatrogen: Gewebetransplnatation, Blutprodukte
+    * diaplazentär
+  * Initialer Befall der Speichelzellen -> duktales Epithel als Ziel
+    * *Zytopathischer Effekt*: starke Vergrößerung der Zellkerne und des Zytoplasma = **Eulenaugenzellen = Riesenzellen mit Einschlusskörpern**
+  * Langsame Ausbreitung in allen Epithelien des Körpers -> Persistenz in den Nierenepithelzellen
+
+####Klinik
+#####Postnatale Infektion
+  * beim Immunkompetenten Individuum
+  * Verlauf: 
+    * 90% inapparent (meist durch Muttermilch übertragen)
+    * 10% apparent -> ähnlich Mononukleose
+      * in unregelmäßigen Abständen endogene Reaktivierung mit Ausscheidung im Urin
+
+#####Immunsupprimierte Individuen
+  * atypische interstitielle Pneumonie mit hoher Sterblichkeit
+  * CMMV Rinitis
+  * CMV Ösophagitis
+  * wichtigstes Virus bie Transplantat-Empfängern
+
+
 
 ### humanes Herpes Virus 6
   * *Allgemein Eigenschaften*

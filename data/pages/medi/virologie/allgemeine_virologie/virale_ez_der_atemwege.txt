@@ -8,7 +8,7 @@
       * Schnell-Nachweis innerhalb von 30-60 Minuten möglich
       * Klinisch häufig: Pseudokrupp
       * 3 Typen
-    * Respiratory syncitial Virus
+    * [[medi:virologie:spezielle_virologie:ss_-_-rna-viren#respiratory-syncytial-virus_rsv]]
       * schnell Nachweis innerhalb von 30 bis 60 Minuten möglich
     * Wu-Polyomavirus
     * Ki-Polyomavirus

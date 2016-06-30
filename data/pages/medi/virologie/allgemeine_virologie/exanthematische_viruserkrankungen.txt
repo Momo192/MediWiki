@@ -33,3 +33,4 @@
   * [[medi:virologie:spezielle_virologie:ss_-_-rna-viren#masernvirus]]
   * [[medi:virologie:spezielle_virologie:ss_-rna-viren#cocksackie-viren-a]]
   * [[medi:virologie:spezielle_virologie:ds-dna-viren#humanes_herpes_virus_6]]
+  * [[medi:virologie:spezielle_virologie:ds-dna-viren#hhv_3_varizella_zoster_virus]]
