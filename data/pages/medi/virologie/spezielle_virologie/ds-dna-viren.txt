@@ -49,8 +49,12 @@
       * Fieber, LK-Schwellung
       * Rötung und Erosionen in gesamter Mundschleimhaut
     * *Therapie*: Aciclovir
+
+
 #####Reinfektion: Herpes labialis
 *Definition*: rezidivierende schmerzhafte Blässchen an Mund- und Lippenschleimhaut
+
+
 #####Komplikationen
 ######Herpes-Simplex Enzephalitis
     * *Epidemiologie*: 
@@ -80,6 +84,37 @@
 ######Augenbeteiligung
   * *Keratitis dendritica*: Befall der Kornea
   * *Keratitis disciformis*: Befall tieferer Hornhautschichten
+
+###HHV2 = HSV2 = Herpes Simplex Virus 2
+
+####Epidemiologie
+  * Eintrittspforte: Genitalschleimhaut
+  * Über Genitalkontakt daher ab der Pubertät steigende Prävalenz
+  * bei Erwachsenen 15% in D
+
+####Klinik
+#####Herpes genitalis = vulvovaginitis herpatica
+  * Fieber, Schwellung der inguinalen LK
+  * nach 2-7 Tagen: Rötung und Juckreiz -> Blässchen
+  * nach Tagen: schmerzhafte Ulzerationen der Schleimhaut
+  * Lokalisation
+    * Frau: Vulva und Vagina
+    * Mann. Glans und Präputium
+  * Reaktivierung bei Immunschwäche
+
+#####Ekzema herpaticum
+
+####Komplikationen
+#####Herpes-Simplex Enzephalitis
+Siehe [[medi:virologie:spezielle_virologie:ds-dna-viren#herpes-simplex_enzephalitis]]
+#####Herpes neonatorum
+Übertragung meist intrapartal: lokal oder disseminiert. Bei transplazentärer Übertragung kommt es zu intrazerebralen Verkalkungen, Mikroenzephali usw. Letalität 70%
+
+####Therapie
+  * **Aciclovir**
+    * Guanosin Analogon -> wird von der Thymidin Kinase als Substrat für Phosphorylierung akzeptiert > Entstehung von Aciclovirmonophosphat -> Aciclovirtriphosphat -> Einbau in DNA -> Kettenabbruch
+  * Es existiert eine **partielle Kreuzimmunität** zwischen HSV 1 und 2
+    * d.h. bei vorhandener HSV 1 Indektion kann eine primäre HSV 2 Infektion asymptomatisch verlaufen
 
 ###HHV 3 = Varizella Zoster Virus
 alpha-Herpesvirus -> Therapie mit Aciclovir
@@ -178,7 +213,30 @@ alpha-Herpesvirus -> Therapie mit Aciclovir
   * CMV Ösophagitis
   * wichtigstes Virus bie Transplantat-Empfängern
 
+#####Konnatale CMV-Infektion
+  * Pathogenese:
+    * Lebendgeborene 100%
+      * CMV-negative Mütter 50%
+        * 2% CMV-Erstinfektion
+          * 40% Übertragung auf das Kind diaplazentar
+            * 5% schwere Behinderung
+            * 90% symptomlos bei Geburt
+              * 10-15% haben Spätfolgen z.B. Hörschäden
+            * 5% geringes Geburtsgewicht und Ikterus
+      * CMV-positive Mütter: 50%
+        * 10-12% Reaktivierung
+          * 10% Übertragung auf das Kind -> milderer Verlauf
 
+####Diagnostik
+  * Histologie: Eulenaugenzellen
+  * Serologie: Anti-CMV IgG oder IgM
+  * PCR
+  * pp65-Ag in Granulozyten mittels immunfluoresszenz
+
+####Therapie
+  * **Aciclovir Wirkungslos**
+  * **Ganiviclovir**
+    * interargiert mit Proteinkinase UL97
 
 ### humanes Herpes Virus 6
   * *Allgemein Eigenschaften*

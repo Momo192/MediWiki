@@ -1,0 +1,47 @@
+#Osteologicum
+##Knöcherner Aufbau der Orbita
+###Rahmenkonstruktion und Bruchlinien
+  * mechanisches Gegenstück zu den pneumatisierten Nasennebenhöhlen sind Verdickungen der Knochensubstanz im Breich des Gesichtschädels.
+  * Schwachpunkt der Orbita ist der Orbitaboden und die Orte mit Durchtritstellen
+  * Man unterschiedet folgende Mittelgesichtsfrakturen (Name ergibt anatomische Lokalisation)
+    * I: zygomatikoorbitaler Komplex
+    * II: nasomaxillärer Komplex
+    * III: nasoethmoidaler Komplex
+    * IV: dentoalveolärer Komplex
+
+
+##Durchtrittsstellen der Orbita
+a
+##Nachbarschaftsbeziehungen der Orbita
+###Angrenzende Höhlen
+
+Im Bereich des Gesichtsschädels sind einige Knochen pneumatisiert -> Gewichtsersparniss = Nasennebenhöhlen.
+  * Kontakt zur Nasenhöhle
+  * Ausgekleidet mit respiratorischem Flimmerepithel
+  * Entzündungen sind häufig
+    * Gefahr der Ausbreitung der EZ der Nasennebenhöhlen auf die Augenhöhlen und die Nn. optici
+    * Die Größe der Höhlen nimmt mit dem Alter zu und erhöht die Gefahr der Ausbreitung von EZ
+
+
+####Sinus maxillaris = Kieferhöhle
+  * grenzt kaudal  an die Orbita
+  * wird erst beim Erwachsenen groß
+    * da sich zuvor darin die Zahnanlagen befinden
+    * Nachbarschaft erklärt warum sich EZ der Nasennebenhöhlen als Zahnschmerzen äußern können und sich EZ des Wurzelkanals in den Sinus maxillaris ausbreiten können
+
+
+####Sinus frontalis
+  * asymmetrisch und septiert
+  * kranial der Orbita gelegen
+
+####Fossa cranii anterior mit Frontalhirn
+  * kranial der Orbita gelegen
+
+####Cellulae ethmoidales
+  * grenzen von medial an die Orbita
+  * entwickeln sich erst nach der Geburt
+  * bildet einen Teil der vorderen Schädelgrube
+    * Darüber liegt die Lamina cribrosa: sie enthält Lächer die von der Nasenhöhle in die vordere Schädelgrube ziehen
+    * Dadurch ist sie mechanisch schwach -> leichter Bruch bei Traumen
+  * Feine Pneumatisierung
+    * Gefahr des Durchbruches bei entzündlichen Prozessen

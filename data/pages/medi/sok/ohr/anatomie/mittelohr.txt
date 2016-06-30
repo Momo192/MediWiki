@@ -1,0 +1,30 @@
+#Mittelohr
+
+##Os temporale
+
+##Allgemeine Topographie
+
+##Gehörknöchelchen
+
+##Versorgung der Paukenhöhle
+###Arterien
+###Nerven
+####Versorgung
+####Durchgangsstation
+Die Paukenhöhle ist eine wichtige Durchgangsstation für Nerven
+#####N. glossopharyngeus
+  * tritt mit dem N. vestibulocochlearis durch den *Porus acusticus internus* in das Felsenbein ein
+    * Bildung **Äußeres Faszialisknie** Lage des Ganglion geniculi
+    * Hauptmasse: zieht zur mimischen Muskulatur -> verlässt Felsenbein durch Foramen stylomastoideum
+  * Abzweigung von 3 Nerven:
+    * **N. petrosus major**
+      * Abzweigung am Ggl. geniculi
+      * verlässt die Felsenbeinpyramide am *Hiatus canalis n. petrosi majoris* -> Foramen lacerum in Canalis pterygoideus -> Ggl. pterygopalatinum
+    * **N. stapedius**: zieht zum M. stapedius
+    * **Chorda tympani**
+      * *Abzweigung* oberhalb des Foramen stylomastoideum
+      * *Inhalt*
+        * Geschmacksfasern
+        * 
+#####N. facialis
+######Chorda tympani
