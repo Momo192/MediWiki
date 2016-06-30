@@ -1,5 +1,49 @@
 #ds-DNA-Viren
 ##Herpes-Viren
+###Allgemeines
+####Eigenschaften
+  * behüllt mit ds DNA, 120-200 nm
+  * Mensch als einziges Reservoir -> hohe Wirtsspezifität
+  * Erstinfektion -> lebenslange Persistenz -> Reinfektion
+    * Symptomatisch: **Rekrudenz**
+    * Asymptomatisch: **Rekurrenz**
+  * Zielzellen: epidermale Zellen, Lymphozyten, Nervenzellen
+
+####Einteilung
+  * **α-Herpesviren**
+    * Neurotrop -> lebenslange Persistenz in den Ganglienzellen
+    * schnelle Replikation
+  * **β-Herpesviren:** 
+    * lymphotrop -> Persistenz in Lymphozyten und Granulozyten
+    * Langsame Replikation
+  * **γ-Herpesviren**
+    * Lymphotrop -> Peristenz in den B-Lymphozyten
+    * onkogenes Potential
+
+###HHV1: Herpes simplex Virus 1
+(alpha-Herpesvirus)
+####Epidemiologie
+  * Durchseuchung: 90% 
+  * Übertragung: 
+    * enger körperlicher Kontakt 
+    * Schmierinfektion
+
+####Pathogenese: 
+  * Eintritt in den Mundbereich -> lokale Replikation und Ausbreitung
+    * durch Ausschleusung neuer Viruspartikel
+    * durch Fusion mit nicht infizierten Nachbarzellen
+  * Eindringen in Nervenzellfortsätze und retrograder Transport in die Ganglienzellen
+    * HSV1: Ggl. trigeminale
+    * Ort der Latenz: Zirkularisierung des Genoms -> nur wenige virale Produkte zum Erhalt dieses nicht-replikativen Zustandes notwendig
+  * Endogene oder exogene Stimuli -> Auslösung eines erneuten vollständigen Replikationszyklus -> Reinfektion
+    * symptomatisch 
+    * asymptomatisch
+
+####Klinik 
+#####Erstinfektion
+  * meist asymptomatisch
+  * 
+
 ### humanes Herpes Virus 6
   * *Allgemein Eigenschaften*
     * Auslöser vom Exanthema subitum = Dreitage-Fieber

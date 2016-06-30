@@ -1,4 +1,17 @@
 # Allgemeine Virologie
+
+##Geschichte der Virologie
+  * **Löffler + Frosch**: Begründer der Virologie
+    * Schüler von Koch
+    * 1889: Durch Filtrationsexperimente: finden Erreger der Maul- und Klauenseuche -> Kann Bakteriendichte Filter passieren
+    * Kochsche Postulate müssen erfüllt werden
+  * 1899: myxomatose Virus: tierischer Virus (Einsatz als Biowaffe in Australien)
+  * 1901: Reed entdeckt das Gelbfieber Virus als *1. humanpathogenes Virus*
+    * schleppende Entdeckung durch schlechte Darstellbarkeit
+      * Normales Virus ist mikroskopisch nicht darstellbar, Zellkultur nur bedingt möglich
+      * 1931: Elektronenmikroskopie
+  * 1948-55: Sanders: Vermehrung von Polioviren in Zellkultur
+e
 ##Translation und Replikation des viralen Genoms
   * **DNA-Virus**: direkte Integration der viralen DNA in die DNA der Wirtszelle, anschließend Transkription uns Translation mit der Ausstattung der Wirtszelle
   * **RNA-Virus**: 
@@ -13,3 +26,17 @@
       * Wichtige Vertreter:
         * Deltaretrovirus: Humanes-T-Zell-lymphotrophes VIrus
         * Lentivirus: [[medi:virologie:spezielle_virologie:retroviridae#hiv]]
+
+##Epidemiologie
+  * **Epidemie**: stark gehäuftes, örtlich und zeitlich begrenztes auftreten einer Erkrankung
+  * **Endemie**: stark gehäuftes, zeitlich unbegrenztes auftreten einer Erkrankung in einer umschriebenen Region
+  * **Pandemie** = weltweite Epidemie
+  * **Kontagionsindex**: Erkrankungswahrscheinlichkeit bei Kontakt mit einem bestimmten Erreger. Abhängig von multiplen Faktoren z.B. Viruslast und Eintrittspforte
+  * **Manifestationsindex**: Wahrscheinlichkeit eines symptomatischen Verlaufes bei infizierten Individuen
+  * **Morbidität**: wie viele Individuen zu einem Zeitpunkt an einer Krankheit leiden
+    * **Inzidenz**: Zahl der Neuerkrankungen pro 100 000 / Jahr
+    * **Prävalenz**: Anzahl der Erkrankten 
+  * **Mortalität**: Todesfälle / Population
+  * **Letalität**: auf eine Krankheit bezogenes Verhältnis von Anzahl der Todesfälle zur Anzahl der Erkrnakten
+  * **Herdenimmunität**: Immunität durch Impfen oder Infektion ist so verbreitet das auch nicht immunisierte Personen geschützt sind, da es nicht zu einer Ausbreitung des Erregers kommt.
+    * Bestimmung: 1/R0 wobei R0= Basisreproduktionszahl = Folgefälle von einem Indexpatient bei nicht immunisierter Population
