@@ -108,7 +108,16 @@
 #####Herpes-Simplex Enzephalitis
 Siehe [[medi:virologie:spezielle_virologie:ds-dna-viren#herpes-simplex_enzephalitis]]
 #####Herpes neonatorum
-Übertragung meist intrapartal: lokal oder disseminiert. Bei transplazentärer Übertragung kommt es zu intrazerebralen Verkalkungen, Mikroenzephali usw. Letalität 70%
+  * *Erreger*: meist HSV 2, selten HSV 1
+  * *Klinik*: 
+    * transplazentäre Übertragung (5%): Hypotrphie, Mikroenzephalie und -ophtalmie, intrazerebrale Verkalkungen
+    * Intrapartale (85%) und postpartale Übertragung (10%)
+      * lokale Infektion mit typischen Herpesblässchen, Herpes-simplex-Keratitis
+      * disseminierte systemische Infektion ggf. mit ZNS-Beteiligung (ähnlich septisches Krankheitsbild)
+  * *Therapie*: Aciclovir
+    * Behandlung der Mutter bei Primärinfektion
+    * Behandlung des Neugeborenen bereits bei Verdacht
+
 
 ####Therapie
   * **Aciclovir**
@@ -502,3 +511,15 @@ Induktion primär benigner Tumoren (Warzen, Kondylome) -> Einteilung
       * hämorrhagische Zystitis
       * Stenose der Harnleiter
   * *Therapie*: symptomatisch
+
+##Pockenviren
+###Allgemeines
+  * größte humanpathogene Viren
+  * dsDNA-Viren, die im Zytoplasma replizieren
+  * Funktion als erste Impfstoffe: Inokulation von vermährungsfähigen Viren
+  * Erstes (und einziges) humanpathogenes Virus, welches als ausgerotet gilt
+
+
+###Einteilung
+  * **Variola-Viren**: Major und Minor -> Erreger der Pocken beim Menschen
+  * **Vaccina-Viren**: Impfstoff-Herstellung

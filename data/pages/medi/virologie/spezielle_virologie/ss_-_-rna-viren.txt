@@ -427,10 +427,17 @@
       * B/Victoria
       * B/Yamagata
     * **Influenza C-Virus**
+  * *Benennung*: A/Fujioan/411/2002 (H3N2)
+      * A = Influenza Typ
+      * Fujian = geographischer Ursprung
+      * 411 = Stamm Nummer
+      * 2002 = Jahr der Entdeckung
+      * (H3N2) = Virus Subtyp
 
 #####Variabilität
   * **Antigendrift**
-    * *Def*: Geringfügige Veränderung der Antigenstruktur (Hämagglutinin und/oder Neuraminidase) durch Punktmutation durch Mutationsfreudigkeit des Influenzavirus
+    * *Def*: Geringfügige Veränderung der Antigenstruktur (Hämagglutinin und/oder  Neuraminidase) durch Punktmutation durch Mutationsfreudigkeit des Influenzavirus
+    * Mutation = Veränderung des genetischen Materials durch Fehler bei der Nukleinsäuresynthese -> man spricht von Antigendrigt nur wenn die Gene von Hämagglutinin oder Neuroaminidase betroffen sind
     * Führt zur Entstehung einer neuen **Subtypvariante** 
       * die Bezeichnung des Subtyps verändert sich dadurch nicht
       * bedingt häufige saisonale Grippe-Wellen -> jährliche Gruppe-Impfung
@@ -440,6 +447,10 @@
       * Schwein kann als einziges doppelt infiziert werden mit aviärem und humanem Influenza A Virus
     * Dabei entsteht eine völlig neues Virus -> Pandemie kann ausgelöst werden
     * Neue Benennung
+  * *Fazit*: 
+    * Wasservögel als Erregerreservoir
+    * Direkte Übertragung von Vogel auf Mensch nur durch Antigenshift und schrittweise Anpassung des Virus möglich
+    * Reassortment nur in Doppel-infizierbaren Spezies möglich
 
 #####Geschichte 
   * 1518: sudor anglicus: 1. beschriebene Grippe

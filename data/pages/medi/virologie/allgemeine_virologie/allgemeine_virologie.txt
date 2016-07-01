@@ -118,6 +118,7 @@ Allgemeine Einteilung:
 
 
 ##Epidemiologie
+###Begriffe der Epidemiologie
   * **Epidemie**: stark gehäuftes, örtlich und zeitlich begrenztes auftreten einer Erkrankung
   * **Endemie**: stark gehäuftes, zeitlich unbegrenztes auftreten einer Erkrankung in einer umschriebenen Region
   * **Pandemie** = weltweite Epidemie
@@ -129,4 +130,14 @@ Allgemeine Einteilung:
   * **Mortalität**: Todesfälle / Population
   * **Letalität**: auf eine Krankheit bezogenes Verhältnis von Anzahl der Todesfälle zur Anzahl der Erkrnakten
   * **Herdenimmunität**: Immunität durch Impfen oder Infektion ist so verbreitet das auch nicht immunisierte Personen geschützt sind, da es nicht zu einer Ausbreitung des Erregers kommt.
-    * Bestimmung: 1/R0 wobei R0= Basisreproduktionszahl = Folgefälle von einem Indexpatient bei nicht immunisierter Population
+    * Bestimmung: 1 - 1/R0 wobei R0= Basisreproduktionszahl = Folgefälle von einem Indexpatient bei nicht immunisierter Population
+
+###Viren-Eradikation
+Die Schlüsselkriterien für die Eradikation eines Infektionserregers sind:
+  * der Erreger hat nur einen einzigen Wirt
+  * der Erreger darf in der Umwelt nicht ubiquitär sein
+  * der Erreger wird direkt, ohne Zwischenwirte übertragen
+  * im Wirt führt die Infektion stets zur Krankheit (Manifestatiotn 100%)
+  * persistierende latente Infektionen gibt es nicht
+  * der Erreger darf nicht in verschiedenen serologischen Typen und Subtypen auftreten und muss genetisch stabil sein
+  * Die Krankheit kann durch weltweite Schutzimpfungen verhindert werden
