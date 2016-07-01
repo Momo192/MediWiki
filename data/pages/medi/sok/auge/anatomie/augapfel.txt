@@ -196,6 +196,16 @@
       * bis 12 mm lang, meist kernlose Zellen
       * kaum Organellen, durchsichtig
   * *Klinik*: Grauer Star bei Trübung
+  * *Wachstum und Zonierung der Linse*
+    * Wächst zeitlebens weiter
+      * jüngste Zellen sind immer an der Oberfläche, älteste Kerne in der Mitte
+      * Ist von Linsenkapsel umgeben -> permanente Verdichtung des Gewebes
+    * Unterschiedung von unterschiedlichen Zonen
+      * Embryonalkern: höchste Dichte, liegt am weitesten INnen
+      * Fetalkern
+      * infantile Kern: entsteht nach der Geburt
+      * Erwachsenenkern ab 3. LJ
+      * Grundlage für die Klassifizierung von einem [[Katarakt]] 
 
 ####Corpus vitreum
   * *Definition*: Raum zwischen Inse und Netzhaut
@@ -212,4 +222,20 @@
     * i.d.R. harmlose Trübungen
     * Kollagenablagerungen
 
+###Augenkammern, Kammersekretion und Kammerwinkel
+####Topographie
+  * **Hintere Augenkammer** wird gebildet von
+    * Iris (vorne)
+    * Glaskörper (hinten)
+    * Linse (mitte)
+    * Ziliarkörper (seitlich)
+  * **Vordere Augenkammer**
+    * Kornea (vorne)
+    * Iris und Linse (hinten)
 
+####Kammerwasser
+  * *Aufbau*
+    * seröse Flüssigkeit
+    * Produktion von 3-9 ml/Tage
+    * "ernährt" die Kornea und die Linse
+  * 
