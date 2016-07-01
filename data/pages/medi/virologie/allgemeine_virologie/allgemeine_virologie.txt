@@ -11,6 +11,23 @@
       * Normales Virus ist mikroskopisch nicht darstellbar, Zellkultur nur bedingt möglich
       * 1931: Elektronenmikroskopie
   * 1948-55: Sanders: Vermehrung von Polioviren in Zellkultur
+
+##Aufbau eines Virus
+  * *Größe*: 5.10⁻⁸ bis 10⁻¹⁰ m
+  * **Virion** = reifes VIruspartikel
+    * *NUkleinsäure*: 
+      * DNA: ds, linear oder zirkulär
+      * RNA: z.T: segmentiert
+    * **Kapsid**: viruskodierte Proteinstruktur
+      * UE = **Kapsomere**
+      * werden erst spät im Verlauf der Replikation gebildet
+      * kubisch, helikal, komplex
+    * **Hülle**:
+      * umgibt Kapsid, von Zytoplasma oder Kernmembran der Wirtszelle
+      * Spikes = viruskodierte (Glykoproteine)
+
+
+ 
 e
 ##Translation und Replikation des viralen Genoms
 ###DNA- und RNA-Virus
