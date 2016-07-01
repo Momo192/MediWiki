@@ -40,6 +40,43 @@
       * Gefäßgeflecht zur Versorgung der Netzhaut
       * zieht um  den gesamten Augapfel
 
+####Choroidea 
+  * *Lage*: hinterer Teil der Uvea
+  * *Aufbau*: 
+    * Blutgefäße aus A. ciliaris <- A. ophtalmica
+    * **Bruch-Membran**: elastische Membran zur Retina
+    * **Ora serrata**: Grenzlinie zum Ziliarkörper
+  * *Histologie*
+    * stark pigmentiert
+    * Bruch membran
+      * Netz aus elastischen Fasern
+      * Funktion: stabile, faltenfreie Unterlage für die Netzhaut
+
+####Corpus ciliare (Ziliarkörper) 
+  * *Lage*: liegt zwischen Ora serrata und der Iriswurzel
+  * *Anteile*
+    * **Pars plana**: Übergang, nahe der Retina
+    * **Pars plicata**
+      * Darauf liegen **Processi ciliaris**
+        * 70-80 radiär ausgerichtete, wulstartige Ziliarfortsätze
+        * Sezernieren das Kammerwasser
+        * Von den Ziliarfortsätzen ziehen sehr feine **Fibrae zonulares** = Zonulafasern zum Linsenäquator und bilden die Aufhängung der Linse (elastische Fasern)
+  * **M. ciliaris** 
+    * größter Anteil, aus glatter Muskulatur
+    * *Aufbau*
+      * Ursprung: Sklerasporn = Verstärkungsring der Sklera unmittelbar unter dem Schlemm-Kanal
+      * meridionale Anteile enden an der Bruch-Membran und der Innenfläche der Sklera
+      * Zonula Fasern: verbinden Linse und Ziliarmuskel
+    * *Innervation*: Parasympathisch
+      * Erdinger Westphal-Kern -> N. oculomotorius -> G. ciliare -> N. ciliares breves
+    * *Funktion*: **Akkomodation der Linse**
+      * *Akkomodation*: Einstellung der Brechkraft der Linse, so dass das gewünschte Objekt scharf auf der Linse abgebildet wird
+      * Die Linse wird durch den Zug der Linsenfasern, die im M. ciliaris verankert sind flach gehalten. 
+      * *Naheinstellung*: Kontrahiert sich der M. ciliaris werden die Linsenfasern entspannt und die Linse kann sich durch ihren Eigendruck runden (Vergleiche mit einem Sphinkter Muskel: bei Kontraktion wird der Durchmesser geringer -> Entspannung der Fasern)
+      * *Ferneinstellung*: Ringmuskel ist entspannt -> Zonula Fasern stehen unter Spannung -> Linse wird abgeflacht
+
+####Iris
+
 ###Äußere Augenhaut = Tunica fibrosa bulbi
   * *Def*: undehnbare Hülle des Bulbus
   * *Herkunft*: Kopfmesenchym

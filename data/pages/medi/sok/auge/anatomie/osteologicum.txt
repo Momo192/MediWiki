@@ -1,4 +1,4 @@
-#Osteologicum
+#Orbita
 ##Knöcherner Aufbau der Orbita
 
 ###Knochen der Orbita
@@ -23,7 +23,68 @@ a
 
 
 ##Durchtrittsstellen der Orbita
-a
+###Orbitadach
+  * Beteiligte Knochen: Os frontale
+  * **Incisura frontalis** -> Gesicht
+    * A. supratrochlearis
+    * R. medialis des N. supraorbitalis
+  * **Foramen supraorbitale** -> Gesicht
+    * A. supraorbitalis
+    * R. lateralis des N. supraorbitalis
+
+
+###Orbitaboden
+  * Beteiligte Knochen: Maxilla, Os palatinum, Os zygomaticum
+  * **Canalis infraorbitalis und Foramen infraorbitale** -> Gesicht
+    * A. infraorbitalis
+    * N. infraorbitalis
+
+###Medial
+  * Beteiligte Knochen
+    * Os lacrimale
+    * Os ethmoidale
+    * Ala minor des Os sphenoidale
+  * **Canalis opticus** -> mittlere Schädelgrube
+    * N. opticus
+    * A. ophtalmica
+  * **Foramen ethmoidale anterius** -> vordere Siebbeinzellen
+    * A, V. und N. ethmoidalis anterior (aus V1)
+  * **Foramen ethmoidale posterius** -> hintere Siebbeinzellen
+    * A., V. und N. ethmoidalis posterior (aus V1)
+  * **Foramen nasolacrimalis** -> Canalis nasolacrimalis -> Nasenhöhle
+    * Ductus nasolagrimalis 
+
+###Lateral
+  * beteiligte Knochen: 
+    * Ala major des Os spenoidale
+    * Os zygomaticum
+  * **Fissura orbitalis superior** -> mittlere Schädelgrube
+    * N. oculomotorius (III)
+    * N. trochlearis (IV)
+    * N. abducens (VI)
+    * N. ophtalmicus (V1) der in der Orbita 3 Äste bildet
+      * N. lacrimalis
+      * N. frontalis
+      * N. nasociliaris
+    * V. ophtalmica superior
+  * **Fissura orbitalis inferior** -> Fossa pterygopalatina
+    * N. zygomaticus (aus V2)
+    * N. infraorbitalis (aus V2)
+    * A. infraorbitalis 
+    * V. ophtalmica inferior 
+
+###Klinik
+Alle Augenmuskelerven (N. oculomotorius, N. trochlearis und N. abducens) ziehen durch den Sinus cavernosus und liegen in enger Lagebeziehung zur A. carotis -> Schädigung durch A. carotis interna Blutung.
+  * Abduzens- und Trochlearisparesen sind nach Schädelhirntraumen häufig
+  * Abduzensparese
+    * 40-50% der Paresen -> häufigste Augenmuskellähmung
+    * bedingt durch: 
+      * weitschweifenden Verlauf
+      * Schädigung auch bei Schädelbasis Bruch
+  * Trochlearisparese: ca. 25%
+  * Okulomotoriusparese ca. 30%
+ 
+
 ##Nachbarschaftsbeziehungen der Orbita
 ###Angrenzende Höhlen
 
@@ -57,6 +118,15 @@ Im Bereich des Gesichtsschädels sind einige Knochen pneumatisiert -> Gewichtser
     * Dadurch ist sie mechanisch schwach -> leichter Bruch bei Traumen
   * Feine Pneumatisierung
     * Gefahr des Durchbruches bei entzündlichen Prozessen
+
+##Einteilung der Orbita in Etagen
+###Orbitaetagen
+  * *Obere Schicht*: Zwischen M. levator palpaebrae (Öffnung des Augenlied) superioris und Orbitadach
+  * *Mittlere Schicht* = intrakonal = retrobulbäres Kompartiment: Zwischen M. levator palpebrae superior bzw. M. rectus superius und M. rectus inferior
+  * *Untere Schicht*: Zwischen M. rectus inferius und Orbitaboden
+
+###Obere Etage
+
 
 ##Muskeln und Nerven der Orbita
 ###Anulus tendineus communis
