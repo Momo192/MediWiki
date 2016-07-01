@@ -75,7 +75,27 @@
       * *Naheinstellung*: Kontrahiert sich der M. ciliaris werden die Linsenfasern entspannt und die Linse kann sich durch ihren Eigendruck runden (Vergleiche mit einem Sphinkter Muskel: bei Kontraktion wird der Durchmesser geringer -> Entspannung der Fasern)
       * *Ferneinstellung*: Ringmuskel ist entspannt -> Zonula Fasern stehen unter Spannung -> Linse wird abgeflacht
 
-####Iris
+####Iris (Regenbogenhaut)
+  * *Definition*: vorderster Teil der Uvea, die Hinterfläche ist pigmentiert und Lichtundurchlässig
+  * *Funktion*: Lochblende
+    * die Weite der zentralen Öffnung (Pupille) kann mit Hilfe der Irismuskulatur verändert werden
+  * *Aufbau*
+    * Vorderseite: 
+      * uneben
+      * Lückenhafte Bedeckung aus Fibroblasten, Melanozyten
+    * Stroma
+      * lockeres kollagenes BW
+      * innere und äußerer Gefäßkranz
+      * **M. sphincter pupillae**
+        * Parasympathische Innervation: Erdinger Westphal -> N. oculomotorius -> G. ciliare -> Nn. ciliaris breves
+        * Funktion: **Myosis** = Kontraktion der Pupille
+    * **Irisepithel**
+      * Zweischichtiges pigmentiertes Epithel. Darin liegt
+      * **M. dilatator pupillae**
+        * Myoepithel
+        * Sympathische Innervation: ggl. cervicale superius -> Pl. caroticus internus -> G. ciliare -> Nervi ciliare breves
+        * Funktion: **Mydriasis** = Pupillenerweiterung
+
 
 ###Äußere Augenhaut = Tunica fibrosa bulbi
   * *Def*: undehnbare Hülle des Bulbus
