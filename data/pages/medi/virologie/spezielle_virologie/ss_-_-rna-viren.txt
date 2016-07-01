@@ -269,7 +269,10 @@
   * *Komplikationen*
     * **Pankreatitis** (2-5%)
       * 40% der Komplikationen
-    * **Orchitis**
+    * **Meningitis**
+      * ca. 20%
+      * sehr gute Prognose
+    * **Orchitis** = Hodenentzündung
       * 20-30% der Fälle bei Erkrankung in der Pubertät sonst seltener
       * Gefahr der Hodenatrophie und der Unfruchtbarkeit
     * **Seröse Meningitis**

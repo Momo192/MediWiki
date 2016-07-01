@@ -186,8 +186,81 @@ alpha-Herpesvirus -> Therapie mit Aciclovir
     * ZNS-Atrophie
   * Perinatal: schwerwiegender Varizella-Verlauf beim Neugeborenen mit einer Letalität von 30%
 
+###HHV4 = EBV = Ebstein-Barr-Virus
+####Allgemeines
+  * γ-Herpeviren
+  * Seroprävalenz >90% in D
+  * onkogenes Potential: Immortalisierung und Transformierung von Wirtszellen
+  * Erkrankungen durch EBV
+    * sicher: infektiöse Mononukleose
+    * Vermutet
+      * Burkitt-Lymphom
+      * Nasopharynx-Karzinom
+      * Non-Hodgkin-Lymphome
+      * Haarzellen-Leukämie
+      * chronisches Mononukleose Syndrom
 
-### HHV4 = CMV
+####Infektiöse Mononukleose = Pfeiffersche Drüsenfieber = Kissing disease
+  * *Epidemiologie*: 
+    * 95% der Erkrankten < 30 LJ
+    * Durchseuchung:
+      * bis zum 15. LJ: 50%
+      * Erwachsenenalter: 80-90%
+      * Entwciklungsländer bis zum 3. LJ: 100%
+    * Hochinfektöser Speichel (auch Wochen nach Beginn der Symptome)
+  * *Klinik*
+    * *Inkubationszeit*: 1-7 Wochen
+    * *Symptome*:
+      * fieberhafte Angina: rote, vergrößerte Tonsillen mit weiß-gräulichen Belägen oder Pharyngitis
+      * generalisierte LK-Schellung
+      * 50% Splenomegalie 
+      * ggf. Hepatomegalie, Hepatitis, Ikterus
+      * evtl. Exanthem
+      * Rekonvaleszenz über mehrere Wochen
+  * *Diagnostik*
+    * Serologie
+      * **VCA**= Virus-Kapsid-Antigen
+        * 4-12 Wo: IgM
+        * lebenslang: IgG
+      * **EBNA**: Ebstein-Barr-Virus antigen: IgG nach 6 Wochen, lebenslang nachweisbar
+      * **EA** = early Antigen
+        * nach wenigen Tagen
+        * 10-12% der Patienten entwickeln keine
+    * *Test*:
+      * **Paul-Bunell-Test**: Nachweis früh auftretender, heterophiler AK durch Agglutinationsreaktion
+      * **Henle-Test**: Nachweis spezifischer AK mittels Fluoreszenz
+  * *Komplikationen*
+    * Milzruptur
+    * Perikarditis
+    * Blut: *infektassoziiertes hämophagozytisches Syndrom* = Panzytopenie
+    * Guillain-Barré-Syndrom
+    * Enzephalitis
+
+####Burkitt-Lymphom
+  * *Definition*: affressives B-Zell-Non-Hodgkin-Lymphom
+  * *Einteilung*
+    * **endemisches Burkitt-Lymphom**
+      * v.a. Südafrika
+      * junge Patienten
+      * EBV-assozhiiert
+      * Tumorlokalisation im Gesicht
+      * Assoziation mit Malaria-Infektionen
+    * **Sporadisches Burkitt-Lymphom**:
+      * im Westen
+      * abdominelle LK
+      * junge Patienten
+    * **HIV-assoziiertes Burkitt-Lymphom** (ältere Patienten)
+  * *Pathogenese*
+    * Bei Fast allen **c-myc** Translokation
+      * Durch Translokation -> hohe Expression von Bcr-Abl in B-Lymphozyten -> Immunsystem erkennt unkontrollierte Zellteilung nicht mehr
+    * *EBV Tumor-Virus-Hypothese*
+      * Fast 100% der BL enthalten EBV
+      * Kinder mit hohem AK Titer haben ein hohes Risiko für BL
+      * Virales Genom als Episome
+      * Hoher Tropismus zu B-Lymphozyten
+      * Assoziation zu anderen Karzinomen
+
+### HHV5= CMV
 
   * Cytomegalie-Virus
   * ß-Herpesvirus
@@ -223,6 +296,8 @@ alpha-Herpesvirus -> Therapie mit Aciclovir
   * wichtigstes Virus bie Transplantat-Empfängern
 
 #####Konnatale CMV-Infektion
+  * Infektion kritisch
+    * ist häufigste Infektion die während der Schwangerschaft auf den Fötis übertragen wird
   * Pathogenese:
     * Lebendgeborene 100%
       * CMV-negative Mütter 50%
@@ -260,6 +335,12 @@ alpha-Herpesvirus -> Therapie mit Aciclovir
       * Anschließend abrupter Abfall der Temperatur mit Ausbildung eines sich rasch ausbreitenden, feinfleckigen, makulösenm stammbetonten Exanthems
         * oft nur wenige Stunden bis max. 3 Tage zu sehen
 
+###HHV-8 = Kaposi-Sarkom-Virus
+  * verursacht das **Kaposi-Sarkom** bei AIDS
+    * *Definition*: maligner, multifokal auftretender stark vaskularisierter Tumor der im Zusammenhang mit HHV-8 Infektionen auftritt
+    * meist mit AIDS asssoziiert
+    * Erstmanifestation meist in der Haut
+
 
 ##Papillomaviridae
 ###Allgemeine Eigenschaften
@@ -292,8 +373,12 @@ Induktion primär benigner Tumoren (Warzen, Kondylome) -> Einteilung
     * Transformation der Zelle
       * weitere exogene Faktoren notwendig
       * Bei High-Risk Typen haben E6 und E7 eine deutlich höhere Affinität zu den zellulären Tumorsuppressorproteinen
+  * *Harald zur Hausen*: 1976 Hypothese
+    * humane Papillomaviren Auslöser des Zervexikarzinom
+    * 80er Jahre: Isolierung von HPV 16 und 18 aus Proben von Gebärmutterhalskrebs
+    * Impfstoffentwicklung
 
-####Epidemiologie
+###Epidemiologie
   * Art der Infektion
     * Mukokutane Warzen: HPV 1-4 u.a.
     * Epidermodysplasie assoziiert HPV 5,8,9

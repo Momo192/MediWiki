@@ -65,10 +65,11 @@
 
 
 ###Dengue-Virus
+####Erreger
+  * **Synonym**: Knochenbrecherfieber 
+  * **Erreger**: 4 Serotypen ohne Kreuzimmunität (Homologie auf AS-Ebene: etwa 65%)
 
-**Synonym**: Knochenbrecherfieber  
-**Erreger**: 4 Serotypen ohne Kreuzimmunität  
-**Pathogenese**:
+####Pathogenese
   * *Infektionsweg*: Vektorübertragung
     * Vektor: Mücken der Gattung Aedes (Aedes aegepty, Aedes alpopictus)
     * Reservoir: Mensch
@@ -89,7 +90,8 @@
   * Vorkommen: Tropen weltweit
     * 40% der Weltbevölkerung lebt in Aedes-Endemiegebiet
     * Europa: Dengue-Frei
-**Klinik**
+
+####Klinik
   * **Dengue-Fieber**
     * *Inkubationszeit*: 2 Tage bis 2 Wochen
     * Asymptomatischer Verlauf bei > 90%der betroffenen, bei 10% fieberhafte Erkrankung
@@ -117,11 +119,12 @@
         * **Dengue-Schocksyndrom**: 
           * niedriger Blutdruck, Massenblutung ins Gehirn
           * *Letalität*: 10-40%
-      * Schwere Symptome dominant bei Sekundärinfektion mit heterologen Serotyp:
+      * Schwere Symptome dominant bei Sekundärinfektion mit heterologen Serotyp:**Antikörpervermittelte Steigerung der Infektion (ADE)**
         * Infektion mit Dengue-Virus 1 -> Entwicklung hoch spezifischer AK gegen den Virus -> Überwindung der Infektion
-        * Infektion mit Dengue-Virus 2 -> Bindung AK mit geringer Affinität -> Komplex wird von Makrophagen gebunden -> Infektion der Makrophagen
+        * Infektion mit Dengue-Virus 2 -> Bindung AK mit geringer Affinität durch Kreuzreaktivität-> AK wirken aber nicht neutralisierend -> verstärkte Aufnahme des Virus über den Fc-Anteil der AK durch Monozyten/Makrophagen -> Infektion der Makrophagen
         * Durchgemachte Dengue-Virus-Infektion prädisponiert für DHF mit einem heterologen Serotyp
-**Therapie und Prophylaxe**:
+
+####Therapie und Prophylaxe
   * kein Impfstoff
   * keine antiviralen Mittel
   * nur symptomatische Behandlung: 

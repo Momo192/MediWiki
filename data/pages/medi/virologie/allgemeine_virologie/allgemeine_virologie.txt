@@ -65,6 +65,7 @@ Allgemeine Einteilung:
   * **Onkogene Viren**
     * Onkogene, die im Virus kodiert sind (v-onc)
     * zelluläre Onkogene (Protoonkogene), die vom Virus aktiviert werden (c-onc)
+    * Hemmen von Suppressorgen-Aktivität
 
 ####Pathogenese
   * **zytozyde Infektion**: Virusinfektion mit resultierender Zellzerstörung 
