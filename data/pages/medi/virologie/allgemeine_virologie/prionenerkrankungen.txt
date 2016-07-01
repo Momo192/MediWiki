@@ -1,0 +1,74 @@
+#Prionenerkrankungen
+##Allgemeines
+  * *Definition*: Prionenerkrankungen sind übertragbare spongiforme Encephalopathien
+    * Erreger sind infektöse Eiweißpartikel ohne Nukleinsäure
+    * Neurodegenerative, stets tödliche Erkrankungen mit einer schwammartigen Veränderung des Hirngewebes
+  * **Prionen** bestehen aus einer pathoogischen Isoform (PrPSc) des normalen zellulären Prionenprotein (PrPc)
+    * veränderte biochemische Eigenschaften
+    * PrPc ist:
+      * löslich
+      * alpha-helikale Konformation
+      * sensitiv gegenüber Proteinkinase K
+      * nicht-infektiös
+    * PrPsc 
+      * unlöslich
+      * Beta-Faltblatt-Struktur
+      * Resistent gegenüber Proteinanse
+      * infektös
+    * *Stabilität*
+      * Stabilität von Prionen
+        * Sehr resistente Infektionserreger
+        * Infektionspotential wird NICHT reduziert durch: 
+          * übliche antimikrobielle Desinfektionsmethoden, 
+          * Nucleasen,
+          * Kochen, 
+          * Mikrowellen, 
+          * Formalin,
+          * Autoklavieren oder 
+          * Säurebehandlung
+        * Reduktion des Infektionspotentials durch
+          * Trockene Hitze bei 300°C, Proteinasen,
+          *  M NaOH bei 30 Minuten, Autoklavieren bei 132°C mindestens 30 Minuten
+
+
+##Erkrankungen
+###Creutzfeldt-Jakob-Krankheit
+####Geschichte
+1920: Der Kieler Neurologe Hans-Georg Creutzfeldt (1885–1964) und der Hamburger Neurologe Alfons Jakob (1884–1931) beschreiben 1920 erstmals die später nach ihnen benannte, absolut tödliche Creutzfeldt-Jakob-Krankheit (CJK oder englisch CJD) des menschlichen Gehirns.
+
+####Klinik:
+  * *Symptome*
+    * Schreckhaftikeit
+    * Motorische Störungen
+    * Gedächtnisstörungen
+    * Halluzinationen
+    * Persönlichkeitsveränderungen
+    * Progressive Demenz
+  * Endstadium: akinetischer Mutismus
+  * Mittlere Erkrankungsdauer 4-6 Monate
+
+
+###BSE
+####Epidemiologie
+  * 2009: Senkung der Inzidenz auf < 50 Fälle pro Jahr
+  * Weltweites Vorkommen
+  * Insgesamt ca. 200.000 Fälle (80% in England)
+  * Irland, Portugal, Frankreich, Spanien Schweiz (ca. 1000 Fälle)
+  * Deutschland etwa 500 Fälle
+
+####Besonderheiten von vCJD
+  * Junge Patienten (mittleres Alter 27,5)
+  * klinischer Verlauf ungleich der CJD
+    * dominant sind die Verhaltensstörungen
+  * Massive Ablagerungen von PrP-Amyloid (floride Plaques) im Cerebellum
+  * PrPSc auch außerhalb des ZNS (Tonsillen, Appendix)
+  * einheitliches Glykoproteinprofil der Prionproteine
+  * EEG-Veränderungen der CJD fehlen
+  * alle homozygot MM129
+
+
+###Erkrankungen von Tieren:
+  * **Scrapie**: Schafe
+    * Scrapie-Epidemie
+      * 1975: In Großbritannien erkranken etwa 100.000 Schafe an der Traberkrankheit (Scrapie)
+

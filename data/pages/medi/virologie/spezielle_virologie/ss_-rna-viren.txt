@@ -134,20 +134,32 @@
     * Schmerzmittel
 
 ### Gelbfieber-Virus
-
+####Allgemeines
 **Krankheit**: Gelbfieber 
   * *Vektoren*: Mücken der Gattung Aedes und Haemagogus 
     * Teilweise Infektion über erkrankte Affen
   * *Wirt*: Mensch: Stadtgelbfieber (können auch das Virus übertragen)
-**Epidemiologie**: 
+
+**Geschichte**
+  * Max Theiler: Erkannte Viren als Erreger des Gelbfiebers 
+  * kontinuierliche Züchtung des Virus in bebrüteten Hühnereiern
+  * Attenuierter Stamm gelang zwischen 89 und 114. Passage
+    * 32 veränderte AS gegenüber dem Wildtyp
+    * Erstmals Entwicklung eines Lebendimpfstoffes
+    * Impfstamm bindet schlechter an Rezeptoren der Leberzellen
+  * 1951: Nobelpreis für Medizin
+
+####Epidemiologie:
   * Gelbfieberfürtel: tropisches Afrika und Teil von Mittel- und Südamerika
   * Frei: Asien, Australien
-**Pathogenese**:
+
+####Pathogenese:
   * Haut: Vermehrung in Makrophagen -> Regionale LK -> Ductus thoracicus -> Virämie
   * Leber: 
     * initial in den Kuppfer-Zellen
     * zytolytische Infektion der Hypatozyten
-**Klinik**
+
+####Klinik:
   * *Inkubationszeit*: 3-6 Tage
   * *Klinische Stadien*: Drei Phasenw erden unterschieden. Meistens verläuft die Erkrnakung asymptomatisch oder sistiert nach dem Remissionsstadium
     * 1. Initialstadium: 
@@ -164,6 +176,8 @@
           * Pulsanstieg bei sinkender Körpertemperatur = *Faget-Syndrom*
         * ZNS ist nich betroffen
   * *Prognose*: bei erreichen der toxischen Phase zu 50% letal durch Nieren- und Leberversagen, Schock oder Delirium
+
+####Diagnostik und Therapie
 **Diagnostik**: Blutuntersuchung
   * direkter Erregernachweis mittels PCR
   * Serologie: AK gegen Gelbfieber

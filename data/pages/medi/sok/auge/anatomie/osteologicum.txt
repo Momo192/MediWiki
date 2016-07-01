@@ -1,5 +1,17 @@
 #Osteologicum
 ##Knöcherner Aufbau der Orbita
+
+###Knochen der Orbita
+Die knöcherne Orbita bildet einen Trichter und setzt sich aus 7 verschiedenen Knochen zusammen:
+  * **Maxialla**: Orbitaboden
+  * **Os temporale** und **Os zygomaticum**: bilden den Jochbogen
+  * **Os sphenoidale** mit Ala major und ala minor
+  * **Os frontale**: Orbitadach
+  * Medial:
+    * **Os ethmoidale**
+    * **Os lacrimale**: mit Ductus nasolacrimalis, über den die Tränenflüssigkeit in den unteren Nasengang abgeleitet wird.
+    * **Os palatinum** (Processus orbitalis)
+a
 ###Rahmenkonstruktion und Bruchlinien
   * mechanisches Gegenstück zu den pneumatisierten Nasennebenhöhlen sind Verdickungen der Knochensubstanz im Breich des Gesichtschädels.
   * Schwachpunkt der Orbita ist der Orbitaboden und die Orte mit Durchtritstellen
@@ -45,3 +57,30 @@ Im Bereich des Gesichtsschädels sind einige Knochen pneumatisiert -> Gewichtser
     * Dadurch ist sie mechanisch schwach -> leichter Bruch bei Traumen
   * Feine Pneumatisierung
     * Gefahr des Durchbruches bei entzündlichen Prozessen
+
+##Muskeln und Nerven der Orbita
+###Anulus tendineus communis
+####Definition
+Verstärkter Sehnenring, welcher an der Spitze der Orbitapyramide in der Fissura orbitalis superior liegt. Er dient als Ansatz für die Augenmuskulatur und durch ihn ziehen mehrere Strukturen
+
+####Muskelansätze
+    * M. rectus superior
+    * M. rectus medialis
+    * M. rectus lateralis
+      * Zusätzlicher Ursprung am Os sphenoidale
+    * M. rectus inferior
+    * M. obliquus superior
+    * Nur der M. obliquus inferior hat seinen Ansatz an der medialen Orbitawand
+
+####Durchtretende Struktur
+  * Innerhalb des Anulus tendineus communis liegen
+    * N. nasocialris
+    * N. oculomotorius (R. inferior und superior)
+    * N. opticus
+    * N. abducens
+    * A. opthalmica pars optica
+  * Außerhalb liegen
+    * N. frontalis
+    * N. lacrimalis
+    * N. trochlearis
+    * V. ophtalmica superior und inferior

@@ -1,8 +1,32 @@
 #Mittelohr
 
+**Definition**: mit Schleimhaut ausgekleidete, Luft gefüllte Räume im Os temporale. Sie schließen sich medial dem Trommelfell an. Dazu gehörten:
+  * Paukenhöhle = Cavitas tympani mit der Gehörknöchelchenkette
+  * Antrum mastoideum und Cellulae mastoideae (*Paukennebenhöhlen*)
+  * Tuba auditica (Eustachi Röhre)
+
 ##Os temporale
 
 ##Allgemeine Topographie
+###Ausdehnung und Verbindung
+  * liegt im Felsenbein zwischen äußerem Ohr und Innenohr
+  * Verbindung:
+    * Tuba auditica -> Rachen (ventral)
+    * Celullae mastoideae -> Rachen 
+
+###Cavitas tympani
+20 mm hoher und 2 mm schmaler Raum zwischen Trommelfell und Labyrinth. Sie wird von 6 Wänden umgeben. 
+
+####Wände der Paukenhöhle
+  * **Paries tegmentalis**; Dach der Paukenhöhle
+  * **Paries jugularis**:
+    * Boden der Paukenhöhle
+    * Grenzt an den Bulbus V. jugularis
+  * **Paries labyrinthicus**:
+    * Grenzt zum Innenohr
+    * **Promontorium**: Vorwölbung der basalen Schneckenwindung, darauf liegt der Plexus tympanicus
+    * **Canalis musculotubularis**: Lage des M. tensor tympani
+
 
 ##Gehörknöchelchen
 
@@ -12,7 +36,7 @@
 ####Versorgung
 ####Durchgangsstation
 Die Paukenhöhle ist eine wichtige Durchgangsstation für Nerven
-#####N. glossopharyngeus
+#####N. facialis
   * tritt mit dem N. vestibulocochlearis durch den *Porus acusticus internus* in das Felsenbein ein
     * Bildung **Äußeres Faszialisknie** Lage des Ganglion geniculi
     * Hauptmasse: zieht zur mimischen Muskulatur -> verlässt Felsenbein durch Foramen stylomastoideum
@@ -25,6 +49,9 @@ Die Paukenhöhle ist eine wichtige Durchgangsstation für Nerven
       * *Abzweigung* oberhalb des Foramen stylomastoideum
       * *Inhalt*
         * Geschmacksfasern
-        * 
-#####N. facialis
-######Chorda tympani
+        * präganglionäre parasympathische Fasern
+      * *Verlauf*:
+        * durchquert die Paukenhöhle nur!!!
+          * wird dabei von Mukosa überzogen
+        * Durch *Fissura petrotympanica* in die Fossa infratemporalis ->  schließt sich dem N. lingualis an
+        * Umschaltung der parasympathischen Fasern im *Ggl. submandibulare* -> Innervation von Gl. sublingualis und Gl. submandibularis
