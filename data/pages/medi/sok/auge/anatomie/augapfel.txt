@@ -89,6 +89,8 @@
       * **M. sphincter pupillae**
         * Parasympathische Innervation: Erdinger Westphal -> N. oculomotorius -> G. ciliare -> Nn. ciliaris breves
         * Funktion: **Myosis** = Kontraktion der Pupille
+          * Durchmesser nimmt bis zu 5faches ab ->
+          * eintretende Lichtmenge nimmt bis zu 25faches ab (Pupillenfläche = πr²)
     * **Irisepithel**
       * Zweischichtiges pigmentiertes Epithel. Darin liegt
       * **M. dilatator pupillae**
@@ -142,6 +144,7 @@
   * *Funktion*: **+43 Dioptrien** von insgesamt 60 
     * (die restlichen sind von der Augenlinse) 
     * Hauptanteil der Brechkraft durch Luft-Wasser-Übergang
+    * Schutz
   * *Histologie*
     * *Tränenfilm*: Elektrolyte, Muzine und Lipide
     * *Epithel*: 
@@ -158,7 +161,9 @@
           * Kollagen hat definierte Abstände -> Transparenz abhängig vom Wassergehalt
     * *Endothel*
       * *Lage*: bedeckt die Hinterfläche
-      * *Funktion*: Diffusionsbarriere -> Wasserregulation
+      * *Funktion*: 
+        * Diffusionsbarriere -> Wasserregulation = reguliert ihren Quellungsgrad
+        * versorgt die Kornea
       * Einschichte, flache, lückenlose Zelllage
       * **Descemet-Membran** = Membrana limitans posterior
         * dicke Basalmembran 
@@ -224,18 +229,107 @@
 
 ###Augenkammern, Kammersekretion und Kammerwinkel
 ####Topographie
-  * **Hintere Augenkammer** wird gebildet von
-    * Iris (vorne)
-    * Glaskörper (hinten)
-    * Linse (mitte)
-    * Ziliarkörper (seitlich)
-  * **Vordere Augenkammer**
-    * Kornea (vorne)
-    * Iris und Linse (hinten)
+  * Wird gebildet von
+    * *hintere Augenkammer* wird gebildet von
+      * Iris (vorne)
+      * Glaskörper (hinten)
+      * Linse (mitte)
+      * Ziliarkörper (seitlich)
+    * **Vordere Augenkammer**
+      * Kornea (vorne)
+      * Iris und Linse (hinten)
+  * Funktion:
+    * erhalt des Augeninnendruck von 10-21 mmHg
+    * stabilisiert die Form des Augapfels von innen
+    * ernährt Kornea und Linse
+
 
 ####Kammerwasser
   * *Aufbau*
     * seröse Flüssigkeit
-    * Produktion von 3-9 ml/Tage
+    * Produktion von 3-9 ml/Tage, Erneuerung alles 2 Stunden
     * "ernährt" die Kornea und die Linse
-  * 
+  * *Normaler Fluss des Kammerwassers*
+    * *Proc. ciliaris*. Bildung des Kammerwassers -> wird sezerniert in
+    * Hintere Augenkammer -> gelangt durch die Pupille in
+    * Vordere Augenkammer
+    * Kammerwinkel (Abflusssystem)
+    * Schlemmkanal
+    * episklerale Venen
+
+####Kammerwinkel
+#####Aufbau
+  * *Gebildet von*: Iris, Kornea und einem kleinen Teil der Sklera
+  * Wichtige Strukturen
+    * *Trabekel*; falche BW-Züge.
+    * **Fontana-Räume**: Spalten des Trabekelwerks -> dort sickert das Kammerwasser bis an den Schlemmkanal
+    * **Schlemmkanal**
+      * liegt in der skleralen Begrenzung
+      * Ringdrainage Rohr
+
+#####Klinik
+  * *Messung des Augeninnendruck*
+    * durch Messung des Kammerwinkels
+    * Die Geometrie der Spalträume zwischen den Trabekeln wird durch Kontraktion des M. ciiliaris so verändert, dass der Abfluss des Kammerwassers erleichtert wird -> passt sich also an den Druck an
+  * [[Glaukom]]
+    * *Pathophysiologie:* meist Erhöhung des Augeninnendruckes -> Sehnerv wird an der Lamina cribrosa eingeklemmt > Erblindung
+    * *Pupillar, oder Weitwinkelglaukom*: Kammerwinkel ist durch Iris verschlossen (selten) -> Kammerwasser kann nicht die Vorderkammer abfließen -> drückt teile der Iris nach oben -> Blockierung des Kammerwinkels
+    * *Offenwinkelglaukom*: 
+      * Kammerwinkel ist offen
+      * Abfluss durch das Trabekelwerk ist behindert
+
+###Pars optica retinae
+####Auffällige Strukturen
+  * **Discus n. optici** = Austritt des Sehnerves
+    * DUrchmesser ca. 1,7mm
+    * randscharf, gelb-orange gefärbt
+    * zentrale Vertiefung
+  * **Fovea centralis**: 
+    * Bereich des schärfsten sehen, 
+    * liegt etwas temporal
+    * hier sind die histologischen Schichten, sehr dünn bzw. nicht vorhanden, sodass das Licht nicht durch so viele Schichten dringen muss um die Photorezeptorzellen zu erreichen
+
+####Aufbau
+Dicke: 200 μm
+  * 1. **Retinales Pigmentepithel** = *Stratum pigmentosum*: 
+    * *Aufbau*
+      * einschichtiges kubisches Epithel mit vielen Melanosomen
+      * sitzt fest auf der Bruchmembran
+    * *Funktion*
+      * Ernährung der Retina
+      * Minimiert die Lichtreflexion innerhalb des Auges
+        * schluckt Licht das nicht von Photorezeptor-Zellen absorbiert wird
+        * Enthält dafür Melanin -> bei Albinismus: Reduzierung der Sehschärfe
+      * *Retinalstoffwechsel*: phagozytiert die von Photorezeptorzellen abgestoßenen Anteile der Außensegmente, die anschließend erneuert werden
+  * **Neuroepithel**
+    * 2.  Fortsätze der Photorezeptorzellen (Außen- und Innensegment) aber nicht die Perikaryen
+    * 3. **Stratum limitans externum**
+      * äußere Grenzschicht
+      * Zonula adherentes  zwischen nach außen gerichteten Müller-Zell-Fortsätzen und den Photorezeptorzellen
+    * 4. **Stratum nucleare externum** 
+      * Perikaryen des 1. Neurons, der Photorezeptorzellen
+      * äußere Körnerzellschicht
+    * 4. **Stratum plexiforme externum**
+      * Neuropiel
+      * Synapsen zwischen den axonalen Fortsätzen des 1. Neurons und den Dendriten des 2. Neurons + Horizontalzellen
+    * 5. **Stratum nucleare internum** = innere Körnerschicht
+      * Perikaryen der bipolaren Zellen (2. Neuron) = Verbinden Photorzeptorzellen mit Ganglienzellen
+      * Perikaryen der Horizontalzellen = verbinden Photorezeptoren untereinander
+      * Perikaryen der amakrinen Zellen (= verbinden Ganglienzellen mit Bipolarzellen) und der Müller-Zellen
+    * 6. **Stratum plexiforme internum** = Neuropiel
+      * Synapsen zwischen den Axonen des 2. Neurons und den Dendriten des 3. Neurons
+        * Verschaltung: 1:20
+          * in Fobea centralis: 1:1
+      * Synaspesen der Amakrinzellen
+    * 7. **Stratum ganglionicum** = Ganglienzellschicht
+      * Perikaryen der Optikusganglienzellen
+      * Perikaryen der nach innen verlagerten Amakrinen-Zellen
+    * 8. **Stratum neurofibrarum**:
+      * Nervenfaserschicht, Axone der Ganglienzellen
+      * Enthält Blutgefäße (A. centralis retinae)
+    * 9. **Stratum limitans internum**: 
+      * Innere Grenzschicht
+      * Endfüßschen der nach innen gerinchteten Müllerzellfortsätze, Basallamina
+
+####Orientierung der Retina
+Das Licht muss erst durch die gesamte Retina hindurch bis es an die Photorezeptorzellen gelangt -> Evolutionstechnisch nicht optimal gelöst. Die Erregungsleitung findet wiederum in umgekehrte Richtung statt d.h. in Richtung Glaskörper
