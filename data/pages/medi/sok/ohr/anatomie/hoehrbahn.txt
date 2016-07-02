@@ -1,0 +1,125 @@
+#Höhrbahn
+Die Höhrbahn ist der zentralnervöse Teil des auditorischen Systems des Menschen
+
+##Efferenzen
+  * *Quellen*
+    * Ncl. cochlearis -> laterales olivocochleäres Bündel
+    * Olive
+  * *Innervation*: IHZ und v.a. ÄHZ
+  * *Funktion*: Rückkopplung auf Haarzellen -> Modifizierung der Empfindlichkeit für bestimmte Frequenzen
+
+##Afferenzen: Verlauf der Höhrbahn
+###Allgemeines
+  * die meisten Bahnen verlaufe kontralateral, nur wenige ipsilateral 
+    * einige Fasern kreuzen wieder zurück nach ipsilateral -> primäre Hörrinde erhält Informationen aus beiden Cochleae -> *Richtungshören*
+  * *Tonotopische Gliederung* nach Tonhöhe = Frequenz -> wird in der primären Hörrinde beibehalten -> Grundlage für das Erkennen von Tönen unterschiedlicher Frequenz
+
+###Aufbau
+####1. Neuron: Ganglion cochleare
+  * Innere Haarzellen = sekundäre Sinneszellen, haben keine Nervenfortsätze
+  * Bipolare Neurone im Ggl. cochleare
+    * Dendritische Fortsätze nehmen Reiz aus IHZ auf
+    * Axone der Neurone bilden **N. cochlearis** 
+  * N. vestibulocochlearis
+    * Verlauf zusammen mit N. vestibularis -> innerer Gehörgang -> N. vestibulocochlearis -> Porus acusticus internus -> am Kleinhirnbrückenwinkel (am Unterrand der Pons, kaudolateral des N.facialis) zieht er in den Hirnstamm 
+
+####2. Neuron: Nucleus cochlearis
+
+  * *Lage*; Medulla
+  * *Funktion*: basale Informationsverarbeitung: Dauer, Abfolge, Intensität
+  * *Einteilung*:
+    * *direkte Höhrbahn*: im **Nucleus cochlearis posterior**
+      * kürzere Bahn mit weniger Stationen und weniger kreuzenden Fasern
+      * zieht nach Kontralateral
+    * *indirekte Höhrbahn* : Umschaltung im Ncl. cochlearis anterior
+      * zusätzliche Verschaltungen und kreuzende Fasern
+  * *Faserverlauf*
+    * Fasern ziehen zu einem geringem Teil auf der ipsilateralen Seite nach oben
+    * **Corpus trapezoideum** = kreuzendes Faserbündel
+      * heirein eingelagert ist der **Ncl. olivaris superior**:
+        * Kerngebiet im Hirnstamm
+        * erhalten auditorische Informationen von beiden Corti-Organen 
+        * Wichtige Station für das *Richtungshören, Reflexe*
+    * **Lemniscus lateralis**
+      * Verbindet Ncl. cochlearis posterior bzw. Ncl. olivaris superior mit den Colliculi inferiores 
+      * auf der kontralateralen Seite aufsteigend
+
+####3./4. Neuron: Colliculus inferior
+  * *Funktion*: Reflexzentrum, Verschaltung auf 4. Neuron
+  * *Lage*: Vierhügelplatte im Mittelhirn
+  * *Verlauf*
+    * Einige kreuzen zum entgegesetzten Colliculi inferior
+    * andere ziehen über das **Brachium colliculus inferioris** weiter zum Corpus geniculatum mediale
+
+####4./5. Neuron: Corpus geniculatum mediale
+  * *Funktion*: Verschaltung auf 4. oder 5. Neuron
+  * *Lage*: im Metathalamus
+  * *Faserverbindung*: **Hörstrhalung**
+    * zieht zur primären Hörrinde
+    * Verlauf durch Capsula interna zur primären Hörrinde
+
+
+##Zentrale Verarbeitung der akustischen Information
+n
+###Gyri tremporale transversi
+  * *Synonyme*
+    * Area 41
+    * Heschl-QUerwindungen
+    * primäre Hörrinde
+  * *Afferenzen*: Hörbahn 
+    * **tonotopisch gegliedert**: jede Tonfrequenzh hat ihren eigenen Terminationsort in der primären Hörrinde
+      * Tiefe Frequenzen: lateral
+      * Hohe Frequenzen: medial
+  * *Efferenzen*: sekundäre Hörrinde
+  * *Funktion*:
+    * interpretationsfreies Bewusstwerden
+    * Sinneseindruck von Tonhöhen
+  * *Ausfall*: **Rindentaubheit**: kompletter Hörverlust obwohl das Ohr intakt ist
+
+###Sekundäre Hörrinde
+  * *Lage*: 
+    * Brodman-Areal A42 und teilweise A22
+    * grenzt direkt an die primäre Hörrinde
+  * *Afferenzen*
+    * primäre Hörrinde
+    * Gyrus angularis = Sehbahn
+    * Schaltstelle zwischen visuellen und sprachrelevanten Kortex Arealen -> Verknüpfung von Gesehenem und gesprochenem
+  * *Efferenzen*: Kortex z.B. Broca-Zentrum (Sprache)
+  * *Funktion*
+    * interprtative Verarbeitung
+    * Bewusstwerden von Geräuschen als Sprache, Musik, Lärm usw
+  * *Ausfall*: Geräusche werden gehört, können aber nicht erkannt werden
+
+####Wernicke-Zentrum
+  * *Lage*: 
+    * in sekundärer Hörrinde (A22)
+    * nur in der dominanten Hemisphäre (links) -> rationale Integration von auditorischen Impulsen
+  * *Afferenzen*
+    * primäre Hörrinde
+    * Cortex!
+  * *Efferenzen*: über Fasciculus arcuatus zum Brocca-Zentrum (Sprache)
+  * *Funktion*: Sprachverständnis
+  * *Ausfall* = **sensorische Aphasie = Wernicke APhasie**
+    * z.B: durch Ausfall der A. cerebri media
+    * Symptome
+      * zentrale Sprachstörung
+      * fließendes bis exzessives Sprechen
+      * ohne Erkennen der Bedeutung der Wörter
+      * mit Neologismen, Verwechselungen (Paraphrasie)
+
+###Sprachschaltkreise
+####Fasciculus arcuatus
+  * Efferenz vom Wernike zum Broka-Zentrum (als Teil des Fasciculus longitudinalis superior)
+  * bei Ausfall: *Leitungsaphasie* -> Verlust der Fähigkeit zum Nachsprechen
+
+####Broca-Zentrum
+  * *Definition*: motorisches Sprachzentrum
+  * *Lage*: 
+    * Pars opercularis und Pars triangularis im Gyrus frontalis inferior
+    * einseitig in der dominanten Hemisphäre 
+    * A44 und A45
+  * *Ausfall*: **Motorische Aphasie**
+    * Sprachverständnis intakt
+    * Unfähigkeit zu SPrechen
+    * Telegrammstil
+

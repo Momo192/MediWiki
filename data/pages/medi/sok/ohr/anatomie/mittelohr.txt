@@ -26,6 +26,24 @@
     * Grenzt zum Innenohr
     * **Promontorium**: Vorwölbung der basalen Schneckenwindung, darauf liegt der Plexus tympanicus
     * **Canalis musculotubularis**: Lage des M. tensor tympani
+  * **Paries mastoideus**: 
+    * occipital
+    * grenzt an die Cellulae mastoideus = Paukennebenhöhlen -> Infektionsweig -> Mastoiditis
+    * kann über den **Aditus ad antrum mastoideum** erreicht werden
+    * In der Wand verlaufen
+      * N. facialis -> Prominentia canalis Fascialis -> Austritt Chorda tympani (Gefährdung bei OP)
+      * A, carotis interna
+      * V. jugularis interna
+  * **Paries caroticus**: 
+    * Frontal
+    * grenzt an den Canalis caroticus
+    * beinhaltet die Tubenöffnung
+  * **Paries membranaceus**: Trommelfell
+
+####Etagen der Paukenhöhle
+  * **Epitympanon**: oberhalb des Trommelfell
+  * **Mesotympanon**: zwischen Trommelfell und Promontorium
+  * **Hypotympanon**: unterhalb des Trommelfells
 
 
 ##Gehörknöchelchen
