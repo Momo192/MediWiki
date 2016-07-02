@@ -93,3 +93,21 @@ Fazit **Zapfensystem**
 #####Inaktivierung des Metarhodopsins
   * Phosphorylierung durch *Rhodopsinkinase* -> Bindung von **Arrestin** -> keine Interaktion mit Transducin mehr möglich
   * Alternativ: Spaltung in Psin + all-trans-Retinal -> Umwandling in all-trans-Retinol -> 11-cis-Retinal (im Pigmentepithel) -> Rhodopsin-Bildung
+
+###Organisation der Ganglienzellen: Signalverarbeitung in der Netzhaut
+####Rezeptive Felder
+  * *Definition*; das rezeptive Feld einer Ganglienzelle ist der Bereich der Photorezeptorschicht, der die Aktivität dieser Ganglienzelle beeinflusst
+  * *Entstehung*: durch Verschaltung der verschiedenen Neurone der Netzhaut mit den Ganglienzellen
+    * Zapfen werden mit Ganglienzellen über Bipolarzellen verknüpft
+  * *Eigenschaften*: 
+    * *Form*: Zirkulär bzw. oval
+    * *Durchmesser*: 
+      * an der Fovea am kleinsten (< 1 Winkelminute)
+      * Wird zum Rand der Retina hin größer (3-5°)
+    * Jedes hat ein Zentrum und eine Peripherie
+      * die Peripherie ist antagonistisch zum Zentrum
+    * Einteilung
+      * *On-Zentrum-Ganglienzellen*: reagieren auf die Belichtung ihres Zentrum mit einer erhöhten Frequenz
+      * *Off-Zentrum-Ganglienzellen*: reagieren auf die Belichtung ihres Zentrums mit einer erniedrigten Frequenz
+
+####Hell- und Dunkelwahrnehmung durch on- und Off-Ganglienzellenzellen

@@ -1,0 +1,138 @@
+#Geschmack
+##Zunge
+###Allgemeines
+####Funktion
+  * Schmecken: jede Geschmacksqualität ist auf der Zunge überall gleich vertreten
+  * Sprechen
+  * Kauen/Schlucken
+  * Tasten
+  * Mimik
+
+####Topographie
+  * *Sulcus medianus*
+  * *Sulcus terminalis* mit Foramen caecum linguae
+  * *Radix linguae* mit Tonsilla lingualis
+  * Epiglottis
+
+####Innervation
+#####Somatosensibilität
+  * *Definition*: Berührungs-, Schmerz- und Temperaturempfindung
+  * N. lingualis (N. trigeminus V3): vorderes Drittel
+  * N. glossopharyngeus (IX) mittleres Drittel
+  * N. vagus (X): hinteres Drittel
+
+
+#####Sensorik = Geschmack
+  * N. facialis (Chorda tympani): vorderes Drittel
+  * N. glossopharyngeus: mittleres Drittel
+  * N. vagus: hinteres Drittel
+
+#####Motorik: N. hypoglossus (XII)
+
+###Geschmacksqualitäten
+Es können nur 5 Geschmaksqualitäten wahrgenommen werden, erst zusammen mit dem Geruch und somatosensorischen Informationen entsteht ein Aroma
+  * **Salzig**:
+    * *Substanz*: Na⁺ und andere anorganische Ionen
+    * *Subjektive Wahrnehmung*:
+      * geringe Konzentration: positiv
+      * hohe Konzentration: negativ
+    * *Schwelle (mmol/L)*: 10
+    * *Rezeptor*: Ionenkanal (ENaC)
+  * **Sauer**
+    * *Substanz*: H⁺
+    * *Subjektive Wahrnehmung*:
+      * geringe Konzentration: positiv
+      * Hohe Konzentration: negativ
+    * *Schwelle (mmol/L)*: 1 (= pH3)
+    * *Rezeptor*: Ionenkanal
+  * **Süß**
+    * *Substanz*: Zucker: Fruktose, Saccharasoe, D-AS usw.
+    * *Subjektive Wahrnehmung*: positiv
+    * *Schwelle (mmol/L)*: 10-100
+    * *Rezeptor*: GCPR (T1R2/T1R3)
+  * **Umami**
+    * *Substanz*: L-Glutamat, L-Aspartat
+    * *Subjektive Wahrnehmung*: positiv
+    * *Schwelle (mmol/L)*: 1
+    * *Rezeptor*: GCPR (T1R1/T1R3)
+  * **Bitter**:
+    * *Substanz*: pflanzliche Stoffe, chemisch heterogen
+    * *Subjektive Wahrnehmung*: negativ
+    * *Schwelle (mmol/L)*: 0,001-1
+    * *Rezeptor*: GCPR (T2Rs)
+
+###Wahrnehmung von Geschmack
+
+  * *Schwellenkonzentration* muss überschritten werden
+    * **Wahrnehmungsschwelle < Erkennungsschwelle**: es wird ein Geschmack wahrgenommen, kann aber nicht identifiziert werden
+    * ist abhängig von der Anzahl und der spezifischen Sensitivitt der Rezeptoren
+      * nimmt mit dem Alter ab -> mit steigendem Alter werden immer größere Konzentrationen benötigt um eine Substanz wahrzunehmen (Zwischen 2 und 12faches der Menge)
+    * z.B.
+      * Zucker: Schwellenkonzentration ist 1000fach höher als von Zuckerersatzstoffen
+      * Bitter: niedrigste Schwellenkonzentration -> potentielle Gefahrenquelle
+      * Salz: Steigerung der Empfindlichkeit durch Salzmangel
+  * *Bewertung der Empfindung*
+    * angeboren, auf höheren Stufen der Reizwahrnehmung:
+    * Abhängig von Geruch, Konsistenz, Aussehen, Temperatur, Geräusche und Schärfe
+  * *Modelle für Geschmackswahrnehmung*: Geschmacksnervenfasern sind meist Generalisten -> können alle Arten von Geschmack wahrnehmen
+  * *Empfindlichkeit*:
+    * angepasst an die Konzentrationen die physiologisch wahrgenommen werden müssen
+    * **Adaptation**
+      * schnell und vollständig innerhalb von Minuten
+      * Erholung auch innerhalb von Minuten, kann aber für Bitter bis zu 5h dauern
+
+
+###Geschmacksknospen
+####Rezeptorzellen
+  * **Sekundäre Sinneszellen**
+    * bis zu 50 Afferenzen pro Sinneszelle
+    * Eine Afferenz enthält Informationen aus mehreren Sinneszellen
+    * detektieren nie mehr als eine Geschmacksqualität gleichzeitig -> nur einen Rezeptortyp pro Zelle
+  * *Aufbau*
+    * *Mikrovilli*
+      * zu Vergrößerung der apikalen Oberfläche
+      * Aktin-Gestützt
+    * *Tight junctions*: an der basolateralen Membran
+  * *Typen*:
+    * **Typ I** = Stützzelle
+    * **Typ II**: Rezeptorzellen
+      * Rezeptoren für 1 Geschmacksqualität
+      * Spannungsabhängige Na⁺-Kanäle -> AP
+      * keine Synapsen sondern Abgabe von ATP -> Erregung Typ III Zellen
+    * **Typ III**: Rezeptorzellen
+      * Feuern AP
+      * bilden Synapsen zum 1. Neuron
+    * **Typ IV**: Stammzelle
+      * Ersetzen alle 10d die anderen Zellen
+
+####Aufbau von Geschmacksknospen
+  * Geschmacksrezeptorzellen liegen wie Teile einer Apfelsine zu 20-50 in einer Geschmacksnospe
+  * Diese hat einen **Porus** zum Eintritt von Geschmacksknospen
+  * Behinhaltet Sinneszellen für Detektion jeder Geschmacksqualität
+    * d.h. jede Geschmacksqualität kann über die gesamte Zungenoberfläche wahrgenommen werden
+    * Ausnahmen
+      * Süß empfindlicher an der Zungenspitze
+      * Bitter: empfindlicher am Zungengrund
+
+####Geschmackspapillen
+Geschmacksknospen sind organisiert in Geschmackspapillen
+  * **Papilla fungiformes** = Pilzpapillen
+    * *Lokalisation*: vordere 2/3 der Zunge
+    * *Anzahl*: 200-4000
+    * *Knospen pro Papille*: 1-10
+    * *Funktion*: süß
+  * **Papillae foliatae** = Blattpapillen
+    * *Lokalisation*:seitlich am Zungengrund
+    * *Anzahl*:15-20
+    * *Knospen pro Papille*: 50
+    * *Funktion*: Geschmack
+  * **Papillae vallatae**: 
+    * *Lokalisation*: am Zungengrund
+    * *Anzahl*: 7-12
+    * *Knospen pro Papille*: 100
+    * *Funktion*: Bitter
+  * **Papillae filiformis** -> Taktile Wahrnehmung
+
+###Rezeptoren für Geschmacksknospen
+
+##Geschmacksbahn
