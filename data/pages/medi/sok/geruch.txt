@@ -6,7 +6,9 @@
     * mechanische Reinigung von Partikeln
     * immunologische Funktion
   * Geruchssinn
-  * Olfaktion
+    * *Funktionen*: 
+      * primär: Beurteilung von Nahrung -> hauptsächlich erlernt
+  * Lautbildung
 
 ###Topographie
   * *Form*: keilförmig
@@ -16,6 +18,8 @@
     * 3 hackenförmige knöcherne Nasenmuscheln
     * Ragen von Lateral in die Nasenhöhle
     * sind von Schleimhaut überzogen
+      * Respiratorisches mehrreihieges Flimmerepithel mit wenigen Becherzellen
+      * Lamina propria, Gll, nasales, subepithelialis Kapillarnetz und venöse Schwellkörper
     * Einteilung:
       * **Concha nasales**
         * **superior**
@@ -33,3 +37,67 @@
   * *Knorpelige Strukturen* aus hyalinen Knorpel
     * **Cartilago Septi nasi**: Dreiecksknorpel (oben)
     * **Cartilago alaris major**: Flügelknorpel (unten)
+  * *Knöcherne Strukturen*
+    * Os nasale
+    * Os frontale
+    * Os ethmoidale
+    * Os sphenoidale
+
+###Verbindungen
+####Trennlinien
+  * durch **Palatum durum** (harten Gaumen) von der Mundhöhle getrennt. Dieser besteht aus
+    * Os maxillare 
+    * Os palatinum
+  * durch Os frontale, ehtmoidale und sphenoidale von der Schädelhöhle getrennt
+
+####Verbindungen
+  * **Choanen**: Verbindung zum Nasopharynx
+  * *Nasennebenhöhlen*
+    * **Hiatus semilunaris** -> *Meatus nasi medius*
+      * Unten: Ausführungsgang des *Sinus maxillaris*
+      * Oben: Ausführungsgang
+        * *Sinus frontalis*
+        * *Cellulae ethmoidales anterior et medius*
+    * *Meatus nasi superior*
+      * *Cellulae ethmoidales posterior*
+      * *Sinus sphenoidalis* im **Recessus sphenoethmoidales**
+    * *Meatus nasi inferior*: Mündung Ductus nasolacrimalis
+
+###Versorgung 
+  * **A. carotis externa** -> **A. maxillaris**
+    * Zur Nasenwand
+      * **A. sphenopalatina** zieht durch das Foramen sphenopalatinum
+      * **Aa. nasales posteriores laterales**
+    * Zum Nasenseptum
+      * **Rr. septales anteriores**
+      * **Locus Kiesselbachi**;
+        * wird von beiden Stromgebieten gespeist
+        * hier ist beim Nasenbluten meistens die Blutungsquelle
+  * **A. carotis interna** -> A. ophtalmica -> Nasenwand + Nasenseptum
+    * **A. ethmoidales anterior**
+      * *Verlauf*: Orbita -> Foramen ethmoidale anterior -> vorder Schädelgrube -> Lamina cribrosa
+    * **A. ethmoidale posterior**
+      * *Verlauf*: Orbita -> Foramen ethmoidale posterior -> vordere Schädelgrube -> Lamina cribrosa
+  * *Klinik*: **Epistaxis**
+    * Ursache
+      * konstitutionelles Nasenbluten
+      * physikalische, chemische oder EZ-Schäden
+      * Trauma, Tumor, Rhinitis usw. 
+
+###Innervation
+  * Sensible Versorgung:Äste des N. trigeminus
+    * **N. ophtalmicus (V1)** -> N. ethmoidales anterior
+      * Zur Nasenwand: 
+        * Rr. nasalis externus
+        * Rr. nasalis laterales 
+        * Rr. nasales interni
+      * Zum Nasenseptum: Rr. nasales medialis
+    * **N. maxillaris (V2)**: Ggl. pterygopalatinum in der Fossa pterygopalatina -> Foramen sphenopalatinum
+      * Nasenwand: Rr. nasales posteriores, superiores, laterales et inferiores
+      * Nasenseptum: N. nasopalatinus
+  * Parasympathische Fasern
+    * Ncl. salivatorius superior -> N. facialis -> Ggl. geniculatum -> N. petrosus major -> Ggl. pterygopalatinum
+  * Riechschleimhaut: N. olfactorius
+
+##Olfaktorisches Neuroepithel
+###Lokalisation
