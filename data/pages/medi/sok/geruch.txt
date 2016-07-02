@@ -8,6 +8,19 @@
   * Geruchssinn
     * *Funktionen*: 
       * primär: Beurteilung von Nahrung -> hauptsächlich erlernt
+        * starke emotionale, hedonische Komponente
+      * Soziale Komponente: 
+        * Verbindung Mutter mit Säugling
+        * Evtl. Rolle bei der Partnerwahl
+    * *Allgemeines*
+      * > 10 000 verschiedene Gerüche können wahrgenommen werden
+      * 7 Geruchsklassen (blumig, ätherisch, moschusartig, pampherartig, schwei0ig, faulig, stechend)
+      * Geruchsstoffe sind klein, flüchtig und hydrophob
+    * *Beruteilung*
+      * **Absolutschwelle**: mindestens 10⁷ Moleküle / mL (viel empfindlicher als Geschmacksinn)
+      * **Erkennungsschwelle**: etwa 1 Größenordnung darüber
+      * Verschiebung der Schwellen durch Sattheit, Adaptation (innerhalb von Minuten bei hohen Konzentrationen), Habituation (innerhalb von Wochen, ZNS)
+
   * Lautbildung
 
 ###Topographie
