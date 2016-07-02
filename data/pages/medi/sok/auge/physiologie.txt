@@ -2,5 +2,94 @@
 ##Visuelle Transduktion
 ###Photorzeptorzellen
 ####Allgemeiner Aufbau
-#####Außensegment
-  * *Funktion*: Lichtrezeption
+  * **Außensegment**
+    * *Funktion*: Lichtrezeption
+    * Erneuerung: alle 10 Tage
+    * Zapfen: mehr als 1000 Invaginationen der Zellmembran
+    * Stäbchen: Infaginationen sind abgeschnürt und bilden intrazelluläre Membranenscheiben
+    * Sehpigment ein Membranstapeln: Rhodopsin
+      * Opsin (Protein)
+      * Retinal (Chromophor)
+  * **Innensegment**: metabolische Funktion
+  * **Perikaryon**
+
+####Arten
+#####Stäbchen
+  * *Anzahl*: 120 Mio
+  * *Funktion*: hohe Lichempfindlichkeit
+  * *Lage*: peripher
+  * *Eigenschaften*
+    * Membranstapel: intrazellulär
+    * Sättigung: bei intensivem Licht vollständig gesättigt
+    * *Zeitliche Auflösung*
+      * Depolarisation: auf -47 mV innerhalb von 200 msec 
+      * langsame Repolarisation (600msec) (langsamer als Zapfen) 
+      * -> können 2 Lichtreize addieren -> HOhe Empfindlichkeit für schwache Lichtreize 
+      * zeitliche Auflösung <12 Hz
+    * *Räumiche Auflösung*
+      * Gering
+      * Mehrere Stäbchen haben Kontakt zu einer Bipolarzelle -> geringe Auflösung
+      * Kontakt zu Ganglienzelle: indirekt über Amakrinzelle
+
+
+Fazit: **Stäbchensystem**
+  * Hohe Empfindlichkeit durch ausgeprägte Konvergenz
+  * Geringes Räumliches Auflösungsvermögen
+  * Kein Farbsehen
+
+#####Zapfen
+  * *Anzahl*: 9 Mio
+  * *Funktion*: Farbsehen (Blau, Rot, Grün)
+  * *Lage*: Fovea centralis
+  * *Eigenschaften*
+    * Membranstapel: Plasmemembran
+    * Sättigung: nur kurzfristig vollständig gesättigt
+    * *Zeitliche Auflösung*
+      * Depolarisation auf -52 mV innerhalb von 100msec
+      * Repolarisation innerhalb von 300 msec
+      * Bessere zeitliche Auflösung als Stäbchen: < 55Hz
+    * *Räumliche Auflösung*
+      * hoch
+      * Jeder Zapfen hat immer Kontakt zu  2 Bipolarzellen
+      * Direkter Kontakt zu Ganglienzellen über Bipolarzellen
+
+Fazit **Zapfensystem**
+  * geringere Empfindlichkeit
+  * hohes räumliches AUflösungsvermögen durch geringe Konvergenz
+  * Farbsehen durch 3 Typen von Zapfen
+
+#####Verteilung
+  * *Lage*: in äußerster Schicht des Neuroepithels
+  * Fovea centralis: nur Zapfen
+  * Sonst: mehr Stäbchen als Zapfen
+    * Zapfendichte fällt zum Rand der Retina hin stark ab
+
+####Phototransduktion in Stäbchen
+#####Rhodopsin
+  * *Definition*: lichtsensitives Pigment der Stäbchen
+  * *Lage*: in hoher Dichte in den Membranscheiben des Außensegmentes
+    * Erhöhung der Wahrscheinlichkeit, dass ein Photon bei seinem Weg durch das Außensegment absorbiert wird
+  * *Aufbau*:
+    * **Opsin**: Membranprotein mit 7 Transmembrandomänen
+    * **11-cis-Retinal** = Chromophor
+      * bindet an Aminogruppe von Lysin des Opsins -> aus Aldehyd und Aminogruppe entsteht durch kovalente Bindung eine *Schiff'sche Base*
+  * *Funktion*; 
+    * Auftreten eines Photons
+    * Isomerisierung des 11-cis-Retinal zu *11-trans-Retinal* -> Konformationsänderung im Opsin -> Bildung von **Metarhodopsin II**
+
+#####Dunkelstrom
+  * *Situation*: Stäbchen im Dunkeln
+  * Außensegment enthält Gualylatcyclase -> ständige cGMP Synthese -> Bindung an *CNG* (= cyclic nucleotide gates) Kanal in der Plasmamembran des AUßensegments
+  * Öffnung des Kanals -> Einstrom von Na⁺ und Ca²⁺ = **Dunkelstrom**
+  * Depolarisation auf -40 (-30) mV -> Abgabe von Transmittern (Glutamat)
+  * Ausgleich des Kation-Einstrom durch Na⁺-K⁺-ATPase
+
+#####Belichtung von Stäbchen
+  * Entstehung von Metharhodopsin II -> Koppelt an *Transducin* (GCPR) -> Aktivierung einer Phosphodiesterase (PDE) -> Hydrolyse des cGMP
+  * Schluss des CNG-Kanal -> Hyperpolarisation der Zelle um ca. 40 mV auf -70 mV
+    * *Signalamplifikation*; 1 Rhodopsin aktiviert 500 Transducine -> Aktivierung 500 PDE -> 10⁵ PDE hydrolysier -> Schließung von bis zu 250 CNG Kanälen (3-5%) -> Hyperpolarisation um 1 mV 
+  * Folge: verminderte Abgabe von Glutamat an die Synapsen der Photorezeptoren -> Anzahl und Frequenz der AP wird verändert
+
+#####Inaktivierung des Metarhodopsins
+  * Phosphorylierung durch *Rhodopsinkinase* -> Bindung von **Arrestin** -> keine Interaktion mit Transducin mehr möglich
+  * Alternativ: Spaltung in Psin + all-trans-Retinal -> Umwandling in all-trans-Retinol -> 11-cis-Retinal (im Pigmentepithel) -> Rhodopsin-Bildung
