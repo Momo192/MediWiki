@@ -110,4 +110,19 @@ Fazit **Zapfensystem**
       * *On-Zentrum-Ganglienzellen*: reagieren auf die Belichtung ihres Zentrum mit einer erhöhten Frequenz
       * *Off-Zentrum-Ganglienzellen*: reagieren auf die Belichtung ihres Zentrums mit einer erniedrigten Frequenz
 
-####Hell- und Dunkelwahrnehmung durch on- und Off-Ganglienzellenzellen
+####Hell- und Dunkelwahrnehmung durch on- und Off-Ganglienzellen
+  * **On-Zentrum-**
+    * **Bipolarzelle**
+      * wird durch Glutamat hyperpolarisiert d.h. bei Dunkelheit
+      * Belichtung -> Hyperpolarisation der Photorezeptorzelle -> Abnahme der Glutamatausschüttung -> Depolarisation der On-Bipolarzelle -> Aktivierung der On-Ganglienzelle
+      * Es findet eine Vorzeichenumkehr statt
+    * **Ganglienzelle**: reagiert auf die Belichtung ihres Zentrums mit einer erhöhten AP-Freqquenz
+  * **Off-Zentrum**
+    * **Bipolarzelle**: wird durch Glutamat depolarisiert d.h. bei Dunkelheit Depolarisation
+    * **Ganglienzelle**: reagiert auf die Belichtung ihres Zentrums mit einer verminderten AP-Frequenz
+  * Jeder Photorezeptor hat Kontakt zu beiden Klassen von Ganglienzellen d.h. immer Kontakt zu mindestens 2 Bipolarzellen -> *Parallele Signalwege* -> Präzise Kodierung von einer Erhöhung oder Verminderung der Helligkeit
+
+####Kontrastverstärkung durch laterale Hemmung
+  * **Horizontalzellen**
+    * 
+

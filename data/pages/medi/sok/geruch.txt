@@ -114,3 +114,117 @@
 
 ##Olfaktorisches Neuroepithel
 ###Lokalisation
+  * 2cm²
+  * Im *Recessus sphenoethmoidalis* 
+    * Bereich der Lamina cribrosa
+    * oberer Anteil der Nasenmuschel
+
+ 
+
+###Riechepithel
+  * *Allgemeines*
+    * mehr als 10 Mio Rezeptorzellen
+    * Lebensdauer der Geruchsrezeptorzellen: 1 Monat
+      * Regenerierbare Neurone!!
+  * Mehrreihig hochprismatisches Epithel -> Geruchsrezeption
+    * bedeckt von einer Mukusschicht 
+      * Verhindert Austrocknung
+      * Hydrophobe Dufstoffe müssen in der Mukusschicht gelöst werden -> **odorant binding Porteins** = ODPs = Transportproteine, die die Duftstoffe durch das wässrige Milieu zu den Zilien bringen
+    * **Stützzellen**
+    * **Basalzelle**: Regeneration
+    * **Riechsinneszellen**
+      * münden apikal in Dendriten **Riechköpfchen**
+        * entsendet 5-25 echte Zilien in die Mukusschicht 
+          * Oberflächenvergrößerung von 2 auf 20 cm²
+          * in den Zilien sitzen die eigentlichen Rezeptoren an die die Duftstoffe binden
+  * *Lamina propria*
+    * Venöse Schwellkörper
+    * **Gll. olfactoriae**: 
+      * rein Serös
+      * versetzt die Riechstoffe in Lösung
+    * **Nn. olfactorii**: Geruchsweiterleitung
+    * **Bowman'sche Drüsen**: Produktion von Schleim und odoront Bindin Protein
+
+###Geruchsrezeptoren
+  * *Allgemein*: Es existieren 350 verschiedene Rezeptoren für Duftstoffe
+    * jede Sinneszelle exprimiert nur einen dieser Typen
+    * eder Rezeptor kann verschiedene, strukturell ähnliche Duftstoffe binden
+    * Rezeptoren gehören zu der Klasse der GCPR
+  * *Signalkaskade*
+    * OBP binde Duftstoff -> Bindung an GCPR -> G-Protein olf wird aktiv
+    * Aktivierung Adeynylatcyclase (AC) -> Erhöhung cAMP -> 
+    * Öffnung cAMP abhängiger Ionenkanal = **CNG** -> Einstrom von Na⁺ und Ca²⁺
+      * Depolarisierung der Zelle
+      * Ca²⁺ 
+        * -> Öffnung Calcium-sensitiver-Chlorid-Kanal -> weitere Depolarisation der Zelle
+        * -> Bindung an Calmodulin -> 
+          * Aktivierung Phosphodiesterase -> Hydrolyse cAMP -> Beendigung der Signaltranduktion
+          * Ca²⁺-Calmodulin-Komplex inhibiert den CNG-Kanal -> Verringerung der Öfnungwahrscheinlichkeit -> Adaptation
+    * Entstehung AP
+
+##Elemente der Riechbahn
+###Verlauf der Riechbahn
+  * *1. Neuron* = **primäre Sinneszellen** der Riechschleimhaut
+    * Dendriten = *Fila olfactoria*
+    * Axone = reichen durch die Lamina cribrosa -> projizieren in den Bulbus olfactorius
+  * *2. Neuron*
+    * Bulbus olfactorius: Verschaltung in **Glomeruli** auf **Mitralzellen** -> Bilden **Tractus olfactorius**
+      * **Konvergenz**: auf jede Mitralzelle konvergieren mehr als 1000 Axone
+      * **Chemotrope Organisation**
+        * Sinneszellen derselben Geruchsqualität (exprimieren denselben Rezeptortyp) enden im selben Glomerulus
+        * Jeder Rezeptortyp konvergiert nur auf wenige (1-2 Glomeruli)
+    * *Laterale Inhibition*
+      * Sinneszellen erregen **periglomeruläre Neurone** -> hemmen benachbarte Neurone
+      * Mitralzellen erregen über Kollaterale **Körnerzellen**, die die gleiche und die benachbarte Mitralzelle efferent hemmen -> evtl. an Adaptation beteiligt
+    * *Efferente Kontrolle*
+      * es gibt efferente Projektionen von kortikalen Gebieten auf periglomeruläre Zellen und Körnerzellen
+      * Modulieren die Aktivität im Bulbus
+    * im *Trigonum olfactorium* Auftrennung in
+      * **Striae olfactoriae lateralis**
+      * **Striae olfactoriae medialis**
+  * Ab Striae 3 mögliche Wege
+    * **Bewusste Wahrnehmung**
+      * *Striae olfactoria lateralis* -> **Area präpiriformis**  = primäre Riechrinde im Bereich der Substantia perforata anterior = B28
+      * Von hier aus weiter über den Thalamuus zum Orbitofrontalen Kortex zur Interpretation und Analyse von Gerüchen
+    * **Gedächtnis**
+      * *Striae olfactoriae lateralis* -> *Area prepiriformis*: Verschaltung auf das 3. Neuron
+      * -> Hippocampus: Gyrus semilunaris und Gyrus ambiens
+    * **Emotionen und Motivation**
+      * Stria olfacatoria lateralis -> 3. Neuron in Gyrus ambiens, yrus semilonaris -> Hypothalamus -> orbitofrontaler Cortex
+      * Striae olfactoria medialis -> 
+        * *Area septalis** im limbischen System -> Hinstamm -> Vegetativum
+        * Tuberculum olfactorium
+
+###Kodierung von Duftstoffen
+  * Durftstoffe setzen sich aus mehreren Komponenten zusammen -> jeder Dufstoff bindet an mehr als einen Typ von Rezeptor
+  * Aus der chemotropen Organisation ergibt sich dann, dass das Muster von aktivierten Glomerulie den Dufstoff, der in der Peripherie gebunden hat kodiert -> *accross the fiber pattern*
+  * Nur eine bestimmte Kombination von aktivierten Glomeruli empfinden wir z.B. als Orangen Duft
+
+###Pheromone
+####Allgemeines
+  * *Definition*: Botenstoff (hier olfaktorisches Signal) zur Informationsübertragung zwischen 2 Individuen innerhalb einer Art z.B. Östrogene, MHC-Komplexe
+  * *Rolle bei der Partnerwahl*
+    * Frauen bevorzugen Partner mit MHC-Komplex der sich möglichst stark von dem ihren unterscheidet -> Kinder mit stärkere Immunsystem
+    * MHC-Peptid-Komplexe werden proteolytisch abgebaut -> fungieren als Dufstoffe 
+
+####Vomeronasales Organ = VON = Jacobson Organ
+  * *Definition*
+    * Geruchsorgan bei vielen Säugetieren
+    * Einbuchtungen  in der Nasenscheidewand
+    * Phoromonrezeptoren
+  * *Beim Menschen nicht funktionsfähig*
+    * wird embryonal anngelegt, degeneriert aber
+    * morphologische Reste können aber bestehen bleiben
+    * Die Gene der VNO-Rezeptoren sind nicht funktionell = *Pseudogene*
+
+###Klinik
+  * **Anosmie**: 
+    * völlige Unempfindlichkeit gegenüber Duftstoffen
+    * evtl. erstes Anzeichen für Parkinson der Alzheimer
+  * **Hyposmie**
+    * verminderte Empfindlichkeit
+    * u.a. durch Virusinfektion z.B. bei Rhinitis
+  * **Parosmie**: konstante Empfindung eines
+    * unangenehmen Geruchs (*Kakosmie*)
+    * angenehmen Geruchs (*Euosmie*)
+    * u.a. durch Virusinfektionen

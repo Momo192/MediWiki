@@ -1,0 +1,11 @@
+#Sehbahn
+##Retina und Signalverarbeitung
+  * Rezeptorzellen:
+    * > 120.10⁶
+    * Detektieren: Position, Wellenlänge und Zeit
+  * Bipolarzellen: parallele Signalverarbeitung
+  * Ganglienzellen
+    * > 13 verschiedene Typen
+      * Extrahieren unabhängige Signale in überlappenden rezeptiven Feldern
+        * bistratified = koniozelluläre Schicht -> gelb, blau
+        * 
