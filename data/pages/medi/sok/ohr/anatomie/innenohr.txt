@@ -1,0 +1,72 @@
+#Innenohr
+##Cochlea
+
+Cochlea (Schnecke) wandelt Schallwellen mit Frequenzen zwischen 16 und 16 000 Hz in elektrische Potenziale um, die synaptisch auf den N. cochelaris übertragen werden und im Gehirn auditorische Sensationen auslösen
+a
+###Allgemeine Topographie
+  * *Lage*
+    * Schädelbasis 
+    * in der Felsenbeinpyramide (zwischen mittlerer und hinterer Schädelgrube)
+  * *Einteilung*
+    * Histologisch
+      * *Labyrinthus osseus*
+      * *Labyrinthus membranaceus* (liegt innerhalb des knöchernen Labyrinthes)
+    * Nach Funktion
+      * *Labyrinthus cochlearis*
+      * *Labyrinthus vestibularis*
+
+###Knöchernes Labyrinth
+####Anteile
+  * knöcherne Bogengänge -> siehe [[Vestibulärorgan]]
+  * Vestibulum 
+  * Knöcherne Schnecke
+
+####Köcherne Schnecke
+  * **Perilymphe**
+    * Extrazellulärflüssigkeit (Liquor)
+    * 150 mM Na⁺
+    * 3 mM K⁺ (Kalium arm)
+  * **Scala vestibuli**
+    * oberer Gang
+    * Eingang: **Fenestra vestibuli = ovales Fenster**
+      * membranös verschlossen
+      * Steigbügelplatte überträgt Schwingungen auf die Perilymphe
+  * **Scala tympani**
+    * Unterer Gang
+    * Ende in **Fenestra cochleare = rundes Fenster**
+      * durch eine bewegliche Membran verschlossen
+    * **Ductus perilymphaticus**: Verbindung zum Foramen jugulare und Subarachnoidalraum
+  * **Helicotrema**: Verbindung der beiden Gänge an der Schneckenspitze
+
+####Labyrinthus membranaceus 
+  * **Lab. vestibularis** siehe [[Vestibulärorgan]]
+    * kommuniziert mit dem kochlären Labyrinth über den **Ductus reuniens**
+  * **Ductus cochlearis**
+    * *Endolymphe*
+      * ähnlich Intrazellulärflüssigkeit
+      * 1mM Na⁺
+      * 150 mM K⁺
+    * Sinnesepithelien
+  * **Ductus endolymphaticus**
+    * Ableitung der Endolymphe
+    * Endet an der Felsenbeinhinterfläche mit einer epidural gelegenen Aussackung =**Sacculus endolympathicus** -> Resorption der Endolymphe
+
+##Histologie der Cochlea
+###Räume der Cochlea
+Der Schneckenkanal wird in 3 Etagen unterteilt
+  * oben und unten: Perilymphraum:
+    * Scala vestibuli (oben)
+    * Scala tympani (unten)
+  * Mitte: Ductus cochlearis mti Endolymphe
+  * **Ganglion cochleare = Ggl. spirale**
+    * enthält die Perikaryen des 1. Neurons der Hörbahn
+    * befindet sich im **Modiolus** = Schneckenspindel der Cochlea (von ihm entspringt die Lamina spiralis ossi)
+    * Axone der Perikareyen vereinigen sich zum N. cochlearis (Verlauf im Meatus accusticus internus)
+
+###Ductus cochlearis
+  * Im Querschnitt: annährend Form eines rechtwinkligen Dreiecks, mit Spitze nach unten. 
+    * Lateral: **Lig. spirale** mit **Stria vascularis** (Produktion von Endolymphe)
+    * Dach: **Reissner-Membran = Membrana vestibuli**
+      * Trennt Ductus cochlearis von der Scala vestibuli
+    * Boden:
+      * ****
