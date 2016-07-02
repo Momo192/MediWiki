@@ -17,15 +17,15 @@
 ####Innervation
 #####Somatosensibilität
   * *Definition*: Berührungs-, Schmerz- und Temperaturempfindung
-  * N. lingualis (N. trigeminus V3): vorderes Drittel
-  * N. glossopharyngeus (IX) mittleres Drittel
-  * N. vagus (X): hinteres Drittel
+  * N. lingualis (N. trigeminus V3): vorderes 2/3
+  * N. glossopharyngeus (IX) hineres Drittel
+  * N. vagus (X): Epiglottis
 
 
 #####Sensorik = Geschmack
-  * N. facialis (Chorda tympani): vorderes Drittel
-  * N. glossopharyngeus: mittleres Drittel
-  * N. vagus: hinteres Drittel
+  * N. facialis (Chorda tympani): vordere 2/3
+  * N. glossopharyngeus: hinteres Drittel
+  * N. vagus: Epiglottis
 
 #####Motorik: N. hypoglossus (XII)
 
@@ -134,5 +134,66 @@ Geschmacksknospen sind organisiert in Geschmackspapillen
   * **Papillae filiformis** -> Taktile Wahrnehmung
 
 ###Rezeptoren für Geschmacksknospen
+####Süß, Umami und Bitter
+  * GCPRs
+    * **T1R** = Taste 1 receptor
+      * *Funktion*: für Süß und Umami
+      * *Aufbau*:
+        * langer extrazellulärer N-Terminus
+        * besteht aus 3 Untereinheiten
+          * T1R1 + T1R3 -> Umami-Rezeptor
+          * T1R2 + T1R3 -> Süß-Rezeptor
+    * **T2R** = Taste 2 receptor
+      * *Funktion*: Bitter
+      * *Aufbau*: 
+        * kurzer extrazellulärer N-Terminus
+        * 25 verschiedene Typen
+  * *Signalweg*
+    * Bindung von Geschmackstoffen -> Rezeptoraktivierung -> Aktivierung von **Gustducin** (G-Protein) -> Aktivierung Phospholioase ß2 -> Spaltung von PIP2 in DAG und IP3
+    * IP3 -> Erhöhung der Ca²⁺-Freisetzung
+      * Aktivierung von Kationenkanälen (TRPM5-Kanal) in der Plasmamembran
+      * Depolarisation
+      * Öffnung von Spannungsabhängigen Na⁺-Kanälen -> AP -> Transmitterausschüttung
+        * Typ II: ATP-Ausschüttung
+        * Typ III: Serotonin-Ausschüttung
+
+####Salzig
+  * **ENac** = epithelialer Natriumkanal -> direkt Einfluss auf Rezeptorpotential
+  * Unter Kontrolle von Aldosteron
+
+####Sauer
+  * **ASICs** = säure empfindliche Kanäle der Cunge (acide sensible ionic chanels)
+  * Werden durch H⁺ direkt aktiviert -> Kationeneinstrom (Na⁺, Ca²⁺, H⁺) -> Depolarisation
 
 ##Geschmacksbahn
+
+  * sekundäre Sinneszellen projizieren auf afferente Fasern des entsprechenden versorgenden Nerves
+    * *1. Neuron* (Pseudounipolar): Lage
+      * N. facialis (N. intermedius) 
+        * vordere 2/3 der Zunge und Gaumen
+        * Verlauf: erst mit N. lingualis(Trigeminusast) -> CHorda tympani
+        * Perikaryon liegt im Ganglion geniculi
+
+      * N. glossopharyngeus:
+        * hinteres Drittel der Zunge und Papillae vallatae
+        * Perikaryon im Ganglion inferius (petrosum)
+      * N. vagus
+        * Innervation Epiglottis
+        * Perikaryon im Ggl. inferius (nodosum)
+    * *Eigenschaften*:
+        * Generalisten: leiten mehr als 1 Geschmacksqualität weiter, haben aber eindeutige Präferenz -> Trennung der Geschmacksqulitäten wird auf höhere Ebene übertragen = **labeled line code**
+  * *2. Neuron*:
+    * *Lage*: Im **Nucl. tractus solitarii**
+    * *Aufteilung*
+      * ipsi- und kontralateral als Tractus trigemino-thalamicus dorsalis zum Nucleus ventralis posteromedialis des Thalamus -> Umschaltung auf *3. Neuron*
+        * Projektion auf *primären gustatorischen Cortex* 
+          * *4. Neuron* in Insula und im Cortex des frontalen Operculums
+        * Projektionen zum *sekundären gustatorischen Kortex*
+          * Lage im orbitofrontalen Kortex
+
+
+      * Ein Teil verläuft über weitere Station im Zwischenstamm:
+        * *3. Neuron*: im **Ncl. parabrachialis** der Formatio reticularis der ipsilateralen Seite
+        * *4. Neuron*: Nucleus ventralis posteromedialis thalami
+        * *5. Neuron*: Inselrinde
+      * Zusätzlich Afferenzen zu den Nuclei salvatorii superiores und inferiores -> Anregung der Speichelsekretion

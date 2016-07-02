@@ -1,0 +1,35 @@
+#Geruch
+##Nasenhöhle
+###Aufgaben
+  * Erwärmung und Anfeuchtung der Luft
+  * Abwehr 
+    * mechanische Reinigung von Partikeln
+    * immunologische Funktion
+  * Geruchssinn
+  * Olfaktion
+
+###Topographie
+  * *Form*: keilförmig
+    * Nasenboden als Bais
+    * Kraniale Kuppel (knorpelig und knöchern)
+  * **Conchae nasales**
+    * 3 hackenförmige knöcherne Nasenmuscheln
+    * Ragen von Lateral in die Nasenhöhle
+    * sind von Schleimhaut überzogen
+    * Einteilung:
+      * **Concha nasales**
+        * **superior**
+        * **media**
+        * **inferior**
+      * Abgrenzung von **Meatus nasi**
+        * superior
+        * media
+        * inferior
+  * Durch das **Septum nasi** unterteilt
+    * knöcherne Scheidewand aus 3 Anteilen
+      * **Pars cartilaginea**
+      * **Lamina perpendicularis**
+      * **Vomer des Os ethmoidale**
+  * *Knorpelige Strukturen* aus hyalinen Knorpel
+    * **Cartilago Septi nasi**: Dreiecksknorpel (oben)
+    * **Cartilago alaris major**: Flügelknorpel (unten)
