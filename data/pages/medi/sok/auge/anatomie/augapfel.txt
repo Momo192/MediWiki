@@ -21,6 +21,19 @@ Durch die Nacheinanderschaltung von mehreren brechenden Medien entsteht ein umge
   * Cornea:
     * 43 dpt
     * stärkste Brechkraft (Übergang Luft-Wasser)
+  * Linse: etwa 16 dpt. bei ruhendem Auge
+
+#####Akkomodation
+  * *Definition*: Anpassung der Gesamtbrechkraft durch Linsenkrümmung je nach Entfernung des fixierten Objrekts
+    * je weiter ein Gegenstand entfernt ist, desto paralleler laufen die eintreffenden Lichtstrahlen.  
+    * Damit sie punktförmig auf der Retina zusammentreffen, muss das Auge die parallelen Lichstrahlen wie eine Sammellinse brechen
+    * **Akkomodationsbreite**: Bereich, in dem das Auge seine Brechkraft verändern kann (beim Wechsel zwischen Nah- und Fernsehen). Berechnung: 
+      * Akkomodationsbreite (dpt)= 1/Nahpunkt(m) - 1/Fernpunkt(m)
+      * Niedrige Brechkraft der Linse beimBlick in die Ferne: etwa 59 Dpt:
+        * *Prinzip*: Zonulafasern sind im Ruhezustand straff -> Linse flach -> geringe Brechkraft
+      * Hohe Brechkraft beim Nahseihen: etwa 74 Dpt
+        * *Prinzip*: Kontraktion des M. ciliaris -> Zonulafasern entspannen sich -> Linse kugelt sich ab -> hohe Brechkraft -> Nahakkomodation
+      * *Presbyopie*: Akkomodationsbreite nimmt mit dem Alter von 15 auf 10 Dpt ab, da die Elastizität der Linse abnimmt -> Nahsehen nicht mehr gut möglich
 
 ##Aufbau des Augapfels
 
