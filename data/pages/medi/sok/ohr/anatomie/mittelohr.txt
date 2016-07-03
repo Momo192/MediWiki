@@ -47,6 +47,36 @@
 
 
 ##Gehörknöchelchen
+###Entwicklung
+  * *1. Schlundbogen*: Malleolus und Incus: 
+    * **Meckel-Knorpel**
+      * Knorpelspange des 1. Kiemenbogen
+      * dient als passagere Leitstruktur für die Anlage des Unterkiefers (Bildung durch Ersatzossifikation lateral)
+      * Bis zur 24. Woche: Zurückbildung. Aus den beiden dorsalen Enden entstehen
+        * Malleolus und Incus
+        * Lig. sphenomandibulare
+  * *2. Schlundbogen*: Stapes und Lig. Stiylhyordeum
+  * *3. Schlundbogen*: Zungenbein
+  * *4. Schlundbogen*: Kehlkopf/Schilknorpel
+
+###Malleolus (Hammer)
+####Bestandteile
+  * **Manubrium mallei**: mit der Pars tensa des Trommelfells verankert
+  * **Collum mallei**
+  * **Caput mallei**: artikuliert mit dem Ambosskörper: *Art. incudomalleolari*
+    * entspricht dem primären Kiefergelenk
+    * Sattelgelenk
+    * Wird von einer straffen Kapsel umgeben -> geringer Bewegungsumpfang -> funktionelle AMphiathrose
+  * **Processus lateralis**
+  * **Processus medialis**
+
+####Befestigung
+  * **Lig. mallei laterale**
+s
+###Incus
+###Stapes
+###Funktion
+###Binnenmuskel
 
 ##Versorgung der Paukenhöhle
 ###Arterien

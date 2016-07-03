@@ -154,3 +154,42 @@ Verstärkter Sehnenring, welcher an der Spitze der Orbitapyramide in der Fissura
     * N. lacrimalis
     * N. trochlearis
     * V. ophtalmica superior und inferior
+
+##Versorgung der Orbita
+###A. ophtalmica
+  * *Ursprung*: A. carotis interna (kurz nach verlassen des Sinus cavernosus)
+  * *Versorungsgebiet*
+    * Augapfel
+    * Strukturen der Orbita
+    * Endäste ziehen zum Augenlied und zu Teilen der Stiern
+  * *Verlauf*:
+    * unter N. opticus durch den canalis opticus zur Orbita
+    * Überkreuzt N. opticus -> zieht mit M. obliquus superior an die mediale Wand der Orbita nach rostralt
+  * *Äste*
+    * Versorgung des Augapfels
+      * A. centralis retinae -> Versorgung der Netzhaut (Endast)
+      * A. ciliares posteriores breves -> Choroidea
+      * A. ciliares posteriores longae -> zum Ziliarkörper + Iris
+      * A. ciliaris anteriores -> Choroidea vorne, aus Gefäßen der geraden Augenmuskeln
+      * Rami muscularis
+    * Versorgung der Orbita: 
+      * Aa. ethmoidales anteriores et posteriores -> ziehen zu den Siebbeinzellen
+      * A. palpebrales medialis
+    * Endäste zu Stirn und Nase
+      * A. supraorbitalis
+      * A. supratrochlearis
+      * A. dorsalis nasi
+  * **Anastomosen**
+    * A. lacrimalis gibt den **Ramus anastomoticus** ab -> Anastomose mit der A. menigea media
+    * **A. dorsalis** anastomosiert mit der **A. angularis** (Endast der A. facialis)
+      * A. lacrimalis
+
+###Venöse Gefäßversorgung
+  * V. centralis retinae -> V. ophtalimica superior und inferior -> Sinus cavernosus
+  * Vv. ciliaris, Vv. scleralis, Vv. corticosae -> V. ophtalmica superior und inferior -> Sinus cavernosus
+  * **Venöse Anastomosen**
+    * V. angularis kann über V. ophtalmica superior in den Sinus caernosus drainieren
+    * Venen den Tonsilla palatina können über die V. ophtalmica inferior oder den Plexus pterygoideus in den Sinus cavernosus drainieren
+    * **Sinus-cavernosus Thrombose**
+      * Venöse Anastomosen als Infektionspforte z.B. Infektion der Fossa canina und im Wangenbreich
+      * Klinik: Exophtalmus durch behinderten Abfluss der Vv. ophtalmici
