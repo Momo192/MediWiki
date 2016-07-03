@@ -69,4 +69,56 @@ Der Schneckenkanal wird in 3 Etagen unterteilt
     * Dach: **Reissner-Membran = Membrana vestibuli**
       * Trennt Ductus cochlearis von der Scala vestibuli
     * Boden:
-      * ****
+      * **Membrana basilaris**: 
+        * trägt das Corti-Organ
+        * wird von der Schneckenbasis zur Schneckenkuppel kontinuierlich Breiter (0,1 - 0,5mm) -> *Frequenzanalyse*
+      * **Lamina spiralis ossi**
+        * bildet Lamina tectoria
+
+##Corti-Organ
+###Aufbau
+####Stützzellen
+  * haben ausgeprägtes Zytoskelett
+  * **Phalangenzellen**: Stützen die Sinneszellen
+    * äußere Phalangenzellen: Deiters Zellen 
+      * bilden nach oben die Membrana reticularis
+      * Zellleib dient den ÄHZ als Sitz
+    * innere Phalangenzellen:
+  * **Pfeilerzellen**; bilden den inneren Tunnel
+
+####Sinneszellen
+  * **Innere Haarzellen**
+    * nur 3500 Zellen
+    * *Aufbau*
+      * einzelnd in einer Reihe
+      * ca. 75 Stereozilien pro Zelle
+    * *Funktion*; Mechanorezeptoren
+      * Auslenkung -> Depolarisation -> Signal an N. cochlearis
+  * **Äußere Haarzellen**: 
+    * nur 15 000 Zellen
+    * *Aufbau*
+      * stehen zu 3 in einer Reihe
+      * Stereozilien im Kontakt zur Tektoreialmembran
+      * viele olivocochleäre efferente Endigungen
+      * wenige afferente Endigunge
+    * *Funktion*
+      * Mechanorezeptoren
+      * **Cochleärer Verstärkermechanismus**: Voraussetzung für die normalerweise sehr niedrigen Hörschwelle und zur feinen Frequenz-Diskrimination
+        * Auslenkung der Zlien führt zu 
+        * Depolarisation 
+        * Kontraktion der Zelle
+  * apikal Stereozilien
+    * 50-100 pro Zelle
+    * Treppenförmig von groß nach klein angeordnet
+    * *Tip links*; Verbindung der Spitzen der Stereozilien
+
+####Nervenfasern
+  * *afferente Innervation*: vorwiegend innere Haarzellen
+    * bipolare Neurone im Ggl. spirale -> N. cochlearis zieht zum Hirnstamm
+  * *Efferente Innervation*: vorwiegend ÄHZ
+    * aus oberen Olivenkern -> inhibitorische WIrkung
+
+####Membrana tectoria
+  * *Aufbau*: zellfreies, Gallertartiges Gewebe welches das Corti-Organ bedeckt
+  * *Produktion*  durch **Interdentalzellen**
+  * *Funtkion*; die ÄHZ ragen mit den lengsten Stereozilien in die Tektorialmembran und werden bei Abscherbewegungen deflektiert
