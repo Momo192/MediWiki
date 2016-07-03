@@ -1,11 +1,49 @@
 #Sehbahn
 ##Retina und Signalverarbeitung
-  * Rezeptorzellen:
+**Gesichtsfeld**: Ausschnitt der Umwelt, den ein unbewegtes Auge bei fixiertem Kopf sieht:
+  * binokuläre Zone
+  * linke und rechte monnukläre Zone
+
+
+###1. - 3. Neuron in der Retina
+    ***1. Neuron** Rezeptorzelle = primäre Sinneszelle
     * > 120.10⁶
     * Detektieren: Position, Wellenlänge und Zeit
-  * Bipolarzellen: parallele Signalverarbeitung
-  * Ganglienzellen
-    * > 13 verschiedene Typen
-      * Extrahieren unabhängige Signale in überlappenden rezeptiven Feldern
-        * bistratified = koniozelluläre Schicht -> gelb, blau
-        * 
+  * **2. Neuron**; Bipolarzellen: parallele Signalverarbeitung
+  * **3. Neuron**: Ganglienzellen
+      * mehr als 13 verschiedene Typen
+        * Extrahieren unabhängige Signale in überlappenden rezeptiven Feldern
+          * bistratified = koniozelluläre Schicht -> gelb, blau
+          * midget= parvozelluläre Schicht -> Rot, Grün, Form
+          * Parasol = magnozelluläre Schicht -> Kontrast und Bewegung
+    * Axone der Ganglienzellen bilden **N. opticus**
+      * *Gliederung*
+        * Visuelle Informationen aus dem medialen Gesichtsfeld werden abgebildet auf dem temporalen Netzhautbereich -> verlaufen lateral im N. opticus
+        * Axone aus dem nasalen Netzhautbereich (temporales Gesichtsfeld) verlaufen medial
+        * Axone aus dem unteren Netzhautbereich verlaufen im unteren Teil
+        * Axone aus dem oberen Netzhautbereich verlaufen im oberen Teil
+      * N. opticus verlässt den Bulbus an der **Papilla nervi optici** = Blinder Fleck da hier keine Photrezeptoren vorkommen
+      * Ist von Hirnhäuten umschlossen
+
+
+###Chiasma opticum
+  * *Lage*: direkt über der Hypophyse, rostral des hypophysen Stiels
+  * Fasern der nasalen Netzhautbereiche (detektieren temporales Bild) kreuzen zur Gegenseite
+    * Fasern des temporalen Gesichtsfeldes kreuzen nicht
+    * Dadurch landen alle Fasern vom linken Gesichtsfeld auf der rechten Seite und alle Fasern vom linken Gesichtsfeld auf der rechten Seite
+
+###Tractus opticus
+  * Gebildet von Axonen des N. opticus
+  * Enthält Informationen aus:
+    * temporaler Retina des ipsilateralen Auges
+    * Nasale Retina des kontralateralen Auges
+    * Insgesamt: rechtes und linkes Gesichtsfeld werden kontralateral repräsentiert
+  * Verlauf:
+    * unterhalb des Thalamus
+    * lateral um das Mesencephalon herum
+
+##Genikulärer Anteil der Sehbahn
+  * *Verlauf*: 90% der Axone des 3. Neurons enden im Corpus geniculatum laterale
+    * restliche = *nicht genukulärer Anteil der Sehbahn* (Siehe)
+
+##Extragenikulärer Anteil

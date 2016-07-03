@@ -140,6 +140,43 @@ Fazit **Zapfensystem**
         * Off-Ganglienzellen: erniedrigte AP-Frequenz
       * Peripherie-Beleuchtung
         * On-Ganglienzellen: verminderte AP-Frequenz
-        * Off-Ganglienzellen: erhöhte AP-Frequenz
+        * Off-Ganglienzellen: erhö
+        * hte AP-Frequenz
     * das antagonistische Umfeld prädestiniert die Ganglienzellen Helligkeitskontraste zu detektieren (auf Kosten der Empfindlichkeit)
 
+####Kontrastverschärfung: Simultankontrast
+  * *Phänomen*: 
+    * die Ränder eines grauen Kreises auf einer weißen Oberfläche erscheinen dunkler
+    * Das Papier unmittelbar um den Kreis erscheint heller
+  * *Erklärung*
+    * Erregung der Off-Zentrum-Ganglienzellen ist am Rand des dunklen Kreises größer durch laterale Verstärkung, da die Peripherie schon das helle Blatt wahrnimmt -> Kreis erscheint noch dunkler
+    * Erregung der On-Zentrums-Ganglienzellen ist unmittelbar in der Nachbarschaft des Kreises noch größer durch die laterale Verstärkung = fehlende laterale Hemmung da die Peripherie des rezeptiven Feldes bereits den dunklen Kreis wahrnimmt
+
+####Morphologische und funktionelle Einteilung der Ganglienzellen
+  * **Parvozelluläres (P)-System**
+    * kleine rezepive Felder -> hohes räumliches Auflösungsvermögen
+    * adaptieren kaum
+    * sensitiv für Farben 
+    * 80% aller Ganglienzellen
+  * **Magnozelluläres (M)-System**
+    * große Zellkörper mit einem großen Dendritenbaum -> große rezeptive Felder
+    * Adaptieren schnell -> großes zeitliches Auflösungsvermögen -> empfindlich für Bewegungen
+    * 10% aller Ganglienzellen
+  * **Heterogene Ganglienzellen**
+    * **Koniozelluläres (K)-System**: Blau empfindliche Zellen
+    * Zellen der Pupillenreflexbahn
+    * Insgesamt 10%
+
+##Adaptation an unterschiedliche Lichtverhältnisse
+###Mechanismen des System Auge
+####Zwei Rezeptor Arten
+  * Zapfen adaptieren schneller als Stäbchen
+  * **Dunkeladaptationskurve**:
+    * *Definition*: Überlagerung der Dunkeladaptationskurve von Zapfen und Stäbchen
+    * **Kohlrausch-Knick**: Zapfen adaptieren schneller, haben aber im Kohlrausch-Knick ihre größte Empfindlichkeit erreicht -> Übergang photopisches in skotopisches Sehen
+      * **Phototopisches Sehen**: sehen bei ausreichender Helligkeit -> Zapfen
+      * **Skotopisches Sehen**: sehen bei geringer Helligkeit -> Stäbchen
+    * Vollkommene Adaptation benötigt 30 Minuten
+  * *Nachtblindheit*: Stäbchen fallen aus -> Dunkeladaptationskurve entspricht der der Zapfen
+####Pupillenreflex
+Siehe 
