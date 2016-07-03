@@ -1,9 +1,13 @@
 #Sehbahn
 ##Retina und Signalverarbeitung
 **Gesichtsfeld**: Ausschnitt der Umwelt, den ein unbewegtes Auge bei fixiertem Kopf sieht:
-  * binokuläre Zone
-  * linke und rechte mononukläre Zone
-
+  * Unterscheidung:
+    * binokuläre Zone
+    * linke und rechte mononukläre Zone
+  * Eigenschaften
+    * Randbereich des Gesichtsfeldes ist fabenblind
+    * Die Papillae nervi optici liegen auf nicht korrespondierenden Netzhautstellen.
+    * Der Blindefleck liegt nasal, d.h. in der temporalen Gesichtsfeldhälfte
 
 ###1. - 3. Neuron in der Retina
     ***1. Neuron** Rezeptorzelle = primäre Sinneszelle

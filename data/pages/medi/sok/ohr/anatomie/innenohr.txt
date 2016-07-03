@@ -17,7 +17,7 @@ a
 
 ###Knöchernes Labyrinth
 ####Anteile
-  * knöcherne Bogengänge -> siehe [[Vestibulärorgan]]
+  * knöcherne Bogengänge -> siehe [[medi:sok:ohr:anatomie:innenohr#vestibulaerorgan]]
   * Vestibulum 
   * Knöcherne Schnecke
 
@@ -39,7 +39,7 @@ a
   * **Helicotrema**: Verbindung der beiden Gänge an der Schneckenspitze
 
 ####Labyrinthus membranaceus 
-  * **Lab. vestibularis** siehe [[Vestibulärorgan]]
+  * **Lab. vestibularis** siehe [[medi:sok:ohr:anatomie:innenohr#vestibulaerorgan]]
     * kommuniziert mit dem kochlären Labyrinth über den **Ductus reuniens**
   * **Ductus cochlearis**
     * *Endolymphe*
@@ -121,4 +121,49 @@ Der Schneckenkanal wird in 3 Etagen unterteilt
 ####Membrana tectoria
   * *Aufbau*: zellfreies, Gallertartiges Gewebe welches das Corti-Organ bedeckt
   * *Produktion*  durch **Interdentalzellen**
-  * *Funtkion*; die ÄHZ ragen mit den lengsten Stereozilien in die Tektorialmembran und werden bei Abscherbewegungen deflektiert
+  * *Funktion*; die ÄHZ ragen mit den lengsten Stereozilien in die Tektorialmembran und werden bei Abscherbewegungen deflektiert
+
+##Vestibulärorgan
+###Funktion
+Detektion von linearer und radialer Bechleunigung. Dies ermöglicht:
+  * Aufrechterhaltung der Körperbalance
+  * Durchführung koordinierter Kopf- und Körperbewegungen
+  * Fixierung der Augen auf einen Punkt, wenn das fixierte Objekt oder der Körper bewegt wird
+
+###Aufbau
+  * Allgemein
+    * **Labyrinthus osseus** = knöchernes Labyrinth enthält
+    * **Labyrinthus membranaceus** 
+      * *Labyrinthus vestibularis*
+      * *Ductus reuninens*: Verbindung zum Labyrinthus cochlearis
+  * Bestandteile
+    * **Sacculus**
+      * 4,4x2,5 mm
+      * Darin **Macula utriculi** mit Sinnesepithel (15 000 Zellen)
+      * *Lage*: Horizontal zur Körperachse
+      * *Funktion*: sensoren für lineare, horizontale Beschleunigung
+    * **Utriculus**
+      * darin liegt die **Macula sacculi** = Macula statica mit Sinnesepithel (31 000 Zellen)
+      * *Lage*: Vertikal zur Körperachse
+      * *Funktion*: Sensoren für lineare, vertikale Beschleunigung
+    * **Ductus semicirculares**
+      * In ihren Erweiterungen (*Ampullae*) befinden sich **Crista ampullaris** (Sinnesleisten)
+      * *Lage*: in den knöchernen Bogengängen = **Canalis siemicircularis anterior, posterior et lateralis**
+        * sind in einem Winkel von 45° zu den Hauptebenen des Kopfes (frontal, horizontal und Saggital) angeordnet.
+        * Der laterale/horizontale Bogengang ist um 30° nach ventral gekippt, die beiden anderen stehen im 90° Winkel dazu.
+      * *Funktion*: Sensoren für Drehbeschleunigung
+
+###Sinnesepithelien des Vestibularapparates
+####Haarzellen
+  * besitzen ein langes *Kinozilium* (Mikrotubuli 9x2 +2 Anordnung) und 80 Stereozilien
+    * Ragen in gallertartige Deckschicht
+    * Sind durch Typ-Links-Verbunden
+  * *Typen*
+    * **Haarzelle Typ I**: 
+      * flaschenförmiger Zellleib
+      * eingebettet in kelchförmige Endigung der afferenten Nervenfasern
+    * **Haarzelle Typ II**
+      * zylindrischer Zellleib
+      * Basal liegen verschiedene kleine Nervenendigungen an
+
+####Ampullen der Bogengänge
