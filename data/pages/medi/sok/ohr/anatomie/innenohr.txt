@@ -206,3 +206,62 @@ Als Macula statica werden die Macula sacculi und utriculi bezeichnet, die beide 
   * Arten von Linearbeschleinigung:
     * *Utriculus* = horizontale Beschleunigung
     * *Sacculus* = vertikale Beschleunigung
+
+###Zentrale vestibuläre Verschaltung
+####Vestibularisbahn
+  * *Rezeptororgan*: Haarzellen in Bogengängen und Maculaorganen = sekundäre Sinneszellen
+  * *1. Neuron*
+    * im Ggl. vestibulare (im Meatus acusticus internus)
+    * Axone bilden N. vestibularis
+  * *2 Neuron*: **Vestibulariskerne**: in der Medulla oblongata befinden sich bds. ein Kernkomplex der jeweils aus 4 Vestibulariskernen besteht.
+    * **Ncl. vestibularis superior**
+    * **Ncl. vestibularis medialis**
+    * **Ncl. vestibularis inferior**
+    * **Ncl. vestibularis lateralis**
+
+####Funktion der Vestibulariskerne
+#####Afferenzen
+  * Vestibulärapparat
+  * visuelles System
+  * propriozeptives System
+
+#####Efferenzen
+  * Thalamus und Cortex (wichtigste Zielstruktur): Bewusste Raumorientierung
+  * Okulomotirscher Abbarat:
+    * Regulation der Blickmotorik und vestibulococleäre Reflexe
+    * über Nuclei n. oculomotoriusm, n. trochlearis, n. abducens
+  * Rückenmark -> Muskelspannung (Tractus vestibulospinalis)
+  * Cerebellumg -> Feinabstimmung der Motorik (Tractus vestibulocerebellaris)
+  * Kommissurenfasern zu Ipsi- und kontralateralen Vestibulariskernen -> Reflexe
+
+####Vestibulo-okulärer-Reflex
+  * *Funktion*: ermöglicht die stabile visuelle Wahrnehmung eines Objekts bei Kopfbewegung durch reflektorische, entgegengesetzte Augenbewegungen. Die Entgegengesetzte Augenbewegung erfolgt dabei mit nahezu gleicher Geschwindigkeit wie die Kopfbewegung
+  * *Verschaltung*: **Hirnstammreflex**
+    * 1. Neuron: Ggl. vestibulare
+    * 2. Neuron: Nucleus vestibularis medialis
+    * 3. Neuron
+      * kontralateraler N. oculomotorius Kern
+      * ipsilateraler N. abducens Kern
+  * *Folge*: Abduktion des der Drehrichtung abgewandten Auges, bei gleichzeitiger Adduktion des der Drehrichtung zugewandten Auges. Gleichzeitig wird der Gegenspielermuskel gehemmt
+
+####Nystagmus
+#####Grundlagen
+  * *Definition*: rhythmische, unwillkürliche Augenbewegungen, bei der meist auf eine langsame Komponente eine schnelle Rückstellbewegung in die Entgegengesetzte Richtung folgt. 
+    * vestibulo-okulärer Reflex bildet die Grundlage für den Nystagmus
+  * *Charaktisierung*
+    * **Nystagmusrichtung**: wird nach der Schnellen Rückstellbewegung bezeichnet
+      * Faustregel: schlägt in das stärker erregte Labyrinth 
+    * **Art der Schlagrichtung**: die schnelle  Rückstellbewegung kann horizontal, vertikal oder rotierend sein
+
+#####Physiologische Nystagmusphormen
+  * *Optokinetischer Nystagmus* = Eisenbahnnystagmus: optischer Orientierungsvorgang zur Bildstabilisierung einer bewegten visuellen Umwelt auf der Retina
+  * *kalorischer Nystagmus* = physiologischer Nystagmus der durch kalorische = thermische Reizung provoziert wird
+  * *Rotatorischer Nystagmus* = physiolgoscher Nystagmus der durch Rotation des Körpers entsteht
+
+#####Pathologische Nystagmusformen
+  * *pathologischer vestibulärer Nystagmus*
+    * meist hozizontal
+    * meist mit Schwindel oder Übelkeit assoziiert
+  * *Blickrichtungsnystagmus*
+    * Spontannystagmus, der beim Blick zur Seite oder nach oben/unten auftritt
+    * Schlägt mit der raschen Phase in die jeweilige Blickrichtung
