@@ -6,6 +6,21 @@
     * *Sensorische Zellen*
     * *Reizweiterleitung und Verarbeitung*: Empfindung als Helligkeit, Konstrast, Farbe, Form, Bewegung, Objekt
 
+###Dioptrischer Apparat des visuellen System
+####Grunlagen
+#####Definition
+Der dioptrische Apparat übernimmt die Lichtbrechung des Auges. Er besteht aus Cornea, Kammerwasser, Linse und Glaskörper. Diese Bestandteile unterschiedliche Brechkraft sind hintereinander geschaltet. 
+#####Lichtbrechung
+  * *Definition*: fällt Licht auf eine Trennfläche zweier Medien mti unterschiedlicher optischer Dichte (= Brechungsindex) wird das Licht gebrochen -> Änderung der Ausbreitungsrichtung
+  * Luft = 1, Wasser = 1,33 (Am Auge: Luft-Wasser-Übergang)
+  * Die Brechkraft des Auges wird in **Dioptrien** (dpt) angegeben (= 1/m)
+
+####Funktionen
+#####Lichtbrechung (Auge)
+Durch die Nacheinanderschaltung von mehreren brechenden Medien entsteht ein umgekehrtes und verkleinertes Bild auf der Retina. Die Gesamtbrechkraft des ruhenden = fernakkomodierten Auges beträgt ca. **60 dpt**
+  * Cornea:
+    * 43 dpt
+    * stärkste Brechkraft (Übergang Luft-Wasser)
 
 ##Aufbau des Augapfels
 

@@ -167,7 +167,7 @@ Ermöglicht es dem Auge, sich auf wechselnde Helligkeiten einzustellen. Bei vers
       * Trennung der beiden Augen durch Handwurzel
       * Beleuchtung mit Taschenlampe von einem Auge, Beobachtung des anderen -> Verengung des Auges
   * **Klinik**
-    * N. opticus Schädigung: 
+    * N. opticus Schädigung: **amaurotische Pupillenstarre**
       * bei Beleuchtung auf der betroffenen Seite
         * fällt direkte Lichtreaktion der betroffenen Seite aus
         * fällt konsensuelle Lichtreaktion aus
@@ -179,3 +179,27 @@ Ermöglicht es dem Auge, sich auf wechselnde Helligkeiten einzustellen. Bei vers
 Sympathischer Nerv aus **Ggl. cervicale superius** -> zieht ohne Umschaltung durch Ggl. ciliare -> Innervation M. dilatator pupillae
 
 ####Akkomodation
+#####Definition
+  * **Akkomodation**: Rundung der Linse, so dass sich ein annährendes Objekt scharf auf der Linse abgebildet
+  * **Konvergenz**: Mm. recti mediales führen die Pupillen und damit die Augenachse nach innen, so dass sich das nährende Objekt immer in der Fovea ventralis abbildet
+
+#####Afferenter Schenkel
+Cave: kein Hirnstamm-Reflex
+  * Retina
+  * N. opticus
+  * CGL -> Sehbahn
+  * V1 + V2
+  * Erdinger-Westphal-Kern **bds**
+
+#####Efferenter Schenkel
+  * Umschaltung auf parasympathische Fasern des N. oculomotorius -> 
+  * Ggl. ciliare (6. Neuron)
+  * M. ciliaris 
+    * Kontraktion -> Entspannung der Linsenfasern -> Rundung der Pupille -> schärferes Sehen im Nahbereich
+
+#####Klinik
+  * **Reflektorische Pupillenstarre**
+    * Direkter und indirekter Pupillenreflex negativ aber Akkomodation intakt -> Schädigung in der Area praetectalis
+  * **Absolute Pupillenstarre**:
+    * Pupillenrefklex und Akkomodation negativ
+    * Schädigung von Mittelhirn und/oder N. occulomotorius
