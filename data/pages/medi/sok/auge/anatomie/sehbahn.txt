@@ -2,7 +2,7 @@
 ##Retina und Signalverarbeitung
 **Gesichtsfeld**: Ausschnitt der Umwelt, den ein unbewegtes Auge bei fixiertem Kopf sieht:
   * binokuläre Zone
-  * linke und rechte monnukläre Zone
+  * linke und rechte mononukläre Zone
 
 
 ###1. - 3. Neuron in der Retina
@@ -44,6 +44,138 @@
 
 ##Genikulärer Anteil der Sehbahn
   * *Verlauf*: 90% der Axone des 3. Neurons enden im Corpus geniculatum laterale
-    * restliche = *nicht genukulärer Anteil der Sehbahn* (Siehe)
+    * restliche = *nicht genukulärer Anteil der Sehbahn* (Siehe [[medi:sok:auge:anatomie:sehbahn#extragenikulaerer_anteil]] )
+
+###Corpus geniculatom laterale
+  * *Synonyme*:
+    * seitlicher Kniehöcker
+    * CGL
+    * lateral vorgewölbter Kern des Thalamus
+  * *Funktion*: Umschaltung auf das 4. Neuron
+  * *Aufbau*: 6 Schichten mit Neuronen
+    * **2 magnozelluläre Schichten**:
+      * 20-30 μm große Neurone
+      * Funktion: Bewegungswahrnehmung
+    * **4 Parvozelluläre Schichten**
+      * kleine Neurone
+      * Muster- und Detail-Analyse, Farbe, räumliche Auflösung
+    * Koniozelluläres System -> Reflex
+
+###Radiatio optica = Sehstrahlung
+  * *Aufbau*: besteht aus 5 Mio. Axone
+  * *Verlauf*
+    * teilweise in Capsula interna
+    * Teilweise um das Cornu temporale des Seitenventrikels
+
+###Primäre Sehrinde
+  * *Lage*
+    * occipitaler Pol des Lobus occipitalis
+    * Area 17 (Brodman)
+    * Area Striata
+  * *Afferenzen*: Corpus geniculatum laterale
+  * *Efferenzen*: sekundäre Sehrinde
+  * *Funktion*: Bewusstwerdung der visuellen Eindrücke
+  * *Histologie*: insgesamt 500 Mio. Zellen
+    * I: Molekularschicht
+    * II: äußere Körnerzellschicht
+      * *Projektion* von koniozellulärer Schicht (Auch in Schicht III)
+    * III: äußere Pyramidenschicht
+    * IV: innere Körnerschicht
+      * **äußerer Baillarger-Streifen**: 
+        * besteht aus myeliniserten Fasern aus CGL
+      * **Gennari-Striefen = Vicq-d'Azur-Streifen** = Stratum IVb = weißer Streifen innerhalb der grauen Substanz (Anteil des Baillarger-Streifen der in der Sehrinde besonders stark ausgeprägt sind)
+      * *Projektion von*
+        * Magnozellulärer Schicht: 4Cα
+        * Parvozellulärer Schicht: 4Cβ
+  * *Besonderheiten*
+    * Retinotope Gliederung
+      * Punkt die benachbart in der Retina abgebildet werden, werden auch hier benachbart dargestellt
+      * Dabei sind die Bereiche, die die Fovea centralis abbilden, stark überrepräsentiert
+    * Musterspezifische Anordnung mit *Säulenstruktur*
+      * **Orientierungsäule**;
+        * 30-100 μm Durchmesser
+        * reagieren nur auf eine spezielle ausferichtete Linie auf der Retina an einem speziellen Punkt der Retina
+        * werden zusammengefasst zu
+      * **Dominanzsäule**: besteht aus vielen Orienteirungssäulen, die alle die selbe Stelle der Retina abbilden, aber auf unterschiedliche Ausrichtungen der Linien reagieren
+
+###Sekundäre Sehrinde
+  * *Synonym*: V2-V4
+  * *Lage*: 
+    * Area 18 und 19
+    * umrandet die primäre Sehrinde hufeisenförmig
+  * *Funktion*: 
+    * Grundlegende Analyse von Form, Farbe, Bewegung 
+      * V2: Hände, Gesichter oder Bewegungsmuster erzeugen maximale Antwort einzelner Neurona
+    * **P-Weg**: zum Temporallappen -> Signale der parvozellulären Schicht = Form und Bewegung
+    * **M-Weg**: zum Parietallappen -> Signale der Magnozellulären Schich -> Bewegung
+    * Visuelle Wahrnehmung entsteht erst durch kognitive Prozesse im Assoziationskortex des Parietal- und Temporallappens
+
+###Störungen der Sehbahn
+  * **Prächiasmale Läsionen** = Störungen im N. opticus
+    * einseitige Gesichtsausfälle auf der gleiche Seite wie die Läsion = **Amaurose** (Vollblind)
+  * **Chiasmale Läsionen** = Störungen im Chiasma opticum
+    * **Bitemporale Hemianopsie**: Ausfall bei temporalen Gesichtsfelder
+  * **Retrochiasmal Läsionen** = Störungen im Bereich des Tractus opticus bis Sehrinde
+    * **kontralaterale homonyme Hemianopsie**: bei Durchtrennung der ganzen Sehstrahlung -> Rindenblindheit
+    * Störungen in V2 usw.: Agnosie von Farbe, Form, Bewegung ("Seelenblindheit")
 
 ##Extragenikulärer Anteil
+10% der Axone des N. opticus
+
+###Verlauf
+Axone zum:
+  * **Colliculus superior**
+    * Übertragung von Bewegungsinformationen, die zur Fixierung bewegter Objekte durch unbewusste Augen- und Kopfbewegungen nötik sind (retinotektales System)
+  * **Area pretectalis**: Afferenzen für Pupillen und Akkomodationsreflexe.
+  * **Nucl. suprachiasmaticus** des Hypothalamus: Beeinflussung der circardianen Rhythmik
+  * **Nuclei terminalies** im Tegmentum mesencephali:
+    * Afferenzen für den **optokinetischen Nystagmus**: physiologische, ruckartige Augenbewegungen beim Blick auf schnell vorbeiziehende Objekte
+  * **Pulvinar**:
+    * visueller Assoziationskortex für die Okulomotorik
+    * Umschaltung der Neurone im Colliculus superior
+  * **Formatio reticularis**: Weckfunktion
+
+###Reflexe
+####Pupillenreflex
+#####Funktion
+Ermöglicht es dem Auge, sich auf wechselnde Helligkeiten einzustellen. Bei versätrkten Lichteinfall verengt sich die Pupille, bei Verdunkelung erweitert sie sich.
+
+#####Afferenter Schenkel
+  * Retina
+  * N. opticus
+  * Area pretectalis (nicht genikulärer Anteil der Sehbahn) (Umschaltung auf 4. Neuron)
+  * **Erdinger-Westphal-Kern** 
+    * = Nuclei accessorii n. occulomotoriie = parasympathisches Kerngebiet des N. oculomotorius 
+    * **bds.** -> Konsensuelle Lichtreaktion
+    * Umschaltung auf 5. Neuron
+
+#####Efferenter Schenkel
+  * 5. Neuron (zentrales parasympathisches Neuron) im Erdinger-Westphal-Kern sendet Axone zum 
+  * **Ganglion ciliare**
+    * Umschaltung auf 6. Neuron = peripheres parasympathisches Neuron
+    * Zieht zum
+  * **M. sphincter pupillae**
+
+#####konsensueller Reflex
+  * Erfolgt ipisilateral und kontralateral des eintreffenden Reizes da die Afferenzen auf beide prämotorische Areale geleitet werden. 
+  * **direkte Lichtreaktion**: 
+    * *Definition*: im betroffenen Auge
+    * *Testung*: Bedeckung beider Patienten Augen -> ein Auge freigeben -> nach kurzer Latenzzeit: Verengung der Pupille
+  * **Indirekte Lichtreaktion**
+    * *Definition*: im anderen Auge
+    * *Testung*: 
+      * Trennung der beiden Augen durch Handwurzel
+      * Beleuchtung mit Taschenlampe von einem Auge, Beobachtung des anderen -> Verengung des Auges
+  * **Klinik**
+    * N. opticus Schädigung: 
+      * bei Beleuchtung auf der betroffenen Seite
+        * fällt direkte Lichtreaktion der betroffenen Seite aus
+        * fällt konsensuelle Lichtreaktion aus
+      * bei Beleuchtung der nicht betroffenen Seite: direkte und indirekte Pupillenverengung funktionnieren
+    * Schädigung parasympathischer Okulomotorius-Kern oder Ggl. ciliare -> efferenter Teil des Reflexes fällt aus d.h. auf der Seite des betroffenen Auges weder direkte noch indirekte Lichtreaktion
+    * Schädigung der Sehstrahlung oder der Sehrinde -> kein Ausfall des Reflexes (da genikulärer Anteil)
+
+#####Antagonist
+Sympathischer Nerv aus **Ggl. cervicale superius** -> zieht ohne Umschaltung durch Ggl. ciliare -> Innervation M. dilatator pupillae
+
+####Akkomodation
