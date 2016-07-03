@@ -167,3 +167,42 @@ Detektion von linearer und radialer Bechleunigung. Dies ermöglicht:
       * Basal liegen verschiedene kleine Nervenendigungen an
 
 ####Ampullen der Bogengänge
+  * *Aufbau*:
+    * **Crista ampullaris**: quer stehende Leiste der Lamina propria welche in das Lumen hineinragt. Darauf liegen Sinnesepithelien aus Haarzellen (BW-Leiste)
+    * **Cupula**: gallertartige Kuppel, die am Dach der Ampulle befestigt ist (enthält keine Kristalle)
+      * verschließt die Ampulle
+      * von kleinen Kanälchen durchzogen
+      * Auslenkung bei Rotation -> Kinozilien der Sinneszellen ragen  hinein
+  * *Funktion*: Sensoren für *Drehbeschleunigung*
+    * Drehbegung des Kopfes in der Ebene des jeweiligen Bogenganges
+    * Endolymphe bleibt aufgrund ihrer Trägheit zurück -> Auslenkung der Cupula -> Abknicken der Sterozilien
+    * *Reizumwandlung der vestibulären Sinneszellen*
+      * durch die Anordnung der unterschiedlich langen Zilien sind die Sinneszellen polar differenziert
+      * Ruhezustand: Zilien sind gerade ausgerichtet
+      * Auslenkung in Richtung Kinozilium -> Depolarisierung der Sinneszelle -> AP-Frequenz steigt -> Glutamat-Freisetzung 
+      * Ablenkung der Stereozilien vom Kinozilium weg -> Hyperpolarisierung der Sinneszellen -> Impulsfrequenz wird herabgesetzt
+    * *Zusammenwirken der kontralateralen Bogengänge bei der Kopfdrehung*
+      * Kopfdrehung nach Rechts -> 
+        * rechts: Auslenkung der Stereozilien in Richtung des Kinoziliums -> Erhöhung der AP-Frequenz
+        * links = kontralateral: Auslenkung vom Kinozilium weg -> Erniedrigung der Impulsfrequnez
+      * Folge: Kontrasterhöhung des Reizes und Steigerung der Empfindlichkeit
+
+####Macula statica
+Als Macula statica werden die Macula sacculi und utriculi bezeichnet, die beide identisch aufgebaut werden.
+
+#####Aufbau
+  * innerhalb epithelialer Auskleidung von Sacculus und Utriculus: oval angeordnetes Feld von Sinneszellen und Stützzellen (Durchmesser = 2mm)
+    * Mechanosensoren
+    * 100 Stereozilien
+    * 1 Kinozilium
+    * funktionale Polarisierung
+  * **Statolithenmembran = Otolithenmembran**
+    * Gallertschicht (*Otogelin*), darüber liegen
+    * **Otolithen = Statholithen = Otokonien = Statokonien**
+      * Kalziumkarbonat-Kristalle (30 x 5 μm)
+
+#####Funktion
+  * Kopfbewegung -> aufgrund ihres hohen spezifischen Gewichtes zerren die Statholyten an der Gallertmasse bei Einwirkung von Linearbeschleunigung -> Scherbewegung von Zilien
+  * Arten von Linearbeschleinigung:
+    * *Utriculus* = horizontale Beschleunigung
+    * *Sacculus* = vertikale Beschleunigung

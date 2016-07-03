@@ -1,0 +1,49 @@
+#Schwindel
+##Benigner paroxysmaler Lagerungsschwindel (BPLS)
+idiopathisch auftretende Dislokation von otokonien im Bereich von Bogengängen (primäre Form) überweigend einseitig auftretend.
+
+###Epidemiologie
+  * häufigste Schwindelerkrankung überhaupt
+  * Inzidenz: 10-65 Fälle / 100 000 / Jahr
+  * w:m = 2:1
+  * rechte Seite ca. 1,4x häufiger betroffen
+
+####Lokalisation der Otolithen
+  * 90% der Fälle posteriorer Bogengang betroffen
+    * Upbeat Nystagmus
+  * <10% superiorer Bogengang
+    * Downbeat Nystagmus
+  * 10% horizontaler Bogengang
+
+###Pathomechanismus
+Ablösung von Otolithen aus dem Utriculus durch
+  * Degeneration (Erhöhtes Risiko bei Osteoporose)
+  * Postenztündlich: 10-15%
+  * Posttraumatisch: 18-20%
+  * sekundäre BPLS bei uni- oder bilateraler, akuter oder chronische Vesibulopathoie usw -> häufiger Bilateral
+
+Otolithen gelangen in die Bogengänge -> danach verschiedene Erklärungsmechanismen. 
+  * *Cupulolithiasis*
+    * Anlagerungen von Otolythen an die Cupula 
+    * Folge: Veränderung der Mechanik durch zusätzliches Gewicht
+  * *Canalolithiasis*
+    * Otolithen bewegen sich frei im hinteren Bogengang -> bilden einen Propf
+    * kann durch rasche Kopfbewegungen aus dem Bogengang herausbewegt werden -> Symptomatik
+  * *Otholth jam*
+    * Nach physiologischer Auslenkung der Cupula bei Lageänderung folgt der unphysiologische Reiz durch ampullofugal nachsackende Canalolithen (Latenz: 5-10 sec)
+
+###Klinik
+  * bei raschen Drehungen oder schrägen Kopfneigungen plötzlich einsetzender Drehschwindel, z.T. mit Übelkeit und Erbrechen
+    * lagerungsabhängig: auftreten oft beim Umdrehen im Bett
+    * Beschwerden mit Crescendo-/Decrescendo-Verlauf über ca. 20-30 Sekunden anhaltend
+  * *Rotatorischer Nystagmus* des ipsilateralen Auges nach lateral. Vom Betrachter aus gesehen
+    * Kopflinksdrehung = im UZS
+    * Kopfrechtsdrehung = gegen UZS
+
+###Diagnostik
+  * Anamnese
+    * Auslösende Bewegungen
+    * darf keine kochelären Symptome verursachen (Hörminderung, Tinnitus)
+  * Diagnostik: Symptome und klinsiche Zeichen
+    * weitere Diagnostik bei Unklarheit, v.a. sekundäre PBLS
+    * 
