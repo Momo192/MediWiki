@@ -124,5 +124,22 @@ Fazit **Zapfensystem**
 
 ####Kontrastverstärkung durch laterale Hemmung
   * **Horizontalzellen**
-    * 
+    * verbinden Zapfen aus der Peripherie mit Zapfen im Zentrum
+    * Vermitteln antagonistische Wirkung der Peripherie zum Zentrum
+    * Transmitter: GABA
+  * *Ablauf*
+    * Licht in der Peripherie -> Hyperpolarisation Zapfen der Peripherie -> 
+    * Hyperpolarisation der Horizontalzelle -> verminderte GABA-Freisetzung zum Zapfen im Zentrum (dieser depolarisiert da er im dunkeln ist)
+    * -> Erhöhte Depolarisation ->  Vermehrte Glutamat-Freisetzung des Zapfen im Zentrum 
+    * Folge: On-Zentrum Bipolarzelle hyperpolarisiert -> Verminderte AP-Frequenz der Ganglienzelle
+  * *Folge*
+    * bei gleichmäßiger Beleuchtung eines rezeptiven Feldes werden die Ganglienzellen kaum erregt
+    * Bei Beleuchtung von nur Zentrum oder nur Peripherie kommt es zu einer starken Reaktion der Ganglienzellen
+      * Zentrumsbeleuchtung
+        * On-Ganglienzellen: Erhöhte AP-Frequenz
+        * Off-Ganglienzellen: erniedrigte AP-Frequenz
+      * Peripherie-Beleuchtung
+        * On-Ganglienzellen: verminderte AP-Frequenz
+        * Off-Ganglienzellen: erhöhte AP-Frequenz
+    * das antagonistische Umfeld prädestiniert die Ganglienzellen Helligkeitskontraste zu detektieren (auf Kosten der Empfindlichkeit)
 

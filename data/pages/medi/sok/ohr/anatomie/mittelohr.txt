@@ -73,3 +73,26 @@ Die Paukenhöhle ist eine wichtige Durchgangsstation für Nerven
           * wird dabei von Mukosa überzogen
         * Durch *Fissura petrotympanica* in die Fossa infratemporalis ->  schließt sich dem N. lingualis an
         * Umschaltung der parasympathischen Fasern im *Ggl. submandibulare* -> Innervation von Gl. sublingualis und Gl. submandibularis
+
+
+##Tuba auditiva
+  * *Synonym*: Eustachi-Röhre
+  * *Definition*: Verbindung der Paukenhöhle mit der Pars nasalis pharyngis
+  * *Aufbau*: 3,5-4 cm
+    * knöcherner Anteil
+      * 12 mm
+      * liegt im Felsenbein
+    * knorpeliger Anteil
+      * Fortsetzung bis zum Pharynx -> Erweiterung
+  * *Verlauf*: enge topographische Beziehung zu
+    * M. tensor tympani 
+    * A. carotis interna
+  * *Funktion*
+    * Reinigung der Pakenhöhle: konstante Belüftung des Mittelohres
+    * **Tubenventilation**: Druckausgleich zwischen Mittelohr und Umgebung
+      * *Muskeln*
+        * **M. tensor veli palatina**: 
+          * spannt beim Schlucken das Gaumensegel 
+          * Dabei ziehen seine Fasern gleichzeitig an der *Lamina membranacea* -> Öffnung der Tuba-auditiva
+        * **M. levator veli palatini**
+          * Bei Kontraktion Druck auf den Tubenknorpel -> Eröffnung des Tubenlumens

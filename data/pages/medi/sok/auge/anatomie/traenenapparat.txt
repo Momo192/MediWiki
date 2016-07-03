@@ -1,0 +1,91 @@
+#Tränenapparat
+##Bestandandteile
+###Glandula lacrimalis
+  * *Definition*: seröse Tränendrüse
+  * *Lage*: 
+    * liegt oberhalb des lateralen Augenwinkels in der **Fossa glandulae lacrimalis** im Os frontale
+    * besitzt 8-12 Ausführungsgänge (Ductuli excretorii) welche in den Fornix conjunctivae superior münden
+  * *Unterteilung*: durch die Sehne des M. levator palpebrae superioris in:
+    * **Pars orbitalis**: größerer oberen Teil
+    * **Pars palpebralis**: kleinerer unterer Teil
+  * *Funktion*: Produktion der Hauptmenge der Tränenflüssigkeit
+  * *Innervation*
+    * Sympathisch: Ggl. cervicale superius
+    * Parasympathisch: 
+      * Nucleus salivatorius -> durch Ggl. geniculi ohne Umschaltung -> N. petrosus major (parasympathischer Ast des N. intermediofacialis) -> 
+      * Umschaltung im Gg. pterygopalatoinum -> postganglionäe Fasern via N. zygomaticus (Ast des N. maxillaris)
+      * über R. communicans zum N. lacimalis
+
+####Meibom-Drüsen: 
+  * abgewandelte Talg- und Schweißdrüse
+  * frei an der Lidhinterkante mündend
+  * Klinik: **Chalazion** = Hagelkorn: EZ der Meibom-Drüse durch eine Verstopfung der Ausführungsgänge - schmerzlose Schwellung im Augenlied
+
+####Becherzellen der Bindehaut
+  * Produzieren eine Muzinschicht, die durch ihre gelartige Konsistenz den Tränenfilm stabilisiert
+
+####Weitere Drüsen
+  * **Moll-Drüse**
+    * modifizierte apokrine Schweißdrüse, die am Lidrand in die Haarbälge der Wimpern münden
+    * Innervation durch ggl. ciliare
+  * **Zeis-Drüsen**
+    * einzelnd stehende Talgdrüsen des AUgenliedes
+  * **Hordeolum = Gerstenkorn**
+    * *Definition*: akute bakterielle EZ der Meibom-Drüse oder einer Moll- oder Zeisdrüse
+    * wird meist durch Staphylococcus aureus ausgelöst, ist schmerzhaft, geschwollen und gerötet
+
+##Tränenflüssigkeit
+  * *Zusammensetzung*:
+    * isotone Salzlösung
+    * Proteine (Lysozyme, Lactoferrin, Defensine)
+    * Epidermal Growth factor (EGF)
+    * IgA
+  * *Aufbau*: Dreischichtig
+    * 1. äußere lipophile Schicht aus den Meibom-Drüsen
+      * 0,1 μm
+      * verhindert die Verdunstung der wässrigen Tränenflüssigkeit
+    * 2.Mittlere wässrige Tränenflüssigkeit aus der Glandula lacrimalis
+      * 8 μm
+      * *Funktion*
+        * Heilung kleiner Wunden (EGF)
+        * Spülung und Desinfektion des Auges
+        * Bildung einer optischen Oberfläche -> Ausgleichen von Unebenheiten
+        * Versorgung der Kornea 
+    * 3. Innere Schicht: viskös aus den Becherzellen der Konjunktiva
+      * *Funktion*
+        * stabilisiert die Tränenflüssigkeit, 
+        * sorgt dafür, dass die Tränenflüssigkeit sich ausbreiten kann
+      * 0,8 μm
+
+##Verteilung der Tränenflüssigkeit
+###Verlauf
+  * Lidschlag -> Tränenflüssigkeit sammelt sich im Lacus lacrimalis
+  * Weiterleitung durch die **Puncta lacrimalia superius et inferius** in
+  * **Canaliculi lacrimalis superior et inferior** -> 
+  * **Saccus lacrimalis** ->
+  * **Ductus nasolacrimalis** -> Meatus nasi inferior
+
+###Klinik: Abflusshindernisse in den ableitenden Tränenwegen
+  * Lokalisation durch Spülung mit einer speziellen Flüssigkeit
+  * *Stenose im Canalis lacrimalis inferior*: Rückfluss durch den Canalis lacrimalis inferior
+  * *Stenose im Canalis lacrimalis communis*: Rückfluss durch den Canalis lacrimalis superior
+  * *Stenose im Saccus lacrimalis*
+    * Rückfluss Canaliculus lacrimalis superior
+    * erst nach vollständiger Füllung des Tränensackes
+    * oft eintrig und Gallertartig
+
+###Mechanische Propulsion der Tränenflüssigkeit
+####M. orbicularis oculi
+  * *Anteile*
+    * Pars orbitalis
+      * umschließt das Auge
+    * Pars palpebralis
+    * Pars lacrimalis 
+      * entspringt der Crista lacrimalis posterior
+  * *Innervation*: N. facialis
+  * *Funktion*: 
+    * Pars lacrimalis: 
+      * durch Kontraktrion und Entspannung -> Wirkung auf Tränensack -> FOrtbewegung der Tränenflüssigkeit
+    * Lidschluss = synchrone Träenenwegsperistaltik 
+      * erfolgt von temporal nach Nasal 
+    * durch sukzessive Kontraktion wird die Tränenflüssigkeit in Richtung der ableitenden Harnwege gepresst
