@@ -1,0 +1,31 @@
+#Außenohr
+##Ohrmuschel
+###Funktion
+  * Schallleitung
+  * *Richtungshöhren*
+    * durch Laufzeitunterschiede -> Bestimmung des Raumwinkels
+    * Form der Ohrmuschel -> je nachdem in welchem Winkel das Schallsignal auf die Ohrmuschel afutritt -> Verformung Schall -> modulierte Schallmuster wird zentral erkannt -> Bildung des Raumeindruckes
+  * *Frequenzselektivität*
+    * Cavum conchae: bei 5 kHz Anhebung des Schall um 10 Db -> Tsisch-Laute besser Höhrbar
+    * in der Summe durch Körper, Ohr relative Verstärkung des Schalls in den hohen Frequenzen -> gute Wahrnehmbarkeit von Sprache
+
+###Entwicklung
+  * aus der 1. Schlundfurche 
+  * Um den Rand der 1. Schlundfurche bilden sich 6 *Ohrmuschelhöcker* = *Tubercula auricularia*
+    * 1-3 aus dem *1. Schlundbogen* -> Tragus und Helix
+    * 4-6 aus dem *2. Schlundbogen* -> Antritragus + Antihelix
+  * Fehlbildungen:
+    * Aurikalranhängig durch überzählige Ohrhöckerchen
+    * Mikrotie: verkleinerte, rudimentäre Ohrmuschel
+    * Siehe [[medi:sok:ohr:hno:aeusseres_ohr#dysplasie]]
+
+###Aufbau
+  * **Helix**
+  * **Tragus**: dreieckiger Vorsprung vor der Öffnung des äußeren Gehörganges
+  * **Antitragus**:
+    * zwischen Tragus und Antitragus liegt die *Incisura intetragica* -> ventrales Ende der 1. Schlundfurche
+  * **Antihelix** 
+    * bestehend aus Crus inferior und superior
+    * Abgrenzung der Concha auriculare zur *Fossa traingularis*
+  * **Concha auriculae**: eigentliche Ohrmuschel. Vertiefter Innenraum bestehend aus
+    * 
