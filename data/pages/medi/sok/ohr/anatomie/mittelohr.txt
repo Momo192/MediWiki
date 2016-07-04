@@ -67,16 +67,62 @@
     * entspricht dem primären Kiefergelenk
     * Sattelgelenk
     * Wird von einer straffen Kapsel umgeben -> geringer Bewegungsumpfang -> funktionelle AMphiathrose
-  * **Processus lateralis**
-  * **Processus medialis**
+  * **Processus lateralis**: verwachsen mit Trommelfell, bildet Prominentia mallearis
+  * **Processus anterior**: zur Fissura petrotympanica
 
 ####Befestigung
-  * **Lig. mallei laterale**
-s
-###Incus
-###Stapes
+  * **Lig. mallei laterale**: Collum bis Ansatz der lateralen Paukenwand
+  * **Lig. mallei anterius**: Processus anterior -> Verlauf zusammen mit Chorda tympani
+  * **Lig. mallei superius**: Hammerkopf bis Dach der Paukenhöhle
+
+###Incus (Amboss)
+  * **Corpus incudis**: Gelenktfläche für Malleolus
+  * **Crus breve**: über 2 Bänder mit der Paukenhöhle befestigt
+    * **Lig. incudus posterius**: laterale Wand
+    * **Lig. incudis superius**: Dach
+  * **Crus longum** bildet den **Processus lenticularis** -> Gelenkfäche für die **Art. incudostapedalis**  = flaches Kugelgelenk mit geringem Bewegungsumpfang
+
+###Stapes (Steigbügel)
+
+  * *Aufbau*
+    * **Caput stabpedis** ist durch **Collum stapedis** über **Crus anterius** und **Crus posterius** mit der **Basis stapedis** verbunden. 
+    * Basis stapedis ist mit dem **Lig. anulare** beweglich im Fenestra vestibuli aufgehängt. 
+    * Zwischen den beiden Crura spannt sich die **Membrana stapedialis**
+  * *Lage*: in der medialen Wand der Paukenhöhle
+  * *Artikulation*
+    * gelenkiger Kontakt mit Ambuss
+    * wird durch die Schwingungen des Hammers indirekt bewegt
+    * ist mit seiner Fußplatte in das ovale Fenster eingefügt
+
+
 ###Funktion
+  * Übertragung von der Schwingungsenergie vom Schall vom Trommelfell auf die Flüssigkeit im Innenohr
+  * **Impedanzanpassung**
+    * 60-65% der Schallenergie wird übertragen trotz hoher Widerstand der Flüssigkeit im Innenohr
+    * Fläche des Trommelfells ist 20x größer als die des ovalen Fensters
+    * Erhöhter Kraftübertragung durch Hebelwirkung -> Manubrium mallei ist länger als als Crus longum des Incus
+
 ###Binnenmuskel
+####M. tensor tympani
+  * 2 cm lang
+  * *Ursprung*: Fasern entspringen vom Tubenknorpel und vom Semicanalis m. tensoris tempani -> Verbindung mit M. tensor veli palatini
+  * *Verlauf*: Durch **Canalis musculotubarius**
+  * *Ansatz*; am Hammergriff (Sehne biegt um *Processus cochlearidormis*)
+  * *Funktion*: spannt das Trommelfell, versteigt die Gehörknöchelchenkette
+  * *Innervation*: Ast des N. pterygoideus medialis (N. mandibularis = 1. Schlundbogennerv)
+
+####M. stapedius
+  * ca. 7 mm ang
+  * *Ursprung*: Knochenhöhle im Paries mastoideus vor dem Facialiskanal, Verlauf durch die *Eminentia pyramidalis*
+  * *Ansatz*: Caput und Crus posteriur des Stapes
+  * *Funktion*: kippt dem Steigbügel im ovalen Fenster -> Reduzierung der Druckübertragung
+  * *Innervation*: N. stapedius des N. facialis = 2. Schlundbogennerv
+
+####Funktion der Binnenmuskel
+  * Reduktion hoher Schallintensitäten
+    * *Hyperakusis* bei Facialisparese
+  * Dynamische Anpassung des Lautstärkebereichs
+
 
 ##Versorgung der Paukenhöhle
 ###Arterien

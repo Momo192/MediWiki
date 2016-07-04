@@ -188,6 +188,7 @@ Geschmacksknospen sind organisiert in Geschmackspapillen
       * ipsi- und kontralateral als Tractus trigemino-thalamicus dorsalis zum Nucleus ventralis posteromedialis des Thalamus -> Umschaltung auf *3. Neuron*
         * Projektion auf *primären gustatorischen Cortex* 
           * *4. Neuron* in Insula und im Cortex des frontalen Operculums
+          * *Lage*: in der Nähe des Sulcus lateralis (Fissura sylvii)
         * Projektionen zum *sekundären gustatorischen Kortex*
           * Lage im orbitofrontalen Kortex
 

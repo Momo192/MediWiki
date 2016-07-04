@@ -24,8 +24,8 @@ Durch die Nacheinanderschaltung von mehreren brechenden Medien entsteht ein umge
   * Linse: etwa 16 dpt. bei ruhendem Auge
 
 #####Akkomodation
-  * *Definition*: Anpassung der Gesamtbrechkraft durch Linsenkrümmung je nach Entfernung des fixierten Objrekts
-    * je weiter ein Gegenstand entfernt ist, desto paralleler laufen die eintreffenden Lichtstrahlen.  
+  * *Definition*: Anpassung der Gesamtbrechkraft durch Linsenkrümmung je nach Entfernung des fixierten Objekts
+    * je weiter ein Gegenstand entfernt ist, desto paralleler laufen die eintreffenden Lichtstrahlen.
     * Damit sie punktförmig auf der Retina zusammentreffen, muss das Auge die parallelen Lichstrahlen wie eine Sammellinse brechen
     * **Akkomodationsbreite**: Bereich, in dem das Auge seine Brechkraft verändern kann (beim Wechsel zwischen Nah- und Fernsehen). Berechnung: 
       * Akkomodationsbreite (dpt)= 1/Nahpunkt(m) - 1/Fernpunkt(m)

@@ -39,7 +39,7 @@
     * isotone Salzlösung
     * Proteine (Lysozyme, Lactoferrin, Defensine)
     * Epidermal Growth factor (EGF)
-    * IgA
+    * IgA (Immunglobulin in höchster Konzentration)
   * *Aufbau*: Dreischichtig
     * 1. äußere lipophile Schicht aus den Meibom-Drüsen
       * 0,1 μm

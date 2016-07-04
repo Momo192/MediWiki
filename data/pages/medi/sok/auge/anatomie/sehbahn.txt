@@ -159,6 +159,7 @@ Ermöglicht es dem Auge, sich auf wechselnde Helligkeiten einzustellen. Bei vers
     * Umschaltung auf 6. Neuron = peripheres parasympathisches Neuron
     * Zieht zum
   * **M. sphincter pupillae**
+    * Acetycholin als Transmitter
 
 #####konsensueller Reflex
   * Erfolgt ipisilateral und kontralateral des eintreffenden Reizes da die Afferenzen auf beide prämotorische Areale geleitet werden. 
@@ -179,7 +180,7 @@ Ermöglicht es dem Auge, sich auf wechselnde Helligkeiten einzustellen. Bei vers
     * Schädigung parasympathischer Okulomotorius-Kern oder Ggl. ciliare -> efferenter Teil des Reflexes fällt aus d.h. auf der Seite des betroffenen Auges weder direkte noch indirekte Lichtreaktion
     * Schädigung der Sehstrahlung oder der Sehrinde -> kein Ausfall des Reflexes (da genikulärer Anteil)
 
-#####Antagonist
+#####Antagonist: Mydriasis
 Sympathischer Nerv aus **Ggl. cervicale superius** -> zieht ohne Umschaltung durch Ggl. ciliare -> Innervation M. dilatator pupillae
 
 ####Akkomodation
