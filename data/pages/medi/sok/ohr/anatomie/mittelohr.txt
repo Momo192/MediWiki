@@ -126,8 +126,27 @@
 
 ##Versorgung der Paukenhöhle
 ###Arterien
+
+####Versorgung der Paukenhöhle
+  * *A. carotis externa* 
+    * A. tympanica anterior (Trommelfell, Antrum mastoideum, Malleus, Incus)
+    * A. tympanica posterior (Chorda tympani, Trommelfell, Malleus)
+    * A. tympanica superior (M. tensor tympani, Dach der Paukenhöhle, Stapes)
+    * A. tympanica inferior (Boden der Paukenhöhle, Promontorium)
+  * *A. carotis interna* -> Rr. caroticotympani -> Tube und vordere Wand der Paukenhöhle
+
+####Versorgung des Labyrinth
+**A. labyrinthi** aus A. basilaris oder A. cerebelli inferiorr anterior
+
 ###Nerven
 ####Versorgung
+  * der Paukenhöhle
+    * Plexus tympanicus (aus IX)
+    * N. caroticotympanici (Sympathisch)
+    * N. stapedius (aus N. facialis)
+    * N. tensor tympani (Ast des N. pterygoideus medialis aus N. mandibularis)
+  * Der Cochlea und des Vestibularapparates: N. vestibulocochlearis
+
 ####Durchgangsstation
 Die Paukenhöhle ist eine wichtige Durchgangsstation für Nerven
 #####N. facialis
@@ -142,7 +161,7 @@ Die Paukenhöhle ist eine wichtige Durchgangsstation für Nerven
     * **Chorda tympani**
       * *Abzweigung* oberhalb des Foramen stylomastoideum
       * *Inhalt*
-        * Geschmacksfasern
+        * Geschmacksfasern -> innerviert sensorisch die Geschmackknospen des Zungenrückens
         * präganglionäre parasympathische Fasern
       * *Verlauf*:
         * durchquert die Paukenhöhle nur!!!
@@ -150,6 +169,39 @@ Die Paukenhöhle ist eine wichtige Durchgangsstation für Nerven
         * Durch *Fissura petrotympanica* in die Fossa infratemporalis ->  schließt sich dem N. lingualis an
         * Umschaltung der parasympathischen Fasern im *Ggl. submandibulare* -> Innervation von Gl. sublingualis und Gl. submandibularis
 
+#####N. glossopharyngeus (IX)
+**Verlauf**
+  * Austritt aus der Medulla oblongata -> zieht durch das *Foramen jugulare*, wo er Ganglien bildet
+    * *Ganglion superius* (intrakraniell)
+    * *Ganglion inferius* (extrakraniell)
+  * Zieht zwischen M. stylopharyngeus und M. styloglossus zur Zungenwurzel. Abgabe von diversen Ästen (hier nur die relevanten)
+    * **N. tympanicus**
+      * sensibel und parasympathisch
+        * enthält **Nn. caroticotympanici** = sympathische Nerven aus dem Plexus caroticus
+      * *Verlauf*: **Canaliculus tympanicus** -> Paukenhöhle ->
+        * bildet **Plexus tympanicus**: somatoafferent und sympathische Fasern
+        * Parasympathische Fasern ziehen als **N. petrosus minor** zum **Ganglion oticum** (Umschaltung)
+          * Durch Sulcus und Hiatus n. petrosi minoris wieder in die mittlere Schädelbasis
+          * Durch *Fissura sphenopetrosa* aus der Schädelbasis
+        * Nach Umschaltung: kurzer Verlauf mit N. auriculotemporalis (Ast des N. mandibularis)
+        * Versorgung der Gl. parotis 
+          * N. auricuoltemporalis: viszeromotorisch
+          * N. glossopharyngeus: parasympathisch
+          * Gesamtheit = **Jacobson-Anastomose**
+
+**Versorgungsgebiete und Ganglien**
+  * *speziell viszeroefferent*: 
+    * Nucleus ambiguus -> Schlundschnürere, Mm. stylopharyngeus, palatopharyngeus, salpingopharyngeus
+  * *allgemein viszeroefferent* (parasympathisch)
+    * *Nucleus salivatorius inferior*: parasympathisch, präganglionäre Fasern zum Ggl. oticum -> Umschaltung -> Gl. parotis, Gll. bucales und labialis
+  * *somatoafferent*: im Ncl. spinalis N. trigemin enden zentrale Fortsätze von pseudounipolaren Ganglienzellen die im Ganglion inferius oder superius des N. glossopharyngeus liegen. Die peripheren Fortsätze dieser Neurone stammen von:
+    * hinterem Zungendrittel, weicher Gaumen, Rachenschleimhaut und Tonsillen (Afferenzen des Würgereflex)
+    * Schleimhaut von Paukenhöhle und Tuba auditiva (Plexus tympanicus)
+    * Haut des äußeren Ohres und des Gehörganges sowie der inneren Oberfläche des Trommelfells
+  * *Speziell viszeroafferent*: Im Nucleus tractus solitarii enden Fortsätze aus dem Ggl. inferius, deren periphere Fasern vom hinteren Drittel der Zunge (Geschmacksfasern) stammen
+  * *Viszeroafferent*: 
+    * Chemorezeptoren aus dem Glomus caroticum
+    * Pressorezeptoren im Sinus caroticus
 
 ##Tuba auditiva
   * *Synonym*: Eustachi-Röhre

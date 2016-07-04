@@ -28,4 +28,82 @@
     * bestehend aus Crus inferior und superior
     * Abgrenzung der Concha auriculare zur *Fossa traingularis*
   * **Concha auriculae**: eigentliche Ohrmuschel. Vertiefter Innenraum bestehend aus
-    * 
+    * **Cymba conchae**
+    * **Cavitas conchae** (geht in den äußeren Gehörgang über)
+  * Fossa scaphoidea
+  * Lobulus auricularis
+  * *Darvin-Höcker*: Knorpelfortsatz am Außenrand der Ohrmuschell
+    * evolutionäres Überbleibsel des vormals spitzen Ohres (Atavismus)
+
+###Innervation
+Komplex, die Innervationsbereiche sind nicht vollständig geklärt
+  * N. trigeminus -> N. auriculotemporalis
+  * N. facialis (welches Areal er versorgt ist nicht geklärt)
+  * N. glossopharyngeus -> Concha auriculae
+  * N. vagus v.a. innerer Gehörgang
+  * Plexus cervicalis (eher hintere Anteile des Ohres)
+    * Nn. occipitalis minor
+    * Nn. auricularis magnus
+
+##Meatus acusticus externus
+###Entwicklung
+  * **1. Schlundfurche**: außen, ektodermal -> äußerer Gehörgang
+  * **1. Schlundtasche**: innen, entodermal -> Tuba auditiva und primäre Paukenhöhle
+
+###Aufbau
+  * 3-4 cm lang, S-förmige Krümmung
+    * *Klinik*: Untersuchung des Trommelfells
+      * Bei der Inspektion mit dem Otoskop muss die Ohrmuschel nach hinten oben gezogen werden -> Ausgleich der Krümmung des Gehörganges
+  * von Ohrmuschel zum Trommelfell (Neigung 45° von lateral oben nach medial unten) -> Boden des Gehörganges ist länger als das Dach
+  * *Zusammensetzung*
+    * äußeres 1/3: Knorpel (Wand wird durch elastischen Knorpel verstärkt)
+    * innere 2/3: Knochen: *Pars txympanica ossis temporale*
+  * *Histologie* 
+    * mehrschichtiges verhorntes Plattenepithel mit Talgdrüsen, Haaren, Tragi
+    * tubulöse Drüsen: **Gll.ceruminosae**
+      * Produzieren Dünnflüssiges Sekret, das zusammen mit abgeschilferten Epithelzellen und Talg das **Cerumen** bilden
+      * Funktion: antimikrobiell
+
+##Membrana tympanica (Trommelfell)
+  * *Definition*: Trennwand zwischen Außenohr und Mittelohr
+    * laterale Wand der Paukenhöhle = *Pars membranacea*
+  * *Form*
+    * ovale, bis Runde Form
+    * 75 mm²
+    * bildet eine nach innen trichterförmig eingezogene Membran (Spitze = Umbo)
+    * nach außen geneigt (Inklination: 40-45°)
+  * *Anteile*
+    * **Pars tensa**
+      * *Befestigung*: *Anaulus fibrocartilagineus* im Sulcus tympanicus
+      * *Histologie*: aus 3 Schichten
+        * **Äußeres Stratum cutaneum** = mehrschichtig unverohrntes Plattenepithel = Fortsetzung der Gehörgangshaut
+        * **Lamina propria** mit kollagenen Radiär- und Zirkulärfasern
+        * **Stratum mucosum**: Übergang in die Schleimhaut der Paukenhöhle
+      * *Einteilung*
+        * in der Mitte, trichterförmig zum Nabel (**Umbo membranae tympanica**) eingezogen
+          * Unteres Ende des mit der Innenseite des Trommelfell verwachsenen Hammergriffes
+        * Einteilung im Uhrzeigersinn in 4 Quadranten
+          * I: vorne oben
+          * II: vorne unten
+          * III: hinten unten
+          * IV: vorne oben
+    * **Pars flacida = Shrapnell-Membran**
+      * Schlaff, klein, oben
+      * *Befestigung*: am Rand der *Incisura tympanica*
+      * *Histologie*:
+        * *Äußeres Stratum cutanea*
+        * keine Lamina propria, ersetzt durch lockeres BW
+        * *Stratum mucosum*
+      * *Strukturen*
+        * **Plicca flacida**: Verlauf der Chorda-Tympani
+        * Bildet eine Grenze des Recessus membranae tympani superior (= Prussak-Raum)
+  * *Klinik*: **Parazenthese**
+    * *Definition*: Drainage von Paukenhöhlenergüssen, Eiterungen und Blutungen
+    * *Lokalisation*: nur in vorderen oder hinteren unteren Quadranten
+      * ansonsten Verletzungsrisiko der Gehörknöchelchen oder der Chorda tympani
+  * *Arterielle Versorgung*: A. auricularis profunda
+  * *Innervation*: 
+    * Vorne: 
+      * N. auriculotemporalis (V3)
+      * N. vagus
+    * Innenfläche: N. tympanicus (aus IX)

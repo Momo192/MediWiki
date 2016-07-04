@@ -2,7 +2,7 @@
 ##Cochlea
 
 Cochlea (Schnecke) wandelt Schallwellen mit Frequenzen zwischen 16 und 16 000 Hz in elektrische Potenziale um, die synaptisch auf den N. cochelaris übertragen werden und im Gehirn auditorische Sensationen auslösen
-a
+
 ###Allgemeine Topographie
   * *Lage*
     * Schädelbasis 
@@ -111,6 +111,7 @@ Der Schneckenkanal wird in 3 Etagen unterteilt
     * 50-100 pro Zelle
     * Treppenförmig von groß nach klein angeordnet
     * *Tip links*; Verbindung der Spitzen der Stereozilien
+    * Stereozilien werden von Endolymphe umspült, während der Zellkörper, durch die Phalangenzellen isoliert von Perilymphe umspült wird
 
 ####Nervenfasern
   * *afferente Innervation*: vorwiegend innere Haarzellen
@@ -228,8 +229,11 @@ Als Macula statica werden die Macula sacculi und utriculi bezeichnet, die beide 
 
 #####Efferenzen
   * Thalamus und Cortex (wichtigste Zielstruktur): Bewusste Raumorientierung
-  * Okulomotirscher Abbarat:
+  * Okulomotirscher Apparat:
     * Regulation der Blickmotorik und vestibulococleäre Reflexe
+    * Vermittlung durch **Fasciculus longitudinalis medialis**
+      * wichtig für die Koordination von Augen und Halsmuskulatur
+      * verbindet Vestibulariskerne und Augenmuskelkerne
     * über Nuclei n. oculomotoriusm, n. trochlearis, n. abducens
   * Rückenmark -> Muskelspannung (Tractus vestibulospinalis)
   * Cerebellumg -> Feinabstimmung der Motorik (Tractus vestibulocerebellaris)
