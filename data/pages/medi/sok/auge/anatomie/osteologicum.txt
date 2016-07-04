@@ -126,7 +126,32 @@ Im Bereich des Gesichtsschädels sind einige Knochen pneumatisiert -> Gewichtser
   * *Untere Schicht*: Zwischen M. rectus inferius und Orbitaboden
 
 ###Obere Etage
+  * N. lacrimalis (Ast des N. ophtalmicus (V1))
+  * A. lacrimalis (Ast der A. ophtlamica (aus Carotis interna))
+  * V. lacrimalis
+  * N. frontalis
+  * Nn. supraorbitalis und N. supratrochlearis (Endäste der N. frontalis)
+  * A. supraorbitalis (Endast der A. ophtalmica)
+  * V, supraorbitalis
+  * N. trochlearis 
 
+###Mittlere Etage
+  * Nerven
+    * N. opticus
+    * N. nasociliaris (Ast des N. ophtalmicus)
+    * N. abducens
+    * N. oculomotorius (R. superior und inferior)
+    * Ggl. ciliare: Umschaltung der parasympathischen Fasern aus dem N. oculomotirus
+  * Gefäße
+    * A. supratrochlearis
+    * A. ophtalmica
+      * A. centralis retinae
+      * Aa. ciliaris posteriores
+    * V. ophtalmica superior
+
+###Untere Etage
+  * V. ophtalmica inferior
+  * N. infraorbitalis aus N. maxillaris mit Ramus communicans zum N. zygomaticus
 
 ##Muskeln und Nerven der Orbita
 

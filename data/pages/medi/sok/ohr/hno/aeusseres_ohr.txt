@@ -1,2 +1,73 @@
 #Äußeres Ohr
 ##Dysplasie
+*Definition*: mehrere Arten von Fehlbildungen des Ohrs, 
+  * Die Behandlungsbedürftigkeit hängt von dem Grad der Erkrankung ab. 
+  * Anomalien des äußeren Ohres sind nicht relevant für das Hörvermögen. Gehörgangsstenosen oder Atresien führen zu  *Schallleitungsschwerhörigkeit*
+  * Fehlbildungen entstehen durch Entwicklungsstörung des 1. oder 2. Kiemenbogens, der 1. Kiemenfurche
+
+
+###Einteilung
+  * **Grad I**: 
+    * *Definition*: Fehlbildung ohne wesentliches Fehlen von Haut- und Knorpelstrukturen
+    * *Beispiele*
+      * Ohranhängsel
+      * Apostasis otum = Segelohren (fehlende Antihelx-Falte)
+      * Makrootie
+      * präaurikuläre Fistel
+  * **Grad II**: 
+    * *Definition*: äußere Form erhalten, jedoch Defizit an Haut und/oder Knorpel mit Notwendigkeit des plastischen Ersatz bei Korrektur, äußerer Gehörgang oft verengt.
+    * Oft Assoziation mit Schallleitungsstörungen
+  * **Grad III**:
+    * *Definition*: vollständiges oder nahezu vollständiges Fehlen des äußeren Ohres, Lobulus ventralwärts verlagert, äußerer Gehörgang stark verengt
+    * Oft kombiniert mit 
+      * syndromalen Erkrankungen
+      * Fehlbildungen Mittelohr, Innenohr, kraniofaszialen Deformitäten
+    * *Beispiele*:
+      * Mikrotie: in 50% der Fällen Syndromal
+      * Anotie
+      * Tassenohrdeformität -> häufigste schwerwiegende Fehlbildung (kann Grad II/III haben)
+
+###Klinik
+  * gestörtes Ohrrelief, meist Fehlen des Crus anthelicis, Vergrößerung des Concha-Mastoid-Abstand
+  * Gehörgangsatresie: knöchern oder häutig
+  * **Aurikularfistel**
+    * *Typ I*: präaruikulär mit epithelialer Auskleidung
+      * entsteht durch ungenügende Verschmelzung der Schlundbögen
+    * *Typ II*
+      * vom Halsbereich zum Gehörgang
+      * Sekretion aus der Fistel -> sekundär akute Superinfektion
+
+###Therapie
+####Dysplasie Grad I: Otabtosis
+  * *Indikation*:
+    * Psychologisches Leiden der Kinder (Psychosomatische Erkrankungen gehören zum Facharzt Katalog)
+    * OP zum Schulwechsel
+  * *Durchführung*
+    * Retroaurikulärer Zugang -> Anschleifen des Knorpels mit Nahttechnik (Nadeln mit Farbpigment werden dort plaziert wo die Antihelix-Falte liegen soll -> Positionsmarkierung) -> Audünnung des Knorpels
+    * Hautresektion
+
+####Dysplasie Grad II/III
+  * *Diagnostik*: 
+    * Prüfen der Luft- und Knochenleitungsschwelle durch objektive Audiometrieverfahren mittels BERA
+    * Bei Grad III: zusätzlicher pädiatrischer Status -> Syndromale Erkrankung
+    * Photodokumentation
+  * *Mikrotie/Anotie*
+    * endgültige Versogung im Vorschulalter
+    * 2-4 Schritte zum Aufbau (Knorpelgewinnung aus Rippe - Ohrläppchenpositionierung - Formen der retroaurikulären Falte - Tragus-Aufbau)
+    * Hörverbesserung durch **Hörgeräteversorgung** -> damit sich Hörbahn korrekt entwickelt
+
+####Knochenleitungshörgeräte
+  * am Stirnbahnd:
+    * geht schon im frühen Alter
+    * Schall wird direkt auf den Knochen übertragen und geht an das Innenohr
+  * *Dauerhaftes Knochenverankertes Hörgerät*: 
+    * Varianten:
+      * Implantation von Schauben in den Knochen -> Hörgerät kann angeschraubt werden -> chronisch offene Wunde
+      * Mit Magnetankopplung: Implantierung eines Magnetes in den Knochen -> keine offene Läsion aber Abdämpfung des Schalls durch den Knochen
+      * Implantierbares knochenverankertes Gerät
+        * vollverkapseltes Gerät unter der Haut, 
+        * außen ist ein Sprachprozessor von dem der Schall elektrisch übertragen wird
+        * Hat keine Batterie -> geringe Schallanheibung -> nur bei gesundem Innenohr
+  * *Mittelohrimplantat*: 
+    * Implantat, dass durch einen elktromechanischen Wandler die Gehörknöchelchenkette bewegt
+    * Energie und Signal zur Ansteuerung des Implantats werden von außen durch einen batteriegetriebenen Audioprozessor durch die geschlossene Haut gesendet und dort dekodiert

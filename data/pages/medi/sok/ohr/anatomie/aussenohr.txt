@@ -38,12 +38,16 @@
 ###Innervation
 Komplex, die Innervationsbereiche sind nicht vollständig geklärt
   * N. trigeminus -> N. auriculotemporalis
-  * N. facialis (welches Areal er versorgt ist nicht geklärt)
+  * N. facialis 
+    * Sensibel: welches Areal er versorgt ist nicht geklärt
+    * motorisch
   * N. glossopharyngeus -> Concha auriculae
-  * N. vagus v.a. innerer Gehörgang
+  * N. vagus v.a. innerer Gehörgang + Concha und Cymba
   * Plexus cervicalis (eher hintere Anteile des Ohres)
     * Nn. occipitalis minor
-    * Nn. auricularis magnus
+    * N. auricularis magnus:
+      * untere 2/3 der Medialseite 
+      * hintere Hälfte der Lateralseite
 
 ##Meatus acusticus externus
 ###Entwicklung
@@ -63,6 +67,19 @@ Komplex, die Innervationsbereiche sind nicht vollständig geklärt
     * tubulöse Drüsen: **Gll.ceruminosae**
       * Produzieren Dünnflüssiges Sekret, das zusammen mit abgeschilferten Epithelzellen und Talg das **Cerumen** bilden
       * Funktion: antimikrobiell
+
+###Nervenversorgung
+  * N. auriculotemporalis (V3) -> N. meatus acustici externiVorderwand
+  * N. auricularis N. vagi: Hinterwand des Gehörganges -> bei Reizung Hustenreiz + evtl. Brechreiz
+
+###Arterielle Versorgung von Außenohr und Gehörgang
+A. carotis externa
+  * **A. temporalis superficialis**: proximaler und medialer Teil der lateral gelegenen Vorderfläche des Ohres * occipitale Seite des Gehörganges
+  * **A. auricularis posterior**: 
+    * Medialseite des Ohres, Nasale Seite des Gehörganges
+    * Bilden viele Anastomosen
+  * **A. auricularis profunda** (aus A. maxillaris)
+    * knöcherner Teil des Gehörganges
 
 ##Membrana tympanica (Trommelfell)
   * *Definition*: Trennwand zwischen Außenohr und Mittelohr

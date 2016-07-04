@@ -1,1 +1,53 @@
 #Innenohr
+
+##Therapie der Innenohrschwerhörigkeit
+
+###Innenohrhörhilfen
+*Indikation*
+  * Vom HNO-Arzt gestellt
+  * *Voraussetzung*: eine operative Hörverbesserung ist nicht möglich
+
+*Optionen*: siehe auch [[medi:sok:ohr:hno:aeusseres_ohr#knochenleitungshoergeraete]]
+  * Hörgeräte
+    * In-ear
+    * hinter dem Ohr
+    * keine Rückkopplung mehr
+  * Knochenverankerte Hörgeräte: BAHA, Bone-Bridge
+  * Implantierbare Hörgeräte: aktives Mittelohrimplantat
+
+*Probleme*
+  * Frequenzunterscheidung wird nicht verbesser da die äußeren Haarzellen fehlen
+  * Unbehaglichkeitsschwelle bleibt bestehen
+
+###Cochlea-Implantat
+####Definition
+Elektronische INnenohrprothese zur Behandlung der kochleären Taubheit und Gehörlosigkeit (= konnatale Taubheit) uind hochgradigen Schwerhörrigkeit. 
+
+###Wirkmechanismus
+  * Elektroden werden in die Cochela eingeführt -> elektrische Stimulation des Ggl. spirale -> Reizung der Hörbahn mit ipislateralen Höreindrücken und Sprachverstehen
+  * Sprachprozessor: 
+    * außen getragen mit Mikrofon und Signalprozessor
+    * Transkutane Übertragung der Signale und der Energieversorgung des Implantats
+
+####Indikation
+  * bei Tauben oder Hochdradig Schwerhörigen
+    * bei funktioneller Hörbahn
+  * Bei Gehörlosen vor dem 7. LJ da die Hörbahnreifung sonst nicht mehr stattfindet und auch der Sprachwerwerb nicht mehr möglich ist
+    * z.B. auffallen vor dem 6. Monat
+  * bei andallsartigen Schwindelerkrankungen (M. meniere)
+  * Ertaubung nach Meningitis -> schnelles handeln da sonst Verknöcherung der Schnecke
+  * Innenohrmissbildungen
+  * bilaterale Versorgung möglich
+
+#####Einflussfaktoren
+  * Dauer der Ertaubung
+  * Schwindel
+  * Ohrgeräusche
+  * Vor. OPs
+
+####Nachsorge
+  * Üben -> Einstellen -> Abfragen
+  * *Meningitis-Prophylaxe*
+    * Hämophilis influenca bis zum 6. LJ
+    * Streptococcus pyogenes
+  * *Komplikation*; **Gusher**: Verbindung zum Hirnwasser
