@@ -59,3 +59,84 @@ Schädel-Hirn-Trauma →  bei 6-8% entsteht auch Felsenbeinfraktur
     * Otoskopie
       * intaktes Trommelfell
       * dunkelblau erscheinendes Trommelfell als Hinweis auf ein Hämatotympanum
+
+###Kettenluxation
+##Fehlbildunge
+
+v.a. der Gehörknöchelchen Kette:
+  * Verwachsungen
+  * Akzessorische Knochen
+  * Fehlen von Knochenanteilen
+Folge ist eine Schallleitungsschwerhörigkeit
+n
+##Entzündungen
+###Akute Otitis media
+####Definition
+Plötzlich auftretende EZ des Mittelohres, die sich im Anschluss an einen Infekt der oberen Atemwege entwickelt.
+####Epidemiologie
+  * meist Kinder durch anatomisch bedingt kürzere Tuba auditiva
+  * Nimmt ab, da sie nun antiobiotisch behandelt wird
+  * Ausheilung nach 2-3 Wochen
+  * Prädisposition: 
+    * Belüftungsstörungen des Mittelohres (Adenoide Vegetationen, vergrößerte Mandeln usw.)
+    * Infekt der oberen Atemwege
+
+####Erreger
+  * initial meistens Viren
+  * im Verlauf oft bakterielle Superinfektion
+    * Streptococcus pneumoniae (35%)
+    * Haemophilus influenaze (25%)
+    * ß-hämolysierende Streptokokken der Gruppe A (10%)
+
+####Klinik
+  * akut auftretendes Fieber, Kopfschmerzen, AZ-Verschlechterung
+  * meist einseitige starke Ohrenschmerzen evtl. Ohrgeräusch
+  * Im Falle einer Trommelfellperforation: Otorrhoe, Hörminderung
+
+####Diagnostik: Otoskopie
+  * Vorgewölbtes, zunehmend gerötetes Trommelfell mit vermerter Gefäßzeichnung (Phase 1)
+  * Rötung und Schuppung des Trommefells, Trübung der Oberfläche, Vorwölbung in den äußeren Gehörgang (Phase 2)
+  * Perforation -> Eitertropfen sichtbar (Phase 3)
+
+####Therapie
+  * Bettruhe
+  * Antiphlogistika
+  * Antipyretika
+  * AB (nicht generell):
+    * sehr kranke Kinder
+    * keine Symptombesserun innerhalb von 48 Stunden
+    * beide Ohren
+  * abschwellende Nasentropfen
+  * ggf. Parazentese
+
+####Komplikationen
+#####Mastoiditis
+  * *Definition*: Entzündung im Warzenfortsatz mit Einschmelzung der knöchernen Zellen
+  * *Ätiologie*: 
+    * keine Ausheilung der Otitis media nach 2 bis 3 Wochen 
+    * Durch Eiter und angeschwollene Schleimhaut fehlende Belüftung des Mastoids 
+  * *Diagnostik*
+    * Druckschmerz, teigige Schwellung hinter dem Ohr
+    * CT: Einschmelzung der Knochenstrukturen
+    * Symptome der Otitis media
+  * *Komplikation*: 
+    * **Subperiostaler Abszess**: Eiter entlert sich durch den weichen Knochen bis unter das Periost
+    * Epiduralabszess
+    * septische Sinus-Venenthrombose
+    * Infiltration der A. caortis -> Enzephalitis
+  * *Therapie*
+    * Mastoidektomie: Ausräumung des Warzenofortsatzes mit Sicherstellung der Drainage des Mittelohres
+    * Antibiotika
+
+#####Sonderfall: Bezold-Mastoiditis
+Eiterdurchbruch über den Warzenfortsatz in den M. sternocleidomastoideus
+s
+###Chronische EZ
+####Chronische mesotympanale Otitis media
+####Cholesteatom
+##Tumoren
+###Glomustumore
+###Karzinom
+##Ungeklärte Ätiologie
+###Otosklerose
+###Idiopathische Hammerkopffixation

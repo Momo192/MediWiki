@@ -55,3 +55,42 @@ Stimmgabelprüfungen ermöglichen als orientierende Hörprüfungen die Untersche
       * Bei gestörter Schallleitung findet eine Hochregulation des Innenohres statt -> bei ungestörter Knochenleitung dann empfindlicher oder
       * bei einer gestörten Schallleitung in das Innenohr ist auch die Schallleitung heraus gestört
 
+###Tonschwellenaudiometrie
+  * *Definition*: Subjektiver Test zur Ermittlung der frequenzabhängigen Hörschwelle durch Messung der Luft und Knochenleitung. Hierdurch können Aussagen über das Ausmaß der Hörstörung sowie über die Ursache gemacht werden
+  * *Durchführung*: dem Patienten werden über Kopfhörer (Luftleitung) und einem Knochenleitungshörer Töne verschiedener Frequenzen vorgespielt, wobei die Lautstärke für jede einzelne Frequnez in 5 dB Schritten erhöht wird und der Patient ein verabredetes Signal gibt, sobald er den Ton hört. Die Hörschwellen der einzelnen Frequenzen werden auf einem Audriogrammformular markiert
+  * *Retinoaudiogramm*
+    * Verbindung der einzelnen Hörschwellenpunkte ergibt die Hörschwellenkurve
+      * Vergleich mit Normaler Vergleichspopulation = 0
+    * Schallleitungsstörung: Hörschwelle für die Luftleitugn erhöht, die Hörschwelle für die Knochenleitung ist aber normal
+    * Schallempfindungsstörung: Hörschwelle für Luft und Knochenleitung ist gleichermaßen erhöht
+
+###Objektive Verfahren
+####Tympanometrie
+  * *Definition*: Messung vom Trommelfell reflektierten Schall bei unterschiedlichen Druckverhältnissen im äußeren Gehörgang -> Rückschlüsse auf die Beweglichkeit des Trommelfells und die Belüftungssituation im Mittelohr z.B. Hinweise auf eine Tubenfunktionsstörung oder einen Paukenerguss
+  * *Durchführung
+    * Luftdichtes abschließen des Gehörganges durch eine Sonde
+      * diese kann den Druck im äußeren Gehörgang manipulieren und verschiedene Schallfrequenzen abgeben
+    * Der vom Trommelfel
+    * l reflektierte Schall wird gemessen (in Abhängigkeit vom erzeugten Über- oder Unterdruck)
+    * Ergebniss wird in Form eines **Tympanogramms** festgehalten
+  * *Interpretation
+    * *Unauffällige Mittelohrfunktion*: Maximum der Compliance (Nachgiebigkeit des Trommelfells) liegt bei etwa 0Pa
+    * *Tubenfunktionsstörung*: Verschiebung der normalen Compliance in den Unterdruckbereich
+      * Trommelfell ist krankheitsbedingt nach innen gezogen -> durch Unterdruck wird es wieder in seine normale Position gebracht -> Erreichung einer normalen Compliance
+    * *Sero- oder Mukotympanon* (Paukenerguss): Flache Tympanometriekurve ohne erkennbares Maximum (Durch Flüssigkeitsansammlung im Mittelohr nimmt die Schwingungsfähigkeit des Mittelohres ab)
+
+##Weitere Untersuchungen
+###Tubenfunktionstest
+####Toynbee Manöver
+  * Durchgängigkeitsprüfung der Tuba auditiva
+  * *Durchführung*: 
+    * Patient wird aufgefordert mit zugehaltener Nase zu schlucken
+    * Bei Durchgängigkeit der Tuba auditiva -> Druckänderung im Mittelohr 
+    * Beobachtung mittels Otoskop, Aufzeichnung im Tympanogramm
+
+####Vasalva-Manöver
+  * Überprüfung der Durchgängigkeit der Tuba eustachii und der Integrität des Trommelfells
+  * *Durchführung*
+    * Patient soll mit verschlossenem Mund und zugehaltener Nase kräftig ausatmen
+    * Dabei wird Luft aus der Tube in das Mittelohr gedrückt
+    * Trommelfell wölbt sich vor -> Otoskopie, bei der Auskultation ist ein Knackgeräusch zu hören
