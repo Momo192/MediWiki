@@ -71,3 +71,71 @@
   * *Mittelohrimplantat*: 
     * Implantat, dass durch einen elktromechanischen Wandler die Gehörknöchelchenkette bewegt
     * Energie und Signal zur Ansteuerung des Implantats werden von außen durch einen batteriegetriebenen Audioprozessor durch die geschlossene Haut gesendet und dort dekodiert
+
+###Atherome
+  * *Definition*: fehlerhafter Neuralrohrverhscluss mit kongenitaler Epidermoidzyte der Aurikularregion
+  * *Klinik*: 
+    * derber Knoten präaurikulr, größenprogredient, oft teigig, prall oder fluktierend
+    * Superinfektion mit akuter Rötung, Druckgefühl und Schmerz
+  * *Therapie*: Exzision
+
+##Verletzungen des äußeren Ohres
+###Othämatom, Otserom
+Akzidentell oder traumatische Ansammlung von Exsudat (Serom) oder Blut (Hämatom) zwischen Knorpel und Perichondrium. Bei Persistenz Knorpelnekrose und nachfolgend narbige Verziehung des Reliefs des äußeren Ohres
+
+###Ohrläppchenkolobom
+  * *Definition*: angeborene oder erworbene Spaltbildung z.B. durch ausgerissenen Ohrring
+  * *Therapie*: Z-Plastik (Veränderung der Zugrichtung für eine bessere Heilung)
+
+###Narbenkeloide
+####Definition
+durch überschießendes Wachstum von Fibroblasten entstehender, über das Hautniveau hinausgehender Tumor, der nach Verletzungen auftreten kann und als gestörter Heilungsprozess anzusehen ist.  
+Die Ursache ist eine genetisch bedingte erhöhte Fibroblastenaktivität -> v.a. Patienten aus Südafrika
+
+####DD: hypertrophe Narbe
+  * Keloid: ungebremste Narbenbildung, die auch über den Ort der Narbe unkontrolliert hinaus wächst
+  * Hypertrophe Narbe: entsteht kurz nach der Wundheilung durch Überproduktion von BW-Fasern. Neigt zur Wulstbildung, ragt über das Hautniveau hinaus, bleibt aber grundsätzlich auf das ursprüngliche Verletzungsgebiet beschrenkt
+
+####Therapie
+  * schwierig
+  * medikamentös, Kryotherapie
+
+###Gehörgangsexostosen
+  * *Definition*: gutartige Tumoren des äußeren Gehörgangs durch überschießende Bildung von kompakter Knochensubstanz
+  * *Ursache*: bei Schwimmern, Tauchern usw. als Reaktion des Periosts auf den Reiz des kalten Wasser
+  * *Therapie*: operative Entfernung bei Verlegung des Gehörganges oder nicht ausheildender Otitis externa
+
+##Entzündungen des äußeren Ohrs und des Gehörganges
+###Perichondritis
+####Definition
+Akute EZ der perichondralen Schicht (Knorpel) durch Hautverletzung (z.B. Mikroläsionen durch Ohrstäbchen), Ohren-nahe Furunkel oder fortgeleitet bei Otitis externa, meist einseitig, meist durch Streptococcus pyogenes Gruppe A.
+
+####Symptome
+  * hochakute Rötung
+  * Schmerzhafte Schwellung -> verschwinden des Ohrmuschelreliefs
+  * Ausspaarung des Lobulus
+  * Abzessbildung bis zu Knorpelnekrosen
+  * lokale LK-Schwellung
+
+####DD
+  * **Erysipiel**: akute EZ der Subkutis retroaurikulär und des äußeren Ohres unter Einschlus des Lobulus
+    * meist Einseitig
+    * meist Streptococcus pyogenes A
+    * Ausbreitung über Lymphwege
+  * **Phlegmone**
+  * Bei beiden: diffuseAusbreitung, mit Einschluss des Lobulus (Ausspaarung bei Perichondritis da sich dort kein Knorpel befindet)
+
+###Otitis externa
+  * *Definition*: meist bakterielle EZ des äußeren Ohres und des Gehörganges
+
+###Herpes zoster oticus (Ramsay-Hunt-Syndrom)
+  * *Definition*: Reaktivierung des Varizella-Zoster-Virus im Versorgungsgebiet der Hirnnerven VII (N. facialis) und VIII (N. vestibulocochlearis) -> Funktionsausfälle + Ausbreitung über sensible Nerven in das entsprechende Hautareal
+  * *Symptome*:
+    * Frühphase mit Blässchenbildung in Schmerz
+    * Zeitlich abfolgende Funktionsausfälle
+      * periphere Faszialisparese
+      * Hörminderung ipsilateral
+      * Schwindelbeschwerden
+      * Schmeckstörungen bei Beteiligung der Chorda tympani
+    * Superinfektion möglich
+  * *Komplikation*: Therapieresistente Schmerzen (*Zoster-Neuralgie*) als Spätfolge möglich

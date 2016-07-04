@@ -1,0 +1,57 @@
+#Untersuchungsmethoden
+##Otoskopie
+  * *Definition*: Betrachtung des äußeren Gehörganges und des Trommefells
+  * *Instrumente*: 
+    * Otoskop
+    * Lichtweulle -> wird von einem Stirnspiegel gespiegelt -> *Ohrtrichter* -> ermöglicht Blick ins Ohr
+  * *Durchführung*: 
+    * Ohrtrichter Einführen: 
+      * nie mit Gewalt, bleiben in äußeren 2/3 des Gehörganges
+      * Ausgleich Gehörgangskrümmung
+        * Kinder: Ohrmuschel nach hinten ziehen
+        * Erwachsene: Ohrmuschel nach oben + hinten ziehen
+
+##Funktionsprüfung: audiometrische Verfahren
+###Grundlagen
+####Ziele
+Beurteilung von
+  * Schweregrad = Quantität
+  * Art = Qualität
+  * Lokalisation
+  * Ursache
+
+####Schwerhörigkeit
+Schwerhörigkeit wird unterteilt in
+  * **Schallempfindungsschwerhörigkeit**
+    * Ursächlich ist eine Störung des Innenohrs durch Verlust der Haarzellfunktion (kochleär) oder eine Störung des Hörnervs (retrokochleär)
+    * Ursachen sind z.B. kongenitale Innenohrstörungen, Virusinfektionen, ototoxishe Medikamente, traumatische Innenohrstörungen
+  * **Schallleitungsstörung**
+    * Übertragung des Schalls ist behindert. 
+    * Ursache im Mittelohr oder äußerem Gehörgang z.B. Mittelohrerguss, Felsenbeinfraktur, Ohrenschmalz
+
+###Subjektive Verfahren
+####Rinne- und Weber-Versuch
+Stimmgabelprüfungen ermöglichen als orientierende Hörprüfungen die Unterscheidung zwischen Schallleitungs- und Schallempfindungsstörung
+
+#####Rinne-Versuch
+  * *Definition*: Test der Schallleitung beider Ohren durch jeweiligen Vergleich der Hörschwelle für Luft- und Knochenleitung
+    * *Hörschwelle*: notwendige Schalldruck, bei dem ein akustisches Signal mit einer bestimmten Frequenz gerade noch wahrgenommen wird
+  * *Durchführung*
+    * eine schwingende Stimmgabel wird an einem Ohr auf den Processus mastoideus gesetzt. 
+    * Ist der Ton soweit abgeklungen, dass der Patient ihn nicht mehr hört, wird die Stimmgabel ohne erneutes anschlagen an das gleichseitige Ohr gehalten
+  * *Ausertung*
+    * **Positiver Rinne-Versuch** = Normales Hörvermögen: Patient sollte die Stimmgabel wieder hören sobald sie ihm vor das Ohr gehalten wird, da Luft besser leitet als Knochen -> physiologisch und bei Scahllempfindungsstörung des getesten Ohres
+    * **Negativer Rinne-Versuch**: Luftleitung nicht besser als Knochenleitung -> Hinweis auf eine Schallleitungsstörung des getesteten Ohres
+
+#####Weber-Versuch
+  * *Definition*: Test der Kopfknochenleitung. Mit dem Weber-Versuch wird eine einseitige Schwerhörigkeit daraufhin untersucht, ob es sich um eine Schallleitungs- oder Schallempfindungsstörung handelt
+  * *Durchführung*: die angeschalgene Stimmgabel wird auf die Schädelmitte aufgesetzt. Daraufhin wird der Patient gefragt in welchem Ohr er den Ton besser hört
+    * Lateralisation: der Patient nimmt den Ton auf einem Ohr lauter wahr
+  * *Interpretation*
+    * Bei einer Schallleitungsstörung wird der Ton auf der Erkrankten Seite als lauter wahrgenommen, bei einer Schallempfindungsstörung wird er auf der gesunden Seite als lauter wahrgenommen. 
+    * *Keine Lateralisation*: physiologisch und bei seitengleicher Schwerhörigkeit (gleicher Genese)
+    * *Lateralisation auf das normal hörende Ohr* = Rinne positiv getestetes Ohr -> Hinweis auf eine Schallempfindungsstörung der Gegenseite
+    * *Lateralisation in das hörgeschädigte (Rinne-negatives) Ohr*: Hinweis auf eine Schallleitungsstörung dieser Seite. Begründung
+      * Bei gestörter Schallleitung findet eine Hochregulation des Innenohres statt -> bei ungestörter Knochenleitung dann empfindlicher oder
+      * bei einer gestörten Schallleitung in das Innenohr ist auch die Schallleitung heraus gestört
+
