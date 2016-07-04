@@ -1,0 +1,119 @@
+#Augenmuskeln
+##Äußere Augenmuskel
+
+###Anulus tendineus communis
+####Definition
+Verstärkter Sehnenring, welcher an der Spitze der Orbitapyramide in der Fissura orbitalis superior liegt. Er dient als Ansatz für die Augenmuskulatur und durch ihn ziehen mehrere Strukturen
+
+####Muskelansätze
+    * M. rectus superior
+    * M. rectus medialis
+    * M. rectus lateralis
+      * Zusätzlicher Ursprung am Os sphenoidale
+    * M. rectus inferior
+    * M. obliquus superior
+    * Nur der M. obliquus inferior hat seinen Ansatz an der medialen Orbitawand
+
+####Durchtretende Struktur
+  * Innerhalb des Anulus tendineus communis liegen
+    * N. nasocialris
+    * N. oculomotorius (R. inferior und superior)
+    * N. opticus
+    * N. abducens
+    * A. opthalmica pars optica
+  * Außerhalb liegen
+    * N. frontalis
+    * N. lacrimalis
+    * N. trochlearis
+    * V. ophtalmica superior und inferior
+
+###Gerade Augenmuskeln
+####M. rectus superior
+  * *Ursprung*: Anulus tendineus
+  * *Ansatz*: Oben am Bulbus oculi
+  * *Funktion*: 
+    * Hauptfunktion:*Elevation* (Drehung des Bulbus occuli nach oben)
+    * Nebenfunktion: Innenrotation, Adduktion (nach medial hin)
+  * *Innervation*: N, occulomotorius
+
+####M. rectus inferior
+  * *Ursprung*: Anulus tendineus
+  * *Ansatz*: unten am Bulbus oculi
+  * *Funktion*:
+    * Hauptfunktion: Depression (Drehung des Bulbus nach unten)
+    * Nebenfunktion: Adduktion und Außenrotation
+  * *Innervation*: N. occulomotius
+
+####M. rectus medialis (internus)
+  * *Ursprung*: Anulus tendineus
+  * *Ansatz*: nasal am Bulbus
+  * *Funktion*: **Adduktion** = Drehung des Bulbus nach innen
+  * *Innervation*: N. occulomotorius
+
+####M. rectus lateralis
+  * *Ursprung*: Anulus tendineus
+  * *Ansatz*: temporal am Bulbus
+  * *Funktion*: Drehung des Bulbus nach außen (= **Abduktion**)
+  * *Innervation*: *N. abducens*
+
+###Schräge Augenmuskeln
+####M. obliquus superior
+  * *Ursprung*: Anulus tendineus
+  * *Ansatz*: oben lateral am Bulbus
+  * *Funktion*:
+    * Hauptfunktion: **Innenrotation**
+    * Nebenfunktion: Depression und Abduktion
+  * *Innervation*: *N. trochlearis*
+
+####M. obliquus inferior
+  * *Ursprung*: Mediale Orbitawand
+  * *Ansatz*: unten lateral am Bulbus oculi
+  * *Funktion*:
+    * Hauptfunktion: **Außenrotation**
+    * Nebenfunktion: Elevation und Abduktion
+  * *Innervation*: N. occulomotorius
+
+###Merkhilfen
+  * Innervation: 
+    * **N. oculomotorius**: 
+      * Motorisch
+        * Ramus superior
+          * M. levator palpebrae superioris
+          * M. rectus superior
+        * Ramus inferior
+          * M. rectus inferior
+          * M. rectus medialis
+          * M. obliquus inerior
+      * Parasympathisch
+        * M. ciliaris
+        * M. sphincter pupillae
+    * N. trochlearis (IV, rein motorisch)
+      * M. obliquus superior
+    * N. abducens (V. rein motorisch)
+      * M. rectus lateralis
+    * Sympathikus
+      * Innervation:
+        * M. tarsalis usperior
+        * M. dilatator pupillae
+        * M. orbitalis (rudimentär)
+      * Ausall (Blockade im Ggl. stellatum oder Ggl. cervicale superior)
+        * Verengung der Lidspalte (M. tarsais usperior)
+        * Pupillenverengung (M. dilatator pupillae)
+        * Enophtalmus (M. orbitalis)
+
+##Innere Augenmuskeln
+###M. sphincter pupillae
+  * Verlauf: im Bindegewebe der Iris
+  * Funktion: Myosis -> siehe [[medi:sok:auge:anatomie:sehbahn#pupillenreflex]]
+  * Innervation: Prasympathisch, durch N. occulomotorius
+
+###M. dilatator pupillae
+  * Verlauf: im Bindegewebe der Iris
+  * Funktion: Mydirasis siehe [[medi:sok:auge:anatomie:sehbahn#antagonistmydriasis]]
+  * Innervation: Sympathikus
+
+###M. ciliaris
+  * Verlauf: verbindet Zonulafasern mit Sclera und Choroidea
+  * Funktion: Nahakkomodation: Kontraktion -> Entspannung der Zonula-Fasern -> Zunahme der Linsenkrümmung.
+    * Siehe [[medi:sok:auge:anatomie:sehbahn#akkomodation_und_konvergenz]]
+  * Innervation: Parasympathisch (N. oculomotorius (III))

@@ -142,7 +142,7 @@ Axone zum:
 ###Reflexe
 ####Pupillenreflex
 #####Funktion
-Ermöglicht es dem Auge, sich auf wechselnde Helligkeiten einzustellen. Bei versätrkten Lichteinfall verengt sich die Pupille, bei Verdunkelung erweitert sie sich.
+Ermöglicht es dem Auge, sich auf wechselnde Helligkeiten einzustellen. Bei versätrkten Lichteinfall verengt sich die Pupille, bei Verdunkelung erweitert sie sich. Ist Zudem Teil der Naheinstellungsreaktion
 
 #####Afferenter Schenkel
   * Retina
@@ -181,9 +181,16 @@ Ermöglicht es dem Auge, sich auf wechselnde Helligkeiten einzustellen. Bei vers
     * Schädigung der Sehstrahlung oder der Sehrinde -> kein Ausfall des Reflexes (da genikulärer Anteil)
 
 #####Antagonist: Mydriasis
-Sympathischer Nerv aus **Ggl. cervicale superius** -> zieht ohne Umschaltung durch Ggl. ciliare -> Innervation M. dilatator pupillae
+  * *Innervation*: Sympathikus
+  * *Afferenter Schenkel*: 
+    * Retina -> N. opticus -> Area pratectalis
+    * *Griseum centrale* -> Seitenhorn des RM -> Kerngebiet des M. dilatator pupillae (C8-Th12)
+  * *Efferenter Schenkel*
+    * Seitenhorn
+    * **Ggl. cervicale superius** : Umschaltung
+    * zieht ohne Umschaltung durch Ggl. ciliare -> Innervation M. dilatator pupillae
 
-####Akkomodation
+####Akkomodation und Konvergenz
 #####Definition
   * **Akkomodation**: Rundung der Linse, so dass sich ein annährendes Objekt scharf auf der Linse abgebildet
   * **Konvergenz**: Mm. recti mediales führen die Pupillen und damit die Augenachse nach innen, so dass sich das nährende Objekt immer in der Fovea ventralis abbildet
@@ -195,9 +202,12 @@ Cave: kein Hirnstamm-Reflex
   * CGL -> Sehbahn
   * V1 + V2
   * Erdinger-Westphal-Kern **bds**
+    * *Nucleus perlia*  -> **Konvergenz**
+      * *Lage*: zwischen den beiden Erdinger-Westphal-Kernen 
+      * *Funktion* für Konvergenz-Bewegung Verschaltung auf somatomotorische N. oculomotorius-Kerne -> M. rectus medialis -> Augen kommen zueinander
 
 #####Efferenter Schenkel
-  * Umschaltung auf parasympathische Fasern des N. oculomotorius -> 
+  * Akkomodation: Umschaltung auf parasympathische Fasern des N. oculomotorius -> 
   * Ggl. ciliare (6. Neuron)
   * M. ciliaris 
     * Kontraktion -> Entspannung der Linsenfasern -> Rundung der Pupille -> schärferes Sehen im Nahbereich

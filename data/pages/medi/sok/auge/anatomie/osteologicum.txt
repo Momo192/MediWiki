@@ -129,31 +129,7 @@ Im Bereich des Gesichtsschädels sind einige Knochen pneumatisiert -> Gewichtser
 
 
 ##Muskeln und Nerven der Orbita
-###Anulus tendineus communis
-####Definition
-Verstärkter Sehnenring, welcher an der Spitze der Orbitapyramide in der Fissura orbitalis superior liegt. Er dient als Ansatz für die Augenmuskulatur und durch ihn ziehen mehrere Strukturen
 
-####Muskelansätze
-    * M. rectus superior
-    * M. rectus medialis
-    * M. rectus lateralis
-      * Zusätzlicher Ursprung am Os sphenoidale
-    * M. rectus inferior
-    * M. obliquus superior
-    * Nur der M. obliquus inferior hat seinen Ansatz an der medialen Orbitawand
-
-####Durchtretende Struktur
-  * Innerhalb des Anulus tendineus communis liegen
-    * N. nasocialris
-    * N. oculomotorius (R. inferior und superior)
-    * N. opticus
-    * N. abducens
-    * A. opthalmica pars optica
-  * Außerhalb liegen
-    * N. frontalis
-    * N. lacrimalis
-    * N. trochlearis
-    * V. ophtalmica superior und inferior
 
 ##Versorgung der Orbita
 ###A. ophtalmica

@@ -179,7 +179,8 @@ Detektion von linearer und radialer Bechleunigung. Dies ermöglicht:
     * *Reizumwandlung der vestibulären Sinneszellen*
       * durch die Anordnung der unterschiedlich langen Zilien sind die Sinneszellen polar differenziert
       * Ruhezustand: Zilien sind gerade ausgerichtet
-      * Auslenkung in Richtung Kinozilium -> Depolarisierung der Sinneszelle -> AP-Frequenz steigt -> Glutamat-Freisetzung 
+        * Bogengangafferenzen zeigen eine Ruheaktivität
+      * Auslenkung in Richtung Kinozilium -> Depolarisierung der Sinneszelle durch K⁺-Einstrom -> AP-Frequenz steigt -> Glutamat-Freisetzung 
       * Ablenkung der Stereozilien vom Kinozilium weg -> Hyperpolarisierung der Sinneszellen -> Impulsfrequenz wird herabgesetzt
     * *Zusammenwirken der kontralateralen Bogengänge bei der Kopfdrehung*
       * Kopfdrehung nach Rechts -> 

@@ -44,6 +44,7 @@ Die Höhrbahn ist der zentralnervöse Teil des auditorischen Systems des Mensche
       * Verbindet Ncl. cochlearis posterior bzw. Ncl. olivaris superior mit den Colliculi inferiores 
       * auf der kontralateralen Seite aufsteigend
 
+
 ####3./4. Neuron: Colliculus inferior
   * *Funktion*: Reflexzentrum, Verschaltung auf 4. Neuron
   * *Lage*: Vierhügelplatte im Mittelhirn
@@ -60,7 +61,6 @@ Die Höhrbahn ist der zentralnervöse Teil des auditorischen Systems des Mensche
 
 
 ##Zentrale Verarbeitung der akustischen Information
-n
 ###Gyri tremporale transversi
   * *Synonyme*
     * Area 41
