@@ -132,10 +132,115 @@ Plötzlich auftretende EZ des Mittelohres, die sich im Anschluss an einen Infekt
 Eiterdurchbruch über den Warzenfortsatz in den M. sternocleidomastoideus
 s
 ###Chronische EZ
+Meist besteht kaum eine Akutsymptomatik, die Erkrankungen brüten u.U. jahrelang vor sich hin. Sie sind häufig auch bei Kindern zu finden
+####Chronisch seröse Otitis media
+  * *Definition*: EZ des Mittelohr die durch einen chronsichen Verschluss der Tuba auditiva verursacht ist. Leitsymptom: Seromukotympanon = Paukenerguss
+  * *Ätiologie*
+    * chronische Venitlationsstörung ->
+    * Schleimhautmetaplasie von respiratorischen Epithel zu drüsenbildendem Epitel -> Sekretion -> Erguss-Bildung
+    * Verschärfung
+      * intermittirende und rezidivierende akute Otitis media
+      * Viskositätszunahme des Sekrets
+      * bakterielle Superinfektion
+    * Besonders bei Kleinkindern mit Tubenventilationsstörung durch eine hyperplastische Phryngealmandel
+  * *Symptome*
+    * Otalgie = Orenschmerzen
+    * Fieber
+    * Hyperakusis
+    * Otorrhoe
+  * *Diagnostik*
+    * [[medi:sok:ohr:hno:untersuchungsmethoden#tympanometrie]]
+    * Tubenfunktionstests
+      * [[medi:sok:ohr:hno:untersuchungsmethoden#toynbee_manoever]]
+      * [[medi:sok:ohr:hno:untersuchungsmethoden#vasalva-manoever]]
+  * *Therapie*:
+    * Verbesserung der nasalen Ventilation: 
+      * abschwellende Nasentropfen
+      * Anti-Allergika
+      * Adenotomie (operative Entfernung einer hyperplastischen Rachenmandel), ggf. Muschelkappung
+    * **Paukendrainage** durch Einsetzen eines **Paukenröhrchens** nach Öffnung des Trommelfells (Parazentese)
+      * *Indikation*: 
+        * > 2 Monate kontinuierlicher Erguss
+        * mehr als 3x in den letzten 6 Monaten
+      * Standardpaukenrörhcen: wandern an den Rand und werden anch einer Weile spontan abgestoßen
+      * Dauerrörchen = *T-Tubes*
+      * Cave: Vermeiden von Wasser im Gehörgang
+
+
 ####Chronische mesotympanale Otitis media
+  * *Definition*: auf die Schleimhaut des Mittelohres beschränkte Form der Otitis media, ohne knöcherne Destruktionen
+  * *Ätiologie*: unklar
+    * rezidivierende akute Otitis media -> Belüftungsstörung -> 
+    * Trommelfellretraktion -> Atrophie, Narben, Perforationen
+    * Bildung von Regeneratgewebe 
+      * Granulationen
+      * Ostitis
+      * Kettendestruktion
+  * *Klinik*
+    * keine Schmerzen
+    * rezidivierende Otorrhö
+    * Hörminderung durch Schallleitungsstörung (Lateralisation im Weberversuch)
+  * *Diagnostik*
+    * Audiometrie
+    * Otoskopie:
+      * Trommelfellretraktion
+      * Flüssigkeitsspiegel
+      * zentraler Trommelfelldefekt (Perforation)
+    * Keine Tympanometrie (wegen Trommelfelldefektes)
+  * *Therapie*: Tympanoplastik
+
 ####Cholesteatom
+  * *Synonym*: **Otits media chronica epitympanalis**
+  * *Definition*: 
+    * Sonderform der chronischen Otitis media
+    * Durch eine Läsion aus verhornten Plattenepithelzellen, welche aus dem Trommelfell oder dem Gehörgang in die Schleimhaut des Mittelohr einwachsen -> 
+    * Entstehung eines chronischen EZ-Reiz der umgebenden Strukturen -> Knochenabbau und evtl. Angriff der umliegenden Strukturen z.B. Fascialis-Schädigung oder Schädigung des GGW-Organ
+  * *Einteilung*
+    * **Primäres Cholesteatom**: Entstehung bei primär geschlossenem Trommelfell, mit Perforation der Pars flaccida im Verlauf
+      * **Retraktionscholesteatom**: 
+        * durch Tubenventilationssstörung oder Einengung des Belüftungswegs zwischen Meso- und Epitympanon -> Entstehung Unterdruck in der Paukenhöhle -> *Bildung Retraktionstasche* in der Pars flasccida des Trommelfells -> Kontakt mit schlecht belüfteter Schleimhaut in der Ettik -> Epithelwucherung
+        * 66% der Fäle
+      * *Immigrationscholesteatom*: Einwachsen von Epithel in die Pars flaccida
+    * **Sekundäres Cholesteatom**: Entstehung bei vorher bestehendem Trommelfelldefekt mit Versprengung von Plattenepithel durch Perforation der Pars tensa des Trommelfells
+    * *Kongenitales Cholesteatom*: durch embryonale Keimversprengung gelangt Plattenepithel in das Mittelohr
+  * *Symptome*
+    * Einseitige intermittierende fötide Otorrhö
+    * progredienter Hörverlust (Schallleitungsschwerhörigkeit -> Weber: Lateralisation in das kranke Ohr)
+    * evtl. Faszialisparese
+    * Ohrenschmerzen, Tinnitus, Schwindel
+  * *Befunde*
+    * Randständige Trommelfellperforation
+    * Kettendesdestruktion häufig
+    * Felsenbeinkomplikationen häufig
+    * langsames Wachstum
+  * *Therapie*
+    * Operative lokale Exzision des Cholesteatom
+    * Kontroll-OP nach 1/2 Jahr um Rezidiv auszuschließen (treten häufig und schnell auf, bei nicht vollständiger Exzision)
+m
 ##Tumoren
-###Glomustumore
+
+Insgesamt sehr selten
+n
+###Glomustumor
+  * *Epidemiologie*; häufigster Tumor des Mittelohrs
+  * *Definition*: Glomustumore sind eine heterogene Gruppe von Tumoren. 
+    * *Parangliome*: stark vaskularisierte Tumore, ausgehend von Chemorezeptoren der Venenwand des Foramen jugulare und der Paukenhöhle. 
+    * alternative Definition: gut- oder bösartiges, endokrin aktives Zellkneuel das von nicht chromaffinen Zellen des Parasympathikus ausgeht
+  * *Einteilung*
+    * **Glomus tympanicus**
+    * **Glomus jugulare**
+  * *Ätiologie*: 25% Genmutation
+  * *Klinik*:
+    * Leitsymptom ist ein pulssynchrones Ohrgeräusch
+    * Stark vaskularisierter, langsam wachsender, fleischiger, raumfordernder Tumor
+      * Cave: keine Biopsie entnehmen
+  * *Diagnostik*
+    * Otoskopie: rötliches, pulsierendes Trommelfell
+    * Angio-CT oder Angio-MRT
+  * *Therapie:
+    * Abtragung über Tympanoplasikzugang
+    * Elektrokoagulation der Gefäße
+e
 ###Karzinom
 ##Ungeklärte Ätiologie
 ###Otosklerose

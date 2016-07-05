@@ -88,6 +88,7 @@
     * **Caput stabpedis** ist durch **Collum stapedis** über **Crus anterius** und **Crus posterius** mit der **Basis stapedis** verbunden. 
     * Basis stapedis ist mit dem **Lig. anulare** beweglich im Fenestra vestibuli aufgehängt. 
     * Zwischen den beiden Crura spannt sich die **Membrana stapedialis**
+
   * *Lage*: in der medialen Wand der Paukenhöhle
   * *Artikulation*
     * gelenkiger Kontakt mit Ambuss

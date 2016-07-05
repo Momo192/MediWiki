@@ -10,6 +10,24 @@
       * Ausgleich Gehörgangskrümmung
         * Kinder: Ohrmuschel nach hinten ziehen
         * Erwachsene: Ohrmuschel nach oben + hinten ziehen
+  * *Befunde*
+    * *Trommelfellretraktion*
+      * *Ätiologie*: Druck- und Belüftungsstörungen
+        * katarrhalische Erkrankungen der Nase und des Rachenraumes
+        * Behinderung der Nasenatmung durch 
+          * vergrößerte Rachenmandel
+          * Septumdeviation
+          * Muschelschwellung
+          * Nasenrachentumor
+      * *Symptome*
+        * Druck- und Völlegefühl im Ohr
+        * Rauschen
+        * Schwerhörigkeit
+      * *Befunde*
+        * Hammergrifferküurzung
+        * Entstehung einer hinteren Trommfelfellfalte
+        * Schallleitungsschwerhörigkeit
+        * Teils Flüssigkeitsspiegel
 
 ##Funktionsprüfung: audiometrische Verfahren
 ###Grundlagen
