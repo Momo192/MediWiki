@@ -207,8 +207,10 @@ Verhinderung der Entwicklung von antimikrobiellen Resistenzen
   * [[Persönliche Schutzausrüstung (PSA)]]
   * [[Isolierungsmaßnahmen]]
 
-##Desinfektion
-###Allgemeines
+##Antisepsis
+###Desinfektion
+n
+####Allgemeines
 **Definition**: Einen Gegenstand in einen Zustand versetzen, in dem er nicht mehr infizieren kann. Selektive Verminderung der Keimzahl mit dem Ziel, die Übertragung bestimmter Mikroorganismen zu verhindern.
 **Flächendesinfektion**
   * unbelebte Flächen sind als Wuellen nosokomialer Infektionen nachrangig
@@ -236,7 +238,7 @@ Verhinderung der Entwicklung von antimikrobiellen Resistenzen
   * **Alkohole**
     * Präparate:
       * n-Propanol 50-60%
-      * iso-Propanol 60-70%
+      * iso-Propanol 60-70% -> optimale Konzentration da reiner Alkohol nicht so gut in die Zelle aufgenommen wird -> besseres Überleben der Grampositiven-Bakterien
       * Ethanol 80%
     * Wirkungsmechanismus: 
       * Proteindenaturierung
@@ -247,8 +249,9 @@ Verhinderung der Entwicklung von antimikrobiellen Resistenzen
       * keine größeren Flächen
     * Begrenzungen
       * nicht oder nur ungenügend wirksame gegen Sporen, unbehüllte VIren, 
-      * hoher Eiweißfehler
+      * hoher Eiweißfehler  d.h. Proteine z.B. aus dem Blut oder anderen Sekreten vermindern die Wirkung
       * gute Hautverträglichkeit
+      * Schneller Wirkungseintritt
   * **Aldehyde**
     * Präparate
       * Formaldehyd
@@ -455,3 +458,61 @@ Verhinderung der Entwicklung von antimikrobiellen Resistenzen
           * Notwendigkeit der Desorption -> Ausgaszeit + Prüfung der Geräte durch bioindikator
       * *Plasmasterilisation H2O2*
         * 
+
+##Hygiene in unterschiedlichen Bereichen
+###Wasserhygiene
+  * präventive Schutzmaßnahme für die Bevölkerung eines Landes
+  * Festlegung der Standards in
+    * Trinkwasserverordnung 
+    * Qualität von Badegewässern in EU-Badegewässer-Richtlinien
+
+####Trinkwasser.
+  * Allgemeine Eigenschaften: klar, farblos, geruchlos
+  * Untersuchung auf Pseudomona-aeruginosa-Kontamination nur bei begründetem Verdacht
+  * *Stillgelegte Leitungen*
+    * Vermehrung von Legionellen möglich
+    * Leitungen sollten verschlossen werden und von der Versorgungsleitung abgetrennt werden
+  * **Grenzwerte**: *Coliforme Bakterien* als Indikatorkeime für Verunreingungen
+    * Anforderung an Trinkwasser: E. coli, Enterokokken: 0/100 mL
+  * **Trinkwasseraufbereitung**: v.a. bei Oberflächenwasser
+    * Fällung/Flockung: Entfernunf von Trübstoffen mit Eisensalzen z.B. Aluminium
+    * FIltration mit Aktivkohle: Entfernung von Geschmacks-, Gerchs- und weiteren Schadstoffen
+    * Ionenaustauschverfahren: Entkalkung
+    * Es findet keine Entkeimung statt
+  * **Trinkwasserdesinfektion**
+    * *Thermische Desinfekiotn*: Zapfstellen werden 3 Minuten mit 70° heißem Wasser betrieben
+    * **Chemische Desinfektion**
+      * Chlorgas, Chlordioxid: Depotwirkung, gut gegen Legionellen
+      * Ozon -> teuer
+    * **UV-Bestrahlung** -> nahezu sichere Keimabtötung
+  * Infektionen über kontaminiertes Trinkwasser
+    * Beispiele: 
+      * Shigellose
+      * Cholera
+      * Salmonellose
+      * Pseudomonas aeruginosa
+      * Legionellose
+      * Hepatites A und E
+      * Amöbenruhr
+    * Durch das Kochen von Wasser können die meisten Bakterien abgetötet werden
+      * *Wirkbereich A*: bakterielle Keime einschließlich Mykobatkerien, Pilze -> 100°C für 3 Minuten
+      * *Wirkbereich B*: Viren -> 100°C für 3 Minuten
+      * *Wirkbereich C*: Sporen von Bacillus anthracis -> 100°C für 15 Minuten
+      *  *Wirkbereich D*: Sporen von Clostridien: 121°C für 15 Minuten
+
+####Badewasser
+#####Grenzwerte
+  * Kontamination: identische Grenzwerte wie für Trinkwasser
+  * Freies Chlor: Zielbereich 0,3-0,6 mg/L
+  * E.coli und Pseudomonas aeroginosa werden als Indikatoren genutzt
+
+#####Schwimmbadinfektionen
+  * Die Untersuchung des Badewassers auf Pseudomonas und Legionellen ist obligat
+  * Typisch assoziierte Erkrnakungen sind
+    * öffentliche Schwimmbäder: 
+      * Schwimmbadkonjunktivitis: viral oder Chlamydia trachomatis
+      * Warzen
+      * Fuß- und Nagelpilz
+    * Warme Becken
+      * Whirlpool-Dermatitis: Pseudomonas aeruginosa
+      * Legionellose

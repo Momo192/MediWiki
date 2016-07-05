@@ -279,17 +279,45 @@ Erkrankung des Innenohrs mit Flüssigkeitsvermehrung der Endolymphe aufgrund von
 
 ###Therapie
   * *Akutphase*: 
-    * Bettruhe
-    * Prednisolon
+    * Lasix i.v. 60 mg
+    * Cortison
     * Antivertiginosa: Dimenhydrinat
   * *Postakutphase*
     * Betahistin-Hydochlorid 
       * (keine kontrollierten Studien)
-    * **Sakkotomie**: Eröffnung des Schädelknotechens im Bereich des Sakkulus -> dieser kann sich Ausdehnen -> Ausschaltung der Druckschwankungen
+    * Operation
+      * *Indikation*: bei Erschöpfung der konservativen Verfahren
+      * **Sakkotomie**: Eröffnung des Schädelknotechens im Bereich des Sakkulus -> dieser kann sich Ausdehnen -> Ausschaltung der Druckschwankungen
       * 2/3 der Fälle erfolgreich
     * Bei Therapieversagen: 
       * Neurektomie der Nn. vesibulares im inneren Gehörgang
         * Erhaltung der Nn. cochleares
       * Kochleo-Sakkulotomie
       * lokale Gentamycin-Therapie
+        * Gentamycin wird ins Ohr gegeben -> wirkt Ototoxisch -> Ausschalten des Innenohres
+        * Allerdings kann der M. menière trotzdem wieder auftreten nur der Patient ist jetz auch noch schwerhörig
   * Meniére-Syndrom: entpsrechend der Ätiologie
+
+##Komplexer Schwindel, Multimodaler "Altersschwindel"
+###Definition
+  * Altersschwindel ist kein klar definierter Begriff. Häufig wird jedoch eine Form des Schwindels zusammengefasst, die beim alten Menschen infolge physiologischer Altersveränderungen auftritt. Die Problematik wird zusätzlich oftmals durch weitere Faktoren wie z.B. Medikamenteneinnahme verstärkt
+  * Wichtig da Schwindeln das Sturzrisiko stark erhöht 
+
+###Epidemiologie
+  * Schwindel beeinträchtigt 30% der Bevölkerung > 65 Jahre
+  * 4% berichten von Beschwerden >3 Monate
+  * 1,1% Schwindel als einzige Beschwerde
+
+###Diagnostik
+  * ungerichteter Schwindel
+    * beim Gehen häufig verstärkt
+  * DD:
+    * phobischer Schwindel
+
+###Therapie
+  * Visus-Optimierung
+  * Labyrinth-Erkrankungen stabilisieren
+  * Physiotherapie -> Gleichgewichtsübungen
+  * Langzeitverlauf verfolgen
+
+
