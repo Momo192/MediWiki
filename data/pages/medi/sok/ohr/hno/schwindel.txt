@@ -1,4 +1,121 @@
 #Schwindel
+##Diagnostik
+###Einteilung
+####Nach Ätiologie
+  * **Vestibulärer Schwindel**
+    * Zentral vestibulär: 
+      * Vestibuläre Migräne
+      * Läsionen im Bereich des Hinrstamms oder Kleinhirn
+      * Medikamentös/toxisch
+    * Peripher-Vestibulär
+      * BPLS
+      * M. meniére
+      * Vestibularisneuropathie
+      * Perilymphfistel
+  * **Nicht-vestibulärer Schwindel**
+    * somatosensible Afferenzen z.B. Polyneuropathie
+    * Visuelles System z.B. Augenmotilitätstörungen, Fehlsichtigkeit
+    * Kardiovaskuläres System: z.B. Herzryhthmusstörungen, Hypotonie
+    * Psychogen
+    * usw. 
+
+####Nach Symptomen
+  * *Gerichteter Schwindel* = systematischer Schwindel
+    * Drehschwindel = Wie im Karussel
+    * Schwankschwindel = Wie auf einem schwankendem Schiff
+    * Liftschwindel = wie in einem AUfzug
+  * *Ungerichteter Schwindel*
+    * Benommenheitsschwindel = Schwummrigkeit
+    * Gangunsicherheit: Unsicherheit auf den Beinen
+  * Oft ist Schwindel begleitet von Übelkeit, Erbrechen, Kopfschmerzen, Hörstörungen
+
+###Anamnese
+  * *Art des Schwindels*
+    * gerichteter Schwindel v.a. Drehschwindel -> meist vestibulär
+    * ungerichteter Schwindel -> meist nicht-vestibulär
+  * *Zeitlicher Verlauf*
+    * Beginn der Beschwerden
+      * Akut: PBLS, akute zerebrale Ischämie, vestibuläre Migräne usw
+      * schleichend: Polyneuropathie, multimodaler Altersschwindelusw
+    * Verlauf
+      * Anfallsartig: BPLS, M. meniére
+      * episodisch: vestibuläre Migräne
+      * Permanent: psychogener Schwindel
+  * *Auslöser*
+    * nicht erkennbar: Neuritis vestibularis, M. menière, vestibuläre Migräne
+    * Bei Lageänerung
+      * Änderung der Kopfposition -> BPLS
+      * Aufstehen: Orthostase
+    * Spezifische Situationen
+    * Nach Trauma
+    * Abhängig vom Öffnen und Schließen der Augen
+  * *Dauer*
+    * Sekunden bis Minuten: BPLS, Orthostase, Herzrythmusstörungen
+    * Minuten bis Stunden: M. menière, vestibuläre Migräne
+    * Stunden bis Tage: Infarkte
+  * *Begleitsymptome*
+    * Al
+    * Allgemeinsymptome: 
+      * vegetative Symptome (z.B. Übelkeit, Erbrechen) -> peripherer-vestibulärer Schwindel
+      * Schwarzwerden vor den Augen -> Kardiovaskuläre Usachen
+      * Dyspnoe, Hyperventilation, Herzrasen: Angststörungen, Panikattacken
+    * Neurologische Symptome 
+    * Symptome im Bereich der Ohren
+  * Weiteres
+    * Grunderkrnakungen
+      * Nervensystem
+      * Augen -> Fehlsichtigkeit
+      * Herz-Kreislauf-System
+    * Medikamenteneinnahme
+      * Nebenwirkung von Benzos, Antiepileptika, Antidepressiva usw
+
+**Notfall DD: Akutschwindel**
+  * DD
+    * cerebraler oder cerebellärer Insult: 
+      * ungerichteter Schwindel, spontaner Auftritt, Zusammen mit Störungen der Bewegung
+    * Intoxikation
+      * Variabler Schwindel, oft keine Begleitsymptome
+    * Vestibuläre Migraine
+      * Dreh- und Schwankschwindel, Anfallsartiges Auftreten zusammen mit Kopfschmerzen und Nystagmus
+    * Vestibularisparoxysmie:
+      * A. cerebellaris inferior anterior liegt direkt über den N. vestibularis -> bei Pulsation -> Irritaation des Nervens
+  * Warnzeichen zentraler vestibulärer Funktionsstörungen
+    * Begleitsymptome (Vigilanz, Sensibilität, Motorik)
+    * Vertikaler Nystagmus
+    * Blickparesen
+    * Diadochokinese
+
+###HINTS: Schnellscreening
+HINTS = Schnellscreening Methode um einzuordnen ob die Schindelsymptome zentral oder peripher bedingt sind. Ist Sensitiver als ein frühes MRT
+####Head-Impulse
+  * *Synonym*: Halmagyi-Test, Kopfimpulstest
+  * *Definition*; Funktionstest zur Untersuchung der Vestibularis-Funktion
+  * *Durchführung*: 
+    * Fixation des Blickziels durch den Patienten
+    * Untersucher bewegt Plötzlich den Kop zur Seite und dann langsam wieder zurück
+      * in alle Aktionsrichtungen der 6 Bogengänge
+  * *Interpretation*
+    * Normal: Vestibulo-okulärer-Reflex -> Blick des Patien bleibt unverändert auf den zuvor anvisierten Punkt erichtet
+    * Positiv: Nachstellsakkaden als Ausdruck einer peripheren vestibulären Läsion -> kein MRT
+
+####Nystagmusprüfung
+  * *Untersuchung*: 
+    * mit *Frezenlbrille* da wenn das Auge einen Punkt fixiert ein Nystagmus supprimiert werden kann.
+    * Messung ohne körperliche Aktivität vorher, indirekte Beleuchtung
+    * Erhöhung der Vigilanz z.B. durch Substraktionsaufgaben
+  * *Interpretation*
+    * Spontannystagmus: 
+      * horizontal-rotierend mit Zunahme bei Blick in Richtung des Nystagmus -> peripher-Vestibulär
+      * Vertikaler Nystagmus: eher zentral-Vestibulär
+    * Blickrichtungsnystagmus -> zentral-vestibulär
+    * Nystagmus durch Lageänderung auslösbar z.B. bei BPLS
+
+####Test of Scew (alternierender Abdecktest)
+  * *Durchführung*: 
+    * Untersucher deckt Augen abwechselnd ab, Patient fixiert dabei ein Objekt
+    * Untersucher prüft ob dabei eine vertikale Korrekturbewegung des abgedeckten Auges stattinfdet
+  * *Interpretation*: positiv -> zentraler Insult
+l
 ##Vestibularisneuropathie
   * *Definition*: akute einseitiger Ausfall der Labyrinthfunktion ohne begleitende Hörminderung
   * *Epdiemiologie*: 3,5 / 100 000 EInwohner
@@ -70,7 +187,93 @@ Otolithen gelangen in die Bogengänge -> danach verschiedene Erklärungsmechanis
 
 ###Therapie
 ####Posteriorer Bogengang
-  * *Lagerungsmanöver nach Brandt-Daroff*
-  * Repositionsmanöver
+  * Spontanheilung beschrieben
+  * *Epley Repositionsmanöver*
+    * Liegend 
+    * Ziel: Otolithen aus dem Innenohr entfernen
+  * *Sémont-Befreiungsmanöver*
+    * sitzend -> Kopfdrehung -> Ganzer Körper -> einige Minuten so liegen bleiben
+    * schnelle Wendung auf die andere Seite -> Liegen bleiben -> langsames aufrichten
 
-####Lateraler Bogengang
+####horizontaler Bogengang
+  * Drehung um die Körperlängsachse um 270° (Barbecue) oder 360°
+  * Längeres Liegen auf der Gesunden seite
+  * weitere
+
+##Neuropathia vestibularis
+  * *Definition*: einseitiger Ausfall eines Gleichgewichtorgans unbekannter Ursace
+  * *Ätiopathogenese*
+    * unbekannt
+    * Virusinfektion
+    * Mikrovaskularisationsstörungen
+  * *Symptome*
+    * akut, aus völliger Gesundheit und für Tage anhaltend
+      * starker Drehschwindel
+      * Übelkeit und Erbrechen
+      * Spontannystagmus zur Gegenseite
+        * Nystagmus geht zum aktiveren Vestiublarorgan (BPLS -> zur kranken Seite)
+        * das gesunde Vestibularorgan ist im Vergleich zum kranken aktiver
+      * Fallneigung zur Krankenseite
+    * keine kochleären Symptome: keine Hörminderung, kein Tinnitus
+  * *Diagnostik*:
+    * *Nystagmus* mit Frenzelbrille
+    * **Kalorische Testung**: 
+      * *Durchführung*: äußerer Gehörgang wird in 30° mit etwa 100 mL warmen Wasser und anschließend 100 mL katem Wasser gespült -> Reizung des dem äußeren Gehörgang nahgelegenen lateralen Bogengang
+      * *Interpretation*
+        * Physiologisch: 
+          * Warmwasserspülung -> Nystagmus zum gespülten Ohr
+          * Kaltspülung -> Nystagmus zur Gegenseite
+        * Neuritis vestibularis: Erregung des betroffenen Gleichgewichtsogan und damit der Nystagmus nicht adäquat auslösbar
+
+##M. Menière
+###Definition:
+Erkrankung des Innenohrs mit Flüssigkeitsvermehrung der Endolymphe aufgrund von fehlender Resorption. Dies führt zu rezeidivierenden cochleovestibulären Störungen mit Attacken von > 20 Minuten Dauer in unregelmäßigen Intervallen. Es kommt zu einer progredienten Funktionsminderung von Cochlea und Labyrinth
+
+###Epidemiologie
+  * 40-60 LJ
+  * 30% bilateral innerhalb von 4 Jahren nach Beginn der Erkrankung
+
+###Pathophysiologie
+  * **Endolymphhydrops**: Wasseransammlung im Endolymphraum
+    * Fehlerhafte qualitative oder quantitative Endolymphproduktion
+    * gestörte Resorption der Lymphe im Ductus endolymphaticus (z.B. im Saccus liegt B-Zell-aktives Gewebe -> Anschwellen -> kein Abfluss)
+    * Sekretion von onkotisch wirksamen Molekülen aus dem Saccus in den Endolymphe-Raum
+  * *Idiopathisch* = Morbus menière
+    * Durch Endolymphhydrops -> Einriss der Reissner-Membran
+    * Kaliumreiche Endolymphe vermischt sich mit natriumreicher Perilymphe -> pathologisch erhöhte Kaliumkonzentration in der Perilymphe ->
+    * Depolarisation der afferenten Hörnervenfasern
+    * Reparatur der Reissner-Membran bzw. Normalisierung der Elektrolykonzentrationen beendet den Schwindelandall
+  * *Bekannte Ätiologie*: **Menière-Syndrom**
+    * narbige Strukturen im Endolympheschlauch des Labyrinths
+    * Mittelohrvermittelte Druckerhöhung des Labyrinths
+
+###Symptome
+  * Trias
+    * Drehschwindel mit Übelkeit und Erbrechen
+    * Hörminderung (tiefe Frequenzen)
+    * Tinnitus 
+      * Tieffrequent
+      * Zunahme vor dem Anfall
+    * niemals Bewustlosigkeit
+  * *Aural fullness*
+    * Druck oder Völlegefühl im Ohr
+    * oft sehr früh auftretend -> Aura
+    * sensibelstes Symptom
+    * Wenn Patienten dies äußern -> Furosemid-Gabe
+
+###Therapie
+  * *Akutphase*: 
+    * Bettruhe
+    * Prednisolon
+    * Antivertiginosa: Dimenhydrinat
+  * *Postakutphase*
+    * Betahistin-Hydochlorid 
+      * (keine kontrollierten Studien)
+    * **Sakkotomie**: Eröffnung des Schädelknotechens im Bereich des Sakkulus -> dieser kann sich Ausdehnen -> Ausschaltung der Druckschwankungen
+      * 2/3 der Fälle erfolgreich
+    * Bei Therapieversagen: 
+      * Neurektomie der Nn. vesibulares im inneren Gehörgang
+        * Erhaltung der Nn. cochleares
+      * Kochleo-Sakkulotomie
+      * lokale Gentamycin-Therapie
+  * Meniére-Syndrom: entpsrechend der Ätiologie

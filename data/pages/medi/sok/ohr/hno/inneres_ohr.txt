@@ -137,7 +137,7 @@ Wichtig ist das Gesetz des Abstands: Doppelter Abstand -> 1/16 des Druckes (Cave
     * -> bei geringer Beeinträchtigung kann eine Spontanremission abgewartet werden
   * Medikamentös: hohe systemische oder intratympanale Glykokortikoidgabe für wenige Tage
   * Bei Schwellenabfall > 50 dB in mindestens 3 Frequenzen -> Tympanotomie 
-z
+
 ###Tinnitus
 ####Definition
   * Wahrnehmung (Ohrgeräusch) uni- oder bilateral ohne externe Schalquelle
@@ -152,48 +152,7 @@ z
   * Korrektur der dentalen Okklusion
   * Tinnitustraining
   * Hörgerätanpassung
-s
-###M. Menière
-####Definition:
-Erkrankung des Innenohrs mit Flüssigkeitsvermehrung der Endolymphe aufgrund von fehlender Resorption. Dies führt zu rezeidivierenden cochleovestibulären Störungen mit Attacken von > 20 Minuten Dauer in unregelmäßigen Intervallen. Es kommt zu einer progredienten Funktionsminderung von Cochlea und Labyrinth
 
-###Epidemiologie
-  * 40-60 LJ
-  * 30% bilateral innerhalb von 4 Jahren nach Beginn der Erkrankung
-
-###Pathophysiologie
-  * **Endolymphhydrops**: Wasseransammlung im Endolymphraum
-  * *Idiopathisch* = Morbus menière
-    * Durch Endolymphhydrops -> Einriss der Reissner-Membran
-    * Kaliumreiche Endolymphe vermischt sich mit natriumreicher Perilymphe -> pathologisch erhöhte Kaliumkonzentration in der Perilymphe ->
-    * Depolarisation der afferenten Hörnervenfasern
-    * Reparatur der Reissner-Membran bzw. Normalisierung der Elektrolykonzentrationen beendet den Schwindelandall
-  * *Bekannte Ätiologie*: **Menière-Syndrom**
-    * narbige Strukturen im Endolympheschlauch des Labyrinths
-    * Mittelohrvermittelte Druckerhöhung des Labyrinths
-
-####Sympotme
-  * Drehschwindel mit Übelkeit und Erbrechen
-  * Hörminderung (tiefe Frequenzen)
-  * Tinnitus
-  * niemals Bewustlosigkeit
-
-####Therapie
-  * *Akutphase*: 
-    * Bettruhe
-    * Prednisolon
-    * Antivertiginosa: Dimenhydrinat
-  * *Postakutphase*
-    * Betahistin-Hydochlorid 
-      * (keine kontrollierten Studien)
-    * **Sakkotomie**: Eröffnung des Schädelknotechens im Bereich des Sakkulus -> dieser kann sich Ausdehnen -> Ausschaltung der Druckschwankungen
-      * 2/3 der Fälle erfolgreich
-    * Bei Therapieversagen: 
-      * Neurektomie der Nn. vesibulares im inneren Gehörgang
-        * Erhaltung der Nn. cochleares
-      * Kochleo-Sakkulotomie
-      * lokale Gentamycin-Therapie
-  * Meniére-Syndrom: entpsrechend der Ätiologie
 
 ##Therapie der Innenohrschwerhörigkeit
 
