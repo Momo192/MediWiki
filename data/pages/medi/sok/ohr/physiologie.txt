@@ -1,0 +1,34 @@
+#Physiologie
+###Einführung: Funktion des Innenohres
+  * **Hören**: 
+    * durch *auditorisches Labyrinth* (Cochlea) mit Haarsinneszellen
+    * erlaubt als externer Sinn die Wahrnehmung von Schallreizen und dadurch die Kommunkation
+  * **Lagesinn**
+    * durch *vestibuläres Organ* mit Haarsinneszellen
+    * Interner Sinn welcher die Lagebeurteilung bei Körper- und Kopfbewegungen erlaubt
+
+##Physiologische Akkustik
+###Schallwellen
+####Schall
+mechanische Schwingungen von Luftmolekülen im Frequenzbereich des menschlichen Hörens, die sich als Druckwelle in elastischen Medien z.B. Luft wellenförmig ausbreiten
+
+####Schallwellen
+  * Schallwellen sind **Longitudinalwellen**: Bewegung der Luftmoleküle entlang der Ausbreitungsrichtung der Schallwelle vor- und zurück. Sie sind charakterisiert durch Amplitude und Frequenz
+  * Luftmoleküle ändern ihre mittlere Lage nicht, die Schallwelle verdünnt und komprimiert abwechselnd die Luft
+  * *Ausbreitungsgeschwindigkeit* von Schall in der Luft = 335 m/s
+  * *Schalldruck*: entstehender Wechseldruck in Pascal (N/m²)
+  * **λ**: Wellenlänge (von einem bis zum nächsten Überdruckbereich)
+
+####Schallfrequenz
+  * *Definition*: Frequenz einer Welle in Schwingungen / Sekunde = Herz
+    * das menschliche Ohr verarbeitet Frequenzen von 16-20 000 Hz
+      * tiefe Töne = geringe Freauenz
+      * hohe Töne = hohe Frequenz
+  * **Ton**: 1 Frequenz mit periodischer Druckänderung
+  * **Klang**:
+    * periodischer Schalldruckverlauf
+    * Ton mit zusätzlichen *Obertönen*: ganzzähliges Vielfaches der Frequenz des *Grundtons*
+  * **Geräusch**: aus vielen verschiedenen Frequenzantielen zusammengesetzt (kein periodischer Verlauf). Wird vom Ohr in die einzelnen Frequenzen zerlegt
+
+###Schalldruckpegel = sound pressure level (SPL)
+####Allgemeines

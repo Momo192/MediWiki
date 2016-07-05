@@ -1,4 +1,32 @@
 #Innenohr
+##Fehlbildungen
+###Ätiologie
+  * 18% exogen
+    * z.B. pränatale Rötelninfektion
+  * 25% genetisch
+  * 57% unbekannte Ursache
+
+###Genetische Innenohrschwerhörigkeit
+  * *Einteilung*
+    * **Syndromal**
+      * 30% prälinguale Taubheit = Gehörlosigkeit: frühkindlich erworbene Taubheit oder kongenitale Erkrnakung
+      * meist bilateral
+      * *Usher-Syndrom* mit Retinitis pigmentosa
+    * *nicht-syndromal*: 
+      * in 70% prälinguale Taubheit
+      * viele verschiedene Vererbungsmechanismen
+  * *Diagnostik*:
+    * Neugeborenenscreening: 
+      * [[medi:sok:ohr:hno:untersuchungsmethoden#otoakustische_emissionen_oae]]
+      * [[medi:sok:ohr:hno:untersuchungsmethoden#elektrische_reaktionsaudiometrie_electric_response_audiometry_era]]
+  * *Therapie*: Frühzeitige Versorgung mit Cochlea-Implantat
+    * Siehe
+##Verletzungen 
+##Toxischer Schaden
+##Idiopathische Erkrnakungen
+###Hörsturz
+###Tinnitus
+###M. Menière
 
 ##Therapie der Innenohrschwerhörigkeit
 

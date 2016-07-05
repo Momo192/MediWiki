@@ -82,10 +82,62 @@ Stimmgabelprüfungen ermöglichen als orientierende Hörprüfungen die Untersche
     * Schallleitungsstörung: Hörschwelle für die Luftleitugn erhöht, die Hörschwelle für die Knochenleitung ist aber normal
     * Schallempfindungsstörung: Hörschwelle für Luft und Knochenleitung ist gleichermaßen erhöht
 
+####Sprachaudiometrie
+  * *Definition*: Test zur Messung des Sprachverständnisses (Sprachspezifisch)
+  * *Indikation*:
+    * Routinediagnostik
+    * Begutachtung eines Hörschadens
+    * Anpassung von Hörhilfen
+  * *Durchführung*: 
+    * dem Patienten werden in zunehmender Lautstärke über Kopfhörer Silben, Wörter oder ganze Sätze vorgespielt, die er anschließend wiedergeben soll
+    * Die Angabe der richtigen Antworten erfolgt in %
+  * *Interpretation*: 
+    * **Sprachaudiogramm**: eintragen von Kurven für das Zahlverstehen und das Wortverstehen
+      * Wörter sind wesentlich schwerer zu verstehen
+      * Bei Schallleitungsstörung: bei Verstärkung der Lautstärke erreichen die Patienten irgendwann 100%
+      * Schallempfindungsstörung: trotz maximaler Verstärkung keine 100% Wortverständlichkeit  (*Diskrimantionsverlust*)
+
+####Sprachaudiometrie mit Störgeräuschen (AAST, OLSA)
+  * wichtig für das Zusammenspiel beider Ohren -> man muss in der Lage sein wichtige Informatioenen herauszufiltern
+  * Zugabe von standartisiertem Störschall z.B. Stimmengewirr
+
 ###Objektive Verfahren
+####Elektrische Reaktionsaudiometrie (Electric Response audiometry, ERA)
+  * *Definition*: Oberbegriff für Verfahren zur Messung **akustisch evozierter Potentiale** die im EEG registriert werden können
+    * Akustisch evozierte Potentiale entstehen durch elektrische Potentialschankungen der Hörbahn und können ohne Mitarbeit des Patienten durch Oberflächenelektroden abgeleitet werden. Sie entstehen in örtlicher und zeitlicher Reihenfolge entland der Hörbahn
+    * Durch *Laufzeitvergleich* mit Normtabellen können topographische Angaben über den Läsionsort gemacht werden. 
+    * Standardverfahren sind:
+      * **Hirnstammaudiometrie (BERA)**
+      * **Hirnrindenaudiometrie**
+  * *Indikation*
+    * Verdacht auf retrokochleäre Störung z.B. bei einseitiger Hörminderung
+    * Objektive Hörschwellenbestimmung bei Kindern oder nicht kooperativen Patienten
+  * *Durchführung*: 
+    * über einen Kopfhöhrer werden dem Patienten akustische Reize vermittelt (2000x hintereinander)
+    * Über eine Ableitungselektrode am Mastoid werden frühe, mittlere und späte Potenziale generiert
+  * *Interpretation von BERA*: 
+    * Ableitung der frühen akustisch evozierten Potenziale: 1,5 bis 10 ms nach dem Schallreiz
+    * 5 Wellen
+      * Welle 1 +2: proximaler Anteil des N. cochlearis
+      * Welle 3: Nucleus cochlearis
+      * Welle 4: Lemniscus lateralis
+      * Welle 5: Collicoli inferiores
+
+####Otoakustische Emissionen (OAE)
+  * *Definition*: OAE sind physiologische Schallaussendungen der Kochlea, die spontan oder bei akustischer Reizung entstehen und im Gehörgang nachgemessen werden können. Anhand ihrer Messung kann eine Funktionsprüfung der äußeren Haarzellen und damit der Kochela erfolgen. Man unterscheidet:
+    * **Spontane OAE**: physiologische, akustische Schallaussendungen, die von den äußeren Haarzellen des Ohres ausgesendet werden und retrograd über Gehörknöchelchen und Trommelfell in den Gehörgang gelangen
+    * **Transitorisch evozierte OAE**: OAE, die durch einen sehr kurzen Reiz (Klick) über mehrere Frequenzen ausgelöst werden
+    * **Distorsionsprodukt OAE**: 
+      * Überlagerung von 2 Sinustönen unterschiedlicher Frequenz -> Entstehung einer *Schwebung* = 3. Ton als OAE
+      * Messung der Reizantwort während der Reizung
+      * Frequenzselektive Arbeit möglich
+  * *Indikation*: Neugeborenen Hörscreening
+    * Hörbahnentwicklung bis zum 12. LJ daher ist eine frühe Versorgung mit Cochlea-Implantaten wichtig
+  * *Interpretation*: sind otoakustische Emissionen messbar, ist die Funktion der äußeren Haarzellen normal
+
 ####Tympanometrie
   * *Definition*: Messung vom Trommelfell reflektierten Schall bei unterschiedlichen Druckverhältnissen im äußeren Gehörgang -> Rückschlüsse auf die Beweglichkeit des Trommelfells und die Belüftungssituation im Mittelohr z.B. Hinweise auf eine Tubenfunktionsstörung oder einen Paukenerguss
-  * *Durchführung
+  * *Durchführung*
     * Luftdichtes abschließen des Gehörganges durch eine Sonde
       * diese kann den Druck im äußeren Gehörgang manipulieren und verschiedene Schallfrequenzen abgeben
     * Der vom Trommelfel
