@@ -1,4 +1,24 @@
 #Schwindel
+##Vestibularisneuropathie
+  * *Definition*: akute einseitiger Ausfall der Labyrinthfunktion ohne begleitende Hörminderung
+  * *Epdiemiologie*: 3,5 / 100 000 EInwohner
+  * *Ätiologie*:
+    * unbekannt
+    * Virusinfektionen, Borrelien-Infektion
+    * Ischämie
+    * Auto-AK (Cogan-Syndrom)
+  * *Klinik*
+    * akut auftretende Gleichgewichtsstörungen mit horizontalem Spontannystamgus
+    * Fallneigung
+    * keine begleitende neurologische Symptomatik oder Kopfschmerzen
+  * *Therapie*
+    * Akut: 
+      * Prednisolon
+      * Diimenhydrinat
+    * Verlauf
+      * Spontanverlauf
+      * Rezdivie Selten
+l
 ##Benigner paroxysmaler Lagerungsschwindel (BPLS)
 idiopathisch auftretende Dislokation von otokonien im Bereich von Bogengängen (primäre Form) überweigend einseitig auftretend.
 
@@ -46,4 +66,11 @@ Otolithen gelangen in die Bogengänge -> danach verschiedene Erklärungsmechanis
     * darf keine kochelären Symptome verursachen (Hörminderung, Tinnitus)
   * Diagnostik: Symptome und klinsiche Zeichen
     * weitere Diagnostik bei Unklarheit, v.a. sekundäre PBLS
-    * 
+
+
+###Therapie
+####Posteriorer Bogengang
+  * *Lagerungsmanöver nach Brandt-Daroff*
+  * Repositionsmanöver
+
+####Lateraler Bogengang

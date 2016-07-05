@@ -19,14 +19,181 @@
     * Neugeborenenscreening: 
       * [[medi:sok:ohr:hno:untersuchungsmethoden#otoakustische_emissionen_oae]]
       * [[medi:sok:ohr:hno:untersuchungsmethoden#elektrische_reaktionsaudiometrie_electric_response_audiometry_era]]
-  * *Therapie*: Frühzeitige Versorgung mit Cochlea-Implantat
-    * Siehe
-##Verletzungen 
+  * *Therapie*: Frühzeitige Versorgung (möglichst bis 6 Lebensmonat) mit Cochlea-Implantat
+    * Siehe [[medi:sok:ohr:hno:inneres_ohr#therapie_der_innenohrschwerhoerigkeit]]
+
+##Verletzungen: Lärmtraumata
+###Allgemeines
+####Definition
+Chronisch oder akute Schäden des Innenohrs durch hochfrequente Schalldruckwellen
+  * akut: einmaliges Ereignis
+  * chronisch: Folge einer jahrelangen Exposition gegenüber einem hohen Lärmpegel (oft Berufsbedingt)
+
+Wichtig ist das Gesetz des Abstands: Doppelter Abstand -> 1/16 des Druckes (Cave: in-ear-Kopfhöhrer)
+
+####Einteilung
+  * **Lärmtrauma**: 
+    * ab 90 dB: 
+      * Hörschutz
+      * Bei Dauerbelastung Schäden über einen längeren Zeitraum -> Siehe [[medi:sok:ohr:hno:inneres_ohr#chronisches_laermtrauma_laermschwerhoerigkeit]]
+      * Berufskrankheit
+    * ab 120 dB: Dauerschaden schon bei einmaliger längerer Beschallung
+    * ab 150 dB: Dauerschaden schon bei einmaliger kurzer Beschallung
+  * **Knalltrauma**: Trauma durch kurze und laute Schalldruckwelle von 1-2 ms, Schallpegel von ca. 140 dB
+  * **Explosionstrauma**: Trauma durch Schalldruckwelle von > 2ms
+  * Felsenbeinfraktur mit Ruptur der Labyrinth-Kapsel oder Kontusio labyrinthii
+
+###Pathogenese
+  * Überlastung der Haarzellen
+  * Zeitweiser Funktionsverlust
+  * Bei nicht ausreichender Erholung -> Dauerhafter Funktionsverlust
+  * Abbau der Haarzellen mit evtl. toxischen Abbauprodukten
+
+###Akutes akustisches Trauma
+####Klinik
+  * akute Schwerhörigkeit
+    * TTS = Temporary treshold shift: sollte nach 16h abklingen
+      * hohe Freauenzen (Grillenzirpen) werden nicht gehört
+      * Gespräche in lauter Umgebung werden nicht verstanden
+    * PTS = permanent treshold shif 
+  * Tinnitus
+  * evtl. Schwindel
+
+####Diagnostik
+  * Otoskopie
+    * Knalltrauma: beide Trommelfelle intakt
+    * Explosion: häufig Trommelfellriss
+  * Tonschwellenaudiometrie: charatkeristisch ist die **C%-Senke** = *Left coerner audiogramm*
+    * Hörverlust im Bereich der hohen Frequenzen um 4000Hz
+    * Es sind sowohl Knochen als auch Luftleitung betroffen
+
+####Therapie
+  * Prednisolon
+  * Tympanotomie bei Felsenbeinfraktur
+
+###Chronisches Lärmtrauma (Lärmschwerhörigkeit)
+  * *Definition*: häufigste Berufskrankheit durch jahrelangen Lärmpefel von > 85dB
+  * *Symptome*: Schallempindungsschwerhörigkeit
+  * *Expositionsprophylaxe*
+    * Gewerblicher Gehörschut
+    * Begrenzung der Lautstärke
+    * Dauerbegrenzung
+    * Erholungspausen
+
+
 ##Toxischer Schaden
-##Idiopathische Erkrnakungen
+  * *Definition*: meist akzidentelle Überdosierung kochleo- oder vestibulotoxischer Medikamente
+    * Schleifendiuretika
+    * Aminoglykosid-AB (Gentamycin)
+    * Cisplatin
+  * *Klinik*
+    * akute Hörminderung bds
+    * Tinnitus
+    * Beginn der Symptome im Hochtonbereich
+  * *Therapie*: 
+    * absetzen der Medikamente
+
+##Entzündungen des Innohres
+  * *Definition*: meist fortgeleitete bakterielle EZ nach oder während
+    * akuter Otitis media
+    * akuter Mastoiditis
+    * bakterieller Meningitis
+  * *Klinik*
+    * meist definiert durch die vorausgehende Mittelohrerkrankung -> wird im Akutstadium nicht registriert
+    * ipsilaterale Hörminderung, Schwindel, Tinnitis, Nystagmuss
+  * *Therapie*
+    * AB
+    * ggf. Paracentese und Paukenröhrchen
+
+##Idiopathische Erkrankungen
+
 ###Hörsturz
+####Definition
+  * plötzliche einseitige schmerzlose Innenohrschwerhörigkeit ohne erkennbare Ursache
+  * Fakultativ mit Labyrinthbeteiligung
+
+####Ätiologie
+  * unklar
+    * Autoimmunreaktion
+    * Post-Infektiös
+    * Durchblutungsstörung der Cochlea
+    * Genmutationen
+      * v.a. bei rezidivierenden Hörstürzen 
+      * Connexine betroffen
+  * Häufig in psychisch belastenden Situationen
+
+####Ätiologie
+  * plötzliche einseitige Hörminderung
+  * Tinnitus
+  * Druckgefühl oder Gefühl von Watte im Ohr (Warnsignal vor Hörsturz)
+
+####Diagnostik
+  * Ausschluss einer anderen Ursache -> Ausschlussdiagnose
+  * Tonschwellenaudiomeitre: einseitige Innenohrschwerhörigkeit
+    * Cave: keine überschwellige Diagnostik im Akutstadium wegen Gefahr der Traumatisierung des Innenohrs (Sprachaudiometrie, Stapediusreflex, BERA)
+
+###Therapie
+  * *Spontanremission*: > 60% 
+    * -> bei geringer Beeinträchtigung kann eine Spontanremission abgewartet werden
+  * Medikamentös: hohe systemische oder intratympanale Glykokortikoidgabe für wenige Tage
+  * Bei Schwellenabfall > 50 dB in mindestens 3 Frequenzen -> Tympanotomie 
+z
 ###Tinnitus
+####Definition
+  * Wahrnehmung (Ohrgeräusch) uni- oder bilateral ohne externe Schalquelle
+  * Wechselnder tonaler Charakter und wechselende Intensität
+  * *Sonderform*: pulssynchroner Tinnitus
+    * arterielle Hypertension
+    * Glomustumor der Otobass
+    * Sinus-Dura-Fistel
+
+####Therapie
+  * nicht medikamentös
+  * Korrektur der dentalen Okklusion
+  * Tinnitustraining
+  * Hörgerätanpassung
+s
 ###M. Menière
+####Definition:
+Erkrankung des Innenohrs mit Flüssigkeitsvermehrung der Endolymphe aufgrund von fehlender Resorption. Dies führt zu rezeidivierenden cochleovestibulären Störungen mit Attacken von > 20 Minuten Dauer in unregelmäßigen Intervallen. Es kommt zu einer progredienten Funktionsminderung von Cochlea und Labyrinth
+
+###Epidemiologie
+  * 40-60 LJ
+  * 30% bilateral innerhalb von 4 Jahren nach Beginn der Erkrankung
+
+###Pathophysiologie
+  * **Endolymphhydrops**: Wasseransammlung im Endolymphraum
+  * *Idiopathisch* = Morbus menière
+    * Durch Endolymphhydrops -> Einriss der Reissner-Membran
+    * Kaliumreiche Endolymphe vermischt sich mit natriumreicher Perilymphe -> pathologisch erhöhte Kaliumkonzentration in der Perilymphe ->
+    * Depolarisation der afferenten Hörnervenfasern
+    * Reparatur der Reissner-Membran bzw. Normalisierung der Elektrolykonzentrationen beendet den Schwindelandall
+  * *Bekannte Ätiologie*: **Menière-Syndrom**
+    * narbige Strukturen im Endolympheschlauch des Labyrinths
+    * Mittelohrvermittelte Druckerhöhung des Labyrinths
+
+####Sympotme
+  * Drehschwindel mit Übelkeit und Erbrechen
+  * Hörminderung (tiefe Frequenzen)
+  * Tinnitus
+  * niemals Bewustlosigkeit
+
+####Therapie
+  * *Akutphase*: 
+    * Bettruhe
+    * Prednisolon
+    * Antivertiginosa: Dimenhydrinat
+  * *Postakutphase*
+    * Betahistin-Hydochlorid 
+      * (keine kontrollierten Studien)
+    * **Sakkotomie**: Eröffnung des Schädelknotechens im Bereich des Sakkulus -> dieser kann sich Ausdehnen -> Ausschaltung der Druckschwankungen
+      * 2/3 der Fälle erfolgreich
+    * Bei Therapieversagen: 
+      * Neurektomie der Nn. vesibulares im inneren Gehörgang
+        * Erhaltung der Nn. cochleares
+      * Kochleo-Sakkulotomie
+      * lokale Gentamycin-Therapie
+  * Meniére-Syndrom: entpsrechend der Ätiologie
 
 ##Therapie der Innenohrschwerhörigkeit
 
