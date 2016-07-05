@@ -220,7 +220,7 @@ m
 ##Tumoren
 
 Insgesamt sehr selten
-n
+
 ###Glomustumor
   * *Epidemiologie*; häufigster Tumor des Mittelohrs
   * *Definition*: Glomustumore sind eine heterogene Gruppe von Tumoren. 
@@ -240,8 +240,132 @@ n
   * *Therapie:
     * Abtragung über Tympanoplasikzugang
     * Elektrokoagulation der Gefäße
-e
+
 ###Karzinom
 ##Ungeklärte Ätiologie
 ###Otosklerose
+####Definition 
+Örtlich begrenzte Erkrankung der Innenohrkapsel (knöchernes Labyrinth) und des Stapes durch Knochenumbau. Der Stapes fixiert zunehmend im ovalen Fenster. 
+Es besteht eine Ähnlichkeit zum *M. paget*: Erkrankung bei der parallel Knochen-Auf und -Abbau in chaotischer Weise stattfinden
+
+####Epidemiologie
+  * Inzidenz: 270-8300 / 100 000
+  * Alter: Häufigkeitsgipfel 20-40 LJ
+  * 70% aller Patienten sind beidohrig erkrankt
+  * Frau : Mann = 2:1
+
+####Ätiologie
+  * hormonelle Einflüsse z.B. Schwangerschaft
+  * Virusinfektionen? (Rückgang seid Einführung der Masernimpfung)
+  * Formalpathogenetisch ähnlich zu M. paget
+    * Knochenumbauprozesse: 
+      * herdförmige Resorption des normal Strähnenknochens der Labyrinthkapsel
+      * überschüssige Bildung eines Geflechtartigen, spongiösen Knochens
+    * Bei Jugendlichen erst stark vaskularisiert -> Übergang oin einen sklerotisch-kompakten Knochen
+
+####Lokalisation
+  * verschiedene Lokalisationen der Herde -> progrediente Hörminderung
+  * 80% reine Schallleitungsschwerhörigkeit: nur Versteifung des Steigbügels
+  * Kombinierte Schwerhörigkeit: 15%
+  * 5% reine Schallempfindungsscherhörigkeit
+    * Verknöcherung des häutigen Labyrinthes bei erhaltener Beweglichkeit des Stapes
+
+####DD
+  * Idiopathische Hammerkopffixation -> siehe [[edi:sok:ohr:hno:mittelohr#idiopathische_hammerkopffixation]]
+    * ähnliche Auswirkung
+    * letztendlich erst Diagnose im OP
+
+####Symptome
+  * zunehmende Hörminderung
+  * unauffälliger Trommelfellbefund: zartes, intaktes Trommelfell
+  * regelrechte Pneumatisation des Mastoids (durch Abbauvorgänge)
+  * weiter äußerer Gehörgang
+  * Schallleitungsschwerhörigkeit und Ausfall des Stapediusreflexes
+
+####Diagnostik
+  * Schallleitungsschwerhörigkeit
+    * Weber/Rinne: Lateralisation auf das Rinne negativ getestete Ohr
+    * Tonschwellenaudiometrie: Schallleitugnsgeschwindigkeit mit herabgesetzter Luftleitung v.a. bei Tiefen Tönen
+  * Fehlender Stapedius-Reflex bei Beschallung mit 70dB (Impedanzaudiometrie)
+  * *Vestibulär evozierte Potenziale * (VEMP) normal
+    * DD: Fistel des oberen Bogengang zum Gehirn -> Teil der Schallenergie geht über den Bogengang verloren (sehr selten)
+    * Nachweis über Schwindel-Untersuchungen
+
+####Therapie
+  * Fortschritt lässt sich durch konservative Therapie nicht beeinflussen
+  * *Operation nach She* (historisch)
+    * Vollständige **Stapedektomie**
+    * *Risiken*: Dabei Eröffnung des ovalen Fensters mit 1-2% Ertaubungsrisiko
+    * *Maßnahme*
+      * Cave: N. facialis läuft am Fenster entlange
+      * Trommelfellaufklappung -> Resektion des Stapes einschließlich der Fußplatte ->
+      * Einsatz einer Stapes-Protehese
+        * Teflon-Platin-Prothes: Banum Amboss -> Kolben steckt im Fenster
+        * Neueres Verfahren: Prothese mit Drahtbügel welche am Ambosschenkel fixiert wird. Der Abschluss zum ovalen Fenster erflogt durch BW, das in den Draht eingebunden wird
+  * **Stapedotomie**
+    * *Maßnahme*: mit Laser Perforation der Fußplatte -> Kettendurchbrechung und Abtragen der Stapes-Suprastruktur -> Protheseneinsatz
+    * *Ertaubungsrisko*: 0,1%
+    * *Prothesen*:
+      * Klassisch: Platindraht-Teflonpiston oder Titan-Piston
+      * Klemmen
+        * Können Blutversorgung vom langen Amboss-Fortsatz abklemmen -> Nekrose -> Hörverschlechterung
+      * Clip-Prothesen: werden auf den Amboss aufgeklemmt, haben einen dosierten Anpressdruck -> keine Amboss-Nekrose
+      * Sind alle nicht Feromagnetisch -> MRT möglich
+e
 ###Idiopathische Hammerkopffixation
+
+##Therapie von Trommelfellperforation, EZ-Prozesse, Defekte der Gehörknöchelchenkette
+###Paracentese
+Trommelfellschnitt und Paukendrainage. Dafür ist eine ausreichende Belüftung der Paukenhöhle erforderlich
+
+###Tympanoplastik
+  * *Definition*: Restaurierender Eingriff am Schallleitungsapparat welcher der Gehörverbesserung dient
+  * Entwicklung von Wullstein und Zöllner -> Typen nach WUllstein -> es werden nur noch Typ I und III angewandt
+  * *Operativer Zugang*: Schnitt hinter dem Ohr -> Freilegung des Mastoids -> Tympano-meataler-Lappen wird nach vorne geklappt
+
+####Typ I: Myringoplastik
+  * *Grundlage*: intakte bewegliche Kette
+  * *Maßnahme*: Deckung der Perforation mit Faszie oder Knorpel/Perichondrium
+  * Bei nicht funktionnierender Tube müssen t-Tubes eingesetzt werden
+
+####Typ II: Ossikuloplastik
+  * *Grundlage*: Kettenunterbrechung -> Teil des Hammergriff ist Defekt (kommt so gut wie nicht vor, da dieser sehr stabil ist)
+  * *Maßnahme*: Überbrückung bei Teildefekten (selten ausgeführt)
+
+####Typ III
+  * *Grundlage*: Defekt der Kette: Hammer und Amboss sind Defekt
+  * *Maßnahme*
+    * a) Kopplung zwischen Trommelfell (oder Transplantat) und Stapes oder Stapesfußplatte ohe Kettenüberhöhung
+    * b) Kopplung mittels Knorpelchipp oder Ossikelprothese (Eigenamboßinterponat oder Titanprothese) somit Kettenüberhöhung
+      * **PORP** = partial ossicular replacement prothesis: Interpositionsprothese bei erhaltener Stapessuprastruktur
+      * **TORP** = total ossicular replacement prothesis: Interpositionsprothese bei nicht erhaltener Stapes-Suprastruktur
+
+####Typ IV: Schallschut des Runden-Fenster
+  * *Ziel*: vermeiden von Interferenzen des Schalls der gleichzeitig beide Fenster treffen würde
+  * *Maßnahme*: Auflegen des Trommelfell auf die Stapesfußplatte und Abdecken des runden Fenster mit Knorpel zur Schallprotektion (selten ausgeführt)
+
+####Typ V: Fensterungsoperationen
+  * *Grundlage*: bei Missbildungen, Stapesankylose
+  * *Maßnahme*: Schallübertragung über artifiziell angelegtes Bogegangsfenster 
+  * Selten ausgeführt, historisch
+
+###Radikalhöhlen-OP
+  * *Indikation*: ab Tympanoplasti 3 möglich
+  * *Maßnahme*: 
+    * Mastoid wird ausgeräumt 
+    * Entstehung gemeinsame Höhle aus Epitympanon, Mastoid und Gehörgang unter Entfernung der hinteren Gehörgangswand 
+    * Ziel: Vergrößerung der Paukenhöhle
+  * *Nachteile*
+    * Infektionen z.B. Pilzinfektionen
+    * Schwindel durch Labyrinthreizung durch kalten Luftzug
+    * Verkleinerung möglich durch Hydroxylapatit
+
+###Dauerhafte T-Tubes
+  * *Indikation*
+    * chronische Otitis media
+    * fehlende Durchgängigkeit der Tuba eustachii
+    * nicht funktionierende Mittelpharynxmuskulatur wie z.B. bei Gaumenspalte, da dann der M. levator et tensor palatin keinen Ansatz haben
+
+###Ausdehnung durch Ballons
+  * 70% der Patienten bekommen wieder eine eröffnete Tube
+  * noch keine Langzeitergebnisse
