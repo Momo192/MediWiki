@@ -261,6 +261,22 @@ Erkrankung des Innenohrs mit Flüssigkeitsvermehrung der Endolymphe aufgrund von
     * sensibelstes Symptom
     * Wenn Patienten dies äußern -> Furosemid-Gabe
 
+###Diagnostik
+  * Obligat: ausführliche quantitative Erfassung der Beschwerden und der Betroffenheit der Patienten
+    * Inventare sind der klassischen Anamnese Überlegen 
+    * Betroffenheit des Patienten: z.B. **FLS-Scale** = subjektiver Eindruck des Patienten. Scala von 1 bis 6 wobei bei 1 keine alltägliche Beeinträchtigung vorliegt, bei 6 eine Krankschreibung seid über einem Jahr vorliegt
+    * Klassifikation
+      * Nach Anzahl, Häufigkeit der Symptome Einteilung in
+      * Absolut sicher, sicher, wahrscheinlicher oder Möglicher M. menière
+  * Klinische Untersuchung
+    * horizontaler Nystagmus
+    * Stimmgabelversuch: 
+      * Weber: Lateralisation ins gesunde Ohr
+      * Rinne: bds. positiv
+  * Apparative Diagnostik
+    * Tonschwellenaudiometrie: *Tieftonschwerhörigkeit*
+      * Einteilung nach Abfall im Mittelwert über 4 Frequenzen in Stadium 1-4
+
 ###Therapie
   * *Akutphase*: 
     * Bettruhe
