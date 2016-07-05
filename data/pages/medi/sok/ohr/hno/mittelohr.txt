@@ -44,6 +44,7 @@ Schädel-Hirn-Trauma →  bei 6-8% entsteht auch Felsenbeinfraktur
           * gutartiger Leistungsblock
           * mit 90% Spontanheilungsrate
     * *Otoskopie*: Trommelfellriss 
+    * *Klinischer Fall*: Patient mit orthostatischer Dysregulation -> plötzlicher hörverlust mit Hämatotympanon
 
   * **Querfraktur** (11%)
     * *Lokalisation* : Fraktur geht über Pyramidenkante
@@ -83,6 +84,7 @@ Plötzlich auftretende EZ des Mittelohres, die sich im Anschluss an einen Infekt
 
 ####Erreger
   * initial meistens Viren
+    * bei Grippeotitis: Blutblasen auf dem Trommelfell und im Gehörgang
   * im Verlauf oft bakterielle Superinfektion
     * Streptococcus pneumoniae (35%)
     * Haemophilus influenaze (25%)
@@ -97,6 +99,7 @@ Plötzlich auftretende EZ des Mittelohres, die sich im Anschluss an einen Infekt
   * Vorgewölbtes, zunehmend gerötetes Trommelfell mit vermerter Gefäßzeichnung (Phase 1)
   * Rötung und Schuppung des Trommefells, Trübung der Oberfläche, Vorwölbung in den äußeren Gehörgang (Phase 2)
   * Perforation -> Eitertropfen sichtbar (Phase 3)
+  * Stimmgabelversuch nach Rinne: ipsilateral negativ, nach kontralateral positiv. Der Stimmgabelversuch nach Rinne ist nach ipsilateral lateralisiert
 
 ####Therapie
   * Bettruhe
@@ -119,6 +122,11 @@ Plötzlich auftretende EZ des Mittelohres, die sich im Anschluss an einen Infekt
     * Druckschmerz, teigige Schwellung hinter dem Ohr
     * CT: Einschmelzung der Knochenstrukturen
     * Symptome der Otitis media
+  * *Symptome*
+    * Ohrfluss
+    * Temperaturanstieg
+    * Mastoiddruckschmerz
+    * retroaurikuläre Schwellung
   * *Komplikation*: 
     * **Subperiostaler Abszess**: Eiter entlert sich durch den weichen Knochen bis unter das Periost
     * Epiduralabszess
@@ -287,9 +295,10 @@ Es besteht eine Ähnlichkeit zum *M. paget*: Erkrankung bei der parallel Knochen
     * Weber/Rinne: Lateralisation auf das Rinne negativ getestete Ohr
     * Tonschwellenaudiometrie: Schallleitugnsgeschwindigkeit mit herabgesetzter Luftleitung v.a. bei Tiefen Tönen
   * Fehlender Stapedius-Reflex bei Beschallung mit 70dB (Impedanzaudiometrie)
-  * *Vestibulär evozierte Potenziale * (VEMP) normal
+  * *Vestibulär evozierte Potenziale* (VEMP) normal
     * DD: Fistel des oberen Bogengang zum Gehirn -> Teil der Schallenergie geht über den Bogengang verloren (sehr selten)
     * Nachweis über Schwindel-Untersuchungen
+  * Röntgenuntersuchung nach Schüller: Normalbefund mit unauffälliger Pneumatisation
 
 ####Therapie
   * Fortschritt lässt sich durch konservative Therapie nicht beeinflussen

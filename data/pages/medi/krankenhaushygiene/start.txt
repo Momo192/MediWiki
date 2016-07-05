@@ -234,7 +234,7 @@ n
     * Bereiche mit besonderem Infektionsrisiko: Desinfektion
     * Bereiche mit Paitenten, die Ereger in oder an sich Tragen -> 3. Bereich
 
-###Substanzen
+####Substanzen
   * **Alkohole**
     * Präparate:
       * n-Propanol 50-60%
@@ -313,6 +313,22 @@ n
       * Eiweißfehler: hoch
       * Hautverträglichkeit: gut
 
+####Zugelassene Desinfektionsmittel
+**DGHM-Liste**: Auflistung der zugelassenen Desinfektionsmittel mit ihrer Routinedosierung für den Standardgebrauch
+  * Haut und Händedesinfektion
+    * Alkohole
+    * Quartenäre Verbindungen
+    * Guianide
+  * Flächendesinfektion:
+    * Aldehyde
+    * Alkohol
+    * Peroxid-Verbindungen
+    * Quartenäre Verbindungen 
+    * Guanidine
+  * Instrumentendesinfektion
+    * Altdehydabspalter
+    * Quarternäre Verbindungen
+
 ###Krankheitserreger
 **Meldepflichtige Nachweise von Erregern**
   * Namentlich:
@@ -330,51 +346,9 @@ n
     * Plasmodium
     * Toxoplasmagondii (nur konatal)
 
-**Legionellen**
-  * *Vorkommen*: Warmwasserbereich und raumlufttechnischen RLT Anlagen
-  * *Epi*
-    * 4% aller Pneumonien
-    * 21 000 im Jahr
-  * Klinsiches Bild
-    * **Legionärskrankkheit**
-      * Pneumonie
-      * Letalität 12-20%
-      * Inkubationszeit: 2-10 Tage
-      * Endokarditis,Septikämien, Wundinfektionen
-    * **Pontiacfieber**
-      * Krankheitsbild: hohes Fieber
-      * Inkubationszeit: 1-3 Tage
-      * Weitere Organe: -
-  * *Prädisposition*
-    * Immunsuppression
-    * Raucher, Alkoholiker, Männer, Alter
-  * *Therapie*: Fluorchinolone
 
-###Desinfektionsmittel-Einsatz im Trinkwasserbereich
-**Desinfektionsverfahren**
-  * **Natriumhypochlorit**/ Chlor / Chlordioxide
-    * Richtwerte für Chlorung:
-      * Trinkwasser: 0,1-0,3 ppm freies Chlor
-      * Badewasser: 0,3-0,6 ppm freies Chlor
-  * **UV-Strahlung**
-    * *Anwendung*
-      * Trinkwasser
-      * nur für glatte Oberflächen
-      * Keimzahlverminderung in der Raumluft
-      * Sterile Werkbänke
-    * *Nachteile*
-      * Geringe Eindringtiefe (Objektabstand)
-      * Ozonbildung
-      * Photoreaktivierung
-      * Reflexion
-  * Ozon
-  * Ultrafiltration
-**Grenzwerte für Wasser**
-  * Frei von Krankheitserregern -> Grenzwerte
-    * E. coli: nicht in 100 ml
-    * coliforfme Keime: nicht in 100 ml
-    * Enterokokken: nicht in 100 mL
-  * Grenzwerte: Kolonienzahl < 100/mL bei 20°C
+
+
 
 ##Sterilisation
 *Definition*: Eliminierung (Beseitigung, Abtötung) aller Mikroorganismen und Inaktivierung von Viren und Prionen, die sich in oder an einem Produkt oder Gegenstand befindet
@@ -516,3 +490,49 @@ n
     * Warme Becken
       * Whirlpool-Dermatitis: Pseudomonas aeruginosa
       * Legionellose
+
+#####Legionellen
+  * *Vorkommen*: Warmwasserbereich und raumlufttechnischen RLT Anlagen
+  * *Epi*
+    * 4% aller Pneumonien
+    * 21 000 im Jahr
+  * Klinsiches Bild
+    * **Legionärskrankkheit**
+      * Pneumonie
+      * Letalität 12-20%
+      * Inkubationszeit: 2-10 Tage
+      * Endokarditis,Septikämien, Wundinfektionen
+    * **Pontiacfieber**
+      * Krankheitsbild: hohes Fieber
+      * Inkubationszeit: 1-3 Tage
+      * Weitere Organe: -
+  * *Prädisposition*
+    * Immunsuppression
+    * Raucher, Alkoholiker, Männer, Alter
+  * *Therapie*: Fluorchinolone
+
+####Desinfektionsmittel-Einsatz im Trinkwasserbereich
+**Desinfektionsverfahren**
+  * **Natriumhypochlorit**/ Chlor / Chlordioxide
+    * Richtwerte für Chlorung:
+      * Trinkwasser: 0,1-0,3 ppm freies Chlor
+      * Badewasser: 0,3-0,6 ppm freies Chlor
+  * **UV-Strahlung**
+    * *Anwendung*
+      * Trinkwasser
+      * nur für glatte Oberflächen
+      * Keimzahlverminderung in der Raumluft
+      * Sterile Werkbänke
+    * *Nachteile*
+      * Geringe Eindringtiefe (Objektabstand)
+      * Ozonbildung
+      * Photoreaktivierung
+      * Reflexion
+  * Ozon
+  * Ultrafiltration
+**Grenzwerte für Wasser**
+  * Frei von Krankheitserregern -> Grenzwerte
+    * E. coli: nicht in 100 ml
+    * coliforfme Keime: nicht in 100 ml
+    * Enterokokken: nicht in 100 mL
+  * Grenzwerte: Kolonienzahl < 100/mL bei 20°C

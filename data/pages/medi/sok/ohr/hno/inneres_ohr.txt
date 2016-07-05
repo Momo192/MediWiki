@@ -84,7 +84,7 @@ Wichtig ist das Gesetz des Abstands: Doppelter Abstand -> 1/16 des Druckes (Cave
 ##Toxischer Schaden
   * *Definition*: meist akzidentelle Überdosierung kochleo- oder vestibulotoxischer Medikamente
     * Schleifendiuretika
-    * Aminoglykosid-AB (Gentamycin)
+    * Aminoglykosid-AB (Gentamycin, Kanamycin)
     * Cisplatin
   * *Klinik*
     * akute Hörminderung bds

@@ -32,3 +32,16 @@ mechanische Schwingungen von Luftmolekülen im Frequenzbereich des menschlichen 
 
 ###Schalldruckpegel = sound pressure level (SPL)
 ####Allgemeines
+
+SPL = 20 : log (P / Po) in dB
+  * P: Druck dessen Pegel bestimmt werden soll
+  * Po:Referenzschalldruck: 2.10⁻⁵ N/m²
+    * Ursprünglich ermittelter Hörschwellendruck bei 1000 Hz
+  * *Relative Skala*: Verhältnismaß zu einem willkürlich festgelegtem Po
+  * Verhältnisse:
+    * doppelter Schalldruck -> 6dB höherer SPL
+    * 10x Schalldruck -> 20 dB höherer SPL
+    * 10 000x Schalldruck -> 80 dB höherer SPL
+    * 1 Miox Druckunterschied zwischen Hörschwelle und Schmerzschwelle
+
+####Lautstärkepegel
