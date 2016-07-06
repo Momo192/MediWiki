@@ -1,6 +1,90 @@
 #Glaskörper und Netzhaut
 ##Glaskörper
 ##Netzhaut
+###Altersbedingte Makuladegeneration (AMD)
+####Epidemiologie
+  * häufigste Erblindungsursache in den Industrie Nationen
+  * nimmt mit höherem Lebensalter zu
+    * tritt ab 50 LJ auf
+    * 20% der 80jährigen Betroffen
+    * 50% der 100 jährigen
+
+####Ätiologie
+#####Risikofaktoren
+  * Wesentlicher Risikofaktor: Alter -> degenerative Prozesse im retinalen Pigmentepithel
+  * Genetische Faktoren (Risikoerhöhung bis um das 50fache)
+    * Mutationen im *Komplementfaktor H Gen*
+    * Mutationen im *Enzym Dicer 1*
+      * baut bestimmte RNA in der Zelle ab -> Materialanhäufung in Zellen
+      * Bei AMD Patienten um 65% vermindert
+  * Vitaminarme Ernährung
+  * Rauchen
+
+#####Pathomechanismus
+  * degenerative Veränderungen im *retinalen Pigmentepithel* (RPE) und der darunter liegenden *Bruchmembran*
+  * Verklumpung oder Absterben des RPE -> darunter liegende Photorezeptoren gehen Zugrunde
+    * RPE dient auch dem Abbau von Stoffwechselprodukten der Photrezeptoren
+    * Anhäufung von Drusen = fettige Stoffwechselprodukte
+      * Verdickung der Bruch-Membran
+      * Behinderter Stofftransport vom RPE zur Aderhaut
+  * *Einteilung* nach Pathomechanismus
+    * **Trockene AMD**: Absterben von RPE-Zellen
+    * **Feuchte AMD**: Absterben von RPE-Zellen + ungünstige rekative Prozesse und choroideale Neovaskularisationen
+      * neugebildete Gefäße -> insuffizienter Wandbau -> Exsudationen und Bltuungen -> Exsudative AMD -> Ausbildung fibrovaskulärer Narbe der Makula -> schwerer Visusverlust
+
+####Klassifikation
+  * **Nicht-exsudative (trockene) AMD**
+    * ca. 80%
+    * langsam voranschreitend
+    * Merkmale
+      * RPE-Atrophie
+      * **Drusen**: Lipofuszin-Stoffwechselprdukte
+      * Pigmentverschiebungen
+    * Sehstörungen -> Beeinträchtiung der Sehschärfe
+  * **Exsudative (feuchte) AMD**
+    * entsteht aus der trockenen AMD
+    * choroidale Neovaskularisation -> Subretinale Blutungen -> Bildung von Gefäßmembranen unter der Netzhaut -> Pigmentepithelanhebung
+    * Merkmale
+      * choroidale Gefäßneubildung
+      * Blut und Exsudate
+      * Narbenbildung
+    * Schnelle Progredienz der Symptome
+
+####Klinik
+  * insbesondere das Zentrale Sehen (z.B. Lesefähigkeit) ist beeinträchtigt -> das periphere Sehen bleibt auch im fortgeschrittenen Stadium erhalten
+  * Metamorphopsien: Sehstörung mit verzerrter Wahrnehmung von Gegenständen und Räumen
+
+####Diagnostik
+  * Augenhintergrunduntersuchung
+  * **Angiographie**
+    * *Fluoreszin*: Identifikation von Gefäßneubildungen und deren Subtypen 
+    * *Indozyaningrün (ICG)*: Erkennen weiterer Details im Infrarot-Bereich
+  * **Kohärenztomographie (OCT)**
+    * pseudohystilogische Aufnahmen der Netzhaut
+    * ohne Kontrastmittel
+
+####Therapie
+Bei allen Formen: vergrößernde Sehhilfen bis hin zu Bildschirmlesegeräten
+#####Trockene AMD
+  * keine kausale Therapie
+    * Zukungstoption:
+      * Komplementblocker
+      * Alu-RNA-Inhibitoren
+  * Nahrungsergänzungsmittel -> Progression um 20% langsamer
+    * mit Vitamin C, E und Spurenelemente
+
+#####Feuchte AMD
+  * Injektion von VEGF-Inhibitoren
+    * Zielmolekül: *VEGF A*
+    * Probleme
+      * teuer
+      * wiederholte Gabe notwendig
+      * Riss des retinalen Pigmentepithels durch Zusammenziehen der Gefäße
+  * Spezielle Indikationen
+    * Laserkoagulation -> nur Extrafoveal
+    * Photodynamische Therapie
+    * Submakuläre Therapie z.B. Nethautrotation
+    * Große Blutungen: Vitrektomie
 
 ###Gefäßverschlüsse
 ###Venenthrombosen

@@ -1,0 +1,14 @@
+#Lider und Tränenwege
+##Lider
+###Entzündungen der Lider
+####Allergische Reaktionen
+  * **allergisches Lidödem**: 
+    * u.U. massiv, schnell auftretend, meist mit Bindehautbeteiligung
+      * ggf. systemisch Kortison- oder Histmingabe (Cave: Amlyopie)
+  * Atopische Dermatitis mit Staphylokokken-Superinfektion
+  * Kontaktdermatitis
+    * Durch Medikamente, Kosmetika
+    * Lidrötung, Hautinfurationen usw.
+    * Bindehautbeteiligung mit Juckreiz
+
+####Bakterielle Infektion
