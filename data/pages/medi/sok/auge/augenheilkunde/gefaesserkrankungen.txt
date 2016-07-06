@@ -7,8 +7,159 @@
     * im Verlauf: Zusammenbruch der Blut-Retina-Schranke mit Einblutungen und Exsudaten
   * *Einteilung* in 4 Stadien nach Neubauer oder Thiel
     * Ermöglicht Beurteilung des Ausmaßes der mikovaskulären Schädigung -> wichtiger Baustein in der Hypertonie-Behandlung
+      * Stadium I und II sind i.d.R. asymptomatisch
+      * Stadium III -IV: Visus-Beeinträchtigung
     * Beurteilung von Papillen, Gefäß und Parenchym
     * **I**: Verengung der Arteriolen und vermehrte Gefäßzeichnung
-    * **II**: Kreuzungszeichen, Venolen gestaut, Silberreflex der Arteriolen
+    * **II**:
+      * Kreuzungszeichen (Verschmälerung von Venen, die durch eine Kompression der kreuzenden Arterien bedingt sind), 
+      * Venolen gestaut, 
+      * Silberreflex der Arteriolen
     * **III**: Blutungen, Cotton-woo-Exsudate, Exsudate in der Makulae
     * **IV**: Papillenödem, Optikusatrophie
+  * *Therapie*: systemische Blutdrucksenkung
+
+##Retinaler Arterienverschluss
+Verschluss der Zentralarterie (*Zentralarterienverschluss*) bzw. eines Arterienastes (Arterienastverschluss) dadurch kommt es zu einer Unterbrechung der Blutzufuhr und einer akuten Erblindung bzw. dem akuten Wegfall eines Gesichtsfeldanteils
+
+###Epidemiologie
+  * Inzidenz: 1/6000/Jahr
+  * Relativ häufig da A. retina sehr klein ist und leicht verstopfen kann
+
+###Ätiologie
+  * Arteriosklerose als Risikofaktor
+  * Embolie:
+    * A. carotis
+    * Vorhöfe des Herzens
+  * Entzündungen: **Arteriitis temporalis** -> Ausschluss!!!
+
+###Symptome
+  * Zentralarterienverschluss: plötzliche einseitige, schmerzlose Erblindung
+  * Arterienastverschluss: Plötzlich Auftretende Skotome
+  * DD Apoplex: Augen abwechselnd zuhalten lassen
+    * nur ein Auge betroffen: arterieller Verschluss
+    * Beide Augen Betroffen: Apoplex-Abklärung 
+
+####Sonderform: Amaurosis fugax
+  * *Definition*: plötzlich einsetzender, Sekunden bis Minuten anhaltender, schmerzloser Funktionsverlust mit spontaner Normalisierung des Sehens, meist einseitig
+  * *Ätiologie*: meist Netzhautischämie durch einen tranisenten Verschluss der A. centralis retinae durch Mikroembolie
+    * v.a. kardiovaskulär durch kardiale Thromben
+  * *Therapie*
+    * Selbslimitierend
+    * Warnsignal -> Abklärung der Embolie-Quelle wegen Apoplex-Gefahr
+
+###Diagnostik: Ophtalmoskopie
+  * beim Zentralarterienverschluss gesamte Netzhaut betroffen, beim Arterienastverschluss lokalisierte Veränderungen
+  * Grau-weiße Verfärbung der Retina durch Ödem der Nervenfaserschicht
+  * Kirschroter Fleck in der Fovea centralis
+    * da hier keine Nervenfasern verlaufen bildet sich kein Ödem aus und die vaskularisierten, tieferen Schichten scheinen durch
+  * Enggestellte Gefäße
+    * **Cilioretinale Arterie**
+      * isolierte Arterie, ziliaren und nicht zentralen Ursprungs
+      * Wichtiger Durchblutungsvorteil bei Zentralarterien Verschluss
+
+Zusätzlich immer interdisziplinäre Abklärung von Systemerkrankungen
+
+###Therapie
+  * Sofortige Klinikeinweisung
+  * meist Frustran bei dauerhafter Schädigung der Retina nach ca. 1 Stunden
+  * Bei Erstuntersuchung nur ca. 15% der Arterien noch komplett verschlossen
+    * Lysetherapie
+    * Hämodilution 
+    * Augeninnendrucksenkung -> Perioherisierung des Thrmobus und Verbesserung der Perfusion
+  * Weiterführend: 
+    * Behandlung der Risikofaktoren 
+    * Lokalisation der Emboliequelle (Herz, Karotiden)
+    * Ausschluss einer Arteriitis temporalis
+
+###Prognose
+  * meist spontane Rekanalisation
+  * bei andauern des Verschlusses über mehrere Stunden: irrversibel
+    * Zentralarterieverschluss: hochgradiger Visusverlust
+    * Arterienastverschluss: Gesichtsfeldeinschränkung
+
+##Retinale Venenverschlüsse
+Betroffen sind die Zentralvenen oder auch nur ein Ast
+
+###Ätiologie
+  * Gefäßwandschäden durch Athrosklerose
+  * Selten
+    * Gerinnungsstörungen
+    * Vaskulitis (Kollagenosen)
+    * EZ-Thrombembolien
+    * Truamatisch usw
+  * DD: Carotis-Verschluss
+
+###Symptome
+  * langsamer Visusverlust (Schleier) und/oder Gesichtsfeldverlust
+  * Schmerzlos
+
+###Diagnostik: Fundoskopie
+  * Zentralvenenverschluss: Streifen- oder Blutungen in allen vier Netzhautquadranten
+  * Venenastverschluss: Streifen- oder punktförmige Blutungen im Stromgebiet eines Venenastes
+  * Makulaödem
+  * Cotton-Wool-Exsudate
+  * Papillenödem
+  * Ischämische Venenthrmobose:
+    * Angiographisch ausgedehnte minderperfundierte Areale
+
+###Therapie
+  * URsacheanabklärung
+  * Thrmobozytenaggregationshemmer
+  * Lasertherapie
+    * bei ischämischem Venenverschluss, Rubeosis iridis
+    * AV Makulaödem (> 3 Monate, Visus <0,5)
+  * Injektionen in den Glaskörper
+    * mit VEGF-Inhibitoren oder Steroiden
+    * bei Makulaödem durch Venenverschluss
+
+###Komplikationen bei Ischämischer Venenthrombose
+    * Gefahr der Rubeosis iridis mit Neovaskularisationsglaukom
+      * Siehe [[Rubeosis iridis]]
+    * Gefäßneubildung
+    * Netzhautablösung
+
+##Anteriore ischämische Optikusneuropathie (AION)
+###Definition
+Sehnerveninfarkt, akute DUrchblutungsstörung des Sehnerven durch "small vessel disease" der Ziliararterien in der Papille
+
+###Ätiologie
+  * *Einteilung*
+    * nichtarteriitische Form d,h. arteriosklerotisch
+    * arteriitische Form bei **Arteriitis temporalis**
+      * Cave: hohes Risiko für Befall des 2, Auges innerhalb von Tagen bis Wochen oder Verschluss eines anderen Gefäßes
+  * *Pathogenese*
+    * Plötzliche Minderduchblutung des Sehnervenkopfes durch Verlegung eines den Nerven versorgenden Blutgefäßes
+    * Rasche Verschlechterung des Sehvermögens 
+    * Schnelle irreversible Schädigung der Neurone
+      * nur sehr geringe Hypoxie Toleranz
+
+###Symptome
+  * plötzliche Visusverminderung, meist einseitig
+  * Gesichtsfelddefekt
+  * Schmerzlos
+
+###Diagnostik
+  * Wichtig ist Diagnose oder Ausschluss einer Arteriitis temporalis
+    * **hohes BSG**, höheres Alter, Kopfschmerzen, Kauschmerzen
+    * Schwerer Visusverlust
+    * A. temporalis Biopsie (Histologie: Riesenzellarteriitis)
+  * *Funduskopie*
+    * Blasse Papillenschwellung mit z.T. Blutungen
+      * ödematöse, randunscharfe Papille meist sektoriell asymmetrisch. Streifige Sehnernvendurchblutungen
+  * Gesichtsfeld: Defekt oft altidudinal durch bogenförmigen Verlauf der Nervenfasern in der Papille
+
+###Therapie
+  * Systemisch Steroide bei nicht-arteriitischer AION
+  * hochdosierte Steroidie bei arteriitischer AION -> längerfristige Cortison-Therapie erforderlich
+  * Hämodilution
+  * Behandlung der Risikofaktoren
+
+###DD
+  * Stauungspapille: oft bds, ohne Visusverminderung
+  * *Neuritis nervi optici*:
+    * vergesellschaftet mit MS
+    * Jüngeres Alter
+    * Meist keine Papillenschwellung
+    * Meist gute Erholung des Visus
+    * In der Spätphase -> Opticusatrophie

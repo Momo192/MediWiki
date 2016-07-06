@@ -1,1 +1,18 @@
 #Sehnerv und Sehbahn
+##Anteriore ischämische Optikusneuropathie 
+Siehe [[medi:sok:auge:augenheilkunde:gefaesserkrankungen#anteriore_ischaemische_optikusneuropathie_aion]]
+
+##Differenzialdiagnose Papillenschwellung
+###Stauungspapille
+  * *Definition*: Ödem an der Einmündung des Sehnervs in der Netzhaut durch Erhöhung des intrakraniellen Drucks
+  * *Fundoskopie*: beidseitig hochprominente Papillenschwellung
+    * radiäre Randblutungen
+  * *Symptome*: Kopfschmerzen, Sehrsötrungen
+  * *Prognose*: bei längerem bestehen kann es zu einer Schädigung des Sehnerves kommen
+
+###nteriore ischämische Optikusneuropathie 
+Siehe [[medi:sok:auge:augenheilkunde:gefaesserkrankungen#anteriore_ischaemische_optikusneuropathie_aion]]
+
+###Papillitis
+  * einseitige Papillenschwellung mit allmählichem Sehverlust und Schmerzen
+
