@@ -19,3 +19,102 @@ Fortschreitender glaukomatöser Sehnervenschaden (mit Vergrößerung der Exkavat
   * Myopie, dünne Hornhaut, Pseudoexfoliatio lentis
   * positive Familienanamnese
   * vaskuläre Risikofaktoren
+
+##Symptome
+Der Glaukompatient bemerkt zu Beginn der Erkrankung meist keine Einschränkung, erst bei fortgeschrittenem Schaden fällt der Gesichtsfelddefekt auf. Ausnahme ist der [[medi:sok:auge:augenheilkunde:glaukom#glaukomanfall_winkelblockglaukom]].
+  * keine subjektiven Symptome bei 60% der Patienten
+  * Atypische Subjektive Beschwerden: Brennen, Kopfschmerzen, Sehverschlechterung
+  * Stellenwert der Frühdiagnostik
+
+##Klassifikation
+  * **Offenwinkelglaukom**(ca.90%) (Kammerwinkel offen, Abflussbehinderung im Trabekelwerk)
+    * **Primäres Offenwinkelglaukom**: Augendruck > 21 mmHg
+    * Normaldruckglaukom: Augendruck < 21 mmHg
+    * okuläre Hypertension:
+      * Augendruck > 21 mmHg
+      * aber kein Glaukomschaden
+  * **Sekundäre Glaukome** (< 5%)
+    * z.B. Neovaskularisationsglaukom (Rubeosis iridis)
+    * Glaukom bei Uveitis
+    * Steroidinduziertes Glaukom
+
+##Diagnostik
+  * **Augendruckmessung**
+    * *Werte*: **Normal: 10-21 mmHg**
+      * Mittel: 15,5 mmHg
+      * Tagesdruckschwankungen < 5 mmHg
+    * *Verfahren*
+      * **Applanationstonometrie nach Goldmann** (Goldstandard)
+        * Messung der Kraft, die eine definierte Hornhautabflachung induziert
+      * Impressionstonometrie nach Schiötz
+      * Palpation bei akutem Glaukomanfall
+  * **Sehnervenuntersuchung**
+    * **glaukomatöse Exkavation** als Diagnosekriterium
+      * *Cup to disc ratio*
+      * DD: physiologische Exkavation bei großem Sehnerv
+    * Verlust von neuroretinalem Randsaum am Sehnerv
+    * Verlauf der Gefäße (Bajonett: Knicken direkt am Rand der Papille in die tiefe ab -> dort wo Gefäße sind ist kein Nerv)
+    * Papillenrandblutung
+  * **Gesichtsfelduntersuchung**
+    * automatische und statische Perimetrie
+    * Typische Gesichtsfelddefekte
+      * *Nasaler Sprung*: oben etwas kaputt, unten nicht
+      * *Bogenskotom*: oberes Gesichtsfeld weg
+
+##Therapie
+  * *Prinzip*: Augendrucksenkung nach individuellem Zieldruck
+    * Zieldruck abhängig von Alter, Geschwindigkeit der Verschlechterung
+    * dynamische Anpassung
+    * Berücksichtigung von Lebensqualität, Nebenwirkungen und lokalen Unverträglichkeit (lokale Therapie hat meist starke UAW)
+  * *Lokale medikamentöse Augendrucksenkung*; 
+    * **α-adrenerge Agonisten**: Verminderung der Kammerwasserproduktion
+    * **β-adrenerge Antagonisten** (Beta-Blocker): Verminderung der Kammerwasserproduktion
+    * **Carboanhydrasehemmstoffe**: verminderte Kammerwasserproduktion
+    * **Parasympathomimetika**: Erhöhung des Kammerwasserabflusses
+    * **Prostaglandinderivate**: Erhöhung des Abflusses
+  * *Systemische medikamentöse Augendrucksenkung*: im Notfall oder vorübergehend
+    * Carboanhydrasehemmstoffe (Azetolamid)
+    * Mannitol (osmotisches Diuretikum)
+  * *Lasertherapie*
+  * *Operative Therapie*:
+    * **Trabekulotomie**/ Fistulierende Operationen: 
+      * Kammerwasserfistel: schaffen eines neuen künstlichen Ausflusses für das Kammerwasser
+      * Es fließt aus der Vorderkoammer unter die Bindehaut -> Resorption
+      * Problematisch: Regulation der Abflussrate
+      * Kein direkter Effekt für den Patienten
+
+##Glaukomanfall (Winkelblockglaukom)
+Cave: Der Glaukomanfall ist ein Notfall - sofort zum Augenartz
+  * *Definition*: akuter Verschluss des Kammerwinkels mit massiver Augendruckerhöhung (Engwinkelglaukom)
+  * *Epidemiologie*:
+    * Frauen häufiger betroffen als Männer
+    * Alter zwischen 55 und 70 Jahren
+  * *Ätiologie*
+    * *Prädisposition*: flache Vorderkammer durch Hyperopie (kurzes Auge), Katarakt (dicke Linse), anatomisch enger Kammerwinkel
+    * *Auslöser*: Mydriasis: Verlegung des Kammerwinkels durch die Ihres und Behinderung des Durchflusses
+  * *Klinik*
+    * schmerzhaftes rotes Auge, entrundete, Lichtstarre Pupille
+    * Harter Augapfel
+    * Schmerzen auch ausstrahlen: DD akutes Abdomen, Herzindarmt
+    * Übelkeit
+  * *Therapie*
+    * Augendrucksenkung: systemisch i.v.
+      * **Mannitol**
+      * **Carboanhydrasehemmstoffe**
+    * Pilokarpin: Miosis mit Kammerwinkelerweiterung
+    * Schmerztherapie, Antiemetikum
+    * Operativ: basale Iridektome
+      * Kurzschluss hintere zu vordere Augenkammer
+
+##Kongenitales Glaukom
+  * *Definition*: angeborene Kammerwinkeldysgenesie, ggf. weitere Anomalien
+  * *Ätiologie*
+    * unvollständige Ausdifferenzierung des Kammerwinkels
+    * persistierendes embyronales Gewebe im Kammerwinkel
+  * *Klinik*
+    * **Buphtalmus** (Ochsenauge): große Hornhautradien (schöne große Augen) durch sekundäre Bulbusvergrößerung
+    * ggf. Hornhauttrübung, Myopisierung, andere Anomalien
+  * *Therapie*
+    * Operativ: Trabekulotomie: Eröffnung des Kammerwinkels
+      * Prognose stark abhängig vom Erfolgt der 1. OP
+    * Ablyopieprophylaxe 

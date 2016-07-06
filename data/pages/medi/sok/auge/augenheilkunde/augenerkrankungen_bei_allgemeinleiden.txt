@@ -1,0 +1,4 @@
+#Augenerkrankungen bei Allgemeinleiden
+##Diabetes mellitus
+##Arterielle Hypertonie - Fundus hpertonicus
+Siehe: [[medi:sok:auge:augenheilkunde:gefaesserkrankungen#fundus_hypertonicus]]

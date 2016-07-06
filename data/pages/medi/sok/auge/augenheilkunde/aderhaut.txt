@@ -1,0 +1,131 @@
+#Aderhaut
+##Tumore
+  * 90% der Fälle keine Symptome
+  * manchmal Sehverschlechterungen
+  * Selten: Schielen, Größen- und Farbveränderungen des Auges
+
+###Aderhautnävus
+  * *Definition*: Ansammlung pigmentierter Zellen in der Aderhaut ohne pathologische Relevanz
+  * *Epidemiologie*: 10% aller Augen
+  * *Klinik*
+    * selten Größenwachstum
+    * Insbesondere keine oder nur geringe Prominenz
+    * dunkle wenig bis gar nicht erhabene Läsion unter der Netzhaut
+      * spindellige Zellen mit hyperchromatischen Kern, wenig Zytoplasma und ohne Malignitätszeichen
+  * *Entartungsrisiko*: in sehr seltenen Fällen Entartung zum Aderhautmelanom
+  * *Therapie*: 
+    * Beobachtung mittels photographischer Fundusdokumentation
+
+###Aderhautmelanom
+Häufigster intraokularer primär maligner Tumor. Nicht mit dem kutanen Melanom verwandt. Die Inzidenz beträgt 0,8/ 10 000/Jahr
+
+####Pathognese
+#####Ätiologie
+  * Aderhautnävus
+  * okuläre Melanose
+  * Dysplastisches Nävussyndrom
+  * Neurofibromatose
+  * manchmal Chromosomenabberationen im Tumor z.B. Monosomie 3 -> ungünstige Prognose
+
+#####Pathogenese
+  * knotenförmiges Wachstum unter der Retina
+  * gehen von maligne transformierten Melanozyten der Aderhaut aus
+  * Durchstoßen die Bruchmembran und wölben sich in den Glaskörper vor -> Champignon-Koniguration
+  * Können die Sklera infiltrieren und nach außen durchbrechen
+  * können vom Ziliarkörper ausgehen oder ihn infiltrieren
+
+####Morphologie
+  * *Makroskopie*: prominente meist dunkle, selten aber auch farblose oder gelblich-weiße Läsionen unter der Netzhaut
+    * evtl. amelanotisches Melanom
+  * *Histologie*: 
+    * spindelförmige Typen -> hohe Differenzierung
+    * epitheloider Typ -> niedrige Differenzierung
+    * gemischte Formen
+
+####Klinik
+  * meist Zufallsbefund
+  * Sehbescherden- oder Verschlechterung oft als später Befund
+  * Glaukom mit Schmerzen
+  * Größe und/oder Farbveränderung des Auges
+  * Seröse Netzhautablösung
+  * dilatierte episklerale Gefäße
+
+####Diagnostik
+  * Funduskopie
+  * **Diaphanoskopie**:
+    * Kaltlichquelle wird auf das Auge gesetzt:
+      * Sklera leuchtet rot zurück
+      * Tumor wird als Verdunkelung sichtbar
+    * DD Blutung: bildet keinen Schatten
+  * Ultraschall zur Größenbestimmung und Therapieplanung
+  * Staging
+    * CT
+    * MRT
+
+####Therapie
+  * Größen- und Lageabhängig
+  * Strahlentherapie
+    * *Brachytherapie* mittels Aufnähen eines episkleralen Rutheniumplaque -> Goldstandard
+      * bei Tumorprominenz bis 6,5 mm
+      * ansonsten ist die benötigte Strahlendosis zu hoch
+    * Gamma-Knife-Bestrahlung
+    * Protonen-Bestrahlung
+  * Operativ
+    * Resektion: Endo- oder Exorektion: Bulbuserhaltend (Vorbestrahlung)
+    * Enukleation: bei sehr großen Tumoren und massiven Entzündungen
+  * Weitere:
+    * Thermotherapie
+    * Beobachtung
+    * keine bekannte wirksame Chemotherapie
+
+####Prognose
+  * 5-J-ÜLR: 75%
+  * Abhängig von
+    * Tumorgröße
+    * Lokalisation
+    * histologischer Typ
+    * Genetik (Monosomie 3)
+    * Sklera Durchbruch
+  * Metastasen
+    * Leber, seltener Lunge oder ZNS
+    * Können auch noch Jahre nach erfolfreicher Therapie auftreten
+
+###Weitere Tumoren des Auges
+  * Pigmentepithelhyperplasie
+    * Bärentatzen-ähnlich
+    * gutartig
+  * Melanozytom der Papille
+
+####Aderhautmetastasen
+  * Häufigste maligne Läsionen im Auge des Erwachsenen bei
+    * Bronchial-Ca
+    * Mamma-Ca
+    * Lymphome
+  * *Makroskopie*
+    * prominente Läsion unter der Netzhaut
+    * meist nicht so dunkel wie das Melanom
+  * *Diagnostik*: Primariussuche
+  * *Therapie*: Bestrahlung oder Chemotherapie
+
+####Lymphome
+  * *Definition*: weißliche Herde in der Aderhaut, oft assoziiert mit cerebralem Lymphom
+  * *Einteilung*
+    * orbital: niedrig maligne Non-Hodgkin-Lymphome
+    * Intraokuläre Lymphome: hochmaligne ZNS-Lymphome
+  * *Diagnostik*: ggf. Biopsie der Aderhaut
+  * DD: entzündliche Veränderungen z.B. Uveitis
+
+####Hämangiome
+#####Hämangiom der Aderhaut
+  * prominente rötliche Läsion unter der Netzhaut
+  * *Diagnostik*: Angiographie
+  * *Therapie*
+    * Beobachtung
+    * bei Verschlechterung: Photodynamische Therapie
+
+#####Kapilläres Hämangiom
+  * *Ätiologie*: Syndromal im Rahmen von M. Hippel-Lindau
+    * Mit Gefäßtumoren im ZNS, WS und NNR
+    * VHL-Gen
+  * *Morphologie*: gut abgrenzbarer Gefäßtumor mit sehr breitem zu- und abführendem Gefäß
+  * *Therapie*: Laserkoagulation

@@ -1,0 +1,14 @@
+#Gefäßerkrankungen
+##Fundus Hypertonicus
+  * *Definition*: hypertoniebedingte Veränderung der retinalen Gefäße
+    * häufig einhergehend mit areriosklerotischen Gefäßveränderungen (*Fundus arterioscleroticus*)
+  * *Pathophysiologie*: 
+    * reaktive Gefäßverengung (Vasospasmus)
+    * im Verlauf: Zusammenbruch der Blut-Retina-Schranke mit Einblutungen und Exsudaten
+  * *Einteilung* in 4 Stadien nach Neubauer oder Thiel
+    * Ermöglicht Beurteilung des Ausmaßes der mikovaskulären Schädigung -> wichtiger Baustein in der Hypertonie-Behandlung
+    * Beurteilung von Papillen, Gefäß und Parenchym
+    * **I**: Verengung der Arteriolen und vermehrte Gefäßzeichnung
+    * **II**: Kreuzungszeichen, Venolen gestaut, Silberreflex der Arteriolen
+    * **III**: Blutungen, Cotton-woo-Exsudate, Exsudate in der Makulae
+    * **IV**: Papillenödem, Optikusatrophie
