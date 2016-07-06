@@ -1,0 +1,148 @@
+#Orbita
+##Anatomie
+  * nach innen hin spitz zulaufender knöcherner Trichter
+    * vorne durch den Bulbus oculi und das Septum orbitale begrenzt
+    * nger Kontakt zu den Nasennebenhöhlen
+  * Volumen: 30 mL
+    * 7mL Bulbus oculi
+  * Unterscheidung 
+    * Extrakonalraum: Zwischen knöcherner Orbita und gerade Augenmuskel
+    * Intrakonalraum: Inhalt zwischen den geraden Augenmuskeln
+e
+##Stumpfes Trauma
+Memo: Entweder der Bulbus "gibt nach" (eher selten), oder die knöchernen Strukturen, sehr selten beides
+
+###Bulbusverletzung (Contusio bulbi)
+  * *Definition*: Prellung des Auges. Ein stumpfes Trauma führt zu Kontusionszeichen im Augeninneren. Die Augapfelhülle ist nicht aufgeplatzt
+  * *Pathomechanismus*
+    * Vorderkammerreiz ->
+    * Augeninnendruck zu hoch durch Zelldetritus -> Verlegung des Kammerwinkels
+      * Augeninnendruck zu niedrig: 
+        * Trauma des Ziliarkörpers durch Verminderung der Perfusion 
+        * Reduzierung der Kammerwasserproduktion
+    * Pupillenfunktionsstörung und -entrundung
+      * Iris ist sehr vulnerabel
+      * M. sphincter pupillae stellt Funktion ein
+        * bezüglich der arteriellen Versorgung: letzte Wiese
+    * Berlin-Ödem der Netzhaut
+      * Wassereinlagerung -> Verdickung der Netzhaut -> Aderhaut schimmert nicht gut durch
+    * Bulbusberstung
+  * *Therapie*
+    * Vorderkammerreiz antiinflammatorisch behandeln
+    * Augeninnendruck regulieren
+
+###Frakturen der knöchernen Orbita
+  * Meist **Orbitabodenfraktur**
+  * *Pathomechanismus*: 
+    * Dehnungs- und Kontraktionsbehinderung des *M. rectus inferius*
+    * Dadurch zurückbleiben des betroffenen Auges bei Auf- und Abblick.
+      * Aufblick: Tieferstand
+      * Abblick: Höherstand = **VD-Umschlag**: Umschlag der Vertikaldeviation
+    * Bei Erwachsenen: Einklemmung von Orbitasepten im Bruchspalt, die mit dem M. rectus inferior verbunden sind
+    * Kinder: echte Einklemmung des M. rectus inferior im Sinne einer trap-Door Fraktur
+  * *Symptome*
+    * Doppelbilder mit VD-Umschlag (Siehe Pathomechanismus)
+    * Sensibilitätsstörungen V2
+    * Lidhämatom 
+      * fast immer assoziiert mit einer Jochbeinfraktur
+  * *Therapie*: 
+    * Patienten mit Doppelbildern oder Sensibilitätsstörungen sollten operativ behandelt werden
+a
+##Endokrine Orbitopathie
+Autoimmunerkrankung des orbitalen Weichteilwewebes, entzündliche Veränderungen der Tränendrüse, des Orbitalfettes und der äußeren Augenmuskeĺn
+
+###Epidemiologie
+  * häufigste immunologische Orbitaerkrankung
+    * 2.3% aller Frauen,
+    * 0,2-0,3% der Männer
+  * Assoziiert mit M. basedox und Hashimoto-Thyroiditis
+    * 1/3: erst Schilddrüsenbefall dann Orbitabefall (nach Wochen, bis Monaten)
+    * 1/3: gleichzeitiges auftreten
+    * 1/3: erst Orbitabefall
+    * sehr selten isolierter Orbitabefall möglich
+  * kann einseitig oder einseitig betont vorkommen und dann TUmoren oder Gefäßfisteln im Sinus cavernosus vortäuschen
+
+###Ätiologie
+  * Erkrankung des Immunsystem bei genetisch prädisponierten Individuen
+    * psychischer Stress und Umweleinflüsse als Triggerfaktoren
+  * Toleranzverlust des Immunsystems gegenüber thyreoidalen Antigenen -> Bildung von TRAK-AK
+    * ibs. TSH-Rezeptor
+    * TSH-Expression
+      * Schilddrüse
+      * Orbitales Bindegewebe, Fettgewebe und Tränendrüsengewebe
+      * prätibiales Gewebe -> Myxödem
+  * TRAK-Auto-AK-Bildung -> Expansion TSH-spezifischer T-Zellen
+    * Zunahme des orbitalen Gewebevolumens mit Infiltration von T-Zellen
+    * Zunehmende Akkumulation von hydrophilen GAG
+    * wachsende Orbitale Raumnot
+  * Mechanische Komplikationen: Gewebshypoxie -> Azidose -> oxidative Schädigungsmechanismen
+
+###Klinik
+  * Initial: 
+    * Druckgefühl
+    * Tränen
+    * Brennen
+    * Chemose der Bindehaut
+    * Präseptale Lidschwellung
+    * evtl. Doppelbilder
+  * **Augenmuskelbefall**
+    * R. inferior > R, internus, M. levator palpebrae
+    * Verdickung der Muskeln durch lymphozytäre Infiltration und Einlagerung von sauren Polysachariden -> dann Vernarbung mit eingeschränkter Dehnungsfhähigkeit **Restriktion**
+    * Kontraktionseinschränkung durch Entzündung und Dehnungsbehinderung durch Fibrose 
+      * R. inferior -> Abduktion betroffen
+      * M. levator palpebrae -> Oberlidretraktion
+  * **Lidretraktion**
+    * *Echte Lidretraktion* durch Restriktion
+      * weitere Lidspalte, scheinbar weiter vorstehendes Auge
+      * *Von-Gräfe-Zeichen*: Beim Abblick bleibt das Oberlid zurücl
+      * *Dalrymple-Zeichen*: beim Geradeausblick ist oben das Skleraweiß sichtbar
+    * *Pseudolidretraktion*
+      * durch erhöhten Sympathikotonus bei hyperthyreoter Stoffwechsellage -> Lidspalte weit offen
+      * Kontraktur des M. rectus inferior
+        * bereits beim Geradeausblick muss der R. superior deutlich stärker innerviert werden
+        * diese Innervation ist mit dem M. levator palpebrae synchronisiert -> Steigerung der Lidspaltenweite
+  * **Raumnot**
+    * Straffes Septum orbitale
+      * bei Männern
+      * nur geringe Protrusio bulbi aber erhöhter intraorbitaler Druck -> 
+      * Perfusionsstörung des N. opticus -> Orbitopathien (Erblindung)
+    * Schlaffes Septum orbitale
+      * Frauen
+      * Protrusio bulbi aber nur mäßige intraorbitale Drucksteigerung
+  * *Mechanische Komplikationen*
+    * Wie bei Kompartmentsyndrom: Gewebedrucksteigerung bei geschlossenem Muskelkompartiment -> Minderdurchblutung
+    * Neuromuskuläre Funktionsausfälle und Muskelnekrosen
+
+###Stadieneinteilung nach Werner
+  * Cave: keine zeitlich Aufeinanderfolgende, wenig kausale Differenzierung aber weit verbreitet
+  * I: Oberlidreatrkiotn und Konvergenzschwäche
+    * bei Patienten mit mildem Verlauf: nur Oberlidretraktion
+    * Konvergenzschwäche durch Befall der M. interni (erst spät im Verlauf auftretend)
+  * II: Zusätzlich Chemosis, Lidschwellung, Tränenfluss, Photophobie und retrobulbäers Druckgefühl
+    * meisten Symptome sind initiale Zeichen der EZ und der Aktivität
+  * III: Zusätzlich Protusio bulbi
+    * Hertel Exophtalmeter > 20 mm
+  * IV: zusätzlich Sehverschlechterung und Diploplir
+    * Sehverschlechterung durch schlechten Tränenfilms + Perfusionsstörung des N. opticus
+  * V: Zusätzlich Lagophtalmus mit Horhautbeteiligung
+    * Lidschlussdefekt -> Benetzungsstärung -> Ulcus -
+    * Wichtigkeit von Tränenersatzmitteln
+  * VI: Sehverlust durch Opticus-Kompression
+
+###Therapie
+
+  * Mild: Verlauf abwarten, ggf. Lymphdrainage
+  * Lidretraktion
+    * benetzende Augentropfen
+
+    * Lidverlängerungs-OP (nicht bei florider EZ)
+  * Floride EZ = Aktustadium: Cortison-Stoß-Therapie (i.v. Pulstherapie)
+  * Exophtalmus / retrobulbäre Volumenvermehrung
+    * Orbitadekompression
+    * Orbitafettresektion
+    * Retrolbärbestrahlung
+  * Motilitätsstörung, Doppelbilder
+    * Floride: Ausgleich mit Prismen, Okklusion eines Auges
+    * Später Augenmuskelchirurgie
+  * Visusminderung durch Perfusionsstörung des N. opticus
+    * hochdosiert Steroide i.v. und OP

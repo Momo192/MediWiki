@@ -1,6 +1,99 @@
 #Glaskörper und Netzhaut
 ##Glaskörper
 ##Netzhaut
+
+###Gefäßverschlüsse
+###Venenthrombosen
+Siehe [[medi:sok:auge:augenheilkunde:gefaesserkrankungen#retinale_venenverschluesse]]
+
+###Zentralarterienverschluss
+Siehe [[medi:sok:auge:augenheilkunde:gefaesserkrankungen#retinaler_arterienverschluss]]
+
+###Diabetische Retinopathie
+####Epidemiologie
+  * häufigste Erblindungsursache im erwebsfähigen Alter in den Industrienationen
+  * *Mortalität*
+    * 50% aller erblindeten Diabetiker sterben innerhalb von 5 Jahren nach der Erblindung
+    * nur 20% überleben die Erblindung um mehr als 10 Jahre
+  * *Inzidenz*
+    * nach 20 Jahren haben 95% der Diabetika eine diabetische Retinopathie
+    * 50% eine proliferative diabetische Retinopathie
+    * 20% eine diabetische Makulopathie
+
+###Ätiologie
+####Risikofaktoren
+  * Typ I-Diabetiker -> proliferative DR
+  * Typ II-Diabetiker -> diabetische Makulopahie
+  * Alter und Dauer des DM
+  * SS
+  * Diabetische Nephropathie
+  * Nikotinabusus
+
+####Pathogenese
+  * Hyperglykämie -> Glykosilierung von Kollagen -> Verdickung der Basalmembran -> Perizytenverlust und Endothelschwund -> 
+  * Mikroangiopathie der Netzhaut mit
+      * Kapillarverschlüssen, Mikroaneurysmen, Ödemen -> Ischämie
+      * Hypoxie -> VEGF-Ausschüttung -> *Retinale Gefäßneubildung* -> Verschlimmerung
+        * durch ungerichtetes Wachstum
+        * Infiltration der Glaskörperrinde -> Glaskörperblutung
+          * Fibrose
+          * Kontraktion ->Traktive Amtio
+
+####Klassifikation
+  * **Nicht-proliferative diabetische Retinopathie** (NPDR)
+    * keine Neovaskularisation
+    * *Fundusbefund*:
+      * Mikroaneurysmen
+      * Blutungen
+      * harte Exsudate (Lipidablagerungen)
+  * **Proliferative Diabetische Retinopathie**
+    * *Fundusbefund*: Neovaskularisationen
+    * *Komplikationen*:
+      * Makulaödem
+      * traktive Netzhautablösung
+      * Glaskörperblutung
+      * Rubeosis iridis mit Sekundärglaukom
+  * **Diabetische Makulopathie**
+    * Klinsich signifikante Ansammlung von extrazellulärer Flüssigkeit im Bereich der Makula
+      * *Makulaödem*
+      * *ischämische Makulopathie*
+    * *Einteilung*
+      * diffus: diffuse Leckage aus dilatierten Kapillaren
+      * Fokal: Leckage aus Mikroaneurysmen -> Harte Exsudate
+      * Klinisch signifikantes Makulaödem -> Erblindungsrisiko
+
+####Diagnostik
+  * Visus
+  * Fundusphotographie
+  * Fluoreszenz-Angriographie zur Detektion von Gefäßanomalien
+
+####Therapie
+  * *Allgemein*
+    * Gewichtsreduktion
+    * Blutzucker- und Blutdruckeinstellung
+    * Schulung
+  * *Milde NPDR*: Kontrolle
+  * *Fortgeschfrittene NPDR + proliferative DR*:
+    * **Laserkoagulation**: Zerstörung von hypoxisch-ischämischen Netzhautarealen -> Reduktion der VEGF-Produktion -> Suppression des GEfäßwachstums
+  * *Makulaödem*: 
+    * intravitriale Injektion von 
+      * VEGF-Hemmern (Ranibizumab)
+      * Steroide 
+        * langwirksame kristalline Steroide
+        * synthetische Kortikoisteroid-Derivate
+    * Fokale Laserkoagulation
+  * *Komplikationen*
+    * Glaskörperblutung: **Vitrektomie**
+    * Traktive Netzhautablösung: Vitrektomie mit chirurgischer Etnlastung der Traktion
+    * Rubeosis iridis und Sekundärglaukom:
+      * Lasertherapie -> VEGF-Hemmung
+      * Vitrektomie mit Silikonältamponade
+      * Drucksenkung: 
+        * medikamentös 
+        * operativ
+          * Lasercyclodestruktion
+          * Glaukomimplantate
+t
 ###Retinoblastom
 ####Epidemiologie
   * häufigster maligner intraokularer Tumor im Kindesalter

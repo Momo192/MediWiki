@@ -115,7 +115,7 @@ Betroffen sind die Zentralvenen oder auch nur ein Ast
 
 ###Komplikationen bei Ischämischer Venenthrombose
     * Gefahr der Rubeosis iridis mit Neovaskularisationsglaukom
-      * Siehe [[Rubeosis iridis]]
+      * Siehe [[medi:sok:auge:augenheilkunde:gefaesserkrankungen#rubeosis_iridis]]
     * Gefäßneubildung
     * Netzhautablösung
 
@@ -163,3 +163,31 @@ Sehnerveninfarkt, akute DUrchblutungsstörung des Sehnerven durch "small vessel 
     * Meist keine Papillenschwellung
     * Meist gute Erholung des Visus
     * In der Spätphase -> Opticusatrophie
+
+##Rubeosis iridis
+  * *Definition*: 
+    * Verstärkte Proliferation der Blutgefäße der Iris und des Augenkammerwinkels. 
+    * Pathologische Neovaskularisation der Iris, die in der Regel durch ischämische Erkrankungen der Netzhaut bedingt ist
+    * Folgesymptom verschiedener Augenerkrankungen
+  * *Pathogenese*:
+    * Sauerstoffmangel 
+      * Diabetische Retinopathie, 
+      * zentraler Venenverschluss
+      * Karotisverschluss mit ischämischer Ophtalmopathie -> 
+    * Ausschüttung VEGF -> wird durch Kammerwasser zur Iris gespült -> Neubildung von Blutgefäßem
+  * *Komplikationen*
+    * keine funktionellen Gefäße
+    * Blutansammlung in der Vorderkammer (Hyphäma) -> Sehverschlechterung
+    * Sekundärglaukom
+
+##Weitere Gefäßerkrankungen
+###Ischämische Ophthalmopathie
+  * *Definition*: Bei Carotisverschluss: Retinaschäden durch chronische Ischämie
+    * Zudem Neovaskularisationsglaukom bei Rubeosis iridis
+  * *Diagnostik*: Blutungen in der mittleren Peripherie der Netzhaut
+  * *Therapie*
+    * Carotis-OP
+    * Bei Neovaskularisation: Lasertherapie
+
+###Retinbeteiligung mit Blutungen bei Leukämie
+###Glaskörperblutungen bei Sichelzellanämie
