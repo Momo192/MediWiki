@@ -1,0 +1,21 @@
+#Glaukom
+##Definition
+Fortschreitender glaukomatöser Sehnervenschaden (mit Vergrößerung der Exkavation) durch individuell zu hohen Augendruck- Glaukom gehört zu den häufigsten Erblindungsursachen Weltweit (15-20% der Blinden)
+)
+##Ätiologie
+###Pathomechanismus
+  * mechanische (durch Augendruck) und vaskuläre (durchblutungsbedingte) Schädigung des Sehnervens
+  * **Nervenfaserbündeldefekte**
+    * führen zu korrespondierenden Gesichtsfelddefekten
+      * Der Nervenfaserverlauf hat physiologisch eine horizontale Raphe (die Nervenfasern respektieren die Hotizontale) -> daher ergibt sich bei Glaukom meist ein typischer asymmetrischer Schaden in der oberen vs. der unteren Gesichtsfeldhälfte
+  * Charakteristischer Umbau des N. opticus: **Exkavation**
+    * Papille hat in der Mitte physiologisch eine Vertiefung, in der kaum Nervenfasern zu finden sind
+    * Eine Vergrößerung dieser Exkavation ist für das Glaukom charakteristisch
+
+###Risikofaktoren
+  * Augendruck
+  * schwarze Rasse
+  * Alter 
+  * Myopie, dünne Hornhaut, Pseudoexfoliatio lentis
+  * positive Familienanamnese
+  * vaskuläre Risikofaktoren

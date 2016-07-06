@@ -1,0 +1,161 @@
+#Linse
+##Anatomie
+###Eigenschaften
+  * avaskulär
+  * zwiebelschalenartiger Aufbau: von innen nach außen
+    * Alterskern: Wahcstum und zunehmende Verdichtung der Linse im Laufe des Lebens
+    * Linsenrinde
+    * Linsenkapsel
+  * Aufhängung über Zonulafasern auf dem Ziliarkörper
+
+###Funktion
+  * Lichtbündelung auf die Netzhaut
+  * Transparenz
+  * *Akkomodation*:
+    * Anspannung des Ziliarmuskels -> Entspannung der Zonulafasern -> Linse kogelt sich ab
+    * Dadurch Zunahm der Brechkraft -> Nahakkomodation
+    * zusätzlicher Effekt durch axiale Vorverlagerung
+
+##Presbyopsie
+  * Verlust der Akkomodation, bedingt durch die Dichtezunahme und damit Abnahme der Elastizität der Linse
+  * bei Emmerotropen: Lesebrille
+
+##Ectopia lentis (Verlagerung)
+  * *Definition*: Verlagerung der Linse aus der normalen Position, bis hin zum Absturz in das Auge
+  * Erworben: *Linsenluxation*: mechanisch oder traumatisch
+  * Kongenital:
+    * ohne oder mit systemischer Assoziation
+
+##Entwicklungsstörungen
+  * Lenticonus anterior/posterior
+  * Lentiglobus
+  * Mikrosphärophakie, Mikrophakie
+  * Kolobom
+  * Ektopie
+
+##Linsentrübung (Katarakt, grauer Star)
+###Epidemiologie
+  * Die nicht behandelte Katarat stellt die zweithäufigste Ursache einer Sehschwäche bzw. Erblindung weltweit da. 
+  * Die Kataraktoperation ist der häufigste Eingriff Weltweit
+  * Einteilung:
+    * Kongenitaler Katarakt < 1%
+    * Erworbene Katarakte 99%
+      * senil
+      * bei Systemerkrankungen
+      * sekundärerer Katarakt
+
+
+###Kongenitaler Katarakt
+  * *Lokalisation*: 2/3 bilateral
+  * *Ätiologie*
+    * genetisch
+    * Chromosomen Anomalien (Trisomie 21), skelettale Syndrome (z.B. Hallermann, Streiff-Fraincais-Syndrom)
+    * Intrauterine Infekte und Schäden (z.B. Rubella, Toxoplasmose usw)
+    * Systemerkrankungen (z.B. Galaktosämie)
+  * *Symptome*
+    * **Leukokorie**: weißer Lichtreflex der Pupille -> Diagnostik im Brückner-Test
+    * Strabismus, Nystagmus, verzögerte motorische Entwicklung
+    * *Cave*: Gefahr der Amblyopieentwicklung (Deprivationsamblyopie)
+  * *Therapie*
+    * frühe Kataraktextraktion
+    * Vorbeugung der Amblyopie
+
+###Erworbener Katarakt
+####Risikofaktoren
+#####Major-risk Faktoren
+  * Diabetes
+  * Drogen
+  * Tageslicht (UVB)
+  * Dehzydrogenase Mangel 
+
+#####Minor risk Faktoren
+  * Dehydratation
+  * Mangelernährung
+  * Unbekannt
+
+####Altersbedingter Katarakt
+#####Verschiedene Trübungsformen
+  * **Kernkatarakt**: Kerverdichtung ggf. auch Myopisierung durch Brechkraftzunahme
+  * **Rindenkatarakt**: häufigste Form
+    * Radspeichenartige Trübung der Rindenschicht
+    * Wasserspeichen
+    * Vakuolen
+    * Christbaumschmuck
+  * hinterer subkapsulärer Katerakt
+  * weitere vielfältige Trübungsformen
+
+#####Symptome
+  * Sehverschlechterung
+  * Grau-in-Grau-Sehen
+  * Zunehmendes Blendungsempfinden
+  * schleichender Verlauf
+
+#####Reifung der Katarakt
+  * beginnend bis fortschreitend, bei *teilweiser Trübung*
+  * **mature Katarakt** bei vollständiger Trübung
+    * komplett brauner Kern (Cataracta rubra)
+    * komplette Weißfärbung der Rinde
+    * Beides
+    * Visus auf Lichtwahrnehmung reduziert
+  * **Hypermature Katarakt** = Morgagni
+    * Rinde Verflüssig
+    * Karn abgesunken
+    * Kapsel geschrumpft
+    * Platzen der Kapsel -> Entleerung des verflüssigten Materials in das Augeninnere -> phakolytisches Glaukom oder Uveitis möglich (Linsenmaterial war in der Entwicklung vom Immunsystem abgeschirmt)
+
+####Sekundärer Katarakt
+  * *medikamentös*: z.B. Steroidkaratarkt -> hintere kapsuläre Trübung
+  * *Glaukomanfall*: Glaukomflecken sichtbar
+  * *Contusio lentis*: Kontusionsrosetten sichtbar
+  * *Z.n. Vitrektomie*: beschleunigte Linsenalterung durch erhöhte Sauerstoffspannung im Galskörper
+  * *Strahlung*: IR, ionisierend ab 4 Gy
+
+####Katarakt bei Systemerkrankungen
+  * *Diabetes*: 
+    * Refraktionsschwankungen durch Quellung der Linse
+    * Akkomodationsschwankungen
+    * Schneeflockenartige Trübung
+  * *Myotonische Dystrophie*: Ptosis, Atemmuskeln
+  * Atopische Dermatitis
+
+###Kataraktoperationen
+  * *Grundlagen*: Trübung und Verdichtung der Linse praktisch irreversibel -> keine konservative Therapie
+  * *Strategien der Linsenentfernung*
+    * historisch: Starstich: 
+      * Linse wird mit einer erhitzten Nadel nach hinten ins Auge gedrückt
+      * einer der ältesten operativen Eingriffe bis ins 18Jhd. prkatiziert
+    * Entfernung der Linse oder des Kernes mitsammt Kapsel = **Intrakapsuläre Kataraktextraktion = ICCE**
+      * geht mit einem Verlust der Linsekapsel und der Zonula einher
+      * erfordert einen sehr großen Schnitt
+    * Entfernen der Linse oder des Kernes untere Belassen des Kapsel (**Extrakapsuläre Kataraktextraktion**)
+      * *Vorgehen*
+        * Eröffnung der Kapsel
+        * Entfernung von Kern oder Kernteilen
+        * Rinde wird abgesaugt
+        * Intraokularlinse wird implatiert
+      * *Anwendung*
+        * Industrieländer: bei sehr hartem Kern
+        * Entwicklungsländer: geringerer apparativer Aufwand
+    * Intraokulare Verflüssigung der Linse unter Belassen der Kapsel = **Phakoemulsifikation**
+      * Kleiner Schnitt -> Eröffnung der Kapsel
+      * Kern wird gebrochen -> Zerklenierung mittels Ultraschallzertrümmerung
+      * Standard in Industrieländern
+  * Nach Entfernung der Linse besteht Linsenlosigkeit: **Aphakie**
+    * Folge: Hyperopie mit nur schemenhaftem Sehen
+    * Korrektur:
+      * *Starrbrille* = starke Plusgläser (13 Dpt)
+      * *Kontaktlinsen*: bei kleinen Kindern
+      * Implantation einer **Intraokularlinse**
+        * Möglichkeiten
+          * Starre Modelle aus Plexiglas -> großer Schnitt notwendig -> ECCE
+          * flexible Modelle aus Silikon oder Acrylat -> kleinerer Schnitt wegen Faltbarkeit -> Phakoemulsifikation
+          * Irisbasierte Linsen
+        * Vorgehen:
+          * Fixation in der Capsel der Linse gelegentlich im Sulcus ciliaris (zwischen Kapsel und Iris)
+          * Folge: **Pseudoaphakie**
+        * Komplikationen
+          * Nachstar: 30%
+          * Schwere Komplikationenen selten
+            * Infektion (0,08%)
+            * Amotio retina
+          * Verlust der Akkomodationsfähigkeit
