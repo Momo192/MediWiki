@@ -2,3 +2,58 @@
 ##Iris
 ###Gefäßneubildung der Iris
 Siehe [[medi:sok:auge:augenheilkunde:gefaesserkrankungen#rubeosis_iridis]]
+
+###Uveitis
+####Klassifikationen
+#####Anatomische Klassifikation
+  * **Uveitis anterior**: EZ der Iris und/oder des Ziliarkörpers
+  * **Uveitis intermedia**: EZ des Glaskörpers und der Iris
+  * **Uveitis posterior**: EZ von Aderhaut und Ntzhaut
+
+#####Ätiologische Klassifikation
+  * Assoziiert mit einer systemischen Erkrankung z.B. Sarkoidose
+  * Infektion mit
+    * Bakterien z.B. Tuberkulose
+    * Pilzen z.B. Candidiasis
+    * Viren z.B. Herpes zoster
+  * Infestation mit Protozoen z.B: Toxoplasmose oder Nematoden z.B. Toxocariasis
+  * idiopathische, spezifische Uveitiden:
+    * nicht miteinander verwandte Krankheitsbilder
+    * ohne zugrunde liegende Erkrnakung
+    * mit eigenen speziellen Charakteristika
+    * z.B. Fuchs-Uveitis-Syndrom
+
+#####Klinische Klassifikation
+In Abhängigkeit von Beginn und Dauer Einteilung in eine **akute** und eine **chronische** Form.
+
+#####Morphologische Klassifikation
+  * **Fokal**: einzelne Entzündungsherde z.B. Toxoplasmose
+  * **multifokal**: mehrere, separate Herde z.B. Birdshot-Retinochoriodopathie
+  * **geographisch**: große, konfluierende EZ-Gebiete z.B. Zytomegalie, Virurtinitis
+
+####Uveiitis anterior
+  * *Definition*: EZ der Iris und/oder des Ziliarkörpers
+  * *Ätiologie*: 
+    * immunologische Erkrankungen: M. Bechterew, M. Reiter, Sarkoidose, Arhthritis
+    * Infektiös: Lues, Borreliose usw.
+    * idiopathisch
+  * *Symptome*
+    * **akute anteriore Uveitis**:
+      * Schmerzen
+      * Photophobie
+      * *Ziliare Injektion*: Hyperämie der limbalen Gefäßen
+      * Zellablagerungen am Hornhautendothel
+        * bei sehr starker zellulärer Reaktion *Hypopion* möglich: Spiegel von Zellen im Kammerwinkel unten
+      * Positives *Tyndall-Phänomen* in der Vorderkammer durch hohen Proteinanteil im Kammerwasser
+      * *Hintere Synechien*: bei rezidivierenden Formen kommt es zu Verklebungen zwischen Iris und Linse -> sekundäres Glaukom
+    * **Chronische Uveitis anterior**
+      * Auge weiß bis leicht gerötet
+      * Positiver Tyndall-Effekt
+        * = Trübung des Kammerwassers durch erhöhten Proteinanteil durch EZ-Aufhebung der Blut-Kammerwasser-Schranke
+        * Tritt im Rahmen der Spaltlampenuntersuchung auf -> Sonnenstrahlen in einer staubigen Sonne
+      * *Hornhautpräzipitate*
+        * pigmentiert, transparent
+        * Irisknötchen
+  * *Therapie*:
+    * Behandlung der Grunderkrankung
+    * Lokaltrherapie mit Steroidhaltigen Augentropfen, Mydriatika und ggf. Antibiotika

@@ -162,4 +162,54 @@ Siehe [[medi:sok:auge:augenheilkunde:lider_und_traenenwege#lidverletzungen]]
 Siehe [[medi:sok:auge:augenheilkunde:glaskoerper_und_netzhaut#amotio_retinae]]
 
 ###Doppelbilder
-####Horizontal vesetzt
+####Horizontal versetzt
+  * 1 Fall pro Jahr
+  * Notfall: intracerebrale Pathologie, meist nach Kopf-Trauma
+  * Notfall OP
+
+####Vertikal versetzt:
+  * 2 Fälle pro Jahr
+  * *Symptome*
+    * nach Kopf Trauma
+    * zunehmend beim Blick nach oben
+    * Orbita Boden Fraktur
+  * *Therapie*: OP innerhalb von wenigen Tagen
+
+###Orbita Phlegmone
+  * *Epidemiologie*: 10/Jahr, gefährlich
+  * *Symptome*: meist aus den Nebenhöhlen fortgeleitet, Zugeschwollenes, scherzhaftes Lid
+  * *Therapie und Diagnostik*: HNO und Radiologie
+    * cave: Meningitis
+
+###Glaukomanfall
+Siehe [[medi:sok:auge:augenheilkunde:glaukom#glaukomanfall_winkelblockglaukom]]
+
+###Schmerzen nach Augen-OP
+  * **Toxische Keratitis**
+    * durch Desinfektion
+    * typischerweise am 4. Tag
+    * Schmerzhaft, häufiger
+  * **Endophtalmitis**
+    * weniger Schmerzhaft
+    * 1.-2. Tag
+
+##Verätzungen
+###Epidemiologie 
+  * 2/jahr
+
+###Symptome
+  * *Entstehung*:
+    * Kontakt mit Abflussfrei
+    * ungelöschtem Kalk
+    * Laugen
+    * evtl. Säuren
+  * Manchmal Schmerzfrei aber Extrem gefährlich
+    * kaum Schmerzen da Nerven und Gefäße weggeätzt sind
+
+###Therapie
+  * Trockenes Material trocken entfernen
+    * ungelöster Kalk muss trocken entfernt werden da er sonst in Lösung geht und die Symptomatik noch verschlimmert
+  * Sofort intensive, langdauernde Spültherapie
+    * Sekunden entscheiden
+  * evtl. mehrwöchiger Klinikaufenthalt mit mehreren OPs
+

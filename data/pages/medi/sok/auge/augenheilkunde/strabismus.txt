@@ -1,0 +1,111 @@
+#Strabismus
+##Grundlagen
+###Definitionen
+  * **Schielen**: Fehlstellung eines Auges, das fixierte Auge ist auf das Sehobjekt gerichtet, das nicht fixierende (schielende) Auge weicht ab
+  * **Strabismus concomitans**: 
+    * angeboren oder in früher Kindheit erworben -> keine Diploplie
+    * Suppression -> Ambylopiegefahr
+  * **Strabismus incomitans**: durch Augenmuskellähmungen, meist Erworben -> *Diploplie* (Doppelbilder)
+
+###Pathophysiologie
+####Monokulare Lokalisation
+  * **Hauptsehrichtung**: 
+    * die Fovea centralis der Netzhaut hat den Richtungswert gerade aus
+    * Was sich auf die Fovea abbildet wird im Raum "geradeaus" lokalisiert
+  * **Nebensehrichtungen**:
+    * Objekt welches sich rechts der Fovea abbildet -> wird mit entsprechendem Betrag im Raum nach links lokalisiert und umgekehrt
+    * Normalerweise für beide Augen Synchron verschaltet = **Korrespondierende Netzhautstellen**
+      * Stellen der Netzhaut in beiden Augen, die beim normalen Sehen ein und denselben Gegenstand abbilden
+
+####Binokulare Lokalisation
+  * Raum hat eine Teife
+    * fixiert wird aber nur in der frontalen Ebene
+    * Objekte vor und hinter dieser Ebene werden physiologischer Weise doppelt gesehen
+  * Kleiner Bereich vor und hinter der Fixationsebene kann binokular überlagert werden
+    * obwohl nicht korrespondierende Netzhautareale gereizt werden
+    * es entsteht ein Stereoeindruck
+  * **Horopter**: Raum in dem dies möglich ist
+  * **Pannum-Areal**: Bereich der Netzhaut, der dynamisch binokular verschaltet werden kann
+    * ermöglicht Tiefeneindruck
+
+##Begleitschielen = Strabismus concomitans
+###Pathophysiologie
+####Schielen ist eine Krankheit des Gehirns
+  * Durch Schielstellung ist beidäugiges Sehen von Kindheit an gestört
+    * ein Auge fixiert -> Fovea hat den Richtungswert geradeaus
+    * abweichendes Auge
+      * hat auch den Richtungswert geradeaus
+      * es bildet sich aber ein anderes Objekt ab
+    * **Konfusion**: es müssten 2 Bilder überlagernd den Richtungswert geradeaus haben
+    * Plastisches Gehirn merkt, dass dies nicht sein kann
+      * zentrales Bild des abweichenden Auges wird nicht wahrgenommen = **funktionelles Skotom**
+    * **Diploplie**:
+      * Das Objekt, das von der Fovea des fixierenden Auges wahrgenommen wird, bildet sich auf dem schielenden Auge exzentrisch ab -> andere Raumwert
+    * Ein Bild wird an 2 verschiedenen Orten des Raumes wahrgenommen
+    * Kindliches Gehirn unterdrückt dies -> *funktionelles Fixierpunktskotom*
+  * **Suppression** = besprochene Unterdrückungsmechanismen 
+    * Schützen vor Diploplie und Konfusion
+    * Auge wird **amblyop** = sehschwach obwohl es organisch gesund ist
+      * Verschaltung zwischen Retina und visuellem Kortex ist Minderrepräsentiert
+
+####Amblyopie
+  * *Definition*: Schwachsichtigkeit ohne organische Fehler (oder mit einem, der nicht im Verhältnis zum Grad desselben steht)
+  * *Ätiologie*
+    * neuronale Verschaltung zwischen Retina und visuelem Cortex werden in der Kindheit (bis zur Pubertät) aufgebaut = "learning by using"
+    * Abbau führt zur Visusminderung
+      * Schielamblyopie -> häufigste Ursache
+      * *Deprivationsambylopie*: Behinderung der optischen Achse
+        * Ptose
+        * Hämangiom des Oberlides
+        * kongenitaler Katarakt
+        * persitierender hyperplastischer Glaskörper
+      * *Refraktionsambylopie*
+        * hoher Hyperopie
+        * hoher Astigmatosmus 
+        * Anisometropie
+  * *Folgen*: Visus des amblyopen Auges ist beim Schielen mit streng einseitiger Führung ohne Therapie nur 0,1
+  * *Diagnostik*: so früh wie möglich
+  * *Therapie*: Schielendes Auge zum sehen zwingen in dem  das führende Auge abgeklebt = okkludiert wird
+
+###Epidemiologie
+  * Inzidenz 5-7%
+
+###Formen
+####Definitionen
+  * **Tropie**: manifestes Schielen
+  * **Phorie**: latentes Schielen
+  * **Esotropie**: Innenschielen
+  * **Exotropie**: Außenschielen
+  * **Hypotropie**: Tieferstand rechts = Höherstandrechts: -VD (Vertikal-Deviation)
+  * **Hypertropie**: Höherstand rechts = Tieferstand links, + VD
+
+####akkomodative Esotropie
+  * Beginn um das 2. Lebensjahr (Fixationsbeginn)
+  * *Ätiologie*: Durch Hyperopie ausgelöst -> scharfes Sehen in der Ferne nur durch Akkomodation möglich -> löst Konvergenzimpuls aus
+  * *Therapie*: Brille -> Parallestand der Augen
+
+####Frühkindliches Schielsyndrom (frühkindliche Esotropie)
+  * *Epidemiologie*
+    * häufigste Form des Schielen
+    * Beginn im 1. Lebensjahr
+  * *Ätiologie*: 
+    * Reifungsstörung der Bewegungsperzeption der temporalen Netzhaut -> Reifungsprozess erst im 3. Monat abgeschlossen.
+    * Die 3. Neurone der temporalen Netzhaut verlaufen in der ungekreuzten Sehbahn
+  * *Klinik*
+    * Innenschielen
+    * **Nystagmus latens**: 
+      * Wird erst bei Abdecken eines Auges sichtbar
+      * Schlägt nach temporal
+    * **dissoziiertes Höhenschielen**
+      * abdriften des schielenden Auges nach oben
+      * deckt man die Augen wechselseitig ab, kommen beide Augen beim Aufdecken von oben
+    * Kopfzwangshaltung
+    * **Crossed fixation**
+      * Fixation in Adduktion -> hier ist der Nystagmus latens am ruhigsten und es entsteht ein scharfes bild
+    * **Winkelschwankungen**: 
+      * Größe des Schielwinkels varriert erheblich
+      * Wird bei Müdigkeit und in der Nähe Größer
+
+####Mikrostrabismus
+s
+##Paretisches Schielen = Strabismus incomintans

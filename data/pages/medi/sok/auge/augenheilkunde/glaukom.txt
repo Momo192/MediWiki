@@ -87,6 +87,7 @@ Der Glaukompatient bemerkt zu Beginn der Erkrankung meist keine Einschränkung, 
 Cave: Der Glaukomanfall ist ein Notfall - sofort zum Augenartz
   * *Definition*: akuter Verschluss des Kammerwinkels mit massiver Augendruckerhöhung (Engwinkelglaukom)
   * *Epidemiologie*:
+    * 2/Jahr
     * Frauen häufiger betroffen als Männer
     * Alter zwischen 55 und 70 Jahren
   * *Ätiologie*
@@ -103,7 +104,7 @@ Cave: Der Glaukomanfall ist ein Notfall - sofort zum Augenartz
       * **Carboanhydrasehemmstoffe**
     * Pilokarpin: Miosis mit Kammerwinkelerweiterung
     * Schmerztherapie, Antiemetikum
-    * Operativ: basale Iridektome
+    * Operativ: basale Iridektome -> Notfall
       * Kurzschluss hintere zu vordere Augenkammer
 
 ##Kongenitales Glaukom
