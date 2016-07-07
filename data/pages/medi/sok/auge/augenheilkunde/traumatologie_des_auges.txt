@@ -1,29 +1,17 @@
 #Traumatologie des Auges
 ##Lidverletzungen
-###Ätiologie
-  * scharfe Gewalteinwirkung -> Risse oder Zerschneidungen
-  * Stumpfe Gewalteinwirkung
-
-###Klinik
-  * Schürfwunden: oberflächliche Hautschichten
-  * *Zu beachten*: Beteiligung der Lidkanten und der Tränenwege
-    * häufig bei Bissverletzungen
-
-###Therapie
-  * Tetanusprophylaxe
-  * Inspektion und Reinigung der Wunde
-  * Mikrochirurgische Readaptation der Lider, Tränenwege und Haut
-    * primäre Rekonstruktion der Tränenwege mit Schienung und direkter Naht der Canaliculi 
-    * durch Augenchirurg
-
-####Komplikationen:
-  * Narbenektropium: Auswärtskippung der Lidränder
-  * Tränenwegsstenose
-  * schwerste Benetzungssötrungen
-
+Siehe [[medi:sok:auge:augenheilkunde:lider_und_traenenwege#lidverletzungen]]
 
 ##Verletzungen der Orbita
+Siehe [[medi:sok:auge:augenheilkunde:orbita#frakturen_der_knoechernen_orbita]]
+
 ##Bulbusverletzungen
-###Bulbuseröffnende Verletzung
-###Nicht-bulbuseröffnende Verletzungen
-####Ällgemeines
+###Klassifikation
+Nach Eröffnung des Bulbus
+  * **Nicht-bulbuseröffnende Verletzungen**
+  * ****
+
+Nach Unfallmechanismus
+  * Stumpfe Gewalt -> Augenprellung
+
+###Contusio bulbi

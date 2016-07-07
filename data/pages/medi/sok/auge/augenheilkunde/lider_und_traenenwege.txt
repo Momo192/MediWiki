@@ -1,5 +1,26 @@
 #Lider und Tränenwege
 ##Lider
+##Lidverletzungen
+  * *Definition*: Einwirken scharfer oder stumpfer Gewalt auf die Augenumgebung
+  * *Ätiologie*: 
+    * Wurfgeschosse, Holzscheite, Messerstiche
+    * Hundebisse
+    * Einklemmung von Gegenständen in der Umschlagfalte des Lides -> Ausreißen
+  * *Klinik*:
+    * Risse oder Zerschneidungen der Lider
+    * Beteiligung der Lidkanten und der Tränenwege (oft bei Bissverletzungen)
+  * *Therapie*
+    * Tetanusprophylaxe
+    * Inspektion und Reinigung der Wunde 
+    * Mikrochirurgische korrekte Readaptation von Lider und Tränenwegen
+      * Rekonstruktion der Tränenwege primär anstreben mit Schienung und direkter Naht der Canaliculi
+      * Durch Augenchirurg
+    * Antibuose bei Bissverletzungen
+  * *Komplikationen*
+    * Infektionen
+    * Narbenektropium, -entropium
+    * Sekundärer Tränenwegsverschluss mit Epiphora und schweren Benetzungsstörungen
+r
 ###Entzündungen der Lider
 ####Allergische Reaktionen
   * **allergisches Lidödem**: 

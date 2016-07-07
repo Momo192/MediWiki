@@ -31,4 +31,74 @@
         * meist Lifestyle-OP -> individuelle Gesundheitsleistung die nicht oder nur Anteilig von den Krankenkassen erstattet wird
 
 ####Excimer-Laserchirurgie
-  
+  * *Eigenschaften*
+    * Flying spot Laser, 193 nm
+    * Mit Eye-Tracker-Technick: Extrem schneller Ausgleich von Augenbewegungen und Iriserkennung
+  * *Anwendung*
+    * Myopien bis -8 - -10 Dpt
+    * Astigmatismus bis max. -5 Dpt
+    * Hyperopie bis + 4 Dptr
+  * *Voraussetzungen*
+    * intakte Organverähtnisse
+    * ausreichende Organdicke
+  * **Lasik-Operation** = Laser-in Situ Keratomileusis
+    * *Epi*: die am häufigsten angewendete Korrektur der Fehlsichtigkeit
+    * *Durchführung*
+      * Präpararation einer oberflächlichen dünnen Hornhautlamelle ("**Flap**")
+        * Mikrochirurgisch mit computergesteruertem *Mikorkeratom*
+        * Laserchirurgisch mit *Femtosekundenlaser*
+      * Umklappen des Hornhaut-Flap -> Freilegung des inneren der Hornhaut
+      * Refraktionskorrektur: 
+        * Schleifen des Hornhautinneren mit gewebeabtragenden Laser 
+        * Durch präoperative Untersuchung der Hornauttopographie und Bildanalyse -> in Sekunden automatisch durch Laser
+      * Zurückklappen der Lamelle 
+        * entspricht einem körpereigenem Pflaster
+        * Rasche und Schmerzfreie Wundheilung
+    * *Dauer*: 10 Minuten
+    * *Verlauf*
+      * direkt nach Abschluss der OP: remdkörpergefühl, vermehrter Tränen, unscharfes Sehen
+      * Folgetag: Ergebnis sichtbar
+        * Nachuntersuchung zwingend notwendig
+        * 3% Nachkorrektur erforderlich
+      * Ergebnis Presbyopie: Lesebrille erforderlich aber keine Fernbrille mehr
+  * **PRK** = Photorefraktive Keratektomie
+    * älteres Korrekturverfahren mittels Excimer-Laserchirurgie
+    * *Verfahren*
+      * keine Präparation des Hornhautdeckels
+      * Vollziehen der Laserablation nach Epithelabrasio an der Hornhautoberfläche
+    * *Abheilung*: verzögert
+
+####Implantation von intraokularen Linsen
+  * *Indikation*: Behebung von hohen spährischen Refraktionsfehler
+  * **Implantation phaker Intraocularlinsen**
+    * *Kunstlinsen*: Positionierung
+      * *Vorderkammer*: 
+        * Haptiken im Kammerwinkel -> Typ Cachet
+        * Enklavation der Iris -> Typ Verisye
+      * *Hinterkammer*: zwischen Iris Rückfläche und Linsenvorderfläche -> Typ VIsian
+      * Eigene Linse bleibt unberührt -> Akomodation bleibt erhalten
+    * *Vorgehen*: Bulbuseröffnende OP-Methode
+    * *Patienten*: jüngeres oder mittleres Alter mit noch erhaltener Akkomodation
+  * **RLE = refraktiver Linsenaustausch**
+    * *Definition*: Austausch der menschlichen Linse gegen ein künstliches Implantat
+    * *Linsenformen* -> Beseitigung nahezu von allen Fehlsichtigkeiten
+      * monofokale Linsen:
+      * Torische Linsen: 
+        * Beseitigung sphärischer oder astigmatischer Fehler
+        * Postoperativ: gutes Sehen in der Ferne, Lesebrille notwendig
+      * Multifokale Linsen -> Siehe [[medi:sok:auge:augenheilkunde:bindehaut_und_hornhaut#korrekturmoeglichkeiten_der_presbyopie]]
+    * *Vorgehen*
+      * Entfernung der menschlichen Linse via. Phakoemulsifikation (Ultraschallzertrümmerung)
+      * Implantation einer künstlichen Linse in den Kapselsack der ehemaligen eigenen Linse
+    * *Indikation*: akkomodative Leistung bereits reduziert oder erloschen
+
+####Korrekturmöglichkeiten der Presbyopie
+  * *Ziel*: komplette Brillenfreiheit im mittleren und höherem Alter
+  * *RLE*: Implantation von **multifokalen Intraocularlinsen** (MIOLs)
+    * scharfe Abbildung von Objekten: Nahe gelegen, intermediär und in der ferne
+    * Vorteile: mit unterschiedlichen Nahzusätzen verfügbar
+    * Nachteile bezüglich Perfektion der Abbldung
+      * Blendeempfindklichkeit, Halos
+      * Dämmerungssehen
+      * Kontrastsehen
+  * *Andere Methoden*: intracorneale Laserverfahren mittels Femtosekunden- oder Excimer-Lasern da (Presbyopie LASIX bzw. intracorneale Implantate)

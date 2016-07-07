@@ -35,7 +35,7 @@ Memo: Entweder der Bulbus "gibt nach" (eher selten), oder die knöchernen Strukt
   * Meist **Orbitabodenfraktur**
   * *Pathomechanismus*: 
     * Dehnungs- und Kontraktionsbehinderung des *M. rectus inferius*
-    * Dadurch zurückbleiben des betroffenen Auges bei Auf- und Abblick.
+    * Dadurch zurückbleiben des betroffenen Auges bei Auf- und Abblick: Vertikalabweichung des betroffenen Auges.
       * Aufblick: Tieferstand
       * Abblick: Höherstand = **VD-Umschlag**: Umschlag der Vertikaldeviation
     * Bei Erwachsenen: Einklemmung von Orbitasepten im Bruchspalt, die mit dem M. rectus inferior verbunden sind
@@ -43,10 +43,13 @@ Memo: Entweder der Bulbus "gibt nach" (eher selten), oder die knöchernen Strukt
   * *Symptome*
     * Doppelbilder mit VD-Umschlag (Siehe Pathomechanismus)
     * Sensibilitätsstörungen V2
+      * Beteiligung des N. infraorbitalis -> Gefühlsstörungen in der Hautregion
     * Lidhämatom 
       * fast immer assoziiert mit einer Jochbeinfraktur
   * *Therapie*: 
     * Patienten mit Doppelbildern oder Sensibilitätsstörungen sollten operativ behandelt werden
+  * *Komplikationen*
+    * Frakturen weit hinten in der Orbitaspitze -> direkte Verletzung des N. opticus
 a
 ##Endokrine Orbitopathie
 Autoimmunerkrankung des orbitalen Weichteilwewebes, entzündliche Veränderungen der Tränendrüse, des Orbitalfettes und der äußeren Augenmuskeĺn
