@@ -1,6 +1,9 @@
-#Traumatologie des Auges
+#Traumatologie und Notfälle des Auges
+s
 ##Lidverletzungen
-Siehe [[medi:sok:auge:augenheilkunde:lider_und_traenenwege#lidverletzungen]]
+Siehe 
+  * [[medi:sok:auge:augenheilkunde:lider_und_traenenwege#lidverletzungen]]
+  * [[medi:sok:auge:augenheilkunde:traumatologie_des_auges#oberlid-fremdkoerper]]
 
 ##Verletzungen der Orbita
 Siehe [[medi:sok:auge:augenheilkunde:orbita#frakturen_der_knoechernen_orbita]]
@@ -9,9 +12,154 @@ Siehe [[medi:sok:auge:augenheilkunde:orbita#frakturen_der_knoechernen_orbita]]
 ###Klassifikation
 Nach Eröffnung des Bulbus
   * **Nicht-bulbuseröffnende Verletzungen**
-  * ****
+    * Bindehautrisse -> Naht
+    * Lazerationen der Hornhaut -> Kontaktlinse
+    * Erosio corneae -> Gleitmittel, lokale Antibiose
+    * Licht-/Temperaturschäden
+    * Verätzungen
+    * Prellungen
+  * **Bulbus-eröffnende Verletzungen**
+    * Hornhautperforationen
+    * Bulbuspenetration mit oder ohne Fremdkörper
+    * Bulbusperforation mit Eintritts- und Austrittsöffnung
+    * Bulbusberstung
 
 Nach Unfallmechanismus
-  * Stumpfe Gewalt -> Augenprellung
+  * Stumpfe Gewalt 
+    * Augenprellung -> Steroide
+    * Aufplatzen des Auges
+  * Scharfe Gewalt -> Zerschneidung der Hornhaut oder der Sklera
+    * lamellierend wenn Schnitttiefe nicht durchgreifend ist
+    * perforierend wenn das Gewebe vollständig getrennt wird -> Naht ggf. mit Kontaktlinse
+    * Entstehung bei Frontscheibenverletzungen bei nicht angeschnallten Autofahrern
+  * Fremdkörperverletzungen
+    * Eindringen von Fremdkörpern ins Auge 
+      * Nagel
+      * Bolzel
+      * Meißelsplitter
+      * Drahtbürstenspins
+    * Therapie:
+      * Fremdkörperentfernung
+      * Ausfräsen des Rosthofs
+
+###Allgemeine Diagnostik
+  * Unfallhergang, Fremdkörper
+  * Tetanusschutz?
+  * Vorerkrankungen am Auge
+  * Sehleistung vor dem Unfall?
+  * Visusprüfung, Druckmessung, Spaltlampe, Fundusuntersuchung je nach Ausmaß
+  * ggf. Bildgebende Diagnostik 
+    * Cave kein MRT bei metallischen Fremkörpern
 
 ###Contusio bulbi
+  * *Pathogenese*: Kontusionsverletzung infolge stumpfer Gewalteinwirkung z.B. Faustschlag
+    * Druckwelle wirkt auf das Auge
+    * Deformation übt auf die intraokulären Strukturen eine erhebliche Zugwirkung mit daraus resultierenden Zerreißungen aus
+  * *Symptome*:
+    * **Hyphäm**: Ansammlung von Blut in der Vorderkammer des Auges
+    * Kammerwinkeldehnung
+  * *Therapie*: Steroide
+  * *Komplikationen*
+    * **Iridodylaise**: ABriss der Linse -> Naht zur Refixierung aber schlechtes Sehvermögen
+    * Luxation der Linse
+    * Blutungen aus dem Kammerwinkel
+      * in den Glaskörper
+      * in die Vorderkammer
+    * Risse der Netzhaut mit nachfolgender Netzhautablösung
+    * *Berlin-Ödem*: 
+      * Netzhaut-Ödem am hinteren Pol (Contre-Coup-Stelle)
+    * COntusionsrosette nach Prellung -> traumatische Linsentrübung (**Cataracta traumatica**)
+
+###Penetrierende Verletzungen
+####Epidemiologie
+  * 30/Jahr
+  * 3% der schweren Arbeitsunfälle
+  * 80% davon dringen über die Kornea ein
+  * sehr gefährlich
+    * Gefährlichkeit abhängig von der Art des Fremdkörpers
+
+####Symptome
+  * kaum Schmerzen oder Sehstörung -> sehr gefährlich
+  * Oft Bagatelltrauma = Hammer-Meißel-Verletzung
+  * meist kleinste Metalfremdkörper
+
+####Klinik
+  * manchmal weitere Verletzungen Polytrauma
+  * evtl. Augapfel eingesunken 
+    * Cave: nicht immer -> gedeckte Ruptur
+    * dann erscheint Augapfel intakt, der Riss ist unter der Bindehaut verborgen
+  * Linse, Iristeile, Aderhaut, Glaskörper oder Netzhaut treten hervor
+  * oft ausgedehnte Bulbusblutungen
+
+####Therapie
+  * primärer Wundverschluss im Notfall-OP in Vollnarkose
+  * nach 1 Woche definitive Versorgung mit Rekonstruktion
+  * oft Silikonöltamponade erforderlich
+
+####Komplikationen
+  * **Endophtalmitis**: bakterielle Infektion des Augeninneren
+  * **proliferative Vitreoretinopathie** -> narbenbedingte Netzhautablösung
+  * **Siderose** wenn Eisenhaltiger Fremdkörper im Auge übersehen wird
+  * **Sympathische Ophtalmie**
+    * sehr selten
+    * Führt zu einer granulomatösen Uveitis des Nachbarauges
+    * sehr ungünstige Prognose -> Erblindung
+
+##Notfälle der Augenheilkunde
+Epidemiologie:
+  * 300 000 Augenverletzungen im Jahr
+    * davon 3500 schwere Augenvereletzungen
+  * > 10% aller Arbeitsunfälle sind Augenverletzungen 
+    * 30% davon sind intraokuläre Fremdkörper
+
+###Verblitzung
+  * *Definition*: 
+    * Sonnenbrand des Auges: Durch Lockerung der Epithelhaftung entstehen kleine, sehr schmerzhafte Erosionen. 
+    * Sehverschlechterung nach 8 Stunden
+  * *Epidemiologie*: 200/jahr, sehr schmerzhaft, ungefährlich
+  * *Symptome*:
+    * beidseitig starke Schmerzen
+    * Lidschluss-Krampf
+    * Sehverschlechterung ca. 8 Stunden nach dem Schweißen oder anderen UV-Lcht (z.B. Sonnenbank)
+    * Typisch leicht gerötetes Gesicht und geschwollene Lider
+  * *Therapie*
+    * Beruhigen
+    * **einmalig Xylocain** (Lokalanästhetikum)
+    * Bepanthen Salbe
+
+###Oberlid-Fremdkörper
+  * *Epidemiologie*: 200/Jahr, schmerzhaft, eher ungefährlich
+  * *Symptome*: 
+    * einseitige starke Schmerzen nach Bagatelltrauma (z.B. Insekt, kleine Splitter)
+    * Fremdkörpergefühl 
+    * Abwehrtrias: Lichtscheu, Lidkrampf und Tränenfluss
+  * *Therapie*:
+    * einmalige Lokalanästhetikum Gabe
+    * Ektroponieren, auswischen
+
+###Hornhautfremdkörper
+  * *Epidemiologie*
+    * 200/Jahr
+    * **gefährlich**
+  * *Ätiologie*: glühendes Eisen auf die Kornea -> brennt sich in das Eiweiß ein -> Proteolyse -> kaum schmerzhaft aber Entstehung schwerer Narben
+  * *Symptome*
+    * kaum Schmerzhaft
+    * keine Sehstörungen
+    * geringe einseitige EZ des Auges einige Stunden nach Arbeiten mit der Flex
+  * *Therapie*: entfernen innerhalb 1 Tages
+
+###Hyposphagma = Bindehautblutung
+  * *Epidemiologie*: 50/Jahr, kosmetisch auffällig, ungefährlich
+  * *Ätiologie*:
+    * subkonjunktivalblutung bei älteren Menschen
+    * Bagatelltraumen, Blutdruck, schlechte Verteilung der Tränenflüssigkeit
+  * *Symptome*: schmerzfrei, spontan, einseitig, keine Sehrstörung
+
+###Lidverletzungen
+Siehe [[medi:sok:auge:augenheilkunde:lider_und_traenenwege#lidverletzungen]]
+
+###Netzhautablösung
+Siehe [[medi:sok:auge:augenheilkunde:glaskoerper_und_netzhaut#amotio_retinae]]
+
+###Doppelbilder
+####Horizontal vesetzt

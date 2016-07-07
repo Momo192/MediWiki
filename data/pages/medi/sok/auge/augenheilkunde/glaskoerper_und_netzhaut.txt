@@ -1,6 +1,19 @@
 #Glaskörper und Netzhaut
 ##Glaskörper
 ##Netzhaut
+
+###Amotio retinae
+####Epidemiologie
+  * 50/Jahr
+  * sehr gefährlich
+
+####Symptome
+  * einseitiges Blitzen
+  * Schatten vor dem Augen
+  * DD: Apoplex
+
+####Therapie
+t
 ###Altersbedingte Makuladegeneration (AMD)
 ####Epidemiologie
   * häufigste Erblindungsursache in den Industrie Nationen
