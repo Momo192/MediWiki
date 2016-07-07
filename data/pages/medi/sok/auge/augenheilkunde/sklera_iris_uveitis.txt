@@ -57,3 +57,18 @@ In Abhängigkeit von Beginn und Dauer Einteilung in eine **akute** und eine **ch
   * *Therapie*:
     * Behandlung der Grunderkrankung
     * Lokaltrherapie mit Steroidhaltigen Augentropfen, Mydriatika und ggf. Antibiotika
+  * *Komplikation*: **Napfkucheniris**
+    * Folge intraokulärer EZ
+    * Vorwölbung der Iris mit Anstieg des Augeninnendrucks durch Stauung des Kammerwassers hinter der Iris bei vollständiger Behinderung des Kammerwasserflusses durch die Pupille
+
+####Uveitis intermedia
+  * *Ätiologie*:
+    * Idiopathisch oder Systemerkrnakung
+    * meist jugendliche Betroffen
+    * 80% bilateral, symmetrisch
+  * *Verlauf*: chronisch, schleichend
+  * *Klinik*
+    * Sehverschlechterung
+    * meist nicht sehr schmerzhaft
+    * Zelliges Infiltrat des Glaskörpers (Vitriitis)
+    * nicht seltne mit weißlichen Infiltraten in der Pars plana (Pars planitis)
