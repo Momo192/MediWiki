@@ -1,1 +1,34 @@
 #Bindehaut und Hornhaut
+
+##Hornhautchirurgische Verfahren
+
+###Refraktive Hornhautchirurgie
+####Einführung: Refraktionsfehler
+  * Refraktionsfehler = Brechkraftfehler der Hornhaut
+  * *Einteilung*
+    * Primär pathologisch:
+      * Kurzsichtigkeit = *Myopie*
+      * Weitsichtigkeit = *Hyperopie*
+      * Stabsichtigkeit = *Astigmatismus* / Hornhautverkrümmung (mehr oval als Rund)
+    * Physiologisch
+      * *Presbyopie* = Alterssichtigkeit: zunehmender Verlust der Nahakkommodation
+  * *Bestimmung*: Objektive und subjektive Refraktionsbestimmung
+  * *Therapie*:
+    * *Konventionell*: 
+      * Anpassung von Brillen oder Kontaktlinsen
+      * Presbyopsie: 
+        * Lese bzw. Arbeitsbrille
+        * Mehrstärkenkorrektur (Gleitsichtfläser, Bifokalgläser)
+    * **Refraktive Chirurgie**
+      * *Definition*: operative Methode zur Veränderung der Hornhautbrechkraft, um die Refraktion zu verbessern bzw. eine Unabhängigkeit von der Brille bzw. den Kontaktlinsen zu erreichen
+      * *Möglichkeiten*
+        * **Laserchirurgie**: Operation an der Hornhaut -> meist LASIK
+        * **Intraokulare Kunstlinsen**: OP am Augeninnerem
+      * *Epidemiologie*
+        * Zunahm der ANzahl
+        * 2, häufigste OP in D, nach Katarakt
+        * Patientenklientel: meist jünger (Grenze: 18 Jahre)
+        * meist Lifestyle-OP -> individuelle Gesundheitsleistung die nicht oder nur Anteilig von den Krankenkassen erstattet wird
+
+####Excimer-Laserchirurgie
+  

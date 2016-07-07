@@ -79,12 +79,16 @@ Bei allen Formen: vergrößernde Sehhilfen bis hin zu Bildschirmlesegeräten
     * Probleme
       * teuer
       * wiederholte Gabe notwendig
-      * Riss des retinalen Pigmentepithels durch Zusammenziehen der Gefäße
+      * Riss des retinalen Pigmentepithels durch Zusammenziehen  der Gefäße
+  * **Lucentis, Avastin**, Macugen
+    * Ectl. Kombination mit PDT -> synergistischer Effekt
   * Spezielle Indikationen
     * Laserkoagulation -> nur Extrafoveal
     * Photodynamische Therapie
-    * Submakuläre Therapie z.B. Nethautrotation
-    * Große Blutungen: Vitrektomie
+    * Submakuläre Therapie z.B. Nethautrotation: durch die Rotation der Netzhaut, wird ein peripher liegendes, gesundes Netzhautaral in den Bereich der Makula rotiert
+    * Blutungen
+      * klein: rTPA Gas -> Lucentis
+      * Große Blutungen: Vitrektomie
 
 ###Gefäßverschlüsse
 ###Venenthrombosen
