@@ -152,6 +152,28 @@ Harmlose Degeneration der Bindehaut, die sich als leicht erhabener grau-gelblich
       * Cave: reizidive
 
 ##Hornhaut
+###Hornhautdystrophien
+  * *Definition*: progressiv, meist bilateral, meist genetisch, nichtentzündlich und eintrübend.
+  * Viele unterschiedliche Formen
+
+####Fuchs-Endotheldystrophie (Cornea guttata)
+  * *Definition*: Hereditäre Erkrankung mit progredienter Abnahme der Endothelzellen in der Innenseite der Hornhaut
+  * *Pathomechanismus*: Endothel hat wichtige Pump- und Barrierefunktion zum Kammerwasser -> Gewährleistung der Klarheit der Hornhaut: 
+  * *Stadien*
+    * I: Cornea guttata
+      * Reduktion der Zelen asymptomatisch, in der Spaltlampe ist schon Cornea gutatta darstellbar
+    * II: Epithel und Stromaödem:
+      * Dekompensation -> Wassereinstrom ins Hornhautstroma mit Träubung
+    * III: Bullöse Keratopathie: bullöse Abhebung des Epithels
+    * IV: Hornhautnarben 
+
+####Limbusinsuffizienz
+  * *Definition*: chronische Erkrankung der Augenoberfläche mit Destruktion der Limbusstammzellen
+  * *Befunde*:
+    * Persistierende Oberflächendefekte und Wundheilungsstörungen
+    * Konjunktivalisierung der Hornhaut
+    * Vaskularisation (Tief und Oberflächlich)
+
 ###Substanzdefekte
 ####Formen
   * **Erosio cornea**: Epitheldefekt, keine Narbe
@@ -164,6 +186,56 @@ Harmlose Degeneration der Bindehaut, die sich als leicht erhabener grau-gelblich
   * *Verfahren*: 
     * Tränenfilm wird mittels  **Fluorescin** angefärbt
     * Tritt Kammerwasser an einer undichten Stelle auf die Hornhautoberfläche -> Auswaschung des Farbstoffes
+
+###Keratitis
+**Mikrobielle Keratitis**: Infektion der Hornhaut durch Bakterien, Pilze, Akanthamöben. Risikofaktoren sind:
+  * Kontaktlinsen v.a. Monatslinsen
+  * Verletzungen
+  * tropische Ekrankungen der Oberfläche
+  * Lokale oder systemische Immunsuppressiva (lokale Steroide)
+
+####Bakterielle Keratitis
+  * *Epidemiologie*: häufigste Form (90%)
+  * *Ätiologie*: 
+    * *Erreger*: sehr variabel
+      * Staphylokokken, 
+      * Streptokokken, 
+      * Moxella, 
+      * Pseudomonas
+    * Risikofaktoren
+      * **Kontaktlinsen**
+      * Trauma, Oberflächenekrkrankungen der Hornhaut
+      * Systemische Erkrankungen
+  * *Klinik*
+    * Schmerzen, Bindehautrötung, ziliare Injektion, ggf. eintriges Sekret
+    * bakterielles Infitrat bis Ringinfiltrat
+      * Ringinfiltrat: deutet auf Pseudomonas oder Akanthomöben hin
+    * Epitheldefekt:
+      * bei Sunstanzdefekt: Hornhautulkus mit Einschmlzungen
+    * Durchwanderungskeratitis -> Endophtalmitis kann entstehen
+    * Hornhautdekompensation durch Endothelschaden
+  * *Therapie*: **ophtalmologischer Notfall**
+    * lokale Antibiose alle 15 Minuten
+
+####Pilzkeratitis
+  * *Epidemiologie*:
+    * selten in Zentraleuropa
+    * bis zu 50% der Erblindungen in feuchtwarmen Regionen
+  * *Ätiologie*
+    * oft Aspergillus und Candida albicans
+    * wie bakterielle Keratitis
+    * Okulare Verletzungen mit pilzhaltigem Material
+  * *Klinik*
+    * Satelliteninfiltrate
+    * Große Infiltrate mit wenig Epitheldefekt
+    * Zähes Hypophyon
+
+####Virale Keratitis
+  * *Erreger*
+    * Herpes simplex
+    * VZV (Zoster ophtalmicus)
+  * *Klinik*
+    * Herabgesetzte Hornhautsensibilität
 
 ##Hornhautchirurgische Verfahren
 
@@ -268,3 +340,17 @@ Harmlose Degeneration der Bindehaut, die sich als leicht erhabener grau-gelblich
       * Dämmerungssehen
       * Kontrastsehen
   * *Andere Methoden*: intracorneale Laserverfahren mittels Femtosekunden- oder Excimer-Lasern da (Presbyopie LASIX bzw. intracorneale Implantate)
+
+###Keratoplastik (Hornhauttransplantation)
+####Formen
+  * *penetrierende* = perforierende Keratoplastik: Alle Schichten (komplette Hornhaut)
+  * *lamelläre Keratoplastik*; nur bestimmte Schichten
+    * vordere vs. hintere lamelläre
+  * *Limbustransplantation*/ Transplantation von kornealien epithelialen Stammzellen
+
+####Verfahren
+  * Immunologisches Privileg der Kornea -> Im Normalfall keine systemische Immunsupression notwendig
+  * *Spendermaterial*:
+    * Frischtransplantation -> kaum praktiziert (mangelnde Qualitätskontrolle)
+    * Kältelagerung: 12-14d
+    * Organkultur: bis 4 Wochen

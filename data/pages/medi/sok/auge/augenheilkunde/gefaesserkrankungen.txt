@@ -138,6 +138,7 @@ Sehnerveninfarkt, akute DUrchblutungsstörung des Sehnerven durch "small vessel 
   * plötzliche Visusverminderung, meist einseitig
   * Gesichtsfelddefekt
   * Schmerzlos
+  * Kau- und Schläfenkopfschmerzen
 
 ###Diagnostik
   * Wichtig ist Diagnose oder Ausschluss einer Arteriitis temporalis
