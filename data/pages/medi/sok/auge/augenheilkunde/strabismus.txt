@@ -303,3 +303,37 @@ Definition
     * Esotropie im Geradeausblick: Homonyme Doppebilder
     * Kompensatorische Kopfzwanghaltung: Kopfdrehung zur *betroffenen Seite*
     * Fernwinkel > Nahwinkel -> in der Nähe muss weniger konvergiert werden
+
+####DD: Retraktionssyndrom nach Stilling-Türk-Duane
+  * *Definition*: kongenitale Defekt des N. abducens -> Anstelle der ausgefallenen Abducensdasern wird der M. rectus externus durch den N. oculomotorius innerviert -> gleichzeitige Innervation von M. rectus externus und internus
+  * *Symptome* bei Adduktion des betroffenen Auges
+    * Retraktion des Bulbus
+    * Lidspaltverengung
+    * Doppelbilder werden keine Wahrgenommen oder nicht als störend empfunden
+    * Kein Krankheitswert, keine neurologische Abklärung
+
+###Abklärung von Augenmuskelparesen
+  * **Diploplie**:
+    * plötzliches auftreten, immer vorhanden
+    * bei dekompeniserenden Phorien oder kongenitalen Ansatzanomalien v.a. Auftritt bei Ermüdung
+  * **Ältere Patienten** mit kardiovaskulären Risikofaktoren
+    * Diabetes mellitus, Hypertonus -> Mikroinfarkt des betroffenen Nerven sehr wahrscheinlich
+    * Verlauf kontrolle nach 5-6 Wochen
+      * sehr hohe Spontanremissionsrate
+      * bei Schielwinkelregress / Remission: keine weitere Abklärung, internistische Therapieoptimierung
+      * bei Progres: umfangreiche Abklärung und MRT des Schädels
+  * **Jüngere Patienten**: sofortige Abklärung
+    * Labor + Lumbalpunktion
+      * meist para- oder postinfektiöses Geschehen nach viralem Infektion
+      * Ausschluss immunologischer Erkrankungen
+    * MRT-Schädel -> Ausschluss von Tumoren und intrakraniellen Drucksteigerungen
+
+###Therapie
+  * Innerhalb des 1. Jahres
+    * Schielwinkel ausgleichbar -> Korrektur mit Prismen
+    * Schielwinkel nicht ausgleichbar -> Okklusion eine Auges
+      * bei Erwachsenen kann sich keine Amblyopie entwickeln
+      * bei Wahl paretischen Auges (z.B. besserer Visus): Innervationsaufwang höher -> anderer Raumwert -> daneben greifen oder treten -> Adaptation nach wenigen Tagen
+  * bei fehlender Parese: Augenmuskel-OP damit im Gebrauchsblick Doppelbildfreiheit herrscht
+    * paretische Auge: verlagernde Chrirugie, Verbesserung der Bewegung ist nicht möglich
+    * nicht-paretisches Auge: mit Hilfe von Gegenparesen -> Einschränkung in der Bewegung -> Anpassung an das paretische Auge

@@ -33,7 +33,8 @@
 ###Chiasma opticum
   * *Lage*: direkt über der Hypophyse, rostral des hypophysen Stiels
   * Fasern der nasalen Netzhautbereiche (detektieren temporales Bild) kreuzen zur Gegenseite
-    * Fasern des temporalen Gesichtsfeldes kreuzen nicht
+    * Fasern des temporalen Nezthautbereiches kreuzen nicht
+      * der ungekreutze Anteil der Sehbahn ist phylogenetisch sehr jung
     * Dadurch landen alle Fasern vom linken Gesichtsfeld auf der rechten Seite und alle Fasern vom linken Gesichtsfeld auf der rechten Seite
 
 ###Tractus opticus

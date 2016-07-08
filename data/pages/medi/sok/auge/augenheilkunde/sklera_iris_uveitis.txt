@@ -72,3 +72,47 @@ In Abhängigkeit von Beginn und Dauer Einteilung in eine **akute** und eine **ch
     * meist nicht sehr schmerzhaft
     * Zelliges Infiltrat des Glaskörpers (Vitriitis)
     * nicht seltne mit weißlichen Infiltraten in der Pars plana (Pars planitis)
+    * Chronische Zyklitis
+  * *Therapie*
+    * nach Ursache
+    * parabulbäre Steroidinjektionen
+    * orale Steroide
+    * bei infektiöser Genese gezielte Antiinfektiöse Therapie
+  * *Komplikation*
+    * Makulaödem
+    * Papillenödem
+    * Katarakt
+
+####Uveitis posterior
+  * *Definition*: Manifestation entzündlicher Prozesse an der Netzhaut oder an der Aderhaut
+  * *Ätiologie*
+    * Infektiös (CMV, Toxoplasmose, Lues)
+    * Besonders bei Immunsupprimierten
+      * Chemotherapie
+      * medikamentöse Immunsuppression
+      * Steroidabusus
+      * HIV
+    * Immunologisch: z.B. Birdshot-Choriorethinopathie
+  * *Klinik*
+    * *Glaskörperbefunde*: 
+      * Zellen
+      * Tyndalltrübung
+      * hintere Glaskörperabhebung
+    * **Choroiditis**: tiefe gelbe oder fraue Flecken mit scharfer Begrenzung
+    * **Retinitis**: unscharfer, entzündlicher weißlicher Herd
+    * **Vaskulitis**
+      * **Periphlebitis**: Netzhautvenen
+      * **Periarteriitis**: Arterien, selten
+      * **aktive Periphlebitis**: Flaumähnliche, weißliche Trübungen um die Blutsäule herum (*Kerzenwachsphänomen*)
+  * *Diagnostik*
+    * Klinik
+    * Labor
+    * Glaskörper, Netzhaut oder Aderhautbiopsie
+  * *Therapie*
+    * abhängig von der Ursache 
+    * Infektion: Antiinfektiva
+    * Immunologisch: Steroide
+    * Vitrektomie
+
+####Einzelne Krankheitsbilder
+#####Uveitis bei M. Behcet

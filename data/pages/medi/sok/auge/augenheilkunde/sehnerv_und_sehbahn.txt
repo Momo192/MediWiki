@@ -5,14 +5,60 @@ Siehe [[medi:sok:auge:augenheilkunde:gefaesserkrankungen#anteriore_ischaemische_
 ##Differenzialdiagnose Papillenschwellung
 ###Stauungspapille
   * *Definition*: Ödem an der Einmündung des Sehnervs in der Netzhaut durch Erhöhung des intrakraniellen Drucks
+    * durch gestörten exoplasmatischen Transport bds. 
+    * Ausnahme: bei Opticus-Atrophie ist trotz erhöhtem Hirndruck keine Schwellung mehr möglich
   * *Fundoskopie*: beidseitig hochprominente Papillenschwellung
     * radiäre Randblutungen
-  * *Symptome*: Kopfschmerzen, Sehrsötrungen
+  * *Symptome*: Kopfschmerzen, Sehstörungen
+    * vergrößerter blinder Fleck, analog zur Größe des Ödems 
   * *Prognose*: bei längerem bestehen kann es zu einer Schädigung des Sehnerves kommen
 
-###nteriore ischämische Optikusneuropathie 
-Siehe [[medi:sok:auge:augenheilkunde:gefaesserkrankungen#anteriore_ischaemische_optikusneuropathie_aion]]
 
-###Papillitis
-  * einseitige Papillenschwellung mit allmählichem Sehverlust und Schmerzen
+###Weitere Ursachen
+####Einseitige Schwellungen
+  * **Papillitis**: einseitige Papillenschwellung mit allmählichem Sehverlust und Schmerzen
+  * Papillennahe Ischämie
+  * Raumforderung im N. opticus
+  * Tumorinfiltration
+
+####Beidseits
+  * Fundus hypertonicus
+  * Pseudoödem bei Papillenanomalien z.B. durch Drusen
+
+##Störungen der Sehbahn
+###Chiasma opticum
+####Anatomische Grundlage
+Siehe [[edi:sok:auge:anatomie:sehbahn#chiasma_opticum]]
+
+####Läsionen
+  * Kompression des kreuzenden Teil er Sehbahn
+    * von unten: Sellatumoren, Hypophysentumore
+    * von oben: Kraniopharyngeom
+  * Folge: **bitemporale Hemianopsie**
+    * die beiden temporalen, äußeren Gesichtshälften werden nicht wahrgenommen
+
+###Retrochiasmale Läsionen
+Nur noch homonyme GF-Ausfälle zur Gegenseite der Läsion
+####Tractus opticus Läsionen
+  * Homonyme Gesichtsfeldausfälle zu Gegenseite
+  * d.h. bei Läsion links -> homonymer Gesichtsfeldausfall nach rechts
+    * rechtes Auge: fehlendes temporales Gesichtsfeld, 
+    * linkes Auge: fehlendes nasales Gesichtsfeld
+
+####Radiatio optica
+  * da die Axone hier aufgefächert verlaufen, findet sich oft nur eine **Quadrantenanopsie** zur Gegenseite
+
+####Okzipitalllappenläsionen
+  * streng retinale Projektion
+    * äußere Axone liegen innen
+    * Mittleren in der Mitte
+    * Zentrale Axone = Fovea -> 50% des Okzipitalpols im äußeren Bereich
+  * Ausfäle
+    * Läsionen im inneren Okzipitallappen: nur ein äußeres Gesichtsfeldhälfte
+
+####Hemineglect
+  * bisher besprochene Läsionen -> Erblindung
+  * Sehen ist aber auch die bewusste Analyse und Wahnehmung der Welt
+  * *Hemineglect*: Ausfall des oberen Temporallappen rechts -> linke Hälfte wird überhaupt nicht wahrgenommen
+    * z.B. nach großer Hirnblutung in der A, cerebri media
 
