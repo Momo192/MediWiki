@@ -107,5 +107,84 @@
       * Wird bei Müdigkeit und in der Nähe Größer
 
 ####Mikrostrabismus
+  * *Definition*: meist Mikroesotropie mit einem Schielwinkel unter 5° (kosmetisch unauffällig)
+  * *Klink*
+    * Anomale retinale Korrespondanz
+    * Simultansehen
+    * subnormales Stereosehen
+    * Strenge Führung eines Auges
+  * *Cave*: bei fehlender Vorsorge wird es oft erst spät (6. LJ) erkannt -> es kann kein voller Visus mehr erreicht werden
+
+####Normosensorisches Spätschielen
+  * *Definition*: 
+    * Schielbeginn > 3 LJ. -> nach Ausbildung der Binokularfunktion
+    * Meist Innenschielen
+  * *Klinik*
+    * anfangs oft Diploplie
+    * Zukneifen eines Auges
+  * *Therapie*: **Strabologischer Notfall**
+    * Sofortige Entlastung durch Prismen
+    * Brillenbestimmung -> DD: akkomodativ?
+    * Falls mit Brille keine Rekompensation rasche OP sonst droht der Verlust des Stereosehen
+
+####Strabismus divergens intermittens
+  * *Definition*: häufigste Form des Außenschielens
+    * zeitweise Parallelstand mit normalen bis subnormalen Binokularsehen
+    * zeitweise Exotropie ohne Diploplie mit Suppression (2 sensorische binokulare Verarbeitungen wechseln sich ab)
+  * *Klinik*: oft Lichtempfindlichkeit
+  * *Therapie*:  OP nur bei Dekompensation> 50% der Wachzeit oder bei Visusaball
+
+###Diagnostik
+####Differentialdiagnosen
+#####Pseudostrabismus
+  * *Ursache*
+    * breiter Nasenrücken
+    * Epikanthus (an den Augenwinkeln liegende Hautfalte)
+  * *Folge*: scheinbares Innenschielen
+    * **Winkel Kappa**: WInkel zwischen Gesitslinie (Fovea centralis -> Objekt) und Pupillenachse (Pupillenmitte -> Hornhautscheitel).
+    * Fovea liegt i.d.R. etwas nach temporal verschoben -> positiver Winkel Kappa 
+    * Bei monokularer Fixation scheinbares Außenschielen
+
+#####Lidasymmetrien
+  * durch einen Oberlidhöhenunterschied kann z.B. ein Höhenschieln vorgetäuscht werden. 
+
+#####Phorie: latentes Schielen
+  * *Epidemiologie*: normal, bei 80% aller Menschen
+  * *Klinik*
+    * kein Parallelstand, wenn die beidäugige Zusammenarbeit unterbrochen ist
+      * Einstellbewegungen nur bei Aufdrecken (Refusion) oder im alternierendem Abdecktest
+  * *Komplikation*: selten Dekompensation -> **astehopische Beschwerden** = blurred vision
+    * bitemporale Kopschmerzen
+    * Brennen, Tränen
+    * Diploplie
+  * *physiologische Auslöser*: Müdigkeit und Alkohol
+  * *Therapie*: Prismen und Augenmuskeoperationen
+
+####Diagnostische Test
+#####Cover-Test
+  * das führende Auge wird abgedeckt -> das nicht fixierende Auge muss die Führung aufnehmen -> **Einstellbewegung**
+  * DD: Schweregrad der Amblyopie: 
+    * wird die Führung mit dem fixierenden Auge gehalten?
+    * Wenn ja wie lange?
+
+#####Uncover-Test
+  * *Mechanismus*: weicht ein Auge unter dem Abdrecken in eine "Ruheposition" -> auf beiden Augen liegt Einfach sehn vor -> Auge macht nach dem Aufdecken eine Fusionsbewegung (latentisches Schielen)
+  * *Ergebnisse*
+    * Esophorie: Bewegung nach lateral
+    * Esotropie. Bewegung nach medial
+
+#####Visusprüfung (zentrale Sehschärfe)
+  * *Patientenalter*
+    * mit konservativen Mitteln schon ab dem 2. LJ möglich
+    * Säuglinge: mit speziellen Test z.B. preferential looking
+  * *zu Beachten*
+    * Seitendifferenz und absolute Werte streuen erheblich
+      * Aufmerksamkeit
+      * Lerneffekt
+      * Angst vor Fehlern
+  * *Entwicklung*
+    * Visus für Einzelpototypen (einzelnd stehende Zeichen) steigt bis zum 8 LJ auf 1,0 
+    * Reihenvisus ist erst ab der Pubertät voll entwickelt
+  
 s
 ##Paretisches Schielen = Strabismus incomintans

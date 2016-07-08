@@ -153,6 +153,18 @@ Im Bereich des Gesichtsschädels sind einige Knochen pneumatisiert -> Gewichtser
   * V. ophtalmica inferior
   * N. infraorbitalis aus N. maxillaris mit Ramus communicans zum N. zygomaticus
 
+##Spezielle Strukturen der Orbita
+  * **Periorbita**: Spezielles Periost über den Orbitaknochen, mit einer besonderen Zusammensetzung aus kollagenen und elastischen Fasern
+  * **Aditus orbitalis**: Augenhöhleneingang, frontaler Öffnung der Orbita
+  * **Vagina bulbi** (= Tenon-Kapsel)
+    * Das Fettgewebe welches die Orbitahöhle ausfüllt, ist um den Bulbus oculi herum zu einer straffen BW-Kapsel ausgebildet.Alle Nerven, Muskeln und Gefäße die das Auge erreichen sollen, treten durch sie hindurch
+    * **Retinacula** = straffe BW-Fasern
+      * Haltebänder mit denen die Tenon-Kapsel. die Augenmuskeln und die Periorbita verbunden sind
+      * ermöglich eine federnde Aufhängung der Muskeln
+    * Tenon-Kapsel geht in die DUrascheide des N. opticus über
+  * **Corpus adiposum**: schützender Fettkörper
+
+
 ##Muskeln und Nerven der Orbita
 
 
