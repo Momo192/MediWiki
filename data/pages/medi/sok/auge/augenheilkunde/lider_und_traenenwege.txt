@@ -30,7 +30,7 @@
 ###Oberlid-Fremdkörper
 Siehe [[medi:sok:auge:augenheilkunde:traumatologie_des_auges#oberlid-fremdkoerper]]
 r
-###Entzündungen der Lider
+###Entzündungen der Lider = Blepharitis
 ####Allergische Reaktionen
   * **allergisches Lidödem**: 
     * u.U. massiv, schnell auftretend, meist mit Bindehautbeteiligung
@@ -42,3 +42,40 @@ r
     * Bindehautbeteiligung mit Juckreiz
 
 ####Bakterielle Infektion
+  * **Chalazion** (Hagelkorn)
+    * Stauung und Superinfektion einer Meibom-Drüse (granulomatöse EZ)
+  * **Horlodeum** (Gerstenkorn)
+    * Superinfektion und Sekretstau einer Lidranddrüse
+    * Durch Abkapselung -> keine Abheiltung -> chirurgische Ausräumung notwendig
+    * *Einteilung*
+      * **Horlodeum externum**: EZ- einer Moll oder Zeis-Drüse
+      * **Horledeum internum**: EZ einer Meibom-Drüse
+  * **Abszess des Lides**
+    * nach einschmelzender EZ einer Hautdrüse, nach Trauma
+    * Therapie: Antibiose lokal, ggf. Inzision
+  * **Phlegmone des Lides**
+    * ausbreitende infektiöse EZ des Lides
+      * Cave: Gefahr der Fortleitung über die V. angularis in den Sinus cavernosus
+      * bei Kindern wegen des nicht foll entwickeltem Septum orbitale auch Gefahr der Ausbildung einer Orbitaphlegmone
+  * **Chronische Blepharitis squamosa** 
+    * Staphylokokken Infektion
+    * chronisch rezidivieren
+    * chronische Meibom-Drüsen-Dysfunktion
+
+####Phthiriasis palpebrarum
+Befall mit Läusen und deren Nissen
+
+####Virale Infektionen
+#####Herpes simplex Virus
+  * Blepharitis herpatica: blässchenartige Effloreszenzen als Primärinfektion oder Reaktivierung
+  * assoziierter Bindehaut oder Hornhautbefall
+  * Therapie: topisch antiviral
+
+#####Herpes zoster ophtalmicus
+  * Hauteffloreszenzen im Einzugbereich von V1 durch Reaktivierung von VZV
+  * ggf. Augenbeteiligung
+
+#####Molluscum contagiosum
+  * humanspezifischer Pockenvirus, befällt v.a. kleine Kinder, hoch kontagiös
+  * Knötchen mit eingesenkter Grube 3-4 mm
+  * Folge evtl. follikuläre Konjunktivitis

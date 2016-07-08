@@ -1,5 +1,120 @@
 #Bindehaut und Hornhaut
 
+##Bindehaut
+###Generelle Reaktionsweisen und Pathologien
+  * **Hyperämie = Injektion** = rotes Auge
+    * *Konjunktivale Injektion*: Oberflächlich bei oberflächlicher Irritation oder EZ
+    * *Tiefe ziliare Irritation*: limbusbetont bei intraokularem Reiz
+  * **Sekret**
+    * wässrig
+    * muzinös 
+    * eitrig (bei bakteriellem Infekt)
+  * **Chemosis** = Bindehautödem
+    * glasige Schwellung durch erhöhte Gefäßpermeabilität (v.a. bei Allergien)
+    * subtarsal als Papillen (Pflastersteinartige Veränderungen auf der tarsalen Bindehaut des Oberlieds, Zentralgefäß)
+    * Riesenpapille bei Zerstörung der bindegewebigen Septen durch chronischen Reiz
+  * **Follikel**
+    * lymphatische Zellansammlung, Fornixbetont
+    * größer als Papillen mit Randgefäß
+  * **Hypophagma** = Einblutung
+    * Ätiologie: Trauma, Blutdruck, Gerinnungsstörungen
+    * i.d.R. kein Behandlungsbedarf
+  * **Pseudomembranen**: fibrinöse Auflagerung, blutet nicht beim abziehen
+  * **Membranen**: Fibrinnetz verwachsen mit der Schleimhaut
+    * blutet beim Abziehen
+    * Ätiologie
+      * Adenovirusinfektion
+      * GOnokokkeninfektion
+      * Immunologische Konjunktivitis
+      * Streptokokken
+  * **Vernarbung**
+    * bis hin zum **Synblepharon** (Lidverwachsung)
+    * u.U Trichiasis durch Einwärtstrehen des Lides -> Erblindungsgefahr
+
+
+###Konjunktivitis (Bindehautentzündung)
+####Konjunktivitiden durch Chlamydien
+#####Trachom (Konjunktivitis granulosa trachomatosa)
+  * *Erreger*: Chlamydia trachomatosis Serotyp A-C
+  * *Epidemiologie*: 
+    * häufigste infektiöse Erblindungsursache, 
+    * > 3% der Erblindungen Weltweit
+  * *Stadien*
+    * **I**: Konjunktivitis mit papillärer Hypertrophie: unspezifisch mit serösem Sekret
+    * **II**: follikuläre Konjunktivitis: Lymphfollikel an der tarsalen Bindehaut des Oberlids
+    * **III**: Narbenbildung
+    * **IV**: Narbenzustand: Schrumpfung der Narben -> ENtropium und Trichiasis mit Hornhautverletzungen -> vernarbte Hornhaut mit Erblindung
+  * *Klinik*
+    * Synblepharon
+    * Lidgehlstellung
+    * Trichiasis
+  * *Diagnostik*: Abstrich mit zellulärem Material
+
+#####Paratrachom (Schwimmbadkonjunktivitis)
+  * *Erreger*: Chlamydia trachomatis, Serotypen D-K
+  * *Übertragung*: Okulogenitale Infektion, Schwimmbadinfektion (Ausnahmsweise), direkte Bindehautinokulation
+  * *Symptome*
+    * Akut
+      * Eitrig-schleimiges Sekret
+      * präaurikuläre LK-Schwellung
+      * Follikel am Tarsus
+    * Chronisch:
+      * unspezifisch
+      * trockenes Auge
+
+####Ophtalmia neonatorum
+  * Perinatale Infektion = Neugeborenen Konjunktivitis
+  * *Ätiologie*
+    * Neisseria gonorrhoe
+      * gefährliche Verläuge -> kann intaktes Epithel penetrieren
+      * selten in Industrieländern
+      * Tag 1.-5
+    * Chlamydia trachomatosis
+      * Tag 4-15
+  * *Klinik*
+    * wässriges dann mukopurulentes Sekret
+    * papillärer Konjunktivitis
+    * Massive Infektion
+
+####Virale Konjunktivitis = Keratoconjunctivitis epidemica
+  * *Erreger*: Adenoviren
+    * Cave: Hochinfektiös 14 Tage lang
+    * Schmierinfektion
+  * *Klinik*
+    * Beginn meist einseitig, Befall des 2. Auges nach einigen Tagen möglich
+    * Juckreiz, seröse Sekretion, starke Fremdkörpergefüjö
+    * Massive konjunktivale Hyperämie,isb. am medialen Lidwinkel = *Karunkel*
+    * Präaurikuläre LK-Schwellung
+  * *Prävention*
+    * hygienische Maßnahmen
+    * Namentliche Meldepflicht
+  * *Therapie*: konservativ, selbstlimitierend nach 2 Wochen
+  * *Komplikationen*
+    * Narben der Hornhaut mit Visusminderung
+    * Hornhauttrübung: Nummuli -> Blendung
+
+####Nicht-infektiöse Konjunktividen
+#####Conjunctivits allergica (allergische Konjunktivitis)
+  * *Symptome*: Juckreiz, CHemosis, seröse Sekretion, follikuläre Schwellung, oft saisonal
+  * *Gigantopapilläre Konjunktivitis*: durch chronischen Reiz meist Kontaktlinsen -> Riesenpapillen an der tarsalen Bindehaut des Oberlids
+  * *Therapie*: 
+    * AG-Karrenz
+    * lokale Antiallergika
+  * *DD Autoimmunerkrankung*; Schleimhautpemphigoid, Rosazea, atopisches Ekzem, Steven-Johnson.Syndrom usw.
+
+#####Keratoconjunctivitis sicca
+  * *Definition*: Erkrnakung der Augenoberfläche durch eine Unterproduktion von Tränenflüssigkeit oder eine Veränderung der Zusammensetzung des Tränenfilms. Dadurch Instabilität des Tränenfilms, Benetzungsstörung, EZ-Beteiligung der Obferläche
+  * *Epidemiologie*: 
+    * sehr häufig
+    * zunehmende Prävalenz mit steigendem Alter
+  * *Ätiologie*
+    * Umwelt
+    * Alter
+    * Medikamente z.B. Pille
+    * Alle Oberflächenerkrnakungen
+
+
+
 ##Hornhautchirurgische Verfahren
 
 ###Refraktive Hornhautchirurgie
