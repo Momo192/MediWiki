@@ -79,3 +79,133 @@ Befall mit Läusen und deren Nissen
   * humanspezifischer Pockenvirus, befällt v.a. kleine Kinder, hoch kontagiös
   * Knötchen mit eingesenkter Grube 3-4 mm
   * Folge evtl. follikuläre Konjunktivitis
+
+###Lidtumoren
+####Benigne Lidtumoren
+  * **Xanthelasmen**
+    * gelbe, prominente Ablagerung von Lipiden in der Haut der medialen Oberlider und Unterlider
+    * bei älteren Menschen, bei jüngeren Menschen ggf. Assoziation mit Fettstofwechselstörungen
+  * **Zysten/Knoten**
+    * Chalazion
+    * Epidermoidzysten
+    * Dermoide: Keimzelltumor, Teratom
+  * **Papillome**: häufigster benigner Lidtumor
+  * **aktinische Keratose**
+    * Präkanzerose
+    * Lichtexpositionsabhängig
+  * **Keratokantom**
+  * **Hämangiom**
+    * bei Kindern cave Ambylopie
+    * OP schwierig wegen Blutungen
+  * Nävie
+
+####Maligne Tumoren
+#####Formen
+  * **Basalzellkarzinom** = Basaliom (85-95%)
+    * langsam wachsend, lokal-invasiv, respektiert keine lokalenS trukturen. keine Metastasierung
+    * häufigster maligner Tumor
+  * Plattenepithelkarzinom
+    * Sonnenexposition < 5%
+  * Adenokarzinom <5%
+  * **Talgdrüsenkarzinom**;
+    * Cave: Maskquarade: **Pseudochalazion** -> sieht aus wie Chalazion -> daher immer histologische Beurteilung
+  * Kaposisarkom: 24-35% der AIDS Patienten
+  * Malignes-Melanom
+    * 1% der malignen Lidtumore
+    * Staging - Lebensgefahr
+
+#####Therapie
+  * Zweischrittige Therapie: Rekonstruktion erst, wenn histologisch Ränder des Exsidats tumorzellfrei
+  * Chirurgische Exszision
+    * bexzisionelle Biopsie
+    * inzisionelle Biopsie
+    * kein Wundverschluss
+  * Lidrekonstruktion: 
+    * primäre Adaptation -> genaue Adaptation
+    * Unterlidersatz aus Oberlid = Huges Plastik
+    * Tenzelverschiebung von Lateral
+    * Freie Tarsomarginaltransplantate
+
+
+###Lidfehlstellungen
+####Entropium
+  * *Definition*: Lidkante nach innen gedreht
+  * *Pathophysiologie*
+    * schlaffer degenerierter Tarsus
+    * spastischer M. orbicularis
+    * Überreiten des M. orbicularis (partielle Desinsertion der Fasern, kürzester weg)
+  * *Symptome*: 
+    * Trichiasis mit Fremdkörpergefühl, Rötung und Juckreiz
+    * Erosio vornae
+  * *Therapie*:
+    * Drehung des Lides mit Nahtfixation, 
+    * M. orbicularis Schwächung durch Inzision
+    * Stärkung der Tarsusspanung z.B. durch horizontale Lidverkürzung
+
+####Ektropium
+  * *Definition*: Lidkante nach außen gedreht
+  * *Symptome*: 
+    * **Epiphora**: Tränenträufeln 
+      * hohe Infektionsgefahr
+      * Austrocknen der Oberfläche -> Erosio, Ulcus
+  * *Pathophysiologie*
+    * schlaffer, degnerierter Tarsus
+    * Faszialisparese -> Erschlaffung M. orbicularis
+    * Narbenektropium -> mechanischer Zug
+      * Ätiologie
+        * bei großen Unterlidverletzungen
+        * schlechter Erstversorgung
+  * *Therapie*: Stärkung der Tarsusspannung z.B. durch horizontale Lidverkürzung
+
+####Lagophthalmus (Hasenauge)
+  * *Definition*: unvollständiger Lidschluss bzw. Unfähigkeit das Auge vollständig zu verschließen.
+    * Dysfunktion oder Innervationstörung des M. orbicularis oculi z.B. bei Faszialisparese
+  * *Symptome*: 
+    * Unterliderschlaffung:
+      * Eversio puncti
+      * Tränenträufeln
+    * Oberlid: Retraktion
+    * Austrocknen der Oberfläche
+  * *Therapie bei Faszialisparese*
+    * konservativ: benetzende Tropfen oder salben, Schutzbrillen, Urglasverand
+    * Chirurgisch
+      * Botoxinjektionen
+      * **Blepharorrhaphie**: Zunähen des Auges
+      * Unterlidstraffung mit Suspension am Oberlid
+
+####Trichiasis
+  * *Definition*: Wimpernkratzen
+  * *Ätiologie*:
+    * Entropium
+    * Narben
+    * Kongenital 
+      * z.B. auch durch **Distichiasis** = zweite Wimpernreihe
+  * *Symptome*
+    * lästig, chronisch
+    * Hornhautkomplikationen -> Erosio cornae
+  * *Therapie*
+    * einzelne Wimpern: Elektroepilation, Kryodestruktion
+    * bei Gruppen:
+      * blutige Elektroepilation oder Kryoepilation mit Lidspaltung
+      * bei gleichzeitiger Lidfehlstellung
+        * Tarsusverkürzung
+        * Verschiebeplastiken: Verschiebung der vorderen Lamelle des Lides inkl. Wimbernboden in Bezug auf die Tarsusplatte, weg vom Auge
+        * Tarsusrotation
+
+####Ptosis
+  * *Definition*: Herabhängen des Unterlides
+  * *Formen*
+    * senile Ptosis: Desinsertion der Sehne des M. levator palpebrae vom Tarsus -> OP
+    * kongenitale Ptosis: Durch fehlangelegten oder degenerierten M. levator
+    * neurogene Ptosis: Okulomotoriusperese, Horner-Syndrom, Fehlinnervationssyndromen
+    * andere myogene Ursachen z.B. Myasthenie
+    * mechanische Ptosis durch mechanische Ursachen
+
+####Blepharochalasis
+  * *Definition*: Überschüssige Oberlidhaut
+  * *Folgen*
+    * bei schweren Fällen -> Einschränkung des Gesichtsfeldes
+    * Korrektur meist nur kosmetisch (Schlupflieder)
+  * *Therapie*
+    * bogenförmige Entfernung des Hautüberschusses gelgentlich mit Entfernung des Orbitaprloaps
+    * Vorsichtig: Brauenptosis beachten
