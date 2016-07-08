@@ -185,6 +185,121 @@
   * *Entwicklung*
     * Visus für Einzelpototypen (einzelnd stehende Zeichen) steigt bis zum 8 LJ auf 1,0 
     * Reihenvisus ist erst ab der Pubertät voll entwickelt
+
+#####Organbefund
+  * Trübung der brechenden Medien?
+  * Netzhautveränderungen?
+  * Refraktion? -> Hyperopie
+    * Muss korrigiert werden
+    * Oft größerer Schielwinkel da Akkomodation eine Konvergenzreaktion auslöst -> größerer Nahschielwinkel
+
+#####Prismencovertest
+  * Prismen: lenken den Lichtstrahl in einer definierten Größe zur Basis hin ab -> Neutralisierung des Schielwinkels -> Bestimmung der Größe des Schielwinkels
+  * 1 Prismendiptrie (1pdpt) = Lichtstrahl wird auf 1m Distanz um 1 cm zur Basis hin abgelenkt
+
+#####Stereotests
+  * Prüfung des Simultansehens
+  * *Titmus-Test*: Polarisationsverfahren: 3D Sehen mit 3 D Brille
+  * *Langtest*: Zylinderrasterverfahren 
+    * graues Bild auf dem Gegensätnde hervorspringen
+  * Volle Stereopsis schließt manifestes Schielen aus
+
+###Therapie
+####Okklusion
+  * Stundenweise Abkleben des führenden Auges, damit das nicht führende Auge zum Sehen gezwungen wird -> Ausbildung der neuronalen Verschaltung
+  * Therapiebeginn ab 6. LM
+  * *Erhaltungsokklusion* ggf. bis zur Üubertät
+    * Stundenanzahl richtet sich nach Führungsverhalten, Visus und Alter
+
+####Brille
+  * Hyperopie korrigieren da oft teielakkomodative Esotropie
+
+####Augenmuskeloperation
+  * Anomalie kann nicht wegoperiert werden
+  * Ursächliche Therapie nicht möglich
   
 s
 ##Paretisches Schielen = Strabismus incomintans
+###Äußere Augenmuskeln
+####Wirkung
+  * Rectus externus: Abduktion
+  * Rectus superior: Hebung, Adduktion und Inzyklorotation
+  * Obliquus Inferior: Exzyklorotation, Hebung, Abduktion
+  * Rectus internus: Adduktion
+  * Rectus inferior: Senkung, Adduktion, Exzyklorotation
+  * Obliquus superior: Inzyklorotation, Senkung und ABduktion
+
+Definition
+  * *Inzyklorotation*: die obere Hälfte des Bulbus bewegt sich zur Nase hin
+  * *Exzyklorotation*: die obere Hälfte des Bulbus rotiert nach außen
+
+####Innervation
+  * Innervation
+    * N. trochlearis: M. obliquus superior
+    * N. abducens: M. rectus externus
+    * **N. occulomotorius**: 
+      * Inenrvation:
+        * alle anderen
+        * M. lavator palpebrae
+        * Parasympathische Fasern: M. ciliaris, M. sphincter pupillae
+      * *Okulomotoriuskern*
+        * Lage: paramedian, dorsal im oberen Hirnstamm unterhalb der Vierhügelplatte
+        * Topographie:
+          * Erdinger-Westphal-Kern liegt Kappenartig ob drauf
+          * Bereich zum M. levator palpebrae nicht pparig
+      * *Verlauf*: 
+        * Ipsilateral durch Ncl. ruber -> durch Sinus cavernosus
+          * lediglich die Fasern zum R. superior kreuzen schon im Hirnstamm
+        * durch Fissura orbitalis superior in den Hirnstamm
+  * Augenmuskelparesen
+    * meist Erworben
+    * Wahrnehmung von Doppelbildern, da keine Suppression erlernt wurde
+
+###Okulomotoriusparese - N.III-Parese
+  * *Epidemiologie*: 1/3 aller Augenmuskelbewegungen
+  * *Klinik*
+    * selten komplett
+    * Defizit der Adduktion, Hebung und Senkung
+      * -> Das Auge steht nach außen (M. rectus externus wirkt noch), etwas tiefer und in Inzyklotropie -> M. obliquus superior wirkt noch
+    * Ptosis
+    * **Mydriasis**: erweiterte Pupille,b bei gleichzeitig betroffenen M. parasympathikus
+    * **Akkomodationslähmung**
+    * Durch Komplexe Störung ist keine kompensatorische Kopfzwanghaltung zur Vermeidung von Doppelbildern möglich
+
+
+####Nukläre Occulomotoriusparese:
+  * sehr selten
+  * Zusätzlich zur peripheren Parese
+    * kontralaterale Parese des M. rectus superior
+    * Ptose ist beidseits
+
+###Trochlearisparese - N.IV-Parese
+  * *Epidemiologie*: 1/4 aller Augenmuskelparesen
+  * *Klinik*: 
+    * Defizit der Senkung in Adduktion
+    * Exzyklotropie
+    * Höhenversetzte und verkippte Doppelbilder
+      * Der Doppelbildabstand nimmt mit dem Abblick zu
+    * positiver **Bielschowsky-Kopfneigtest**
+      * *Kopfneigung zur betroffenen Seite*: 
+        * paretisches Auge muss eine Inzyklorotation machen aber M. obliquus superior wirkt nicht mehr
+        * Der M. rectus superior muss als 2. Inzyklorotator vermehrt innerviert werden -> Zeiht das Auge nach oben -> Vertärkte Höhenabweichung
+      * *Kofneigung zur Gegenseite*: betroffenes Auge kann exzyklorotieren, die Höhenabweichung wird weniger#
+      * **kompensatorische Kopfzwanghaltung** um Doppelbilder zu Vermeiden: Neigung zur Gegenseite
+
+####Nukleäre Trochlearisparese
+  * kann nicht von einer peripheren unterschieden werden
+  * Verlässt den Hirnstamm nach dorsal, kreuzt direkt nach Austritt zur Gegenseite -> sehr vulnerabel bei SHT und intrakreaniellen Blutunngen
+  * *Beidseitige periphere Trochlearisparese*
+    * wird oft verkannt: 
+      * kein auffälliges Schielen
+      * aber Exzyklorotation beider Augen addiert sich -> alles wird verkippt gesehen
+    * Cave: durch Vermessung diagnostizierbar. nicht als simulaten abtuen
+
+###Abduzensparese - N. VI-Parese
+  * *Epidemiologie*: 45% aller Augenmuskelparesen
+  * *Symptome*:
+    * Ipsilaterale Abduktion eingeschränkt
+    * Esotropie im Geradeausblick: Homonyme Doppebilder
+    * Kompensatorische Kopfzwanghaltung: Kopfdrehung zur *betroffenen Seite*
+    * Fernwinkel > Nahwinkel -> in der Nähe muss weniger konvergiert werden

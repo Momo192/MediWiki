@@ -140,11 +140,11 @@ Detektion von linearer und radialer Bechleunigung. Dies ermöglicht:
   * Bestandteile
     * **Sacculus**
       * 4,4x2,5 mm
-      * Darin **Macula utriculi** mit Sinnesepithel (15 000 Zellen)
+      * Darin **Macula sacculi** mit Sinnesepithel (15 000 Zellen)
       * *Lage*: Horizontal zur Körperachse
       * *Funktion*: sensoren für lineare, horizontale Beschleunigung
     * **Utriculus**
-      * darin liegt die **Macula sacculi** = Macula statica mit Sinnesepithel (31 000 Zellen)
+      * darin liegt die **Macula utriculi** = Macula statica mit Sinnesepithel (31 000 Zellen)
       * *Lage*: Vertikal zur Körperachse
       * *Funktion*: Sensoren für lineare, vertikale Beschleunigung
     * **Ductus semicirculares**
