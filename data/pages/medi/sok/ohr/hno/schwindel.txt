@@ -118,23 +118,36 @@ HINTS = Schnellscreening Methode um einzuordnen ob die Schindelsymptome zentral 
 l
 ##Vestibularisneuropathie
   * *Definition*: akute einseitiger Ausfall der Labyrinthfunktion ohne begleitende Hörminderung
-  * *Epdiemiologie*: 3,5 / 100 000 EInwohner
+  * *Epdiemiologie*: 3,5 / 100 000 Einwohner
   * *Ätiologie*:
     * unbekannt
     * Virusinfektionen, Borrelien-Infektion
     * Ischämie
     * Auto-AK (Cogan-Syndrom)
   * *Klinik*
-    * akut auftretende Gleichgewichtsstörungen mit horizontalem Spontannystamgus
-    * Fallneigung
+    * akut auftretende Gleichgewichtsstörungen
+    * Spontannystagmus zur Gegenseite
+      * Nystagmus geht zum aktiveren Vestiublarorgan (BPLS -> zur kranken Seite)
+      * das gesunde Vestibularorgan ist im Vergleich zum kranken aktiver
+      * Fallneigung zur Krankenseite
+    * keine kochleären Symptome: keine Hörminderung, kein Tinnitus
     * keine begleitende neurologische Symptomatik oder Kopfschmerzen
+  * * *Diagnostik*:
+    * *Nystagmus* mit Frenzelbrille
+    * **Kalorische Testung**: 
+      * *Durchführung*: äußerer Gehörgang wird in 30° mit etwa 100 mL warmen Wasser und anschließend 100 mL katem Wasser gespült -> Reizung des dem äußeren Gehörgang nahgelegenen lateralen Bogengang
+      * *Interpretation*
+        * Physiologisch: 
+          * Warmwasserspülung -> Nystagmus zum gespülten Ohr
+          * Kaltspülung -> Nystagmus zur Gegenseite
+        * Neuritis vestibularis: Erregung des betroffenen Gleichgewichtsogan und damit der Nystagmus nicht adäquat auslösbar
   * *Therapie*
     * Akut: 
       * Prednisolon
       * Diimenhydrinat
     * Verlauf
       * Spontanverlauf
-      * Rezdivie Selten
+      * Rezidive Selten
 l
 ##Benigner paroxysmaler Lagerungsschwindel (BPLS)
 idiopathisch auftretende Dislokation von otokonien im Bereich von Bogengängen (primäre Form) überweigend einseitig auftretend.
@@ -166,7 +179,7 @@ Otolithen gelangen in die Bogengänge -> danach verschiedene Erklärungsmechanis
   * *Canalolithiasis*
     * Otolithen bewegen sich frei im hinteren Bogengang -> bilden einen Propf
     * kann durch rasche Kopfbewegungen aus dem Bogengang herausbewegt werden -> Symptomatik
-  * *Otholth jam*
+  * *Otholith jam*
     * Nach physiologischer Auslenkung der Cupula bei Lageänderung folgt der unphysiologische Reiz durch ampullofugal nachsackende Canalolithen (Latenz: 5-10 sec)
 
 ###Klinik
@@ -200,30 +213,7 @@ Otolithen gelangen in die Bogengänge -> danach verschiedene Erklärungsmechanis
   * Längeres Liegen auf der Gesunden seite
   * weitere
 
-##Neuropathia vestibularis
-  * *Definition*: einseitiger Ausfall eines Gleichgewichtorgans unbekannter Ursace
-  * *Ätiopathogenese*
-    * unbekannt
-    * Virusinfektion
-    * Mikrovaskularisationsstörungen
-  * *Symptome*
-    * akut, aus völliger Gesundheit und für Tage anhaltend
-      * starker Drehschwindel
-      * Übelkeit und Erbrechen
-      * Spontannystagmus zur Gegenseite
-        * Nystagmus geht zum aktiveren Vestiublarorgan (BPLS -> zur kranken Seite)
-        * das gesunde Vestibularorgan ist im Vergleich zum kranken aktiver
-      * Fallneigung zur Krankenseite
-    * keine kochleären Symptome: keine Hörminderung, kein Tinnitus
-  * *Diagnostik*:
-    * *Nystagmus* mit Frenzelbrille
-    * **Kalorische Testung**: 
-      * *Durchführung*: äußerer Gehörgang wird in 30° mit etwa 100 mL warmen Wasser und anschließend 100 mL katem Wasser gespült -> Reizung des dem äußeren Gehörgang nahgelegenen lateralen Bogengang
-      * *Interpretation*
-        * Physiologisch: 
-          * Warmwasserspülung -> Nystagmus zum gespülten Ohr
-          * Kaltspülung -> Nystagmus zur Gegenseite
-        * Neuritis vestibularis: Erregung des betroffenen Gleichgewichtsogan und damit der Nystagmus nicht adäquat auslösbar
+
 
 ##M. Menière
 ###Definition:
