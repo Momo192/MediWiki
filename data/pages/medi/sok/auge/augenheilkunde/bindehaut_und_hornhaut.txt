@@ -111,11 +111,62 @@
     * Umwelt
     * Alter
     * Medikamente z.B. Pille
-    * Alle Oberflächenerkrnakungen
+    * Alle Oberflächenerkrankungen
+    * Reizung -> vermehrtes Träenlaufen -> Auswaschen des Tränenfilms durch wässrige Sekretion -> mehr Evaporation -> mehr Reizung
+  * *Einteilung*
+    * Sekretionsbedingt: 
+      * Alter
+      * Destruktion der Tränendrüsen (Alter, Sjörgen-Syndrom, Trauma)
+      * Neurogen
+      * Hormonell
+      * Vitamin-A-Mangel
+    * Evapoerativ
+      * Meibom-Drüsen-Störung
+      * Lidfehlstellung
+      * Exophtalmus
+      * Kontaktlinsen
+      * Umweltfaktoren
+  * *Auftreten*: isoliert oder kombiniert
+  * *Symptome*:
+    * Togenheitsgefühl
+    * Brennen
+    * Fremdkröpergefühl
+    * Verschlechterung im Tages-Verlauf
+  * *Diagnostik*
+    * Schirmer-Test pathologisch -> Messung der Menge der Tränensekretion
+    * Verkürzte Tränenfilmaufreisstzeit
+    * Spaltlampenuntersuchung
+      * Konjunktivale Infektion
+      * Punktförmige Epithelläsionen der Haut: Keratitis supericialis punctata
+      * Fadenförmige Epithelläsionen der Haut
 
+###Degeneration der Bindehaut
+####Pinguecula = Lidspaltenfleck
+Harmlose Degeneration der Bindehaut, die sich als leicht erhabener grau-gelblicher Fleck, meist am nasalen Hronhautrand zeigt. 
+####Pterygium
+  * *Definition* = Flügelfell
+    * progrediente Überwucherung der Hornhaut durch die Bindehaut, fast immer von nasal ausgehend. Bei fortschreiten -> VIsusminderung
+  * *Therapie*: 
+    * Augentropfen, UV-Schutz
+    * OP bei signifikantem Ausmaß,
+      * Cave: reizidive
 
+##Hornhaut
+###Substanzdefekte
+####Formen
+  * **Erosio cornea**: Epitheldefekt, keine Narbe
+  * **Ulcus cornea**: Stromaler Substanzdefekt, Narbe
+  * **Descemetozele**: kein Hornhautstroma mehr
+  * **Perforation**: ggf. Iristamponade
+
+****Diagnostik: Seidelphänomen 
+  * *Definition*: Diagnostik zum Nachweis von Perforationen und Leckasen der Hornhaut
+  * *Verfahren*: 
+    * Tränenfilm wird mittels  **Fluorescin** angefärbt
+    * Tritt Kammerwasser an einer undichten Stelle auf die Hornhautoberfläche -> Auswaschung des Farbstoffes
 
 ##Hornhautchirurgische Verfahren
+
 
 ###Refraktive Hornhautchirurgie
 ####Einführung: Refraktionsfehler

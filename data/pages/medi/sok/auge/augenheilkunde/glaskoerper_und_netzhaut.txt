@@ -117,24 +117,26 @@ Siehe [[medi:sok:auge:augenheilkunde:gefaesserkrankungen#retinaler_arterienversc
     * 50% aller erblindeten Diabetiker sterben innerhalb von 5 Jahren nach der Erblindung
     * nur 20% überleben die Erblindung um mehr als 10 Jahre
   * *Inzidenz*
+    * nach 10 Jahren haben 50% eine diabetische Retinopathie
     * nach 20 Jahren haben 95% der Diabetika eine diabetische Retinopathie
     * 50% eine proliferative diabetische Retinopathie
     * 20% eine diabetische Makulopathie
 
-###Ätiologie
-####Risikofaktoren
+####Ätiologie
+#####Risikofaktoren
   * Typ I-Diabetiker -> proliferative DR
   * Typ II-Diabetiker -> diabetische Makulopahie
   * Alter und Dauer des DM
   * SS
   * Diabetische Nephropathie
   * Nikotinabusus
+  * Arterielle Hypertonie und Fettstoffwechselstörunge tragen zur Manifestation bei
 
-####Pathogenese
-  * Hyperglykämie -> Glykosilierung von Kollagen -> Verdickung der Basalmembran -> Perizytenverlust und Endothelschwund -> 
+#####Pathogenese
+  * Hyperglykämie -> Glykosilierung von Kollagen -> Verdickung der Basalmembran -> Perizytenverlust und Endothelschwund -> Alteriotionen des Blutflusses und der Gefäßpermeabilität ->  **Alteration der Blut-Retina-Schranke**
   * Mikroangiopathie der Netzhaut mit
       * Kapillarverschlüssen, Mikroaneurysmen, Ödemen -> Ischämie
-      * Hypoxie -> VEGF-Ausschüttung -> *Retinale Gefäßneubildung* -> Verschlimmerung
+      * Hypoxie -> VEGF-Ausschüttung -> Retinale Gefäßneubildung = **Neoangiongenese** -> Verschlimmerung
         * durch ungerichtetes Wachstum
         * Infiltration der Glaskörperrinde -> Glaskörperblutung
           * Fibrose
@@ -196,14 +198,28 @@ Siehe [[medi:sok:auge:augenheilkunde:gefaesserkrankungen#retinaler_arterienversc
           * Glaukomimplantate
 t
 ###Retinoblastom
+Maligner Tumor retinaler Zellen
 ####Epidemiologie
   * häufigster maligner intraokularer Tumor im Kindesalter
-  * Inzidenz 1: 20 000 Lebendgeburten
+    * *Manifestation*: Säuglings- und Kleinkindalter, nicht selten intrauterin
+  * Inzidenz 1: 15 000 - 20 000 Lebendgeburten
+    * d.h. etwa  9 000 Fälle pro Jahr weltweit
+  * Zu 40% Keimbahnmutation: beidseitig, familiäre Häufung
+  * zu 60% somatische Mutation: Einseitig, sporadische Form
 
 ####Ätiologie
+#####Pathologie
+  * *Ausgangszellen*: wahrscheinlich pluripotente retinale Stammzellen
+  * **Primitive neuroektodermale Tumoren**
+    * dazu zählen auch die Medullo- und Neuroblastome
+
+
+#####Retinoblastom- (Rb)-Gen
   * RB1 Gen auf 13q14 -> Tumorsuppressorgen
-  * Zu 1/3 Keimbahnmutation: beidseitig, familiäre Häufung
-  * zu /3 somatische Mutation -> Einseitig, sporadische Form
+  * Reguliert unter anderem die Zellteilung/DNA-Replikation und die chormosomale Segegation
+  * Rb-Mutation -> *Aneuploidie* -> guartige Retinoblastum-Vorstufen entstehen
+  * Manifestation des progredienten Tumors nach Inaktivierung des 2. Allels
+
 
 ####Klinik
   * weißlicher Tumor der aus der Netzhaut in den Glaskorperraum vorwächst
@@ -217,7 +233,12 @@ t
   * Hohe Metastasierungsgefahr
 
 ####Histologie
-  * Flexner-Wintersteiner Rosetten
+  * Flexner-Wintersteiner Rosetten: rosettenförmige Anordnung von Tumorzellen um ein zentrales Lumen 
+    * Zeichen einer Differenzierung
+    * assoziiert mit besserer Prognose
+  * Prognostisch ungünstige Parameter
+    * Infiltration des Sehnerves
+    * Infiltration von extraokulären Strukturen
 
 ####Therapie
   * Enukleation bei einseitigem Befall
