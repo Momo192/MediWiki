@@ -99,7 +99,7 @@ Plötzlich auftretende EZ des Mittelohres, die sich im Anschluss an einen Infekt
   * Vorgewölbtes, zunehmend gerötetes Trommelfell mit vermerter Gefäßzeichnung (Phase 1)
   * Rötung und Schuppung des Trommefells, Trübung der Oberfläche, Vorwölbung in den äußeren Gehörgang (Phase 2)
   * Perforation -> Eitertropfen sichtbar (Phase 3)
-  * Stimmgabelversuch nach Rinne: ipsilateral negativ, nach kontralateral positiv. Der Stimmgabelversuch nach Rinne ist nach ipsilateral lateralisiert
+  * Stimmgabelversuch nach Rinne: ipsilateral negativ, nach kontralateral positiv. Der Stimmgabelversuch nach Weber ist nach ipsilateral lateralisiert
 
 ####Therapie
   * Bettruhe

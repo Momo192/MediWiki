@@ -1,0 +1,100 @@
+#Untersuchungsmethoden
+##Anamnese
+  * *Aktuell*
+    * Schmerzen
+    * Visusminderung
+    * Doppelbilder
+    * Dauer und Charakter der Beschwerden
+    * Frühere Manifestationen
+    * Vorhandene Vorbehandlung
+  * *Frühere Augenerkrankungen*
+    * OP, Laserbehandlung
+    * Trauma, EZ
+    * Brillenanamnese
+    * Schielanamnese, Amblyopie
+    * Glaukom
+  * Relevante Systemerkrankungen: 
+    * Diabetes HBA1c
+    * Arterielle Hypertonie
+    * Gerinnungsstörung
+    * Atopische Dermatitis
+    * Rheumatische Erkrankungen -> intraokuläre EZ 
+    * Vaskulitiden
+    * Virale und bakterielle Erkrankungen
+
+##Funktionsuntersuchungen
+###Ausmessen der Patienten Brille
+  * *Formen*
+    * Objektive Messung am Autorefraktormeter
+    * Subjektive Ausmessung der sphärischen Rotation am Phoropter
+      * Patient guckt durch und Untersucher schaltet diverse Linsen vor das Auge des Patienten
+      * Prüfung mit Ototypen
+      * Rot-Grün-Test zur Bestimmung des besten sphärischen Glas (chromatische Abberation des Auges) -> wird grün zu viel Gesehen = Minus
+  * *Werte*
+    * **Sphärisch** (D) = Dioptrien
+      * sphärische Fehlsichtigkeit
+      * **Hyperopie**: 
+        * zu kurzer Bulbus -> Brennpunkt hinter der Netzhaut
+        * + Wert
+        * Korrektur mit Sammellinse
+      * **Myopie**
+        * zu langer Bulbus -> Brennpunkt vor der Netzhaut
+        * Minus-Wert
+        * Korrektur mit Streulinse
+    * **Zylindrisch** (D): Korrektur der Hornhautverkrümmung
+    * **Achse** (°)
+      * gehört zum Zylinderwert
+      * Gibt an, bei welcher Grad-Zahl der Zylinder in die Gläser geschliffen werden muss um die Hornhautverkrümmung auszugleichen
+
+###Bestimmung der Sehschärfe
+  * *in der Ferne*: Sehzeichentafeln mit kleiner werdenden Optotypen
+    * z.B. Bustaben Lesen lassen, E-Hacken. Symbole
+    * Ofizielle Methode: ETDRS-Tafel mit Landoldt-Ringen
+      * C-Öffnungen nennen Lassen
+      * Per Definition: Visus 1,0: Patient kann 1 Winkelminute !/60 Grad auflösen (1,5 mm in 5 m Entfernung)
+  * *Nähe*: Akkomodationsdefizit ausgleichen und Lesetafeln
+  * **Amsler-Test**
+    * Sehtest zur Früherkennung von Makulardegeneration
+    * 1 Auge abdrecken, mit dem anderem Betrachtung des Gittermusters. 
+    * Pathologisch: Linien erscheinen krumm, Quadrate sind verbogen, Punkt oder andere Anteile werden nicht gesehen
+  * *Nahpunktbestimmung*
+
+###Gesichtsfeldbestimmung (Perimetrie)
+####Kinetische Perimetrie nach Goldmann
+  * *Indikation*: 
+    * genaue Bestimmung des äußeren Gesichtsfeldes
+    * zentrale Gesichtsfelddefekte werden kaum erkannt
+    * häufig bei neurologischen Patienten (hier auch orientierende Fingerperimetrie)
+  * *Grundprinzip*
+    * Monokulare Testung
+    * Patient schaut gerade aus, fixiert einen Punkt
+    * Setzen von optischen Stimuli -> Drücken sobal der Punkt wahrgenommen wird
+
+####Statische Perimetrie nach Humphrey
+  * *Definition*: an festgelegten Punkt des Gesichtsfeldes wird die Wahnemungsschwelle bestimmt
+  * *Mechanismus*
+    * an fixen Messpunkten wird Licht einer bestimmten Helligkeit angeboten
+    * Nimmt der Patient das Licht war, so wird die Helligkeit mit der Altersnorm verglichen
+    * Je wenige der Patient wahrnimmt, desto dunkler das Quadrat
+    * Ausfall: **Skotom**
+
+###Farbsehen
+  * *Indikation*
+    * Optikopathien
+    * Medikamenten UAW
+    * Eignungsprüfungen
+    * Gutachten
+    * angeborene Farbsehschwächen (häufigste Deueroanomalie = Grünsehschwäche, 5%)
+  * *Methoden*
+    * Farbtafel nach **Ishihara**: 
+      * Sehzeichen bestehen aus Farbpunkten, die den gleichen Helligkeitswert haben wie die Hintergrundsfarbpunkte
+      * Damit werden sie von rot-Grün-Schwachen häufig verwechselt
+    * **Anomaloskop** nach Nagel
+      * Patient muss aus Grün und Rot Gelb anmischen
+      * quantitative Bestimmung des Farbsehens im Rot-Grün-Bereich
+    * **Fansworth D100 Test**
+      * Prinzip des Farbkreises: Farbklötzchen sollen in der Reihenfolge des Farbkreises gelegt werden. 
+      * Pathologische Veränderungen in allen 3 Farbsystemen erkenn bar
+        * *Protan*: Rot
+        * *Deutan*: Grün
+        * *Tritan*: Blau

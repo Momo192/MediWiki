@@ -73,7 +73,7 @@ Stimmgabelprüfungen ermöglichen als orientierende Hörprüfungen die Untersche
       * Bei gestörter Schallleitung findet eine Hochregulation des Innenohres statt -> bei ungestörter Knochenleitung dann empfindlicher oder
       * bei einer gestörten Schallleitung in das Innenohr ist auch die Schallleitung heraus gestört
 
-###Tonschwellenaudiometrie
+####Tonschwellenaudiometrie
   * *Definition*: Subjektiver Test zur Ermittlung der frequenzabhängigen Hörschwelle durch Messung der Luft und Knochenleitung. Hierdurch können Aussagen über das Ausmaß der Hörstörung sowie über die Ursache gemacht werden
   * *Durchführung*: dem Patienten werden über Kopfhörer (Luftleitung) und einem Knochenleitungshörer Töne verschiedener Frequenzen vorgespielt, wobei die Lautstärke für jede einzelne Frequnez in 5 dB Schritten erhöht wird und der Patient ein verabredetes Signal gibt, sobald er den Ton hört. Die Hörschwellen der einzelnen Frequenzen werden auf einem Audriogrammformular markiert
   * *Retinoaudiogramm*
@@ -95,7 +95,7 @@ Stimmgabelprüfungen ermöglichen als orientierende Hörprüfungen die Untersche
     * **Sprachaudiogramm**: eintragen von Kurven für das Zahlverstehen und das Wortverstehen
       * Wörter sind wesentlich schwerer zu verstehen
       * Bei Schallleitungsstörung: bei Verstärkung der Lautstärke erreichen die Patienten irgendwann 100%
-      * Schallempfindungsstörung: trotz maximaler Verstärkung keine 100% Wortverständlichkeit  (*Diskrimantionsverlust*)
+      * Schallempfindungsstörung: trotz maximaler Verstärkung keine 100% Wortverständlichkeit  (*Diskriminationsverlust*)
 
 ####Sprachaudiometrie mit Störgeräuschen (AAST, OLSA)
   * wichtig für das Zusammenspiel beider Ohren -> man muss in der Lage sein wichtige Informatioenen herauszufiltern
@@ -140,10 +140,9 @@ Stimmgabelprüfungen ermöglichen als orientierende Hörprüfungen die Untersche
   * *Durchführung*
     * Luftdichtes abschließen des Gehörganges durch eine Sonde
       * diese kann den Druck im äußeren Gehörgang manipulieren und verschiedene Schallfrequenzen abgeben
-    * Der vom Trommelfel
-    * l reflektierte Schall wird gemessen (in Abhängigkeit vom erzeugten Über- oder Unterdruck)
+    * Der vom Trommelfell reflektierte Schall wird gemessen (in Abhängigkeit vom erzeugten Über- oder Unterdruck)
     * Ergebniss wird in Form eines **Tympanogramms** festgehalten
-  * *Interpretation
+  * *Interpretation*
     * *Unauffällige Mittelohrfunktion*: Maximum der Compliance (Nachgiebigkeit des Trommelfells) liegt bei etwa 0Pa
     * *Tubenfunktionsstörung*: Verschiebung der normalen Compliance in den Unterdruckbereich
       * Trommelfell ist krankheitsbedingt nach innen gezogen -> durch Unterdruck wird es wieder in seine normale Position gebracht -> Erreichung einer normalen Compliance
