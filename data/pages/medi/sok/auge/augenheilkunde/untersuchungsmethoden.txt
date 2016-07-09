@@ -98,3 +98,20 @@
         * *Protan*: Rot
         * *Deutan*: Grün
         * *Tritan*: Blau
+
+##Untersuchung des vorderen Augenabschnitt
+###Trockene Augen
+####Schirmer-Test
+  * *Definition*: Messung der Menge der Tränensekretion (es wird die Menge und nicht die Qualität bestimmt)
+  * *Durchführung*: Bestimmung der ReizäTränensekretion
+    * Teststreifen wird in das Unterlid eingehängt
+    * Tränensekretion befeuchtete das Papier
+    * Messung der Strecke die nach einem bestimmten Zeitraum angefeuchtet ist
+
+####Break-Up-Time (BUT)
+  * *Definition*: Bestimmung der Stabilität des Tränenfilms
+  * *Durchführung*
+    * Fluoreszin Gabe ins Auge -> Verteilung durch Lidschlaf
+    * Arzt ermittelt durch eine SPaltlampe, wie viel Zeit vom letzten Lidschlag bis zum spontanen Aufreißen des gefärbten Tränenfilms vergeht 
+      * normal > 10 Sekunden
+
