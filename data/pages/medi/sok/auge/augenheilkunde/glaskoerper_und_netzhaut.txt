@@ -170,6 +170,13 @@ Siehe [[medi:sok:auge:augenheilkunde:gefaesserkrankungen#retinaler_arterienversc
   * Fundusphotographie
   * Fluoreszenz-Angriographie zur Detektion von Gefäßanomalien
 
+####Komplikationen
+  * Makulaödem
+  * traktive Netzhautablösung
+  * Glaskörperblutung
+  * Katarakt
+  * Glaukom
+
 ####Therapie
   * *Allgemein*
     * Gewichtsreduktion

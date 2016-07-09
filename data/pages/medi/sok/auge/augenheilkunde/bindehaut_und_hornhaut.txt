@@ -202,6 +202,10 @@ Harmlose Degeneration der Bindehaut, die sich als leicht erhabener grau-gelblich
       * Streptokokken, 
       * Moxella, 
       * Pseudomonas
+      * Ausnahmekeime penetrieren intaktes Epithel
+        * Neisseria gonorrhoeae
+        * Neisseria meningitis
+        * Diphterie, Influenza
     * Risikofaktoren
       * **Kontaktlinsen**
       * Trauma, Oberflächenekrkrankungen der Hornhaut
@@ -236,6 +240,23 @@ Harmlose Degeneration der Bindehaut, die sich als leicht erhabener grau-gelblich
     * VZV (Zoster ophtalmicus)
   * *Klinik*
     * Herabgesetzte Hornhautsensibilität
+  * *Einteilung*
+    * Epitheliale Keratitis mit Dendritica-Figur
+    * Stromale Herpeskeratitis: nekrotisierend oder nicht nekrotisierend
+    * Endotheliale Herpeskeratitis: Endothelbeschläge und Hornhautödem
+    * Metaherpische Herpiskeratitis: trophische Keratitis
+
+####Akanthomöbenkeratitis
+  * *Erreger* = Akanthomöben
+    * ubiquitär vorkommende Protozoen
+    * Zysten: hochresistent
+    * Trophozoiten: aggressiv
+  * Schwerste Keratitis bei Kontaktlinsenträfern (weiche Kontaktlinsen)
+  * *Klinik*
+    * nicht eintrige Keratitis
+    * starke Schmerzen
+    * graues Epithel mit perineuralen Trübungen
+    * stromales Ringingiltrat
 
 ##Hornhautchirurgische Verfahren
 
