@@ -303,8 +303,9 @@ Es besteht eine Ähnlichkeit zum *M. paget*: Erkrankung bei der parallel Knochen
 ####Therapie
   * Fortschritt lässt sich durch konservative Therapie nicht beeinflussen
   * *Operation nach She* (historisch)
-    * Vollständige **Stapedektomie**
+    * Vollständige Stapedektomie
     * *Risiken*: Dabei Eröffnung des ovalen Fensters mit 1-2% Ertaubungsrisiko
+  * **Stapedektomie**
     * *Maßnahme*
       * Cave: N. facialis läuft am Fenster entlange
       * Trommelfellaufklappung -> Resektion des Stapes einschließlich der Fußplatte ->
@@ -349,7 +350,7 @@ Trommelfellschnitt und Paukendrainage. Dafür ist eine ausreichende Belüftung d
       * **PORP** = partial ossicular replacement prothesis: Interpositionsprothese bei erhaltener Stapessuprastruktur
       * **TORP** = total ossicular replacement prothesis: Interpositionsprothese bei nicht erhaltener Stapes-Suprastruktur
 
-####Typ IV: Schallschut des Runden-Fenster
+####Typ IV: Schallschutz des Runden-Fenster
   * *Ziel*: vermeiden von Interferenzen des Schalls der gleichzeitig beide Fenster treffen würde
   * *Maßnahme*: Auflegen des Trommelfell auf die Stapesfußplatte und Abdecken des runden Fenster mit Knorpel zur Schallprotektion (selten ausgeführt)
 
