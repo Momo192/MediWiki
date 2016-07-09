@@ -224,6 +224,11 @@ Meist besteht kaum eine Akutsymptomatik, die Erkrankungen brüten u.U. jahrelang
   * *Therapie*
     * Operative lokale Exzision des Cholesteatom
     * Kontroll-OP nach 1/2 Jahr um Rezidiv auszuschließen (treten häufig und schnell auf, bei nicht vollständiger Exzision)
+  * *Komplikationen*
+    * Faszialisparese
+    * otogene Meningitis
+    * otogener Schwindel
+    * Ertaubung
 m
 ##Tumoren
 

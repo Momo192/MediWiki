@@ -6,6 +6,57 @@
   * Tuba auditica (Eustachi Röhre)
 
 ##Os temporale
+###Funktion
+  * Kapsel für das Gehör- und Gleichgewichtsorgan
+  * Gelenkpfanne für den Kiefer
+
+###Entwicklung: 
+aus 3 Anlagen die zu einem Knochen verschmelzen
+  * **Pars squamosa**: trägt die Pfanne des Kiefergelenkes
+  * **Pars tympanica**: bildet den große Teile des äußeren Gehörganges
+  * **Pars petrosa** (Felsenbein): enthält Gehör- und Gleichgewichtsorgane
+
+###Aufbau der Pars petrosa
+####Facies anterior
+  * impressio trigemini
+  * Eminentia arcuata
+  * Tegmen tympani
+  * Sulcus und Hiatus n. petrosi majoris
+  * Sulcus und Hiatus n. petrosi minoris
+
+####Facies posterior
+  * **Porus acusticus internus**
+    * Mündung in Meatus accusticus internus
+    * Enthält
+      * N. vestibulochochlearis
+        * Pars cochlearis
+        * Pars vestibularis
+          * N. saccularis
+          * N. utriculoampullaris
+          * N. ampullaris posterior
+      * N. facialis
+        * gibt N. intermedius ab
+        * getrennt vom N. vestibulocochelaris durch die Christa intermedia
+    * Sulcus sinus sigmoideus
+    * Foramen mastoideum
+    * **Apertura externa canaliculi vvestibuli**
+      * lateral und dorsal vom Porus acusticus internus
+      * Mündung des Ductus lymphaticus zum **Saccus endolymphaticus**
+        * *Lage*: Zwischen den beiden Blättern der harten Hirnahut an der Hinterfläche der Felsenbeinpyramide zum Kleinhirnhin
+        * *Funktion*: Resorption Endolymphe
+    * **Apertura externa canaliculi cochleae**
+      * medial vor der Fossa jugularis
+      * Mündung des **Ductus perilymphaticus**
+        * Verbindung zum Subarachnoidalraum durch *Aqeuductus perilymphaticus*
+
+####Facies inferior
+  * Fossa jugularis mit Canaliculus mastoideus (für R. auricularis n. vagi)
+  * Canalis caroticus
+  * Canalis musculotubarius
+  * Fossula petrosa mit Canaliculus tympanicus
+  * Processus styloideus
+
+####Äußere Fläche: Porus acusticus externus
 
 ##Allgemeine Topographie
 ###Ausdehnung und Verbindung
