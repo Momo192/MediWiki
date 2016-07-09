@@ -63,7 +63,7 @@
   * *Dauerhaftes Knochenverankertes Hörgerät*: 
     * Varianten:
       * Implantation von Schauben in den Knochen -> Hörgerät kann angeschraubt werden -> chronisch offene Wunde
-      * Mit Magnetankopplung: Implantierung eines Magnetes in den Knochen -> keine offene Läsion aber Abdämpfung des Schalls durch den Knochen
+      * Mit Magnetankopplung: Implantierung eines Magnetes in den Knochen -> keine offene Läsion aber Abdämpfung des Schalls durch die Haut
       * Implantierbares knochenverankertes Gerät
         * vollverkapseltes Gerät unter der Haut, 
         * außen ist ein Sprachprozessor von dem der Schall elektrisch übertragen wird
@@ -139,3 +139,44 @@ Akute EZ der perichondralen Schicht (Knorpel) durch Hautverletzung (z.B. Mikrol�
       * Schmeckstörungen bei Beteiligung der Chorda tympani
     * Superinfektion möglich
   * *Komplikation*: Therapieresistente Schmerzen (*Zoster-Neuralgie*) als Spätfolge möglich
+
+##Tumoren des äußeren Ohres
+###Klassifikation
+  * Tumore sind meist Sonneninduziert
+  * *Basalzellkarzinom*: maligner Tumor der Basalzellschicht der Haut ohne Metastasierungspotenz mit lokal destruierendem Wachstum
+  * *Plattenepithelkarzinom* (Spinaliom):
+    * maligner Tumor der Keratinozyten der Haut
+    * meist geht die aktinische Keratose voraus
+    * Metastasierung v.a. in die Hals-LK
+  * *Malignes Melanom*
+    * *Eigenschaften*
+      * extrem maligner Tumor der Melanozyten der Haut
+      * Metastasierung lymphogen und hämatogen
+      * lokal destruierenden Wachstum
+    * *Clark-Level*
+      * **Level I**: Tumorausbreitung intraepidermal
+      * **Level II**: bis Stratum papillare
+      * **Level III**: Stratum papillare infiltriert
+      * **Level IV**: Stratum reticulare erreicht
+      * **Level V**: subkutanes Fettgewebe erreicht
+    * *T-Klassifikation* (a) mit Ulzeration, b) ohne) -> nicht klausurrelevant
+      * T1: < 1mm
+      * T2: 1,01-2,0mm
+      * T3: 2,01-4,00 mm
+      * T4: > 4,0 mm
+
+###Diagnostik
+  * INspektion
+  * Photodokumentation
+  * Exzision mit Ausschluss maligner Tumoren durch die Pathokogie
+  * Echographie der Hals-LK
+
+###Therapie
+  * Exzision im Gesunden
+  * Ablatio der Ohrmuschel
+  * Bei Karzinommestastasen: Neck Dissection
+  * u.U. Chemo- oder Strahlentherpaie
+  * Rekonstruktive Plastik oder epithetische Versorgung
+    * Knochenverankerte Epithese
+    * lokale Lppenplastik
+    * Autogene Transplantation: Expander EInlage -> Rippenknorpel -> Herstellung neues Ohr
