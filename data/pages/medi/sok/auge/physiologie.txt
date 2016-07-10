@@ -178,5 +178,32 @@ Fazit **Zapfensystem**
       * **Skotopisches Sehen**: sehen bei geringer Helligkeit -> Stäbchen
     * Vollkommene Adaptation benötigt 30 Minuten
   * *Nachtblindheit*: Stäbchen fallen aus -> Dunkeladaptationskurve entspricht der der Zapfen
+
 ####Pupillenreflex
-Siehe 
+  * Miosis bei Lichteinfall
+  * Mydriasis bei Dunkelheiot
+  * Folge: bis zu 25 facher Unterschied in der Pupillengröße
+  * Reduktion der Lichtintensität um einen Faktor von 10
+
+####Aufbau der rezeptiven Felder
+
+###Mechanismen der Sinneszellen
+####Ausbleichen des Photopigments
+Folge: weniger Pigment zur Absorption von Photonen steht zur Verfägung
+
+####Spezielle Adaptationsmechanismen von Photorezeptoren
+  * *Grundlage*: 
+    * Photorezeptor vermittelt keine Signale bei maximaler Hyperpolarisation oder Depolarisation
+    * Folge: es sollte immer einige CNG-Kanäle zur Verfügung stehen
+  * **Dunkeladaptation**
+    * Durch geöffnete CNG-Kanäle strömt Na⁺ und Ca²⁺ in die Zelle
+    * Ca²⁺ bindet an Calmodulin ->
+      * Ca-Calmodulin-Komplex verringert die Affinität des CNG-Kanals für cGMP
+      * Ca²⁺ hemmt die Guanilatcyclase, aktiviert die PDE
+      * Hemmt die Rhodopsin-Kinase -> Vermindert Interaktion von Arrestin mit Rhodopsin
+  * **Helladaptation**: 
+    * Verminderte Ca³⁺ Konzentration -> 
+      * Affinität von CNG für cGMP nimmt wieder zu
+      * PDE ist nicht mehr aktiviert
+      * Rhodopsin-Kinase phosphoryliert Rhodopsin -> Bindung an Arrestin
+      * Hemmung der Guanilatcyclase fällt weg
