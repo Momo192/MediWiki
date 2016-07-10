@@ -190,9 +190,9 @@
       * *Striae olfactoriae lateralis* -> *Area prepiriformis*: Verschaltung auf das 3. Neuron
       * -> Hippocampus: Gyrus semilunaris und Gyrus ambiens
     * **Emotionen und Motivation**
-      * Stria olfacatoria lateralis -> 3. Neuron in Gyrus ambiens, yrus semilonaris -> Hypothalamus -> orbitofrontaler Cortex
+      * Stria olfacatoria lateralis -> 3. Neuron in Gyrus ambiens,G yrus semilunaris -> Hypothalamus -> orbitofrontaler Cortex
       * Striae olfactoria medialis -> 
-        * *Area septalis** im limbischen System -> Hinstamm -> Vegetativum
+        * **Area septalis** im limbischen System -> Hinstamm -> Vegetativum
         * Tuberculum olfactorium
 
 ###Kodierung von Duftstoffen
