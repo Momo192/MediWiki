@@ -1,0 +1,92 @@
+#Herzkranzarterien
+##Rechte Herzkranzarterie
+= *Arteria coronaria dextra* = *RCA* = right coronary artery
+
+###Verlauf
+  * Entspringt aus dem Sinus aortae dexter
+  * Zieht zwischen rechtem Herzohr und Truncus pulmonalis in den Sinus coronarius
+  * Im Sinus coronarius (entspricht der Ventilebene) zur Herzbasis zum Sulcus interventricularis posterior
+
+###Äste
+  * **R. atrialis** 
+    * in Vertiefung zwischen rechtem Herzohr und Aorta
+    * Versorgt den Rechten Vorhof
+    * Gibt **R. nodi sinuatriale** ab 
+      * zieht hinter V. cava superior zur
+      * Versorgung des Sinus Knoten
+  * inkosntant: Ramus ventricularis dexter
+  * R. interventriculare zur Septumhinterwand
+  * **Ramus marginalis dexter = Ramus posterolateralis** (RPL)
+    * zieht von der rechten Herzseite zur Herzspitze
+  * Kleiner Ast zum AV-Knoten = Rami nodi atrioventricularis
+  * **R. interventricularis posterior**(RIP)
+    * im entsprechenden Sulcus
+    * versorgt beim Rechtsversorgertyp auch einen Anteil des linken Ventrikels
+    * wenn er nicht so gut ausgebildet ist, ist der entsprechende Ast der Linken Koronararterie gut ausgebikdet
+
+###Versorgung
+  * rechter Vorhof und rechter Ventrikel
+  * Hinteres Drittel des Septums 
+  * je nach Versorgungstyp Anteile des linken Ventrikels
+  * Sinus-Knoten, AV-Knoten und His-Bündel -> bei Durchblutungsstörungen kommt es zu Rhythmusstörungen
+
+##Linke Herzkranzarterie
+###Verlauf
+  * Ursprung: Sinus aortae sinister
+  * Verlauf zwischen linkem Herzohr und Truncus pulmonalis
+  * Dann Sinus coronarius. 
+  * Nach 1 cm Aufteilung in beide Hauptäste
+
+###Ramus interventricularis Anterior (RIVA)
+  * *Synonym*: **LAD** = *Left anterior descending* artery
+  * *Verlauf*: im Sulcus interventricularis anterior zur Herzspitze
+  * *Äste*
+    * **R. diagonales**: Versorgung linke Kammer 
+    * **R. septales**: 
+      * 2/3 der vorderen Septumwand
+      * R. im Moderatorband zum Mm. papilalres anterior des rechten Vorhofes
+
+###Ramus circumflexus (RCX)
+  * *Verlauf*: im Sinus coronarius
+    * Anastomosen mit Ästen der rechten Herzkranzarterie
+    * *Funktionelle Endarterien*
+  * *Äste*: 
+    * *R. atrialis anterior*: Versorgung linkes Herzohr bis Sinusknoten
+    * *R. atrioventricularis*
+    * *R. atrialis intermedius sinister*: Versorgung hinteren linken Vorhof
+    * *R. posterior ventriculi sinister*
+    * R, nodi sinuatrialis (Sinusknoten, als Variante)
+
+###Versorgungsgebiet:
+  * linker Vorhof und linke Kamme
+  * vordere 2/3 der Septumwand
+  * kleinen Anteil der Vorderwand des rechten Ventrikels und des Sinusknotens
+
+##Versorgertypen
+###Rechtstyp
+  * 80%
+  * Ramus interventricularis posterior geht aus der Arteria coronaria dextra hervor
+    * versorgt einen großen Teil der Hinterwand des linken Ventrikels
+    * Der RCX ist schwach ausgeprägt
+
+###Linkstyp
+  * 20%
+  * Ramus interventricularis posterior geht aus einem stark ausgeprägten Ramus circumflexus hervor
+
+##Herzvenen
+  * **V. cardiaca (cordis) magna**: 
+    * Verlauf erst im Sulcus interventricularis anterior und dann mit der RCX im Sulcus coronarius
+    * drainiert Blut aus der Vorderwand
+  * **V. cardiaca media**:
+    * entspringt an der Herzspitze, verläuft im Sulcus interventricularis posterior mit RCA zum Sinus coronarius
+    * drainiert Blut aus der Hinterwand beider Ventrukel und aus dem Septum
+  * **V. cardiaca parva**
+    * inkonstanter Verlauf
+    * entspringt am unteren Abschnitt des Sulcus coronarius zwischen rechtem Vorhof und rechtem Ventrikel, zieht zur Herzbasis, Verlauf mit A. coronaria dextra
+    * Nimmt Blut aus dem rechten Vorhof und rechtem Ventricel
+  * **Ramus ventriculi sinister posterior**
+    * entspringt an der Hinterwand des linken Ventrikels
+    * mündet direkt oder via V. cardiaca magna in den Sinus coronarius
+    * Blut aus Seiten und Hinterwand des linken Ventrikels
+
+Alls münden im **Sinus coronarius** des rechten Vorhofes. **Vv. cardiacae minimae** drainieren v.a. in den rechten Vorhof aber auch in andere Kammern des Herzens
