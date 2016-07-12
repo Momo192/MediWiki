@@ -1,0 +1,110 @@
+#Herzinnenräume
+##Rechter Vorhof
+###Zuflüsse
+  * **Vena cava superior** im *Ostium venae cavae superioris* oben
+  * **Vena cava inferior** im *Ostium venae cavae inferioris* unten
+    * Klappenrelikt = *Valvulae venae cavae inferioris* = **Eustachio Klappe** 
+    * leitet das Blut in der Embryonalzeit zum Foramen ovale, postnatal: Schrumpfung
+  * **Sinus coronarius**: Medial der V. cava inferior
+    * Klappenrelikt: *Valvula sinus coronarii* = **Thebesius Klappe**
+  * Einmündung von Venae cardiacae minimae
+
+Leitet das Blut durch die Trikuspidalklappe in die rechte Herzkammer
+
+###Aufbau
+Entwickelt sich aus 2 Anteilen, welche durch den Crista terminalis getrennt werden. Die Wanddicke beträgt 2-3 mm. 
+  * **Crista terminalis**
+    * Außen = **Sulcus terminalis cordis**. 
+    * Glatter muskulärer Wulst
+      * vom Dach des Vorhofes, V. cava superior
+      * bsis kurz vor die Einmündung der V. cava inferior
+  * **Sinus venarum cavarum** = Hohlvenenbucht
+    * Einmündung der beiden V. cava
+    * glatte Wand
+  * **Auricula dextra**
+    * eigentlicher Vorhof
+    * **Mm. pectinati** bilden Muskelbälkchen an der Wand
+    * Von Außen legt sich die Aorta ascendens an
+  * **Septum interatriale**
+    * trennt die Vorhöfe
+    * unmittelbar vor der Einmündung der V. cava inferior: **Fossa ovalis** mit prominentem Rand: **Limbus fossa ovalis** 
+      * ehemalige Öffnung des Foramen ovale
+      * Verschlossen durch Septum secundum
+      * In 10-20% der Fälle nicht vollständig verschlossen -> verbleiben einer Restöffnung
+        * klinisch unaufällig
+        * da höherer Druck im linken als im rechten Vorhof
+
+
+##Rechte Kammer
+###Aufbau
+  * *Einflussbahn* besteht aus einem Netzwerk unregelmäßiger Muskeln, den **Trabeculae carnae**.
+    * können auch Brücken zur Gegenseite spannen
+    * *Myokarddicke*: 3-4 mm
+  * *Ausflussbahn* = **Conus arteriosus**
+    * zum Truncus pulmonalis
+    * Glatte Wand, kegelförmig
+
+
+###Trikuspidalklappe
+  * *Segelklappe* aus **Cuspus anterior, posterior et septalis**
+  * **Mm. papillares**:
+    * an der Myokardwand befestigt
+    * Inserieren durch **Chorda tendinae** (Sehnenfaden) an den freien Rändern der Segel
+    * **M. papillaris anterior**
+      * Vorderwand des rechten Ventrikel
+      * am größten
+      * **Moderatorband = Trabecula septomargibalis**: Muskeltrabekel welches vom Septum bis zum M. papillaris anterior zieht. Enthält den rechten Schenkel des Reizleitungssystems -> frühere Kontraktion -> Verschluss für die Systole
+    * **M. papillaris posterior**
+      * Hinterwand des rechten Ventrikel
+      * aus 1-3 Teilen, manchmal geht die Chorda tendinae direkt von der Ventrikelwand aus
+    * **M. papillaris septalis**
+      * sehr klein bis fehlend
+      * dann inseriert die Chorda tendinae direkt an der Septumwand
+
+###Pulmonalklappe
+  * *Taschenklappe* mit **Valvulae semilunaris sinistra, dextra, anterior**
+    * 3 halbmondförmige Taschen, ragen mit ihrem freien Rand in den Truncus pulmonalis
+    * Jeder Rand hat einen verdickten Anteil: **Nodulus valvulae semilunares**
+  * *Funktion*: Ende der Systole -> Blutrückfluss -> Füllt die Taschen -> Verschluss der Klappe
+
+##Linker Vorhof
+Entsteht embryologisch aus 2 Anteilen
+  * *Hinterer Anteil*: Einmündung der 
+    * *Pulmonalvenen*: 
+      * meist links und rechts jeweils 2 Abgänge
+      * es sind auch mehrere Ostien möglich
+    * *Venae cardiacae minimae*
+  * *Vorderer Anteil*: **Auricula dextra** = rechtes Herzohr mit Mm. pectinati
+  * *Septum interatriale* mit Foramen ovale welches vom **Septum primum** verschlossen wird.
+    * Oft mit **Valvulae foraminis ovales**: embryonaler Schutz vor Blutrückfluss
+    * manchmal bleibt ein kleiner Spalt erhalten, aber ohne klinische Relevanz
+
+##Linke Kammer
+###Blutverlauf
+  * *Einflussbahn* = *Ostium atrioventrikulare sinsitrum* -> Herzspitze -> 
+    * **Trabeculae carnae**: Muskelrelief, spannt entlang des Ventrikels als Wülste
+    * Ventrikeldicke: 8-15 mm beim Gesunden
+  * *Ausflussbahn* = *Vestibulum aortae* mit glatter Wand, liegt nahe Septum
+
+###Bikuspidalklappe = Mitralklappe
+  * Segelklappe mit *Cuspis anterior und posterior*
+  * **Mm. papillaris** anterior und posterior inserieren an den freien Seiten der Klappen über *Chordae tendinae*
+    * *M. papillaris anterior*: Seitenwand des Ventrikels
+    * *M. papillaris posterior*: Seiten-Hinterwand des Ventrikels
+    * *Falsche Chordae tendinae*: inserieren nicht an den Cuspes der Mitralklappen, enthalten Purkinje-Fasern. 
+
+###Aortenklappe
+  * Taschenklappe
+  * Verschließt die Öffnung vom Linken Ventrikel zur Aorta
+  * Mit *Valvula sinistra, dextra und posterior*
+    * *Lunula*: verdickte freie Enden
+    * *Nodulus*: mittige Spitze
+    * *Sinus*: Vertiefung zwischen Tasche und Wand
+      * Rechte und linke Koronararterie entspringen aus dem Sinus aortae dextrum und sinistrum
+
+##Abhören der Klappen
+Anton pulmonalis trinkt Milch um 22h45
+  * Aortenklappe: 2 ICR rechts parasternal
+  * Pulmonalklappe: 2 ICR links parasternal
+  * Trikuspidalklappe: 4 ICR links parasternal
+  * Mitralklappe: 5 ICR in Medioklavikularlinie
