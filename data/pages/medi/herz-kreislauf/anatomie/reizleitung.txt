@@ -1,0 +1,74 @@
+#Reizleitung und Innervation
+##Reizleitung
+###Sinus Knoten (Keith-Flack-Knoten)
+  * *Lage*: 
+    * oberes Ende der Crista terminalis
+    * Zwischen rechtem Herzohr und Ostium V. cavae superioris
+  * *Versorgung*: A. coronaria dextra
+  * *Funktion*:
+    * **primärer Schrittmacher**: eigenständige Produktion von Erregungssalven mit Eigenfrequenz zwischen 60 und 90 pro Minute
+    * Erregung breitet sich in 0,1 Sekunden über die Vorhöfe aus
+    * *Klinik*: Bradykardie
+
+###AV-Knoten (Ashoff-Tawara)
+  * *Lage*
+    * am Boden des rechten Ventrikels
+    * Medial der Einmündung des Sinus coronaris
+  * *Größe*: 5x1x3 mm
+  * *Versorgung*: A. coronaria dextra
+  * *Funktion*: 
+    * sekundärer Schrittmacher mit Eigenfrequenz zwischen 40-60/min
+    * Verzögerung der Erregungsweiterleitung um 0,1 s -> Kontraktion der Vorhöfe vor Kontraktion der Kammer
+    * Setzt sich im His-Bündel fort
+    * *Klinik*: Bei Ausfall -> Herzryhthmusstörungen
+
+###His-Bündel (AV-Bündel)
+  * *Größe*: 4mm x 20 mm
+  * *Lage*: zieht durch das Herzskelett, im Kammerseptum
+  * *Funktion*: 
+    * Eigenfrequenz von 20-30 / Minute
+    * Leitet Erregung an Kammerschenkel weiter
+
+###Kammerschenkel
+  * meist getrennt in
+  * **Crus dexter**: zieht im Moderatorband (Trabecula septomarginalis) zum M. papillaris anterior, versorgt den restlichen Anteil der rechten Kammer
+  * **Crus sinister**: teilt sich meist in 2 Äste die zum jeweiligen Papillarmuskel ziehen. Zieht zur Spitze der Herzkammer
+
+###Purkinje-Fasern
+  * Endstrecke der Crus dexter und sinister
+  * liegen unterm Endothel, im Myokard eingebettet
+
+##Herzskelett
+  * trennt als Bindegewebsplatte die Vorhöfe von den Kammern
+  * *Funktion*
+    * elektrische Isolation der Vorhöfe von den Kammern -> keine unkontrollierte Erregungsleitung 
+    * Bei Tieren: oft Knochen/Knorpel
+  * Die Herzklappen sind durch 4 Faserringe in das Herzskelett eingelassen: **Anulus fibrosus**.
+  * Zwei Dreiecke bleiben frei
+    * **Trigonum fibrosum dextrum**
+      * zwischen Aorten-, Bikuspidal- und Trikuspidalklappe
+      * Dadurch zieht des **Fasciculus atrioventrikularis** des Reizleitungsystems
+    * **Trigonum fibrosum sinistrum** zwischen Pulmonal-, Aorten- und Trikuspidalklappe
+
+
+##Innervation
+Innervation aus sympathischem Grenzstrang und N. vagus. Bilden aus:
+  * **Plexus carciaci superficialis**: oberhalb und vor dem Aortenbogen
+  * **Plexus cardiaci profundus**: Zwischen Aortenbogen und Trachea sowie Aortenbogen und Truncus pulmonalis
+  * Plexus enthalten auch Schmerzfasern, Chemo- und Pressorezeptoren
+
+**Nn. cardiacii** (Sympathisch, Th1-4) wirken positiv
+  * **chronotrop**: Steigerung der HF
+  * **Inotrop**: Steigerung der Herzkraft
+  * **dromotrop**: Beschleunigung der Erregungsleitung (schnellerer AP-Aufbau)
+  * **bathmotrop**: Erniedrigung der Erregungsschwelle  
+  * Lusitrop: Förderung der Erschlaffungsfähigkeit des Herzens
+
+**Nn. cardiaci** (parasympathisch) wirken
+  * negativ chronotrop
+    * **N. vagus rectus** innerviert überwiegend den Sinnusknoten
+    * **N. vagus sinister** innerviert v.a. AV-Knoten und Erregungsleitung
+    * Funny channels = langsame Na⁺ Kanäle werden teilweise inaktiviert -> Erschwerung der spontanen Depolarisation der Schrittmacherzellen
+  * negativ bathmotrop: 
+    * M2 cholinerge Rezeptoren -> Aktiveren Gi-Protein -> Kalium-Kanäle werden geöffnet -> Hyperpolarisation -> AP erschwert.
+  * Negativ Bathmotrop: verlangsamt die Erregungsausbreitung vom Sinus- zum AV-Knoten und innerhalb des AV-Knotens 
