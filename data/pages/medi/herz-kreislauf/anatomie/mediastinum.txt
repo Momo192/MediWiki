@@ -1,0 +1,171 @@
+#Mediastinum
+##Allgemeines
+###Definition
+Raum zwischen den beiden **Pleurahöhlen**: *Cavitas pleuralis dexter et sinister* bestehend jeweils aus
+  * *Pleura parietale*: kleidet die Brusthöhle aus
+    * liegt der Fascia endothoracica aus
+    * reicht bis zum Zwerchfell
+    * auf beiden Seiten mit dem Pericardium viscerale verwachsen
+  * *Pleura viscerale*: bedeckt die Lungenoberfläche
+  * Ausbildung auf der rechten Seite vom **Recessus costodiaphragmaticus**
+
+###Begrenzungen
+Der Mittelraum ist begrenzt von:
+  * seitlich: Pleura parietale
+  * Vorne: Sternum und Lungenhöhlen
+  * hinten: hintere Brustwand, WS und Lungenhöhlen
+  * unten: Zwerchfell
+  * oben: 
+    * keine klare Grenze
+    * obere Thoraxaparatur
+
+###Strukturen zwischen Pericardium viscerale und Pleura parietale
+####N. phrenicus sinister und dexter
+  * Äste vom *Plexus cervicalis* (C3-C5). Funktion: 
+    * sensible Versorgung von
+      * Perikard
+      * Pleura
+      * Zwerchfell
+      * Teile der Leber
+    * Motorische Versorgung
+      * Zwerchfell
+  * **N. phrenicus dexter**:
+    * entlang der Grenze des rechten Mediastinum zur rechten Lungenhöhle
+    * erreicht Zwerchfell auf Höhe der Öffnung für die V. cava inferior
+  * **N. phrenicus sinister**:
+    * tritt zwischen A. und V. subclavia in den Thorax ein
+    * Kreuzt den Aortenbogen
+    * Läuft vor den linken Lungengefäßen
+    * Verzweigt sich auf Höhe des Zwerchfells
+
+####N. vagus
+  * *Verlauf*:
+    * zunächst parallel zum N. phrenicus (dicker)
+    * bildet Plexus auf Ösophagus
+    * zieht ins Mediastinum posterius
+  * *N. vagus dexter* gibt **N. laryngeus recurrens dexter** ab
+    * früherer Abgang
+    * schlingt sich um A. subclavia
+  * *N. vagus sinister* gibt **N. laryngeus recurrens sinister** ab
+    * schlingt sich um Aortenbogen
+    * Verlauf wieder nach oben
+
+####A. und V. pericardiophrenica dexter et sinister
+  * Äste der *A. thoracica interna*
+  * *Versrogung*:
+    * Perikard
+    * Pleura
+    * Zwerchfell
+  * *Lage*: weiter lateral als Nerven
+
+##Einteilung des Mediastinums
+  * Alle Anteile stehen offen miteinander in Verbindung (Ausbreitungsraum für Tumore und EZ)
+  * Organe: Herz und Thymus
+  * Durchziehende Strukturen: Trachea, Ösophagus, Gefäße, Nerven
+  * Alle Strukturen sind in BW eingebettet und dadurch gegeneinander verschieblich
+
+###Oberes Mediastinum
+  * *Lage*:
+    * Th1: obere Thoraxaparatur
+    * Th4: Aufzweigung der Trachea
+  * *Inhalt*
+    * Organe
+      * Thymus
+        * bis zum 20 LJ, bedeckt die Gefäße
+        * Reste = Fett beim Erwachsenen
+      * Trachea
+      * Ösophagus
+      * Ductus thoracicus mit LK
+    * Arterien
+      * Aortenbogen mit 3 Abgängen
+        * Truncus brachiocephalicus
+        * A. carotis communis sinistra
+        * A. subclavia sinistra
+      * Truncus pulmonalis
+      * A. pericardiophrenica
+    * Venen
+      * V. cava superior
+      * Vv. Brachiocephalica dextra et sinistra
+      * Vv. pericardiophranica
+    * Nerven
+      * N. phrenicus 
+      * N. vagus mit N. laryngeus recurrens
+      * Truncus sympathicus
+        * R. cardiaci
+        * Nn. intercostales
+        * Rr. thoracici
+        * R. bonchialis zum Pl. pulmonalis
+        * R. splanchnicus major et minor
+
+
+###Mediastinum inferior 
+####Vorderes Mediastinum
+  * *Begrenzungen*
+    * Vorne: Sternum
+    * Hinten: Perikard
+    * Oben: offener Übergang ins Mediastinum superius
+    * Unten: Zwerchfell
+  * *Inhalt*
+    * mit Fett und BW- gefüllt
+    * **A. thoracica interna** und V. thoracica interna
+      * Aus *A. subclavia*
+      * *Endäste*:
+        * **A, musculophrenica**
+        * **A, epigastrica superior**
+      * Abgabge A. pericardiophrenica 
+        * Versorgung Herzbeutel
+        * Begleitet N. phrenicus
+    * Nodi lymphoidei parasternales et anterior
+    * **Ligg. sternopericardia**: Fixierung Herzbeutel am Sternum
+
+
+####Mittleres Mediastinum
+  * *Inhalt*:
+    * Herz umgeben von Perikard
+    * Aorta ascendens
+    * A. + V. pericardiophrenica, N. phrenicus
+    * Kleiner Anteil von V. cava superior
+
+####Hinteres Mediastinum
+  * *Begrenzungen*:
+    * Oben: offener Übergang in Mediastinum superius
+    * Unten: Zwerchfell
+    * Vorne: Hinteres Perikard
+    * Hinten: Mittlere und untere Brustwirbel
+  * *Strukturen*:
+    * *Organe*: Ösophagus mit **Trunci N. vagus** durch embryonale Magendrehung:
+      * N. vagus sinister vorne
+      * N. vagus dexter hinten
+    * *Arterien*: Aorta thoracica mit Abgängen
+      * A. intercostales posterior
+      * A. subcostales
+      * A. phrenica superior
+      * R. mediastinales, bronchialis, pericardii, oesophageales
+    * *Nerven*:
+      * Truncus sympathicus mit Ganglien
+      * Sympathische: 
+        * **Nn. splanchnici major** (Th5-9)
+        * **Nn. splanchnici minor** (Th10-11)
+      * N. vagus
+    * *Lymphsystem*: Ductus thoracicus mit LK
+    * *Venen*
+      * **V. azygos**
+        * rechts
+        * aus V. lumbales ascendens
+        * Einmündung von 
+          * Vv. intercostales posteriores
+          * V. ösophageales
+          * Vv. mediastinalis
+          * Vv. pericardii
+          * Vv. bronchialis
+        * Mündet bei Th4 in V. cava superior
+      * **V. hemiazygos** (links)
+        * Aus V. lumbales ascendens sinister
+        * Zuflüsse aus gleichen Gefäßen wie V. azygos
+        * Zwischen *Th 7-9* Abbiegung nach Rechts (unter dem Ductus thoracicus) und Einmündung in V. azygos 
+      * **V. hemiazygos accessoria**
+        * mündet eigenständig oder über V. hemiazygos in die V. azygos
+      * **Kavokavale Anastomose**:
+        * V. lumbales ascendens -> Anschluss an V. cava inferior
+        * V. azygos -> Anschluss an V. cava superior
+
