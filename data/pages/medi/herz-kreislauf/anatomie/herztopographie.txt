@@ -1,0 +1,83 @@
+#Herztopographie
+##Projektionen an die vordere Brustwand
+  * Liegt zu 2/3 links und 1/2 rechts
+  * Ist um 45° um die Längsachse gedreht und gekippt
+    * Rechte Kammer liegt vorne, linke Kammer liegt weiter hinten
+    * Rechte Kammer liegt auf dem Zwerchfell
+  * *Projektionen*
+    * *Rechter Vorhof*
+      * 2-3 cm parasternal
+      * Ansatz 3.-4. Rippe
+    * *Rechte Kammer*
+      * *1-2 cm parasternal*
+      * Ansatz 6. Rippe
+    * *Linker Vorhof*
+      * 2 cm parasternal
+      * Ansatz 3. Rippe
+    * *Linke Kammer*
+      * 2-3 cm medial der **Medioclavicularlinie**
+      * 4.-5 ICR
+
+Das Herz ist am **Centrum tendineum** des Zwerchfells fixiert d.h. es folgt prinzipiell der Einatmung nach unten. Allerdings ist es auch an den Gefäßstielen oben fixiert. Folge 
+  * Herz dreht sich bei der Einatmung und zeigt steiler nach unten
+  * Unterschreitet den Rippenbogen
+  * *epigastrischer Spitzenschlag* bei schlanken Menschen
+
+##Grenzbildende Strukturen im Röntgen und Nachbarstrukturen
+###Röntgen
+  * Linker Herzrand
+    * Arcus Aortae
+    * A. pulmonalis
+    * Herzohr des linken Vorhofes
+    * Linker Ventrikel
+  * Rechter Herzrand
+    * V. cava superior
+    * Rechter Vorhof
+  * der Rechte Ventrikel ist als einzige Struktur nicht Randbildend
+
+###Nachbarschaftsbeziehungen
+  * *Rechter Vorhof*: Mittel- und Oberlappen der rechten Lunge
+  * *Rechter Ventrikel*: Sternum und Zwerchfell, Lungen schieben sich dazwischen
+  * *Linker Vorhof*: Ösophagus und Aorta descendens (liegen dorsal)
+  * *Linker Ventrikel*: Ober- und Unterlappen der linken Lunge in der Incisura cardiaca
+
+##Herzflächen und Sulci
+###Herzflächen
+  * **Herzbasis**: 
+    * viereckig, dem hinteren Mediastinum zugewandt
+    * Linker Vorhof, kleiner Teil rechter Vorhof
+  * **Herzspitze**
+  * **Facies sternocostalis** = Vorderfläche
+    * v.a. rechter Ventrikel mit Anteilen des rechten Vorhofes und linken Vorhofes
+    * Aorta ascendens, V. cava sup., Truncus pulmonalis
+  * **Facies pulmonalis dextra**: 
+    * Rechter Vorhof
+  * **Facies pulmonalis sinistra**
+    * Linker Ventrikel und Anteile des linken Vorhofes
+  * **Facies diaphragmatica**
+    * Linker Ventrikel und geringe Anteile des rechten Ventrikel, getrennt durch Sulcus interventricularis posterior
+    * Getrennt von Herzbasis durch Sinus coronarius
+
+###Sulci cordis
+Äußere Vertiefungen, welche durch die inneren Wände des Herzens verursacht werden
+  * **Sulcus coronarius**
+    * trennt Kammern und Vorhöfe
+    * Darin liegen
+      * A. coronaria dextra, R. circumflexus
+      * Sinus coronarius, V. cardiaca parva
+  * **Sulcus interventricularis** trennt die Herzkammern voneinander
+    * **Sulcus interventricularis anterior**: 
+      * A. inteventricularis anterior
+      * V. cordis anterior
+    * **Sulcus interventricularis posterior**
+      * A. interventricularis posterior
+      * V. cordis media
+
+##Herzdämpfung
+  * **Absolute Dämpfung**: 
+    * Bereich wo das Herz der Thoraxwand anliegt
+    * Starke Dämpfung, dumpfer Klopfschall
+  * **Relative Dämpfung**
+    * Lungengewebe zwischen Thorax und Herz
+    * Geringe Dämpfung, heller Klopfschall
+  * Perkussion -> Rückschluss über die Herzgröße

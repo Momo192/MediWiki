@@ -1,0 +1,56 @@
+#Herzbeutel: Perikard
+##Definition
+  * Geschlossener BW-Sack aus
+    * Inneren zweiblättrigem serösem Blatt (Pars serosa)
+    * Äußerem, derben, fibrösem Blatt (Pars fibrosa)
+
+
+##Aufbau
+###Pars fibrosa
+  * derb
+  * **Lig. sternopericardiacum**: Fixierung am Sternum
+  * **Lig. phrenopericardiacum**: Fixierung am Zwerchfell -> Muss Atembewegungen mitmachen
+  * **Lig. vertebrocardiacum**: Fixierung an C7-Th2
+
+###Pericardium serosum
+####Lamina parietalis
+  * fest mit Pars fibrosa verwachsen
+  * spiegelnde Oberfläche
+
+####Lamina parietalis
+  * Teil des Epikards -> mit Myokard verbunden
+  * *Histologie*: 
+    * einschichtiges Mesothel und elastisches BW
+    * In den Herzsulci (Verlauf der Koronararterien): *Tela subserosa* mit Fettgewebe welches die Gefäße umgibt
+
+####Cavitas pericardiaca
+  * Zwischen Lamina parietalis und visceralis
+  * 10-20 mL mit seröser Flüssigkeit zur Reibungsdämpfung
+
+##Versorgung
+  * *Arteriell*
+    * A. pericardiophrenica aus Vasa thoracica interna
+    * Rr.pericardii aus Aorta
+  * *Venös*:
+    * V. azygos
+    * V. brachiocephalica
+  * *Nerven*: sensibel
+    * Nn. phrenici (Plexus cervicalis)
+    * Teilweise durch Äste des N. vagus und sympathicus
+
+##Sinus pericardii
+  * Pericardium serosum schlägt an den großen Gefäßen um d.h. Lamina parietalis wird zur Lamina visceralis. Pars fibrosa folge dem Verlauf, schlägt aber nicht um sondern befestegt sich direkt an den Gefäßen
+  * Dabei werden Aorta und Truncus pulmonalis gemeinsam umscheidet und Venen (V. cava superior, inferior und Vv. pulmonales) andererseits -> Durch die Trennung von Arterien und Venen entstehen Sinus pericardii
+  * **Sinus transversus pericardii** 
+    * hinter Aorta und Truncus pulmonalis, unten begrenzt von den Umschlagfalten aller Lungenvenen
+  * **Sinus obliquus pericardii**: 
+    * zwischen rechten und linken Lungenvenen
+    * Tiefster Punkt des Herzbeutels im Stehen -> Ansammlung von Ergüssen
+    * T-förmiger Umschlag
+
+Die Gefäße sind teilweise von Perikard umschlossen:
+  * Aorta ascendens: 3-4 cm bis zum Aortenbogen
+  * Truncus pulmonalis: 2-3 cm
+  * V. cava superior: 1-2 cm
+  * V. cava inferior: wenige mm
+  * Vv. pulmonalis: 0 mm

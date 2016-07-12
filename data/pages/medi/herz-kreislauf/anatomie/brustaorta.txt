@@ -1,0 +1,64 @@
+#Brustaorta
+##Aorta ascendens
+  * *Aufbau*: Zwiebelartig zum Bulbus erweitert, darin liegen die 3 Taschen der Aortenklappen (*Sinus aortae*)
+  * *Verlauf*: 3-4 cm, intraperikardial (von Perikard überzogen)
+  * *Abgänge*: Aa. coronaria
+
+##Arcus aortae
+  * *Verlauf*
+    * *Fechterstellung*: vorne rechts nach hinten links
+    * erreicht die Brustwirbel auf Th2
+    * Verläuft dann links neben Brustwirbeln = paravertebral
+    * in Th4 Übergang in Pars descendens
+  * *Grenzen*
+    * *Pars ascendens*: Perikardiale Umschlagfalte -> liegt Extraperikardial
+    * *Pars descendens*: Aortenenge = *Isthmus aortae* 
+      * eigentlich nur vorgeburtlich vorhanden
+      * kurz oberhalb des Lig. arteriosum
+  * *Angrenzende Strukturen*
+    * Trachea (Aufweigung)
+    * Nn. cardiaci (Halssympathikus und N. vagus)
+    * Pressorezeptoren und Glomus caroticus in der Wand
+    * LK
+    * Linker N. vagus: vor der Aorta, N. laryngeus recurrens dexter zieht hinter dem Arcus nach kranial
+
+###Abgänge
+####Regelfall
+  * **Truncus brachiocephalicus**: Verlauf nach dorsal und rechts. On Höhe des Sternoclavikulargelenkes Aufteilung in
+    * **A. subclavia dextra**
+    * **A. carotis communis dextra**
+  * **A. carotis communis sinistra**: zieht links lateral der Trachea durch das obere Mediastinum um Kopf und Hals zu versorgen
+  * **A. subclavia sinistra**: zieht direkt nach links lateral, Versorgung linke obere Extremität
+
+####Varianten
+  * Truncus brachiocephalicus und A. carotis communis sinistra haben einen gemeinsamen Abgang
+  * **4 Abgänge**: 1% der Fälle
+    * Reihenfolge
+      * A. carotis communis sin.
+      * A. carotis communis dext.
+      * A. subclavia dext.
+      * A. subclavia sin. 
+        * zieht hinter der Aorta, zwischen Ösophagus und Trachea hoch -> häufige Schluckbeschwerden
+  * **Fallot-Tetralogie**
+    * offenes Foramen ovale
+    * Pulmonalisstenose
+    * rechtsventrikuläre Hypertrophie
+    * Rechtsläufige Aorta = *Reitende Aorta*: reitet auf der Kammerscheidewand
+      * enthält Mischblut aus beiden Kammern -> chronischer O2 Mangel -> Erhöhte Ery-Produktion -> Veränderungen der Flusseigenschaften des Blutes -> Mikrothromben -> Uhrglasnägel und Trommelschlägerfinger
+
+
+##Aorta descendens
+  * *Verlauf*
+    * Anfangsstück= **Aortenkopf** projeziert auf ICR 1
+    * Im Verlauf Verlagerung nach medial
+    * Bis zum Hiatus diaphragmaticus = Durchgang im Zwerchfell
+    * Lichte Weite
+      * 2 cm bei jungen Menschen 
+      * 3 cm bei alten Menschen
+  * *Abgänge*
+    * **Aa. intercostales posteriores** 3-11
+      * 1 und 2. gehen von A. subclavia ab
+    * **A. subcostalis** entspricht der A. intercostales posterior 12
+    * Rr oesophageales, Rr. pericardii, Rr. bronchialis, Rr. mediastinalis
+    * Aa. phrenica superior dexter et sinister
+
