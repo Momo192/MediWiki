@@ -7,7 +7,7 @@
   * *Versorgung*: A. coronaria dextra
   * *Funktion*:
     * **primärer Schrittmacher**: eigenständige Produktion von Erregungssalven mit Eigenfrequenz zwischen 60 und 90 pro Minute
-    * Erregung breitet sich in 0,1 Sekunden über die Vorhöfe aus
+    * Erregung breitet sich in 0,1 Sekunden über die Vorhöfe aus (Leitungsgeschwindigkeit: 1-2 m/s)
     * *Klinik*: Bradykardie
 
 ###AV-Knoten (Ashoff-Tawara)
@@ -18,7 +18,9 @@
   * *Versorgung*: A. coronaria dextra
   * *Funktion*: 
     * sekundärer Schrittmacher mit Eigenfrequenz zwischen 40-60/min
-    * Verzögerung der Erregungsweiterleitung um 0,1 s -> Kontraktion der Vorhöfe vor Kontraktion der Kammer
+    * Verzögerung der Erregungsweiterleitung um 0,1 s 
+      * Leitungsgeschwindigkeit: 0,02-0,1 m/s
+      * -> Kontraktion der Vorhöfe vor Kontraktion der Kammer
     * Setzt sich im His-Bündel fort
     * *Klinik*: Bei Ausfall -> Herzryhthmusstörungen
 
@@ -28,6 +30,7 @@
   * *Funktion*: 
     * Eigenfrequenz von 20-30 / Minute
     * Leitet Erregung an Kammerschenkel weiter
+      * Leitungsgeschwindigkeit: 1-4 m/s
 
 ###Kammerschenkel
   * meist getrennt in
@@ -37,6 +40,7 @@
 ###Purkinje-Fasern
   * Endstrecke der Crus dexter und sinister
   * liegen unterm Endothel, im Myokard eingebettet
+  * Leitungsgeschwindigkeit im Myokard: 0,5-1 m/s (abhängig von der Dichte der Connexone)
 
 ##Herzskelett
   * trennt als Bindegewebsplatte die Vorhöfe von den Kammern
@@ -57,14 +61,14 @@ Innervation aus sympathischem Grenzstrang und N. vagus. Bilden aus:
   * **Plexus cardiaci profundus**: Zwischen Aortenbogen und Trachea sowie Aortenbogen und Truncus pulmonalis
   * Plexus enthalten auch Schmerzfasern, Chemo- und Pressorezeptoren
 
-**Nn. cardiacii** (Sympathisch, Th1-4) wirken positiv
+**Nn. cardiacii** (Sympathisch, Th1-4, Umschaltung im Ggl. stellatum), verosrgt Ventrikel und Myokard.  Wirken positiv
   * **chronotrop**: Steigerung der HF
   * **Inotrop**: Steigerung der Herzkraft
   * **dromotrop**: Beschleunigung der Erregungsleitung (schnellerer AP-Aufbau)
   * **bathmotrop**: Erniedrigung der Erregungsschwelle  
   * Lusitrop: Förderung der Erschlaffungsfähigkeit des Herzens
 
-**Nn. cardiaci** (parasympathisch) wirken
+**Nn. cardiaci** (parasympathisch) wirken v.a. Vorhöfe, Sinus- und AV-Knoten
   * negativ chronotrop
     * **N. vagus rectus** innerviert überwiegend den Sinnusknoten
     * **N. vagus sinister** innerviert v.a. AV-Knoten und Erregungsleitung
