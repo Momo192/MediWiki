@@ -1,0 +1,121 @@
+#Histologie
+##Kardiomyozyten
+###Eigenschaften der Herzmuskelzellen
+  * *Größe*: 50-100 μm lang, 10-20 μm breit
+  * Quergestreifte Muskulatur
+  * *Glanzstreifen* = **Disci intercalares**
+    * Transversale Abschnitte = **Fascia adhaerentes** -> Maculae adherentes (Desmosomen)
+    * Longitudinale Abschnitte mit **Gap junctions** = Macula communicantes (Nexus)
+      * Herzmuskel bildet ein *funktionelles Synzitium*
+  * Zentral gelegener Zellkern mit **myofilamentenfreier Vorhof**
+  * Spezielle Erregungszellen: Prukinje-Fasern liegen im Myokard
+    * größer
+    * Helles Zytoplasma durch weniger Myofibrillen und erhöhte Glykogeneinlagerung
+  * *Vergleich Fibrblasten*
+    * nur im Längsschnitt zur erkennen
+    * kleinere, länglicher, dunkler Zellkern
+
+###Wandaufbau des Herzens
+  * **Endokard**
+    * Endothel: einzellige, flache Schicht
+    * subendotheliales Gewebe
+  * **Myokard**
+    * Arbeitsmyokard
+    * Erregungsbildung- und Erregungsweiterleitugnssystem
+  * **Epikard**
+    * Mesothel + BW
+    * Bildet *Liquor pericardii* = Flüssigkeit zwischen den beiden Perikardblättern
+
+
+##Blutgefäße
+###Arterien
+####Grundsätzlicher Aufbau
+  * **Intima**: 
+    * **Endothel**: einschichtig, glatt
+    * subendotheliales Gewebe
+      * physiologische Verdickung mit dem Alter
+      * Durch Verletzung -> Einlagerung von Kollagenfasern und Fibroblasten -> Artherosklerose
+  * **Membrana elastica interna**: elastische Fasern
+  * **Media**
+    * Glatte Muskelzellen (zirkulär)
+    * Kollagenfasern und elastische Fasern
+      * werden nicht durch Fibroblasten produziert
+  * **Membrana elastica externa**: wird durch glatte Muskelzellen der Media hergestellt
+  * **Adventitia**
+    * Fibroblasten -> Kollagenfasern und elastische Fasern
+    * **Vasa vasorum**: versorgen die äußeren Schichten der großen Arterien (durch Diffusion nur Versorgung bis innere Media)
+
+####Arterientypen
+  * **Elastischer Typ**
+    * z.B. Aorta, Herznahe Gefäße
+    * In der Media sind viele Elastinlamellen eingelagert, weniger glatte Muskelzellen
+    * die Elastica interna ist schlecht abzugrenzen
+  * **Muskulärer Typ**
+    * z.B. Femoralgefäße
+    * Elastica interna ist gut abgrenzbar, Elastica externa ist mehr oder minder ausgeprägt
+    * viele Muskelzellen
+    * stark ausgeprägte Adeventitia
+
+
+###Venen
+####Grundsätzlicher Aufbau
+  * grundsätzlich identischer Aufbau wie Arterien
+  * Media ist wesentlich geringer ausgeprägt im Vergleich zu gleichkaliebrigen Arterien
+    * Muskelzellen leigen nicht parallel
+    * Viel BW eingelegt
+  * Mittelgroße Venen besitzen Klappen = **Valvula venarum** = Intimaduplikaturen -> Verhindern einen Rückfluss des Blutes
+
+####Besondere Venen
+  * **keine Muskulatur**:
+    * Milztrabekel
+    * Dura mater (Dura bildet direkt Venenwand)
+  * **Viel Muskulatur**
+    * Uterus
+    * V. umbilicalis
+  * **Drosselvenen**: Glatte Muskelzellen in der Intima -> können Blut aufstauen
+    * Nasenschleimhaut, Corpus spongiosum des Penis
+
+###Arteriolen, Venolen, Kapillare
+####Arteriolen
+  * < 100μm Durchmesser
+  * Media: 3-4 Muskelzellschichten, dünne Adventitia
+
+####Venolen
+  * Immer Endothel und Basallamina
+  * **Postkapillare Venolen**
+    * Durchmesser < 30 μm: 
+    * keine Media, Perizyten
+  * **Sammelvenolen**
+    * Durchmesser < 100μm
+    * Media: 1-2 Schichten
+
+####Kapillare
+  * **Wandaufbau**
+    * Durchmesser: 6-12 μm
+    * Intima: oft nur 1 Endothelzelle
+    * Perizyten von außen angelagert -> Kontraktion
+  * *Funktion*: Gas- und Metaboliten Austausch
+  * **Typen**
+    * **Kontinuierlich**: größere Moleküle kommen nicht durch z.B. in Herz, Lunge
+    * **Fenestrierte Kapillare**
+      * Endothelschicht durchbrochen aber mit gitterartigem Diaphragma aus Glykokalix bedeckt
+      * z.B. in Pankreas und Nasenschleimhaut
+    * **Diskontinuierlich**
+      * durchbrochene Endothelschicht ohne Diaphragma
+      * Leber und Niere
+
+###Lymphgefäße
+  * Grundsätzlicher Aufbau wie Venen und Arterien -> können im Vergleich gut unterschieden werden
+  * Aber sehr dünne Media und Adventitia
+  * Große Lymphgefäße besitzen klappen
+
+
+##Das Herz als endokrines Organ
+  * **ANP**
+    * Produktionsort: rechtes Herzohr
+    * Reiz: Dehnung des rechten Vorhofes
+  * **BNP**
+    * Produktion: ganzes Herz
+    * Reiz: Dehnung des linken Vorhofes
+  * Wirkung:
+    * natriuretisch, diuretisch und vasodilatatorisch -> Senkung des Plasmavolumens und Reduktion des Blutdruckes

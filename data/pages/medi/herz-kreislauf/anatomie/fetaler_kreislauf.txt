@@ -1,0 +1,61 @@
+#Fetaler Kreislauf
+##Gasaustausch in der Plazenta
+  * das embryonale Herz beginnt am 21. Tag zu schlagen (erstes morphologisch und funktionell vorhandenes Organ)
+  * Danach Beginn der Lungenentwicklung
+    * bleiben unbelüftet
+    * Lungengefäße sind durch Vasokonstriktion enggestellt
+  * Gasaustausch in der Plazenta
+    * 2 A. umbilicalis aus den Femoralgefäßen bringen das Sauerstaffarme Blut hin
+    * Gasaustausch in Plazentazotten: fetaler und maternaler Anteil
+    * 1 V. umbilicalis transportiert das Sauerstoffreiche Blut wieder ab
+  * drei Wichtige Strukturen der Kreislaufumstellung von pränatal auf postnatal sind
+    * Ductus veonosus arantii (1. Shunt, hepatös)
+    * Foramen ovale (2. Shunt arteriell)
+    * Ductus arteriosus botalli (3. Shunt arteriell)
+
+##Ductus venosus arantii
+  * *Definition*: Kurzschluss zwischen der linken Pfortader und der V. cava inferior
+    * 50% des Blutes wird unter Umgehung der Leber direkt in den rechten Vorhof transportiert 
+    * 50% des Blutes erreicht die Lebersinusoiden
+  * *Weitertransport*: rechter Vorhof -> Foramen ovale -> linker Vorhof. Damit Blut nicht in rechte Kammer geht wird es vorher beschleunigt
+    * *Anatomischer Sphinkter* (umstritten): Verengung des Ductus venosus arantii 
+    * *Physiologischer Sphinkter*: unregelmäßige Kontraktionen des Uterus
+  * *Residuen*
+    * Verschluss kurz vor der Geburt
+      * wenn nicht ZNS Komplikation da durch **portokavalen Shunt** eine geringere Entgiftung des Blutes stattfindet -> ZNS-Komplikationen
+    * Sichtbar als **Lig. venosum**
+      * Lig. falciforme = Bauchfellduplikatur, mechanische Funktion
+      * Lig. teres hepatis = obliterierte Nabelvene
+
+
+##Foramen ovale
+  * *Lage*: in der Fossa ovalis, verbindet die beiden Vorhöfe. Bedeckt von
+    * **Limbus fossa ovalis** im rechten Vorhof
+    * **Valvula foraminis ovalis = Falx septis** im linken Vorhof
+  * *Entwicklung*
+    * 4, Entwicklungswoche: 
+      * **Septum primum** wächst auf das Endokard-Kissen zu -> nach unten Öffnung: **Foramen primum**
+      * Wächst weiter auf Endokardkissen -> Verschluss des Foramen primum. Gleichzeitig entsteht durch apoptotische Prozesse im oberen Bereich das **Foramen secundum** welches bis zur Geburt bestehen bleibt
+    * Ende 5. Entwicklungswoche
+      * Vom Dach des rechten Vorhofes wächst das **Septum secundum** herunter
+      * Geht nicht bis zum Endokardkissen -> Ventilfunktion:
+        * durch höheren Druck im rechten Ventrikel als im linken kann das Blut durch das Foramen ovale aber nicht zurück
+    * Geburt:
+      * Verschluss des Foramen ovale innerhalb des 1, Lebenstag
+        * durch Druckumkehr wird das Septum primum auf das Septum secundum gedrückt -> verwachsen
+      * **persistierendes Foramen ovale**
+        * bei 25% der Bevölkerung nur teilweise oder gar kein Verschluss
+        * meist kaum auffällig
+        * bei Größeren Öffnungen: *Atrium-Septum-Defekt*
+  * *Funktion*:
+    * Leitet Sauerstoffreiches Blut (67%) in den linken Vorhof
+    * Über Pulmonalvenen kommt nur sehr wenig Sauerstoffarmes Blut in den Vorhof
+    * Embryonales Herz enthält immer Mischblut
+  * *Weiterer Blutfluss*
+    * Linker Vorhof -> linker Ventrikel -> Aorta -> Aorta -> Versorgung obere Extremitäten und Kopf -> V. cava superior -> Rechter Vorhof -> rechter Ventrikel -> A. pulmonalis -> Ductus arteriosus
+
+##Ductus arteriosus botalli
+  * Vorgeburtliche Verbindung zwischen Truncus pulmonalis und Aorta descendens
+  * Obliteriert nach der Geburt in den ersten Tagen
+    * v.a. ausgelöst durch erhöhten pO2 -> Intimaproliferation + Kontraktion der Muskularis
+    * Residuen: **Ligamentum arteriosum**
