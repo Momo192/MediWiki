@@ -25,6 +25,7 @@ Entwickelt sich aus 2 Anteilen, welche durch den Crista terminalis getrennt werd
     * eigentlicher Vorhof
     * **Mm. pectinati** bilden Muskelbälkchen an der Wand
     * Von Außen legt sich die Aorta ascendens an
+    * Dicke: 2-3 mm
   * **Septum interatriale**
     * trennt die Vorhöfe
     * unmittelbar vor der Einmündung der V. cava inferior: **Fossa ovalis** mit prominentem Rand: **Limbus fossa ovalis** 

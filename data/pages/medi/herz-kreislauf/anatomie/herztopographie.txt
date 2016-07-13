@@ -68,7 +68,7 @@ Das Herz ist am **Centrum tendineum** des Zwerchfells fixiert d.h. es folgt prin
   * **Sulcus interventricularis** trennt die Herzkammern voneinander
     * **Sulcus interventricularis anterior**: 
       * A. inteventricularis anterior
-      * V. cordis anterior
+      * V. cordis magna
     * **Sulcus interventricularis posterior**
       * A. interventricularis posterior
       * V. cordis media
