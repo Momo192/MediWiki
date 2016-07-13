@@ -1,0 +1,105 @@
+#Aortenklappenstenose
+##Definition
+Einengung der Aortenklappe mit Behinderung der Entleerung des Ventrikels.
+  * **Aortensklerose**: Verringerung der KÖF = Klappenöffnungsfläche ohne Entstehung eines Druckgradienten
+  * **Aortenstenose**: Verringerung der KÖF mit Entstehung eines Druckgradienten. Einteilung
+    * Leicht: KÖF > 1,5 cm², Mittlerer Druckdifferenz (ΔP) < 25 mmHg
+    * Mittel: 1cm < KÖF < 1,5 cm², 25< ΔP < 50
+    * Schwer: KÖF < 1cm, ΔP > 50 mmHg
+
+##Epidemiologie
+  * Aortensklerose: bei 25% der Bevölkerung
+  * Aortenstenose:
+    * häufigstes Klappenvitium
+    * Prävalenz: 2-7 %
+
+##Ätiologie und Pathogenese
+###Ätiologie
+  * Bei > 70 jährigen: degenerativ
+    * Auffällige Assoziation mit Risikofaktoren für Arteriosklerose: hoher RR, hohes LDL, Diabetes, Übergewicht
+  * Bei < 70 Jährigen
+    * **Bikuspide Aortenklappe** -> Prädisposition für degenerative Veränderungen
+    * rheumatisch 
+    * post entzündlich nach Endokarditis
+    * ischämisch
+    * kongenital
+
+###Pathomechanismus
+  * Durch Verkalkung der Aortenklappe 
+    * -> Erhöhter Druck notwendig um die Klappe zu öffnen 
+    * -> Druckbelastung des Ventrikels
+  * **Konzentrische Hypertrophie**
+    * Grenzzonenischämie: die innersten Randzonen des Herzens können nur noch schlecht durchblutet werden
+      * Angina-pectoris Beschwerden
+    * Relative Koronarinsuffizienz: bei Erhöhung des Sauerstoffbedarfes des Herzens kann dieser nicht mehr aufgebracht werden 
+      * es kann zu Synkopen und Schwindel kommen
+    * **Cor bovinum**: Herz wächst bis auf ein Gewicht von 900g
+  * Komplikation: Erschöpfung und Dilatation des Ventrikels mit Rückstau in den Lungenkreislauf
+
+###Histologie
+  * Basisnahe Verkalkungen (erscheinen in der HE-Färbung rot)
+    * sehr lang vorhandene Verkalkungen können verknöchern = *ossäre Metaplasie*
+  * *Elastica-Färbung*: veränderte Anordnung der Kollagenbündel
+  * Kapillare im Klappengewebe sind Hnweis auf einen pathologischen Prozess oder eine abgelaufene Endokarditis
+
+
+###Symptome
+  * Bleibt bis zu einer KÖF < 1cm asymptomatisch, dann rascher Progress der Symptome mit einer starken Einschränkung der Lebensqualität.
+  * Leistungsminderung
+  * Dyspnoe
+  * Angina pectoris beschwerden
+  * Schwindel 
+  * Synkope
+
+
+###Diagnostik
+  * *Palpation*: Herzspitzenstoß hebend und verbreitert
+  * *Auskultation*: **Spindelförmiges rauhes Systolikum** mit Punctum maximum im 2. ICR
+    * Fortleiten in die Karotiden
+    * *Ursache*: Starker Druckaufwand um den Widerstand der Klappe zu überwinden -> Entstehung von Turbulenzen = Herzgeräusche
+  * *EKG*:  Zeichen der Linksherzhypertrophie: 
+    * große QRS-Komplexe
+    * präterminale T-Welle als Zeichen für Myokard-Schädigung
+  * *Röntgen*
+    * kompensierte Aortenstenose: normales Herz
+    * dekompensierte Aortenstenose: dilatiertes Herz
+  * *Doppler-Sonographie*: 
+    * Entdeckung und Quantifizierung der Stenose mittels *Druckgradienten*
+      * Bernoulli-Gleichung: ermöglicht von Flussgeschwindigkeit Rückschluss auf den Druck
+      * Zusätzlich Berechnung der Klappen-Öffnungs-Fläche
+    * Morphologische Beurteilung des Herzens und der Klappe
+      * Verminderte Klappenseparation
+      * Verdickte oder Verkalkte Aortenklappe (Sklerosierung an der Basis)
+      * konzentrische linksventrikuläre Hypertrophie
+      * ev. Dilatation der Aorta ascendens bei bikuspider Klappe
+  * *Herzkatheter*: Ausschluss KHK
+    * *Manometrie*: Messung des systolischen Gradienten über die Klappe 
+      * *Peak-to-Peak-Gradient*: Druckdifferenz zwischen maximalen linksventrikulären Druck und maximalen systolischen Druck
+        * Mittlerer Gradient = Fläche unter der Kurve
+        * Instantener Gradient = momentane Differenz
+
+##Prognose
+  * Patienten mit Aortenklappenstenose können über viele Jahre asymptomatisch sein
+    * oft unbewusste Aktivitätseinschränkung
+    * gute Prognose
+  * Ab Beginn der Symptome -> schlechte Prognose
+    * ab erste AP: 4-5 Jahre mittlere Überlebenszeit
+    * Synkope: 2-3 Jahre
+    * Herzinsuffizienz: 1-2 Jahre
+
+##Therapie: operativ
+  * *Indikation*
+    * symptomatische Patienten
+    * asymptmatische Patienten mit schwerer Aortenstenose oder ersten Pathologien
+  * **Kardiochirrugisch**: offene Operation
+    * *Kunstklappen* = Metallklappen -> Gefahr der Thrombosierung -> lebenslange Marcumarisierung
+    * *Biologische Klappen (Rinderperikard)*
+      * geringere Lebensdauer (10-12 Jahre)
+      * keine Antikoagulation notwendig
+  * **Perkutaner Klappenersatz**
+    * bei Patienten mit hohem OP-Risiko (hohe Komorbiditäten)
+    * Transfemorale Implantation einer Corvalve Klappe
+      * alte Klappe verbleibt
+      * oberer Teil: Verankerung in Aorta
+      * mittlerer Teil: trägt die Klappe, sparrt die Gefäße aus
+      * Unterer Teil: hohe Radialkraft -> drückt die nativen Segel zur Seite

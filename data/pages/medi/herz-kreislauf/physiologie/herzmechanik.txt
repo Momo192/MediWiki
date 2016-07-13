@@ -153,3 +153,42 @@ s
   * **Swan-Ganz-Katheter**
     * Messung LVEDP 
     * Bestimmung des Schlagvolumens mittels Thermodilution: injizieren von Kälte -> Messung des Temperaturprofils (Thermometer am Swan-Gans-Katheter), allerdings kommt es nicht zu einer Verbesserung des Outcomes der Patienten
+
+##Wandspannung
+###La-Place-Gesetz
+  * K = Pr/2m 
+    * wobei K = Kraft je Muskelfaserquerschnitt
+    * P = Druck
+    * r = Radiis der Kugel
+    * M = Wanddicke
+    * Die Wandspannung ist also proportional zum Radius und umgekehrt proportional zur Wanddicke
+  * Einteilung
+    * **absolute Wandspannung**: abhängig von der Wanddicke, wird von der Gesamtheit der Muskeln getragen
+    * **relative pro Faserquerschnitt**: 
+
+###Wandspannung
+  * Entscheidende Größe für den Energieverbrauch d.h. Sauerstoff- und ATP-Verbrauch
+    * Energieverbrauch hat nichts mit der vollbrachten Arbeit zu tun sondern hängt nur von der Wandspannung ab
+    * Bei einer Herzhypertrophie nimmt der Radius des Herzens zu allerdings bleibt die Anzahl der Kapillare konstant -> Abnahme der Kapillardichte und Zunahme des ATP Verbrauches ->  Unterversorgungsgefahr
+      * Ziel der Herzinsuffizienz-Therapie: Volumenabnahme des Herzens
+  * Wandspannung und Kontraktionsarten
+    * isometrische Kontraktion: Zunahme der Wandspannung
+    * isobare Kontraktion: Wandspannung bleibt gleich
+  * Wandspannung/Muskelspannung ist der entscheidende Reiz für Muskelhypertrophie -> max. isometrische Spannung
+
+##Kardiale Erkrankungen
+###Druckbelastung
+  * Auslöser: Stenose und/oder arterielle Hypertonie
+    * Druckbelastung des Ventrikels druch erhöhten Afterload -> konzentrirscher Hypertrophie aber wenig Dilatation
+  * Zunächst Konstanthaltung der Wandspannung je Faserwuerschnitt
+  * Problem: Mikrozirkulationsstörungen
+    * Spätfolge: Erschöpfung mit Dilatation
+
+###Volumenbelastung
+  * Zeitwielige Volumenbelastung: durch Starken Sport -> Erhöhung der physikalischen Arbeit
+  * Dauerhaft: Dilatation -> Zunahme der Wandspannung je Querschnitt
+    * Gefüge-Dilatation = Zerstörung der funktionellen Integrität
+    * Überproportionaler Sauerstoff Verbrauch i.d.R: bei eingeschränkter Blutversorgung
+
+##Myokardialer Stoffwechsel
+  * Das Herz kann nur aerob abreiten mit FS, Milchsäuren, Glucose (insulinabhängig)
