@@ -1,0 +1,155 @@
+#Herzmechanik
+##Mechanischer Herzzyklus
+###Serielle Anordnung des Herzens
+  * **Herzinsuffizienz**: ungenügende Pumpleistung des Herzens. Ein adäquates Volumen kann nur noch unter Aufbietung von Kompensationsmechanismen gefördert werden
+    * in Ruhe ist die geförderte Blutmenge nicht geringer als beim Gesunden
+    * bei Belastung kann unter Umständen die benötigte Menge nicht mehr gefördert werden -> Abbruch der Belastung
+  * Rechts- und Linksherzinsuffizienz bezeichnen nur die anatomische Lokalisation der Störung. 
+
+###Systole und Diastole
+  * **Systole**
+    * **isovolumetrische Kontraktion**
+      * Aufbau von Spannung durch Muskelkontraktion
+      * Aortenklappe geschlossen, es wird kein Volumen bewegt
+    * **Austreibungsphase** = Ejektionsphase = Auswurfphase
+      * Dauer: 0,25 S
+      * Druck im linken Ventrikel ist größer als in der Aorta -> Öffnung der Aortenklappe
+      * Dauer:
+      * *Restvolumen* ungefähr 50mL -> verhindert das aufeinanderschlagen der Kammerwände
+  * **Diastolische**
+    * **Isovolumetrische Relaxation**
+      * Aortenklappe und Mitralklappe sind geschlossen, Entspannung der Hermuskulatur
+    * **Füllungsphase**
+      * **Schnelle Fühllungsphase**
+        * durch **Ventilebenemechanismus**
+          * Perikard hällt die Größe des gesamten Herzens Konstant.
+          * Systole: Kontraktion des Ventrikels -> Ventilebene wird nach unten gezogen
+            * Dehnung der Vena cava und der Pulmonalvenen 
+            * Ansaugung des Blutes in die Vorhöfe
+          * Diastole: durch elastische Rückstellkräfte springt Herz wieder nach oben -> stülpt sich um die Blutsäule in der Ventilebene -> **Druck-Saug-Pumpe**
+        * 2/3 der Füllung
+        * Frequenzunabhängig
+          * de Facto verstärkt bei hoher Belastung
+      * **Langsame Füllungsphase**
+        * passiver Einstrom durch Druckdifferenz zwischen Vv. pulmonales und Linke Kammer
+        * Drastisch vermindert bei hoher HZ -> stark Frequenzabhängig
+      * **Kontraktion der Vorhöfe**
+        * in Ruhe nicht relevant
+        * bei hohen Frequenzen mit verkürzter Diastole wichtig
+
+####Mechanismen des Öffnen und schließen der Klappen
+  * **Aortenklappe** (analog Pulmonalklappe)
+    * Öffnen: Druck im Ventrikel größer als in der Aorta
+    * Schließen: Druck im Ventrikel kleiner als Aorta
+  * **Mitralklappe** (Trikuspidalklappe)
+    * Öffnung und Schluss auch Druckabhängig
+    * wird während der Ejektionsphase durch die Papillarmuskeln geschlossen gehalten, da man sonst ein zurückschlagen der Klappen hätte. Die Papillarmuskeln haben keinen Einfluss auf das Öffnen und Schließen der Klappen
+
+###Kenngrößen
+####Herzzyklus
+  * *Herzzykluslänge*: 60/75 = 800 ms
+  * Diastole/ Systole = 2:1
+    * 1:1 bei Hächstbelastung
+  * **Herz-Minuten-Volumen** = HMV = HR x SV
+    * HR = Herzfrequenz
+    * SV = Schlagvolumen#
+
+####Drücke im Hoch- und Niederdrucksystem während des Herzzyklus
+#####Druckentwicklung im Herzen
+  * **Systolischer Spitzendruck**: 120 mmHg
+    * entsprechend dem arteriellen Spitzendruck 
+  * **Frühdiastolsicher Druck**: 0 mmHg
+  * **LVEDP** = Linksventrikulärer Enddiastolischer Druck = 12 mmHg
+  * *Druckangaben*
+    * Arteriell: 1 mmHg = 1,3 cmH2O = 133 Pa
+    * Venös: 6 cm H2O = 4,5 mmHg = 0,6 Pa
+
+#####Drücke in Herznahen Gefäßen
+  * **diastolischer Blutdruck**: niedrigster pulsatorischer Druckwert am Ende der Diastole
+  * **systolischer Blutdruck**: maximaler Blutdruckwert in der Systole
+  * **Blutdruckamplitude**= Systolischer - diastolischer Blutdruck
+  * **Mittlerer Blutdruck**: Integration der Druckpulse über die Zeit
+  * **diprotische Inzisur**
+    * Ausdruck des Zusammenschlagen der Aortenklappe -> Vergrößerung des Volumens welches dem Blut zur Verfügung steht -> Abfall Blutdruck
+    * Zeichen des Ende der Systole
+
+#####Drücke in Herzfernen Gefäßen
+  * Diprotische Inzisur nicht mehr erkennbar durch Dämpfung der Druckwellen
+  * **Reflektierte Wellen**
+    * durch die Verminderung des Querschnittes in den Arteriolen kommt es zur Reflexion der Wellen
+    * **Dikrotie** = Dopelgipflichkeit: 2, Gipfel durch reflektierte Welle z.B. in A. tibialis anterior
+    * **Anstieg der Amplitude** -> Aufaddieren der Wellen -> Erhöhung des Widerstandes
+
+#####Venenpuls
+doppelt so schnell wie arterieller Puls
+
+##Kontraktion de Herzen
+###Kontraktionsformen des Herzens
+  * **isometrische Kontraktion**:
+    * Entwicklung von Kraft und Druck ohne Änderung des Volumens
+    * *Spannung des Muskel* = Kraft / cm² Muskeldurchschnitt
+  * **Isobare Kontraktion**: 
+    * Veränderung des Volumens aber nicht des Druckes
+    * der Muskel kontrahiert sich mit konstanter Kraft
+  * **Unterstützungskontraktion**
+    * erst isometrische Kontraktion -> Entwicklung der notwendigen Kraft dann isobare Kontraktion
+
+
+###Frank-Starling-Mechanismus
+  * Maximale Kraft die der Herzmuskel entwickeln kann ist abhängig von seiner Vordehnung
+  * Kraft ist proportional zur Auerbrückenanzahl von Aktin und Myosin -> optimale Sarkomerlänge beträgt 2,2 μm
+  * ZUdem ist bei dieser Vordehnung die Calcium-Sensitivität optimal
+  * keine Überdehnung möglich durch spiralförmige Anordnung der Muskelfasern
+
+s
+##Arbeitsdiagramm
+###Allgemeines
+  * **Arbeit = Druck x Fördervolumen**
+    * d.h. mechanische Arbeit des Herzens hängt im wesentlichen vom Druck ab. 
+  * **Ruhedehnungskurve** = Eigenschaft des erschlafften Herzmuskel
+    * Beschrieben durch die **enddiastolische Druck-Volumen-Kurve**
+    * Geringe Steigung dieser Kurve im physiologischen Bereich d.h. geringe Änderungen des Druckes bewirken große Volumenveränderungen
+    * d.h. die Volumendehnbarkeit = *Compliance* ist während der Diastole besonders groß
+    * Bei starker Füllung nimmt die Dehnbarkeit ab -> elastische Eigenschaften der Titin-Filamente
+  * Abbildung: siehe Heft
+    * A-B: isovolumetrische Anspannungsphase
+    * B: Öffnung der Aortenklappe
+    * B-D: Ejektionsphase
+    * D-E: isovolumetrische ENtspannungsphase
+    * E-A: Füllungsphase
+  * Es können bestimmte Größen abgelesen werden:
+    * Systolischer Blutdruck: C
+    * diastolischer Blutdruck: B
+    * Schlagvolumen: x(B) - x(D)
+    * **Ejektionsfraktion** = **Auswurffraktion**: 
+      * % Anteil des Ventrikelvolumens welcher während der Systole ausgeworfen wird
+      * = Schlagvolumen / Enddiastolisches Volumen x 100
+      * In Ruhe: 50-60% (70-120 mL)
+    * **LVEDP** = Linksventrikulärer Enddiastolischer Druck
+      * A= 12 mmHg
+
+###Einflussgrößen
+####Vorlast = preload 
+  * Erhöhung der Vorlast = stärkere Füllung des Ventrikels 
+    * -> Erhöhung des Enddiastolischen Drucks (LVEDP)
+    * Durch Frank-Starlin-Mechanismus -> stärkere Kontraktion des Herzens -> Endsystolisches Volumen und endsystolischer Druck sind identisch zum Ursprung
+  * Fläche unter dem Arbeitsdiagramm nimmt zu -> höhere Arbeit -> Höheres Schlagvolumen (höherer systolischer Druck in der Arota)
+  * *Anpassung des Schlagvolumens* wenn einmal eine Herzhälfte weniger transportiert als die andere -> durch die folgende erhöhte Füllung und stärkere Kontraktion wird das Volumen wieder ausgeglichen
+
+####Afterload = Aortendruck
+  * Erhöhung der Nachlast -> Aortenklappe öffnet sich bei höheren Drücken und schließt sich schon bei höheren Drücken (Punkt D nach rechts verschoben)
+  * Die Fläche unter der Kurve ist identisch d.h. die Arbeit ist identisch
+    * Druckarbeit wird größer um den Druck in der Aorta zu überwinden
+    * Volumenarbeit wird niedriger -> Schlagvolumen nimmt ab
+
+####Kontraktilität
+  * *Definition*: Anstieg der Kontraktionskraft die unabhängig von der Vordehnung ist (Adrenalin, Digitalis)
+  * Verschiebung der Endsystolischen Druck-Volumen-Kurve nach oben d.h. bei gleicher Vordehnung erzeugt das Herz einen höheren Druck -> Fläche unter dem Arbeitsdiagramm nimmt zu -> Auswurffraktion steigt
+    * Sauerstoffverbrauch steigt überproportional
+
+#####Messung der Kontraktilität 
+  * *Problem*: Vordehnung ist nicht konstant
+  * **Pulmonary capillary wedge pressure**: in die A. pulmonalis wird ein Katheter reingelegt welcher verkeilt ist. Dadurch misst man den Druck der vom linken Ventrikel bei offener Mitralklappe durch den linken Vorhof, V. pulmonalis und Kapillare (keine Widerstandsgefäße zwischen geschaltet).
+  * **Swan-Ganz-Katheter**
+    * Messung LVEDP 
+    * Bestimmung des Schlagvolumens mittels Thermodilution: injizieren von Kälte -> Messung des Temperaturprofils (Thermometer am Swan-Gans-Katheter), allerdings kommt es nicht zu einer Verbesserung des Outcomes der Patienten
